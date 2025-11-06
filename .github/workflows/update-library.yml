@@ -13,7 +13,7 @@ on:
       - "MoreBooks/ספרים/אוצריא/**"
       - "wiki_jewish_books/ספרים/אוצריא/**"
       - "Ben-YehudaToOtzaria/ספרים/links/**"
-      - "DictaToOtzaria/ספרים/ערוך/links/**"
+      - "DictaToOtzaria/ספרים/links/**"
       - "OnYourWayToOtzaria/ספרים/links/**"
       - "OraytaToOtzaria/ספרים/links/**"
       - "tashmaToOtzaria/ספרים/links/**"
@@ -100,7 +100,7 @@ jobs:
           # Find all link files from all sources
           find . \( \
             -path "./Ben-YehudaToOtzaria/links/*" -o \
-            -path "./DictaToOtzaria/links/*" -o \
+            -path "./DictaToOtzaria/ספרים/links/*" -o \
             -path "./OnYourWayToOtzaria/links/*" -o \
             -path "./OraytaToOtzaria/links/*" -o \
             -path "./tashmaToOtzaria/links/*" -o \
@@ -148,7 +148,7 @@ jobs:
           echo "Merging link files into links directory..."
           # Copy all link files from source directories to merged links
           [ -d "Ben-YehudaToOtzaria/links" ] && cp -r "Ben-YehudaToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "DictaToOtzaria/links" ] && cp -r "DictaToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
+          [ -d "DictaToOtzaria/ספרים/links" ] && cp -r "DictaToOtzaria/ספרים/links/." temp_zip/links/ 2>/dev/null || true
           [ -d "OnYourWayToOtzaria/links" ] && cp -r "OnYourWayToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
           [ -d "OraytaToOtzaria/links" ] && cp -r "OraytaToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
           [ -d "tashmaToOtzaria/links" ] && cp -r "tashmaToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
