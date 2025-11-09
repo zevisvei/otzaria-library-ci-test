@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>תרומות - אוצריא</title>
+    <link rel="icon" type="image/svg+xml" href="images/logo.svg">
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container">
+        <a href="index.html" class="logo-section">
+          <img src="images/logo.svg" alt="לוגו אוצריא" class="logo" />
+          <h1 class="site-title">אוצריא</h1>
+        </a>
+        <nav class="nav">
+          <a href="index.html" class="nav-link">בית</a>
+          <a href="index.html#download" class="nav-link">הורדה</a>
+          <a href="docs.html" class="nav-link">מדריכים</a>
+          <a href="faq.html" class="nav-link">שאלות נפוצות</a>
+          <a href="donate.html" class="nav-link active">תרומות</a>
+          <a href="about.html" class="nav-link">אודות</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="donate-page">
+      <div class="container">
+        <div class="donate-hero">
+          <span class="material-symbols-outlined donate-hero-icon"
+            >volunteer_activism</span
+          >
+          <h1 class="donate-hero-title">תרמו לפרויקט אוצריא</h1>
+          <p class="donate-hero-subtitle">
+            תרומתכם תעזור לנו להמשיך לפתח ולשפר את אוצריא עבור כלל הציבור
+          </p>
+        </div>
+
+        <div class="donate-content">
+          <!-- אפשרויות תרומה מהירות -->
+          <div class="donate-quick-options">
+            <h2 class="section-heading">תרומה מהירה</h2>
+            <div class="quick-donate-buttons">
+              <a
+                href="https://nedar.im/ejco"
+                target="_blank"
+                class="quick-donate-btn nedarim"
+              >
+                <img 
+                  src="https://www.matara.pro/nedarimplus/online/nedarim.png" 
+                  alt="נדרים פלוס" 
+                  class="nedarim-logo"
+                />
+                <div class="quick-donate-text">
+                  <div class="quick-donate-title">נדרים פלוס</div>
+                  <div class="quick-donate-desc">תרומה מהירה ובטוחה</div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <!-- טופס תרומה מותאם אישית -->
+          <div class="donate-form-section">
+            <h2 class="section-heading">תרומה מותאמת אישית</h2>
+            <p class="donate-form-intro">
+              מלאו את הפרטים ונחזור אליכם בהקדם עם אפשרויות תרומה נוספות
+            </p>
+
+            <form
+              class="donate-form"
+              id="donateForm"
+              action="https://formspree.io/f/xdkprzrr"
+              method="POST"
+            >
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="name" class="form-label"
+                    >שם מלא <span class="required">*</span></label
+                  >
+                  <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    class="form-input"
+                    placeholder="הכנס שם מלא"
+                    required
+                  />
+                </div>
+
+                <div class="form-group">
+                  <label for="email" class="form-label"
+                    >כתובת מייל <span class="required">*</span></label
+                  >
+                  <input
+                    type="email"
+                    id="email"
+                    name="email"
+                    class="form-input"
+                    placeholder="example@email.com"
+                    required
+                  />
+                </div>
+              </div>
+
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="phone" class="form-label"
+                    >מספר טלפון</label
+                  >
+                  <input
+                    type="tel"
+                    id="phone"
+                    name="phone"
+                    class="form-input"
+                    placeholder="050-1234567"
+                  />
+                </div>
+
+                <div class="form-group">
+                  <label for="amount" class="form-label">סכום מוצע</label>
+                  <select id="amount" name="amount" class="form-input">
+                    <option value="">בחר סכום</option>
+                    <option value="100">100 ₪</option>
+                    <option value="250">250 ₪</option>
+                    <option value="500">500 ₪</option>
+                    <option value="1000">1,000 ₪</option>
+                    <option value="2500">2,500 ₪</option>
+                    <option value="5000">5,000 ₪</option>
+                    <option value="other">סכום אחר</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="message" class="form-label">הודעה נוספת</label>
+                <textarea
+                  id="message"
+                  name="message"
+                  class="form-textarea"
+                  rows="4"
+                  placeholder="ספר לנו עוד על הרצון שלך לתרום..."
+                ></textarea>
+              </div>
+
+              <div class="form-group">
+                <label class="checkbox-label">
+                  <input
+                    type="checkbox"
+                    id="memorial"
+                    name="memorial"
+                    value="כן"
+                    class="form-checkbox"
+                  />
+                  <span
+                    >אני מעוניין/ת להנציח את התרומה לעילוי נשמת יקירי</span
+                  >
+                </label>
+              </div>
+
+              <button type="submit" class="form-submit-btn">
+                <span class="material-symbols-outlined">send</span>
+                שלח פרטים
+              </button>
+
+              <div id="success-message" class="success-message" style="display: none;">
+                <span class="material-symbols-outlined">check_circle</span>
+                <p>תודה רבה! פרטיך נקלטו בהצלחה ונחזור אליך בהקדם.</p>
+              </div>
+            </form>
+
+          </div>
+
+          <!-- למה לתרום -->
+          <div class="why-donate-section">
+            <h2 class="section-heading">למה לתרום לאוצריא?</h2>
+            <div class="why-donate-grid">
+              <div class="why-donate-card">
+                <span class="material-symbols-outlined why-donate-icon"
+                  >code</span
+                >
+                <h3 class="why-donate-title">פיתוח מתמשך</h3>
+                <p class="why-donate-text">
+                  תרומתך מאפשרת לנו להמשיך לפתח תכונות חדשות ולשפר את התוכנה
+                </p>
+              </div>
+
+              <div class="why-donate-card">
+                <span class="material-symbols-outlined why-donate-icon"
+                  >library_books</span
+                >
+                <h3 class="why-donate-title">הרחבת המאגר</h3>
+                <p class="why-donate-text">
+                  נוכל להוסיף עוד ספרים ולשפר את איכות הטקסטים הקיימים
+                </p>
+              </div>
+
+              <div class="why-donate-card">
+                <span class="material-symbols-outlined why-donate-icon"
+                  >cloud</span
+                >
+                <h3 class="why-donate-title">פרסום ותמיכה</h3>
+                <p class="why-donate-text">
+                  עזרו לנו לפרסם את התוכנה לקהלים נוספים ולתחזק קהלת תמיכה יעילה
+                </p>
+              </div>
+
+              <div class="why-donate-card">
+                <span class="material-symbols-outlined why-donate-icon"
+                  >volunteer_activism</span
+                >
+                <h3 class="why-donate-title">חינם לגמרי</h3>
+                <p class="why-donate-text">
+                  התוכנה תישאר חינמית לחלוטין ונגישה לכל אחד ואחת
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>תוכנה זו נוצרה והוקדשה על ידי המפתחים והתורמים של פרויקט אוצריא</p>
+        <p>
+          קוד פתוח תחת רישיון Unlicense |
+          <a href="https://github.com/sivan22/otzaria">GitHub</a>
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      // בדיקת חיבור לאינטרנט
+      function checkInternetConnection() {
+        return navigator.onLine;
+      }
+
+      // הצגת הודעת שגיאה מעוצבת
+      function showErrorMessage(message, icon = 'error') {
+        // יצירת אלמנט הודעה אם לא קיים
+        let errorDiv = document.getElementById('error-message');
+        if (!errorDiv) {
+          errorDiv = document.createElement('div');
+          errorDiv.id = 'error-message';
+          errorDiv.className = 'error-message';
+          errorDiv.style.cssText = `
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 1.25rem;
+            background-color: #fee;
+            border: 2px solid #f44336;
+            border-radius: 12px;
+            margin-top: 1.5rem;
+            color: #c62828;
+            font-weight: 500;
+          `;
+          document.getElementById('donateForm').appendChild(errorDiv);
+        }
+        
+        errorDiv.innerHTML = `
+          <span class="material-symbols-outlined" style="font-size: 1.75rem; color: #f44336;">${icon}</span>
+          <p style="margin: 0; flex: 1;">${message}</p>
+        `;
+        errorDiv.style.display = 'flex';
+        
+        // הסתרה אוטומטית אחרי 8 שניות
+        setTimeout(() => {
+          errorDiv.style.display = 'none';
+        }, 8000);
+      }
+
+      document.getElementById('donateForm').addEventListener('submit', async function(e) {
+        e.preventDefault();
+        
+        // בדיקת חיבור לאינטרנט לפני שליחה
+        if (!checkInternetConnection()) {
+          showErrorMessage(
+            'אין חיבור לאינטרנט! אנא בדוק את החיבור שלך ונסה שוב.',
+            'wifi_off'
+          );
+          return;
+        }
+        
+        const form = e.target;
+        const submitBtn = form.querySelector('.form-submit-btn');
+        const successMessage = document.getElementById('success-message');
+        const errorMessage = document.getElementById('error-message');
+        
+        // הסתרת הודעות קודמות
+        if (errorMessage) {
+          errorMessage.style.display = 'none';
+        }
+        
+        // השבת את כפתור השליחה
+        submitBtn.disabled = true;
+        submitBtn.innerHTML = '<span class="material-symbols-outlined">hourglass_empty</span> שולח...';
+        
+        const data = new FormData(form);
+        const action = form.action;
+        
+        try {
+          const response = await fetch(action, {
+            method: 'POST',
+            body: data,
+            headers: {
+              'Accept': 'application/json'
+            }
+          });
+          
+          if (response.ok) {
+            successMessage.style.display = 'flex';
+            form.style.display = 'none';
+          } else {
+            throw new Error('שגיאה בשליחת הטופס');
+          }
+        } catch (error) {
+          console.error('שגיאה בשליחת הטופס:', error);
+          
+          // בדיקה אם השגיאה היא בגלל חיבור לאינטרנט
+          if (!navigator.onLine) {
+            showErrorMessage(
+              'החיבור לאינטרנט אבד במהלך השליחה! אנא בדוק את החיבור ונסה שוב.',
+              'wifi_off'
+            );
+          } else {
+            showErrorMessage(
+              'אירעה שגיאה בשליחת הטופס. אנא נסה שוב מאוחר יותר או צור קשר ישירות דרך נדרים פלוס.',
+              'error'
+            );
+          }
+          
+          submitBtn.disabled = false;
+          submitBtn.innerHTML = '<span class="material-symbols-outlined">send</span> שלח פרטים';
+        }
+      });
+
+      // מעקב אחר שינויים בחיבור לאינטרנט
+      window.addEventListener('online', function() {
+        const errorMessage = document.getElementById('error-message');
+        if (errorMessage && errorMessage.style.display !== 'none') {
+          errorMessage.style.display = 'none';
+        }
+      });
+
+      window.addEventListener('offline', function() {
+        showErrorMessage(
+          'החיבור לאינטרנט אבד! לא ניתן לשלוח את הטופס ללא חיבור לאינטרנט.',
+          'wifi_off'
+        );
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מדריך פיתוח - עריכת תוכנת אוצריא</title>
+    <link rel="icon" type="image/svg+xml" href="images/logo.svg">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <a href="index.html" class="logo-section">
+                <img src="images/logo.svg" alt="לוגו אוצריא" class="logo">
+                <h1 class="site-title">אוצריא</h1>
+            </a>
+            <nav class="nav">
+                <a href="index.html" class="nav-link">בית</a>
+                <a href="index.html#download" class="nav-link">הורדה</a>
+                <a href="docs.html" class="nav-link">מדריכים</a>
+                <a href="faq.html" class="nav-link">שאלות נפוצות</a>
+                <a href="donate.html" class="nav-link">תרומות</a>
+                <a href="about.html" class="nav-link">אודות</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="tutorial-page">
+        <div class="container">
+            <!-- Breadcrumb -->
+            <div class="breadcrumb">
+                <a href="index.html">בית</a>
+                <span class="breadcrumb-separator">›</span>
+                <a href="docs.html">מדריכים</a>
+                <span class="breadcrumb-separator">›</span>
+                <span>מדריך פיתוח</span>
+            </div>
+
+            <div class="tutorial-hero">
+                <span class="tutorial-hero-icon material-symbols-outlined">code</span>
+                <h1 class="tutorial-hero-title">רוצה לערוך את תוכנת אוצריא?</h1>
+                <p class="tutorial-hero-subtitle">עכשיו זה אפשרי! גם ללא ידע מעמיק בתכנות</p>
+            </div>
+
+            <div class="tutorial-wrapper">
+                <aside class="tutorial-toc">
+                    <h3 class="toc-title">תוכן עניינים</h3>
+                    <nav class="toc-list">
+                        <a href="#intro" class="toc-link">הקדמה</a>
+                        <a href="#requirements" class="toc-link">דרישות מערכת</a>
+                        <a href="#installations" class="toc-link">התקנות וכלים</a>
+                        <a href="#git-install" class="toc-link">התקנת Git</a>
+                        <a href="#flutter-install" class="toc-link">התקנת Flutter</a>
+                        <a href="#editor-install" class="toc-link">התקנת עורך קוד</a>
+                        <a href="#project-start" class="toc-link">תחילת עבודה</a>
+                        <a href="#fork" class="toc-link">יצירת Fork</a>
+                        <a href="#clone" class="toc-link">הורדת המאגר</a>
+                        <a href="#editing" class="toc-link">עריכת הקוד</a>
+                        <a href="#testing" class="toc-link">בדיקה ובנייה</a>
+                    </nav>
+                </aside>
+
+                <article class="tutorial-content">
+                    <section id="intro" class="tutorial-section">
+                        <h2 class="section-heading">
+                            <span class="material-symbols-outlined">rocket_launch</span>
+                            הקדמה
+                        </h2>
+                        <div class="content-box">
+                            <p><strong>גם אתה רוצה להוסיף שיפורים לאוצריא?</strong> אבל אין לך כח לחכות עד שזה יתווסף, אם בכלל...</p>
+                            <p><strong>אז תקשיב למשפט הבא:</strong> אתה בעצמך תעשה את זה, בצורה שתרצה ובאופן שהכי מוצא חן בעיניך!!</p>
+                            <p>נשמע לך לא אפשרי? אתה טועה! תיכף תראה כמה זה אפשרי!</p>
+                            <p>תוכל לעשות הכל באמצעות בקשה פשוטה בשפה שלך לסוכן AI שיעשה כל מה שרק תבקש ממנו!!</p>
+                        </div>
+
+                        <div class="tip-box">
+                            <span class="material-symbols-outlined">tips_and_updates</span>
+                            <div>
+                                <p><strong>טיפ חשוב:</strong> תתחילו מדברים קטנים ממש ממש, לאט לאט מתקדמים בחיים, לא קופצים מידי גבוה על ההתחלה.</p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="requirements" class="tutorial-section">
+                        <h2 class="section-heading">
+                            <span class="material-symbols-outlined">checklist</span>
+                            דרישות מערכת
+                        </h2>
+                        <div class="content-box">
+                            <p>לפני שמתחילים, וודאו שיש לכם:</p>
+                            <ul>
+                                <li><strong>פרופיל בגיטהאב</strong> - אם אין לכם, צרו אחד ב-<a href="https://github.com" target="_blank">GitHub.com</a></li>
+                                <li><strong>Windows 10 או 11</strong> של 64 סיביות</li>
+                                <li><strong>לפחות 8 ג'יגה RAM</strong> (עדיף 16)</li>
+                                <li><strong>בין 15 ל-20 ג"ב פנויים</strong> במחשב</li>
+                                <li><strong>רשת יציבה</strong> - בדר"כ גלישה באמצעות סטיק לא תספיק</li>
+                            </ul>
+                        </div>
+
+                        <div class="info-box">
+                            <span class="material-symbols-outlined">info</span>
+                            <div>
+                                <p>ההדרכה מתאימה למי שעובד דרך Windows.</p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="installations" class="tutorial-section">
+                        <h2 class="section-heading">
+                            <span class="material-symbols-outlined">download</span>
+                            שלב א': התקנות וכלים
+                        </h2>
+                    </section>
+
+                    <section id="git-install" class="tutorial-section">
+                        <h3>התקנת Git</h3>
+                        <div class="content-box">
+                            <p>תחילה, יש להתקין Git, מערכת בקרת הגרסאות שתאפשר לנו לנהל את קוד הפרויקט.</p>
+                            
+                            <div class="steps-list">
+                                <div class="step-item">
+                                    <div class="step-number">1</div>
+                                    <div class="step-content">
+                                        <h4>הורדה והתקנה</h4>
+                                        <p>למשתמשי Windows, התקינו את <a href="https://git-scm.com/download/win" target="_blank">Git for Windows</a></p>
+                                    </div>
+                                </div>
+
+                                <div class="step-item">
+                                    <div class="step-number">2</div>
+                                    <div class="step-content">
+                                        <h4>בדיקת ההתקנה</h4>
+                                        <p>פתחו את ה-CMD והריצו את הפקודה:</p>
+                                        <pre style="background-color: #2d3748; color: #e2e8f0; padding: 1rem; border-radius: var(--radius-sm); overflow-x: auto; margin: 1rem 0; direction: ltr; text-align: left;"><code>git --version</code></pre>
+                                        <p>אם לא מופיע מספר גירסה, זה אומר שצריך להכניס את נתיב ההתקנה למשתני הסביבה של PATH.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="flutter-install" class="tutorial-section">
+                        <h3>התקנת Flutter</h3>
+                        <div class="content-box">
+                            <div class="steps-list">
+                                <div class="step-item">
+                                    <div class="step-number">1</div>
+                                    <div class="step-content">
+                                        <h4>הורדת Visual Studio</h4>
+                                        <p>יש להוריד את Visual Studio מ-<a href="https://visualstudio.microsoft.com/" target="_blank">האתר הרשמי</a></p>
+                                    </div>
+                                </div>
+
+                                <div class="step-item">
+                                    <div class="step-number">2</div>
+                                    <div class="step-content">
+                                        <h4>הגדרת Visual Studio</h4>
+                                        <p>אחרי ההתקנה:</p>
+                                        <ul>
+                                            <li>פתחו את התוכנה: Visual Studio Installer</li>
+                                            <li>לחצו על MODIFY</li>
+                                            <li>סמנו רק את הרכיבים הנדרשים (אין צורך ביותר מזה, חבל על המקום במחשב)</li>
+                                        </ul>
+                                        <img src="images/tutorial-dev-img1.png" alt="הגדרת Visual Studio" style="max-width: 100%; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 1rem 0;">
+                                        <img src="images/tutorial-dev-img2.png" alt="רכיבי Visual Studio" style="max-width: 100%; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 1rem 0;">
+                                    </div>
+                                </div>
+
+                                <div class="step-item">
+                                    <div class="step-number">3</div>
+                                    <div class="step-content">
+                                        <h4>בדיקת התקנת Flutter</h4>
+                                        <p>הריצו בטרמינל:</p>
+                                        <pre style="background-color: #2d3748; color: #e2e8f0; padding: 1rem; border-radius: var(--radius-sm); overflow-x: auto; margin: 1rem 0; direction: ltr; text-align: left;"><code>flutter doctor</code></pre>
+                                        <p>אמור להיות שגיאה על כך שלא התקנתם את Android Studio - זה לא משמעותי כלל למי שמתעסק עם Windows בלבד.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="success-box">
+                            <span class="material-symbols-outlined">celebration</span>
+                            <p><strong>חדש!</strong> ניתן להוריד את Visual Studio כולל כל מה שנצרך עבור Flutter בקובץ אחד להתקנה אופליין</p>
+                        </div>
+
+                        <div class="tip-box">
+                            <span class="material-symbols-outlined">link</span>
+                            <div>
+                                <p><strong>קישורים נוספים להדרכה:</strong></p>
+                                <ul>
+                                    <li><a href="https://docs.flutter.dev/get-started/install/windows/desktop" target="_blank">מדריך רשמי של Flutter</a></li>
+                                    <li><a href="https://www.youtube.com/watch?v=Kfz9eeC7ybg" target="_blank">הדרכת וידאו</a></li>
+                                    <li><a href="https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=he#0" target="_blank">Codelab של Google</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="editor-install" class="tutorial-section">
+                        <h3>התקנת עורך קוד</h3>
+                        <div class="content-box">
+                            <div class="steps-list">
+                                <div class="step-item">
+                                    <div class="step-number">1</div>
+                                    <div class="step-content">
+                                        <h4>הורדת KIRO</h4>
+                                        <p>יש להוריד את עורך הקוד בשם KIRO - זהו עורך קוד חדש עם סוכן AI מובנה מ-<a href="https://did.li/KIRO-AI" target="_blank">https://did.li/KIRO-AI</a></p>
+                                        <p><strong>חלופה:</strong> מי שמותקן לו Visual Studio Code עצמו יכול להשתמש גם בו ע"י התוסף של GitHub Copilot, או התוסף של Gemini.</p>
+                                    </div>
+                                </div>
+
+                                <div class="step-item">
+                                    <div class="step-number">2</div>
+                                    <div class="step-content">
+                                        <h4>התקנת תוסף Flutter</h4>
+                                        <p>בתוך עורך הקוד:</p>
+                                        <ul>
+                                            <li>לחצו על כפתור ההרחבות בצד שמאל</li>
+                                            <li>חפשו את FLUTTER</li>
+                                            <li>בחרו בפלאטר של Dart-Code</li>
+                                        </ul>
+                                        <img src="images/tutorial-dev-img3.png" alt="תוסף Flutter" style="max-width: 100%; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 1rem 0;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="project-start" class="tutorial-section">
+                        <h2 class="section-heading">
+                            <span class="material-symbols-outlined">play_arrow</span>
+                            שלב ב': תחילת עבודה על הפרויקט
+                        </h2>
+                    </section>
+
+                    <section id="fork" class="tutorial-section">
+                        <h3>יצירת "מזלג" (Fork) למאגר</h3>
+                        <div class="content-box">
+                            <p>"מזלג" הוא למעשה יצירת עותק אישי של המאגר המקורי אל חשבון ה-GitHub שלכם.</p>
+                            <ul>
+                                <li>גשו ל-<a href="https://github.com/sivan22/otzaria" target="_blank">מאגר 'אוצריא'</a></li>
+                                <li>לחצו על כפתור ה-Fork בפינה הימנית העליונה</li>
+                            </ul>
+                            <img src="images/tutorial-dev-img4.png" alt="GitHub Fork" style="max-width: 100%; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 1rem 0;">
+                        </div>
+                    </section>
+
+                    <section id="clone" class="tutorial-section">
+                        <h3>הורדת (Clone) המאגר למחשב</h3>
+                        <div class="content-box">
+                            <p>כעת, נוריד את עותק המאגר האישי שלכם למחשב.</p>
+                            
+                            <div class="steps-list">
+                                <div class="step-item">
+                                    <div class="step-number">1</div>
+                                    <div class="step-content">
+                                        <h4>העתקת כתובת המאגר</h4>
+                                        <p>בחשבון ה-GitHub שלכם, היכנסו למאגר המשוכפל, לחצו על כפתור ה-Code והעתיקו את כתובת ה-HTTPS.</p>
+                                        <img src="images/tutorial-dev-img5.png" alt="כפתור Code" style="max-width: 100%; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 1rem 0;">
+                                    </div>
+                                </div>
+
+                                <div class="step-item">
+                                    <div class="step-number">2</div>
+                                    <div class="step-content">
+                                        <h4>אפשרות א': דרך עורך הקוד</h4>
+                                        <ul>
+                                            <li>פתחו את עורך הקוד</li>
+                                            <li>הקישו: <code style="background-color: #2d3748; color: #e2e8f0; padding: 0.25rem 0.5rem; border-radius: 4px;">Ctrl + Shift + P</code></li>
+                                            <li>הקלידו: <code style="background-color: #2d3748; color: #e2e8f0; padding: 0.25rem 0.5rem; border-radius: 4px;">git clone</code></li>
+                                            <li>הדביקו את הכתובת של המאגר</li>
+                                            <li>בחרו clone from url</li>
+                                            <li>בחרו תיקיה (מומלץ תיקיה שאין בנתיב שלה עברית)</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="step-item">
+                                    <div class="step-number">3</div>
+                                    <div class="step-content">
+                                        <h4>אפשרות ב': דרך הטרמינל</h4>
+                                        <p>פתחו את הטרמינל (CMD) והריצו:</p>
+                                        <pre style="background-color: #2d3748; color: #e2e8f0; padding: 1rem; border-radius: var(--radius-sm); overflow-x: auto; margin: 1rem 0; direction: ltr; text-align: left;"><code>git clone https://github.com/YOUR_USERNAME/otzaria.git</code></pre>
+                                        <p>במקום <code style="background-color: #2d3748; color: #e2e8f0; padding: 0.25rem 0.5rem; border-radius: 4px;">YOUR_USERNAME</code>, רשמו את שם המשתמש שלכם בגיטהאב.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="warning-box">
+                            <span class="material-symbols-outlined">warning</span>
+                            <div>
+                                <p><strong>שימו לב:</strong> מומלץ לבחור תיקיה שאין בנתיב שלה עברית.</p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="editing" class="tutorial-section">
+                        <h2 class="section-heading">
+                            <span class="material-symbols-outlined">edit</span>
+                            שלב ג': עריכת הקוד בעזרת AI
+                        </h2>
+                        <div class="content-box">
+                            <div class="steps-list">
+                                <div class="step-item">
+                                    <div class="step-number">1</div>
+                                    <div class="step-content">
+                                        <h4>פתיחת הפרויקט</h4>
+                                        <ul>
+                                            <li>פתחו את עורך הקוד</li>
+                                            <li>לחצו על סימן האקספלורר שבצד שמאל</li>
+                                            <li>בחרו בתיקיית אוצריא של הפרוייקט שהורדתם</li>
+                                        </ul>
+                                        <img src="images/tutorial-dev-img6.png" alt="פתיחת הפרויקט" style="max-width: 100%; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 1rem 0;">
+                                    </div>
+                                </div>
+
+                                <div class="step-item">
+                                    <div class="step-number">2</div>
+                                    <div class="step-content">
+                                        <h4>עריכה עם AI</h4>
+                                        <p><strong>כעת אתם רק צריכים להחליט מה אתם בדיוק רוצים לשנות... זהו, רק תבקשו....</strong></p>
+                                        <p>השתמשו בסוכן ה-AI המובנה בעורך הקוד כדי לבקש שינויים בשפה פשוטה!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section id="testing" class="tutorial-section">
+                        <h2 class="section-heading">
+                            <span class="material-symbols-outlined">bug_report</span>
+                            בדיקה ובנייה
+                        </h2>
+                        <div class="content-box">
+                            <h3>הרצה במצב Debug</h3>
+                            <p>סיימתם? עכשיו צריך לבדוק שהכל תקין!</p>
+                            <p>הקלידו בטרמינל של עורך הקוד:</p>
+                            <pre style="background-color: #2d3748; color: #e2e8f0; padding: 1rem; border-radius: var(--radius-sm); overflow-x: auto; margin: 1rem 0; direction: ltr; text-align: left;"><code>flutter run --debug -d windows</code></pre>
+                            <p>זה יוריד אוטומטית בפעם הראשונה את ה-SDK הנצרך בשביל לדבג.</p>
+
+                            <h3>רענון שינויים</h3>
+                            <ul>
+                                <li>לחצו על <code style="background-color: #2d3748; color: #e2e8f0; padding: 0.25rem 0.5rem; border-radius: 4px;">r</code> בטרמינל - השינויים ישתקפו אוטומטית (עובד בעיקר לשינויים בעיצוב)</li>
+                                <li>לחצו על <code style="background-color: #2d3748; color: #e2e8f0; padding: 0.25rem 0.5rem; border-radius: 4px;">R</code> (אות גדולה) - יפעיל את הדיבוג מחדש (לשינויים יותר כבדים)</li>
+                                <li>לחצו על <code style="background-color: #2d3748; color: #e2e8f0; padding: 0.25rem 0.5rem; border-radius: 4px;">F5</code> - להפעלה עם ממשק גרפי פשוט</li>
+                            </ul>
+                            <img src="images/tutorial-dev-img7.png" alt="סרגל Debug" style="max-width: 100%; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 1rem 0;">
+                            <p>במצב זה הרענון הוא אוטומטי, ויש שם אייקון להפסקת הדיבוג או ריסטארט לדיבוג.</p>
+
+                            <h3>בניית התוכנה (קומפילציה)</h3>
+                            <p>רוצים 'לבנות' את התוכנה? (תוכנה ניידת)</p>
+                            <p>הריצו בטרמינל:</p>
+                            <pre style="background-color: #2d3748; color: #e2e8f0; padding: 1rem; border-radius: var(--radius-sm); overflow-x: auto; margin: 1rem 0; direction: ltr; text-align: left;"><code>flutter build windows</code></pre>
+                        </div>
+                    </section>
+
+                    <div class="note-card help-card">
+                        <span class="material-symbols-outlined">help</span>
+                        <div>
+                            <h4>זקוק לעזרה נוספת?</h4>
+                            <p>אם נתקלת בבעיה או שיש לך שאלה, בקר בדף השאלות הנפוצות או פנה אלינו דרך GitHub.</p>
+                            <a href="faq.html" class="help-link">
+                                <span class="material-symbols-outlined">arrow_back</span>
+                                לשאלות נפוצות
+                            </a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>מדריך נערך עבור אוצריא</p>
+            <p>קוד פתוח תחת רישיון Unlicense | <a href="https://github.com/sivan22/otzaria">GitHub</a></p>
+        </div>
+    </footer>
+</body>
+</html>
