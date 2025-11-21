@@ -149,10 +149,10 @@ jobs:
           default_author: github_actions
       - name: Create otzaria Release Archive
         run: |
-          echo "Creating ZIP archive for אוצריא and links..."
+          echo "Creating ZIP archive for אוצריא and links (keeping subfolders)..."
 
           # ZIP אוצריא מכל המקורות
-          zip -qr otzaria_latest.zip \
+          for src in \
             Ben-YehudaToOtzaria/ספרים/אוצריא \
             DictaToOtzaria/ספרים/ערוך/אוצריא \
             OnYourWayToOtzaria/ספרים/אוצריא \
@@ -162,10 +162,18 @@ jobs:
             sefariaToOtzaria/sefaria_api/ספרים/אוצריא \
             MoreBooks/ספרים/אוצריא \
             wiki_jewish_books/ספרים/אוצריא \
-            ToratEmetToOtzaria/ספרים/אוצריא 2>/dev/null || true
+            ToratEmetToOtzaria/ספרים/אוצריא
+          do
+            if [ -d "$src" ]; then
+              echo "Adding $src to ZIP..."
+              parent=$(dirname "$src")      # תיקיה אב
+              folder=$(basename "$src")     # אוצריא
+              (cd "$parent" && zip -qr "$GITHUB_WORKSPACE/otzaria_latest.zip" "$folder")
+            fi
+          done
 
-          # ZIP links מכל המקורות (append לאותו ZIP)
-          zip -qr otzaria_latest.zip \
+          # ZIP links מכל המקורות
+          for src in \
             Ben-YehudaToOtzaria/links \
             DictaToOtzaria/ספרים/links \
             OnYourWayToOtzaria/links \
@@ -175,23 +183,38 @@ jobs:
             sefariaToOtzaria/sefaria_api/links \
             MoreBooks/links \
             wiki_jewish_books/links \
-            ToratEmetToOtzaria/links 2>/dev/null || true
+            ToratEmetToOtzaria/links
+          do
+            if [ -d "$src" ]; then
+              echo "Adding $src to ZIP..."
+              parent=$(dirname "$src")      # תיקיה אב
+              folder=$(basename "$src")     # links
+              (cd "$parent" && zip -qr "$GITHUB_WORKSPACE/otzaria_latest.zip" "$folder")
+            fi
+          done
 
           # Add manifest files
-          zip -q otzaria_latest.zip files_manifest.json metadata.json || true
+          zip -q "$GITHUB_WORKSPACE/otzaria_latest.zip" files_manifest.json metadata.json || true
 
           echo "Archive created successfully!"
+      
       - name: Create dicta Release Archive
         run: |
-          echo "Creating Dicta ZIP archive..."
+          echo "Creating Dicta ZIP archive (flattening 'לא ערוך' folder)..."
 
-          # ZIP all לא ערוך directories from Dicta
-          zip -qr otzaria_dicta_latest.zip DictaToOtzaria/ספרים/לא\ ערוך 2>/dev/null || true
+          SRC="DictaToOtzaria/ספרים/לא ערוך"
+          if [ -d "$SRC" ]; then
+            (cd "$SRC" && zip -qr "$GITHUB_WORKSPACE/otzaria_dicta_latest.zip" *)
+          else
+            echo "Source not found: $SRC (skipping)"
+          fi
 
           # Add manifest file
-          zip -q otzaria_dicta_latest.zip files_manifest_dicta.json || true
+          zip -q "$GITHUB_WORKSPACE/otzaria_dicta_latest.zip" files_manifest_dicta.json || true
 
           echo "Dicta archive created successfully!"
+
+
 
       - name: Delete existing 'latest' release and tag
         continue-on-error: true
