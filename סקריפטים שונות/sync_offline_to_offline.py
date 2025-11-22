@@ -3,11 +3,9 @@ import os
 import shutil
 from pathlib import Path
 
-import requests
-
-BASE_URL = "https://raw.githubusercontent.com/Y-PLONI/otzaria-library/refs/heads/main/"
 BASE_PATH = Path("אוצריא")
 LOCAL_PATH = Path(r"C:\אוצריא")
+LOCAL_PATH_SOURCE = Path(r"C:\אוצריא")
 DEL_LIST_FILE_NAME = "del_list.txt"
 MANIFEST_FILE_NAME = "files_manifest.json"
 DICTA_MANIFEST_FILE_NAME = "files_manifest_dicta.json"
@@ -45,12 +43,13 @@ def remove_empty_dirs() -> None:
                 dir_path.rmdir()
 
 
-def download_new(is_dicta: bool = False) -> None:
+def copy_new(is_dicta: bool = False) -> None:
     manifest_file_name = MANIFEST_FILE_NAME if not is_dicta else DICTA_MANIFEST_FILE_NAME
-    new_manifest_url = f"{BASE_URL}/{manifest_file_name}"
+    new_manifest_path = LOCAL_PATH_SOURCE / manifest_file_name
     old_manifest_file_path = BASE_PATH / manifest_file_name
 
-    new_manifest_content = requests.get(new_manifest_url).json()
+    with new_manifest_path.open("r", encoding="utf-8") as f:
+        new_manifest_content = json.load(f)
     with old_manifest_file_path.open("r", encoding="utf-8") as f:
         old_manifest_content = json.load(f)
 
@@ -63,14 +62,9 @@ def download_new(is_dicta: bool = False) -> None:
         target_folder_components = book_name.split("/")
         file_type = "אוצריא" if "אוצריא" in target_folder_components else "links"
         target_path = BASE_PATH.joinpath(*target_folder_components[target_folder_components.index(file_type):])
-
-        file_url = f"{BASE_URL}{book_name}"
-        response = requests.get(file_url)
-        response.raise_for_status()
-        file_content = response.text
+        source_path = LOCAL_PATH_SOURCE.joinpath(*target_folder_components[target_folder_components.index(file_type):])
         target_path.parent.mkdir(parents=True, exist_ok=True)
-        with target_path.open("w", encoding="utf-8") as f:
-            f.write(file_content)
+        shutil.copy(source_path, target_path)
 
     del_list = []
     for book_name in old_manifest_content:
@@ -88,5 +82,5 @@ def download_new(is_dicta: bool = False) -> None:
 
 
 if __name__ == "__main__":
-    download_new()
-    download_new(is_dicta=True)
+    copy_new()
+    copy_new(is_dicta=True)
