@@ -9,15 +9,16 @@ from yemot import split_and_send
 
 folders = [
     "Ben-YehudaToOtzaria/ספרים/אוצריא",
-    "DictaToOtzaria/ספרים/ערוך/אוצריא",
+    "DictaToOtzaria/ערוך/ספרים/אוצריא",
     "OnYourWayToOtzaria/ספרים/אוצריא",
     "OraytaToOtzaria/ספרים/אוצריא",
     "tashmaToOtzaria/ספרים/אוצריא",
     "sefariaToOtzaria/sefaria_export/ספרים/אוצריא",
     "sefariaToOtzaria/sefaria_api/ספרים/אוצריא",
     "MoreBooks/ספרים/אוצריא",
-    "wiki_jewish_books/ספרים/אוצריא",
+    "wikiJewishBooksToOtzaria/ספרים/אוצריא",
     "ToratEmetToOtzaria/ספרים/אוצריא",
+    "wikisourceToOtzaria/ספרים/אוצריא",
 ]
 
 

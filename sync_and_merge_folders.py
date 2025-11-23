@@ -11,8 +11,9 @@ mapping = {
     "sefariaToOtzaria": "sefaria",
     "MoreBooks": "MoreBooks",
     "tashmaToOtzaria": "Tashma",
-    "wiki_jewish_books": "wiki_jewish_books",
+    "wikiJewishBooksToOtzaria": "wiki_jewish_books",
     "ToratEmetToOtzaria": "ToratEmet",
+    "wikisourceToOtzaria": "wikiSource"
 }
 
 
@@ -39,15 +40,16 @@ with ver_file_path.open("r", encoding="utf-8") as f:
 
 folders = (
     "Ben-YehudaToOtzaria/ספרים/אוצריא",
-    "DictaToOtzaria/ספרים/ערוך/אוצריא",
+    "DictaToOtzaria/ערוך/ספרים/אוצריא",
     "OnYourWayToOtzaria/ספרים/אוצריא",
     "OraytaToOtzaria/ספרים/אוצריא",
     "tashmaToOtzaria/ספרים/אוצריא",
     "sefariaToOtzaria/sefaria_export/ספרים/אוצריא",
     "sefariaToOtzaria/sefaria_api/ספרים/אוצריא",
     "MoreBooks/ספרים/אוצריא",
-    "wiki_jewish_books/ספרים/אוצריא",
+    "wikiJewishBooksToOtzaria/ספרים/אוצריא",
     "ToratEmetToOtzaria/ספרים/אוצריא",
+    "wikisourceToOtzaria/ספרים/אוצריא"
 )
 
 folders_path = [Path(folder) for folder in folders]

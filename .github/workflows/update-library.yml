@@ -4,7 +4,8 @@ on:
   push:
     paths:
       - "Ben-YehudaToOtzaria/ספרים/אוצריא/**"
-      - "DictaToOtzaria/ספרים/ערוך/אוצריא/**"
+      - "DictaToOtzaria/ערוך/ספרים/אוצריא/**"
+      - "DictaToOtzaria/לא ערוך/ספרים/אוצריא/**"
       - "OnYourWayToOtzaria/ספרים/אוצריא/**"
       - "OraytaToOtzaria/ספרים/אוצריא/**"
       - "tashmaToOtzaria/ספרים/אוצריא/**"
@@ -12,22 +13,22 @@ on:
       - "sefariaToOtzaria/sefaria_api/ספרים/אוצריא/**"
       - "MoreBooks/ספרים/אוצריא/**"
       - "ToratEmetToOtzaria/ספרים/אוצריא/**"
-      - "wiki_jewish_books/ספרים/אוצריא/**"
-      - "wiki_text/ספרים/אוצריא/**"
+      - "wikiJewishBooksToOtzaria/ספרים/אוצריא/**"
+      - "wikisourceToOtzaria/ספרים/אוצריא/**"
 
-      - "Ben-YehudaToOtzaria/ספרים/links/**"
-      - "DictaToOtzaria/ספרים/links/**"
-      - "OnYourWayToOtzaria/ספרים/links/**"
-      - "OraytaToOtzaria/ספרים/links/**"
-      - "tashmaToOtzaria/ספרים/links/**"
-      - "sefariaToOtzaria/sefaria_export/ספרים/links/**"
-      - "sefariaToOtzaria/sefaria_api/ספרים/links/**"
-      - "MoreBooks/ספרים/links/**"
-      - "ToratEmetToOtzaria/ספרים/links/**"
-      - "wiki_jewish_books/ספרים/links/**"
-      - "wiki_text/ספרים/links/**"
-      - "DictaToOtzaria/ספרים/לא ערוך/אוצריא/**"
-      - "DictaToOtzaria/ספרים/לא ערוך/links/**"
+      - "Ben-YehudaToOtzaria/links/**"
+      - "DictaToOtzaria/links/**"
+      - "OnYourWayToOtzaria/links/**"
+      - "OraytaToOtzaria/links/**"
+      - "tashmaToOtzaria/links/**"
+      - "sefariaToOtzaria/sefaria_export/links/**"
+      - "sefariaToOtzaria/sefaria_api/links/**"
+      - "MoreBooks/links/**"
+      - "ToratEmetToOtzaria/links/**"
+      - "wikiJewishBooksToOtzaria/links/**"
+      - "wikisourceToOtzaria/links/**"
+      - "DictaToOtzaria/לא ערוך/links/**"
+      - "DictaToOtzaria/ערוך/links/**"
       
   workflow_dispatch:
 permissions:
@@ -62,14 +63,14 @@ jobs:
         run: |
           pip install bs4 requests pyluach
 
-      - name: update in mitmachim
-        env:
-          USER_NAME: ${{ secrets.USER_NAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
-          TOKEN_YEMOT: ${{ secrets.TOKEN_YEMOT }}
-          GOOGLE_CHAT_URL: ${{ secrets.GOOGLE_CHAT_URL }}
-        run: |
-          python send_update/main.py
+      # - name: update in mitmachim
+      #   env:
+      #     USER_NAME: ${{ secrets.USER_NAME }}
+      #     PASSWORD: ${{ secrets.PASSWORD }}
+      #     TOKEN_YEMOT: ${{ secrets.TOKEN_YEMOT }}
+      #     GOOGLE_CHAT_URL: ${{ secrets.GOOGLE_CHAT_URL }}
+      #   run: |
+      #     python send_update/main.py
           
       - name: Sync files and folders
         run: |
@@ -88,7 +89,7 @@ jobs:
           # Find all files in source directories (אוצריא files from all sources)
           find . \( \
             -path "./Ben-YehudaToOtzaria/ספרים/אוצריא/*" -o \
-            -path "./DictaToOtzaria/ספרים/ערוך/אוצריא/*" -o \
+            -path "./DictaToOtzaria/ערוך/ספרים/אוצריא/*" -o \
             -path "./OnYourWayToOtzaria/ספרים/אוצריא/*" -o \
             -path "./OraytaToOtzaria/ספרים/אוצריא/*" -o \
             -path "./tashmaToOtzaria/ספרים/אוצריא/*" -o \
@@ -96,7 +97,8 @@ jobs:
             -path "./sefariaToOtzaria/sefaria_api/ספרים/אוצריא/*" -o \
             -path "./MoreBooks/ספרים/אוצריא/*" -o \
             -path "./ToratEmetToOtzaria/ספרים/אוצריא/*" -o \
-            -path "./wiki_jewish_books/ספרים/אוצריא/*" \
+            -path "./wikisourceToOtzaria/ספרים/אוצריא/*" -o \
+            -path "./wikiJewishBooksToOtzaria/ספרים/אוצריא/*" \
           \) -type f \
           ! -path "./.git/*" \
           ! -path "./.github/*" \
@@ -109,7 +111,7 @@ jobs:
           # Find all link files from all sources
           find . \( \
             -path "./Ben-YehudaToOtzaria/links/*" -o \
-            -path "./DictaToOtzaria/ספרים/links/*" -o \
+            -path "./DictaToOtzaria/ערוך/links/*" -o \
             -path "./OnYourWayToOtzaria/links/*" -o \
             -path "./OraytaToOtzaria/links/*" -o \
             -path "./tashmaToOtzaria/links/*" -o \
@@ -117,7 +119,8 @@ jobs:
             -path "./sefariaToOtzaria/sefaria_api/links/*" -o \
             -path "./MoreBooks/links/*" -o \
             -path "./ToratEmetToOtzaria/links/*" -o \
-            -path "./wiki_jewish_books/links/*" \
+            -path "./wikisourceToOtzaria/links/*" -o \
+            -path "./wikiJewishBooksToOtzaria/links/*" \
           \) -type f \
           ! -path "./.git/*" \
           ! -path "./.github/*" \
@@ -134,8 +137,8 @@ jobs:
       - name: Generate dicta Files Manifest
         run: |
           echo "{" > files_manifest_dicta.json
-          find ./DictaToOtzaria/ספרים/לא\ ערוך -type f \
-            ! -path "./.git/*" \
+          find "./DictaToOtzaria/לא ערוך/ספרים/אוצריא" -type f \
+          ! -path "./.git/*" \
             ! -path "./.github/*" \
             2>/dev/null | while read -r file; do
               path="${file#./}"
@@ -158,14 +161,15 @@ jobs:
           # ZIP אוצריא מכל המקורות
           for src in \
             Ben-YehudaToOtzaria/ספרים/אוצריא \
-            DictaToOtzaria/ספרים/ערוך/אוצריא \
+            DictaToOtzaria/ערוך/ספרים/אוצריא \
             OnYourWayToOtzaria/ספרים/אוצריא \
             OraytaToOtzaria/ספרים/אוצריא \
             tashmaToOtzaria/ספרים/אוצריא \
             sefariaToOtzaria/sefaria_export/ספרים/אוצריא \
             sefariaToOtzaria/sefaria_api/ספרים/אוצריא \
             MoreBooks/ספרים/אוצריא \
-            wiki_jewish_books/ספרים/אוצריא \
+            wikiJewishBooksToOtzaria/ספרים/אוצריא \
+            wikisourceToOtzaria/ספרים/אוצריא \
             ToratEmetToOtzaria/ספרים/אוצריא
           do
             if [ -d "$src" ]; then
@@ -179,14 +183,15 @@ jobs:
           # ZIP links מכל המקורות
           for src in \
             Ben-YehudaToOtzaria/links \
-            DictaToOtzaria/ספרים/links \
+            DictaToOtzaria/ערוך/links \
             OnYourWayToOtzaria/links \
             OraytaToOtzaria/links \
             tashmaToOtzaria/links \
             sefariaToOtzaria/sefaria_export/links \
             sefariaToOtzaria/sefaria_api/links \
             MoreBooks/links \
-            wiki_jewish_books/links \
+            wikiJewishBooksToOtzaria/links \
+            wikisourceToOtzaria/links \
             ToratEmetToOtzaria/links
           do
             if [ -d "$src" ]; then
@@ -206,7 +211,7 @@ jobs:
         run: |
           echo "Creating Dicta ZIP archive (flattening 'לא ערוך' folder)..."
 
-          SRC="DictaToOtzaria/ספרים/לא ערוך"
+          SRC="DictaToOtzaria/לא ערוך/ספרים/אוצריא"
           if [ -d "$SRC" ]; then
             (cd "$SRC" && zip -qr "$GITHUB_WORKSPACE/otzaria_dicta_latest.zip" *)
           else
