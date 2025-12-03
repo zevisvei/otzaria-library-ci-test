@@ -21,6 +21,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 138,
+    "line_index_2": 418,
+    "heRef_2": "מכות יד.,  א",
+    "path_2": "מכות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 204,
     "line_index_2": 3102,
     "heRef_2": "חולין קא., ג",
@@ -28,10 +35,45 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 138,
-    "line_index_2": 418,
-    "heRef_2": "מכות יד.,  א",
-    "path_2": "מכות.txt",
+    "line_index_1": 145,
+    "line_index_2": 2184,
+    "heRef_2": "חולין עג:,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 2491,
+    "heRef_2": "חולין פב., יג",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 3852,
+    "heRef_2": "בבא בתרא קסו., ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1711,
+    "heRef_2": "בבא מציעא נב.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2371,
+    "heRef_2": "עירובין סד:,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 2904,
+    "heRef_2": "עירובין פ.,  א",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   },
   {
@@ -1552,47 +1594,5 @@
     "heRef_2": "משנה כריתות ו, ט",
     "path_2": "משנה כריתות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 2184,
-    "heRef_2": "חולין עג:,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 214,
-    "line_index_2": 2491,
-    "heRef_2": "חולין פב., יג",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2371,
-    "heRef_2": "עירובין סד:,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 2904,
-    "heRef_2": "עירובין פ.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 3852,
-    "heRef_2": "בבא בתרא קסו., ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1711,
-    "heRef_2": "בבא מציעא נב.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
   }
 ]

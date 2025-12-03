@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 38,
+    "line_index_2": 111,
+    "heRef_2": "הוריות ד:,  א",
+    "path_2": "הוריות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 41,
     "line_index_2": 99,
     "heRef_2": "משנה תורה, הלכות יסודי התורה י, ד",
@@ -117,12 +124,5 @@
     "heRef_2": "משנה תורה, הלכות יסודי התורה ט, ד",
     "path_2": "משנה תורה, הלכות יסודי התורה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 111,
-    "heRef_2": "הוריות ד:,  א",
-    "path_2": "הוריות.txt",
-    "Conection Type": ""
   }
 ]

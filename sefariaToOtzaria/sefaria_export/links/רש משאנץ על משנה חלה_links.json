@@ -1,89 +1,5 @@
 [
   {
-    "line_index_1": 50,
-    "line_index_2": 315,
-    "heRef_2": "שמות יב, יח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 649,
-    "heRef_2": "שמות כג, טז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 833,
-    "heRef_2": "שמות כט, ב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 100,
-    "heRef_2": "יהושע ה, יא",
-    "path_2": "יהושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 1427,
-    "heRef_2": "קידושין מו:,  א",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 3,
-    "heRef_2": "ויקרא א,  א",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 656,
-    "heRef_2": "ויקרא כב, ט",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 898,
-    "heRef_2": "בכורות כז., י",
-    "path_2": "בכורות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 1130,
-    "heRef_2": "ברכות כד., יא",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 1800,
-    "heRef_2": "ברכות לז:, יג",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 542,
-    "heRef_2": "חגיגה יח:, ו",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 3208,
-    "heRef_2": "חולין קד., ח",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 18,
     "line_index_2": 4370,
     "heRef_2": "סנהדרין קיב:, יא",
@@ -140,38 +56,164 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 37,
-    "line_index_2": 2321,
-    "heRef_2": "מנחות סו:, יג",
-    "path_2": "מנחות.txt",
+    "line_index_1": 108,
+    "line_index_2": 46,
+    "heRef_2": "תלמוד ירושלמי ביצה א, ח, ג",
+    "path_2": "תלמוד ירושלמי ביצה.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 163,
+    "heRef_2": "תלמוד ירושלמי פסחים ג, ג, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 1976,
+    "heRef_2": "גיטין סא., י",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 581,
+    "heRef_2": "שמואל ב כא, א",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 479,
+    "heRef_2": "ישעיהו כד, יג",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 564,
+    "heRef_2": "ישעיהו כח, כה",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 100,
+    "heRef_2": "יהושע ה, יא",
+    "path_2": "יהושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 1427,
+    "heRef_2": "קידושין מו:,  א",
+    "path_2": "קידושין.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 166,
-    "line_index_2": 2335,
-    "heRef_2": "מנחות סז., יא",
-    "path_2": "מנחות.txt",
+    "line_index_2": 898,
+    "heRef_2": "בכורות כז., י",
+    "path_2": "בכורות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 179,
-    "line_index_2": 2377,
-    "heRef_2": "מנחות סח:, יא",
-    "path_2": "מנחות.txt",
+    "line_index_1": 73,
+    "line_index_2": 1130,
+    "heRef_2": "ברכות כד., יא",
+    "path_2": "ברכות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 9,
-    "line_index_2": 2452,
-    "heRef_2": "מנחות ע:, יב",
-    "path_2": "מנחות.txt",
+    "line_index_1": 34,
+    "line_index_2": 1800,
+    "heRef_2": "ברכות לז:, יג",
+    "path_2": "ברכות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 176,
-    "line_index_2": 2989,
-    "heRef_2": "מנחות פה:, יא",
-    "path_2": "מנחות.txt",
+    "line_index_1": 57,
+    "line_index_2": 542,
+    "heRef_2": "חגיגה יח:, ו",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 3,
+    "heRef_2": "ויקרא א,  א",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 656,
+    "heRef_2": "ויקרא כב, ט",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 3208,
+    "heRef_2": "חולין קד., ח",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 4190,
+    "heRef_2": "חולין קל:, ה",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 4327,
+    "heRef_2": "חולין קלד., ח",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 4444,
+    "heRef_2": "חולין קלו:, ח",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 2995,
+    "heRef_2": "חולין צז., א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 432,
+    "heRef_2": "דברים יד, כב",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 439,
+    "heRef_2": "דברים יד, כט",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 467,
+    "heRef_2": "דברים טז, ג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 1752,
+    "heRef_2": "עבודה זרה נה:, ו",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
@@ -294,52 +336,59 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 169,
-    "line_index_2": 4190,
-    "heRef_2": "חולין קל:, ה",
-    "path_2": "חולין.txt",
+    "line_index_1": 50,
+    "line_index_2": 315,
+    "heRef_2": "שמות יב, יח",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 118,
-    "line_index_2": 4327,
-    "heRef_2": "חולין קלד., ח",
-    "path_2": "חולין.txt",
+    "line_index_1": 9,
+    "line_index_2": 649,
+    "heRef_2": "שמות כג, טז",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 62,
-    "line_index_2": 4444,
-    "heRef_2": "חולין קלו:, ח",
-    "path_2": "חולין.txt",
+    "line_index_1": 25,
+    "line_index_2": 833,
+    "heRef_2": "שמות כט, ב",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 68,
-    "line_index_2": 2995,
-    "heRef_2": "חולין צז., א",
-    "path_2": "חולין.txt",
+    "line_index_1": 37,
+    "line_index_2": 2321,
+    "heRef_2": "מנחות סו:, יג",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 20,
-    "line_index_2": 432,
-    "heRef_2": "דברים יד, כב",
-    "path_2": "דברים.txt",
+    "line_index_1": 166,
+    "line_index_2": 2335,
+    "heRef_2": "מנחות סז., יא",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 16,
-    "line_index_2": 439,
-    "heRef_2": "דברים יד, כט",
-    "path_2": "דברים.txt",
+    "line_index_1": 179,
+    "line_index_2": 2377,
+    "heRef_2": "מנחות סח:, יא",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 11,
-    "line_index_2": 467,
-    "heRef_2": "דברים טז, ג",
-    "path_2": "דברים.txt",
+    "line_index_1": 9,
+    "line_index_2": 2452,
+    "heRef_2": "מנחות ע:, יב",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 2989,
+    "heRef_2": "מנחות פה:, יא",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
@@ -1349,54 +1398,5 @@
     "heRef_2": "משנה דמאי ה, יא",
     "path_2": "משנה דמאי.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 169,
-    "line_index_2": 1976,
-    "heRef_2": "גיטין סא., י",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 581,
-    "heRef_2": "שמואל ב כא, א",
-    "path_2": "שמואל ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 479,
-    "heRef_2": "ישעיהו כד, יג",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 564,
-    "heRef_2": "ישעיהו כח, כה",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 1752,
-    "heRef_2": "עבודה זרה נה:, ו",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 46,
-    "heRef_2": "תלמוד ירושלמי ביצה א, ח, ג",
-    "path_2": "תלמוד ירושלמי ביצה.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 163,
-    "heRef_2": "תלמוד ירושלמי פסחים ג, ג, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "quotation"
   }
 ]

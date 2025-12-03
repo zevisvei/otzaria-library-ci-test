@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 174,
-    "line_index_2": 1495,
-    "heRef_2": "ברכות לב.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 159,
-    "heRef_2": "דניאל ה, טז",
-    "path_2": "דניאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 153,
     "line_index_2": 3251,
     "heRef_2": "פסחים קב:, ב",
@@ -1041,5 +1027,19 @@
     "heRef_2": "פסחים ט:, ב",
     "path_2": "פסחים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 1495,
+    "heRef_2": "ברכות לב.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 159,
+    "heRef_2": "דניאל ה, טז",
+    "path_2": "דניאל.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 128,
+    "line_index_2": 2300,
+    "heRef_2": "גיטין ע., יב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 177,
     "line_index_2": 711,
     "heRef_2": "ברכות יד:,  א",
@@ -158,20 +165,6 @@
     "line_index_2": 2836,
     "heRef_2": "ברכות סג:,  א",
     "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1370,
-    "line_index_2": 3302,
-    "heRef_2": "חולין קז:,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1432,
-    "line_index_2": 3302,
-    "heRef_2": "חולין קז:,  א",
-    "path_2": "חולין.txt",
     "Conection Type": ""
   },
   {
@@ -10773,6 +10766,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 1370,
+    "line_index_2": 3302,
+    "heRef_2": "חולין קז:,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1432,
+    "line_index_2": 3302,
+    "heRef_2": "חולין קז:,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 172,
     "line_index_2": 2407,
     "heRef_2": "עירובין סה., טו",
@@ -10784,13 +10791,6 @@
     "line_index_2": 3334,
     "heRef_2": "עירובין צב., ח",
     "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 2300,
-    "heRef_2": "גיטין ע., יב",
-    "path_2": "גיטין.txt",
     "Conection Type": ""
   }
 ]

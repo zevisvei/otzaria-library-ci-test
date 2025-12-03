@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 331,
-    "line_index_2": 686,
-    "heRef_2": "יחזקאל כז,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 147,
     "line_index_2": 81,
     "heRef_2": "משנה כלים י, א",
@@ -1874,5 +1867,12 @@
     "heRef_2": "משנה כלים ט, ח",
     "path_2": "משנה כלים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 686,
+    "heRef_2": "יחזקאל כז,  א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

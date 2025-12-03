@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 45,
-    "line_index_2": 81,
-    "heRef_2": "שבועות ה.,  א",
-    "path_2": "שבועות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 79,
-    "heRef_2": "שבת ה., ד",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 52,
-    "heRef_2": "משנה שביעית ה, ח",
-    "path_2": "משנה שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 45,
-    "heRef_2": "משנה תרומות ה,  א",
-    "path_2": "משנה תרומות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 42,
     "line_index_2": 419,
     "heRef_2": "תלמוד ירושלמי שביעית י, א, ט",
@@ -250,5 +222,33 @@
     "heRef_2": "תלמוד ירושלמי שביעית ח, א, ד",
     "path_2": "תלמוד ירושלמי שביעית.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 81,
+    "heRef_2": "שבועות ה.,  א",
+    "path_2": "שבועות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 79,
+    "heRef_2": "שבת ה., ד",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 52,
+    "heRef_2": "משנה שביעית ה, ח",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 45,
+    "heRef_2": "משנה תרומות ה,  א",
+    "path_2": "משנה תרומות.txt",
+    "Conection Type": ""
   }
 ]

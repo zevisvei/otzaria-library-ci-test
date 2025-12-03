@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 27,
+    "line_index_2": 3,
+    "heRef_2": "עמוס א,  א",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 449,
     "line_index_2": 82,
     "heRef_2": "משנה פרה י, א",
@@ -1797,6 +1804,13 @@
     "heRef_2": "עיקר תוספות יום טוב על משנה פרה ג, י, א",
     "path_2": "עיקר תוספות יום טוב על משנה פרה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 711,
+    "heRef_2": "במדבר יט, ו",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 133,
@@ -4716,12 +4730,5 @@
     "heRef_2": "משנה פרה ט, ט",
     "path_2": "משנה פרה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 3,
-    "heRef_2": "עמוס א,  א",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
   }
 ]

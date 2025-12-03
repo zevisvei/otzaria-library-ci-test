@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 22,
-    "line_index_2": 1487,
-    "heRef_2": "מנחות מד:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 25,
     "line_index_2": 29,
     "heRef_2": "פסקי הרא\"ש על מכות א, י, א",
@@ -259,6 +252,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 15,
+    "line_index_2": 440,
+    "heRef_2": "ירמיהו יז, יא",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 22,
     "line_index_2": 3380,
     "heRef_2": "חולין קי.,  א",
@@ -266,10 +266,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 15,
-    "line_index_2": 440,
-    "heRef_2": "ירמיהו יז, יא",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 22,
+    "line_index_2": 1487,
+    "heRef_2": "מנחות מד:,  א",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   }
 ]

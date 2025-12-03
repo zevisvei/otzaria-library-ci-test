@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 98,
-    "line_index_2": 498,
-    "heRef_2": "שמות יח, יב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 105,
-    "heRef_2": "שמות ד, לא",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 476,
-    "heRef_2": "בראשית יח, לב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 30,
     "line_index_2": 12,
     "heRef_2": "יונה א, י",
@@ -558,5 +537,26 @@
     "heRef_2": "יונה ד, ט",
     "path_2": "יונה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 498,
+    "heRef_2": "שמות יח, יב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 105,
+    "heRef_2": "שמות ד, לא",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 476,
+    "heRef_2": "בראשית יח, לב",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

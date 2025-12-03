@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 52,
-    "line_index_2": 568,
-    "heRef_2": "יחזקאל כג,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 7,
     "line_index_2": 27,
     "heRef_2": "תוספות יום טוב על משנה פאה א, ד, ג",
@@ -56,10 +49,52 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 63,
+    "line_index_2": 209,
+    "heRef_2": "שמואל ב ח, יג",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 83,
     "line_index_2": 699,
     "heRef_2": "דברים כו,  א",
     "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 175,
+    "heRef_2": "ברטנורא על משנה פאה ה, ב, ב",
+    "path_2": "ברטנורא על משנה פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 317,
+    "heRef_2": "ברטנורא על משנה פאה ח, א, ד",
+    "path_2": "ברטנורא על משנה פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 325,
+    "heRef_2": "ברטנורא על משנה פאה ח, ג, א",
+    "path_2": "ברטנורא על משנה פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 328,
+    "heRef_2": "ברטנורא על משנה פאה ח, ג, ד",
+    "path_2": "ברטנורא על משנה פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 568,
+    "heRef_2": "יחזקאל כג,  א",
+    "path_2": "יחזקאל.txt",
     "Conection Type": ""
   },
   {
@@ -397,40 +432,5 @@
     "heRef_2": "משנה פאה ח, ט",
     "path_2": "משנה פאה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 175,
-    "heRef_2": "ברטנורא על משנה פאה ה, ב, ב",
-    "path_2": "ברטנורא על משנה פאה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 317,
-    "heRef_2": "ברטנורא על משנה פאה ח, א, ד",
-    "path_2": "ברטנורא על משנה פאה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 325,
-    "heRef_2": "ברטנורא על משנה פאה ח, ג, א",
-    "path_2": "ברטנורא על משנה פאה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 328,
-    "heRef_2": "ברטנורא על משנה פאה ח, ג, ד",
-    "path_2": "ברטנורא על משנה פאה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 209,
-    "heRef_2": "שמואל ב ח, יג",
-    "path_2": "שמואל ב.txt",
-    "Conection Type": ""
   }
 ]

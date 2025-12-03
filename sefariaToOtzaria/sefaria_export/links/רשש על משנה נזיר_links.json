@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 60,
-    "line_index_2": 1228,
-    "heRef_2": "שמות מ, טו",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 18,
     "heRef_2": "תוספות יום טוב על משנה נזיר א, ב, ג",
@@ -105,10 +98,38 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 63,
+    "line_index_2": 214,
+    "heRef_2": "מועד קטן ז:,  א",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 311,
+    "heRef_2": "נדרים טז:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 6,
     "line_index_2": 1017,
     "heRef_2": "במדבר כח, טו",
     "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 303,
+    "heRef_2": "ברטנורא על משנה נזיר ט, ד, ה",
+    "path_2": "ברטנורא על משנה נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1228,
+    "heRef_2": "שמות מ, טו",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -417,27 +438,6 @@
     "line_index_2": 69,
     "heRef_2": "משנה נזיר ט, ד",
     "path_2": "משנה נזיר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 214,
-    "heRef_2": "מועד קטן ז:,  א",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 311,
-    "heRef_2": "נדרים טז:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 303,
-    "heRef_2": "ברטנורא על משנה נזיר ט, ד, ה",
-    "path_2": "ברטנורא על משנה נזיר.txt",
     "Conection Type": "commentary"
   }
 ]

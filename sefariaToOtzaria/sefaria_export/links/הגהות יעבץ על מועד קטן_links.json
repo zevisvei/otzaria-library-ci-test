@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 48,
-    "line_index_2": 432,
-    "heRef_2": "חגיגה טו.,  א",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 172,
-    "heRef_2": "בבא מציעא ז.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 24,
     "line_index_2": 309,
     "heRef_2": "מועד קטן י., א",
@@ -390,5 +376,19 @@
     "heRef_2": "מועד קטן ט:, י",
     "path_2": "מועד קטן.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 432,
+    "heRef_2": "חגיגה טו.,  א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 172,
+    "heRef_2": "בבא מציעא ז.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
   }
 ]

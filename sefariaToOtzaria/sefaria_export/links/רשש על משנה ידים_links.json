@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 17,
-    "line_index_2": 3264,
-    "heRef_2": "חולין קו.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 10,
     "line_index_2": 34,
     "heRef_2": "תוספות יום טוב על משנה ידים ב, ב, ב",
@@ -54,6 +47,27 @@
     "heRef_2": "מגילה ה.,  א",
     "path_2": "מגילה.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 3264,
+    "heRef_2": "חולין קו.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 109,
+    "heRef_2": "ברטנורא על משנה ידים ד, ג,  ד",
+    "path_2": "ברטנורא על משנה ידים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 110,
+    "heRef_2": "ברטנורא על משנה ידים ד, ג,  ה",
+    "path_2": "ברטנורא על משנה ידים.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 5,
@@ -200,20 +214,6 @@
     "line_index_2": 25,
     "heRef_2": "משנה ידים ד, ו",
     "path_2": "משנה ידים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 109,
-    "heRef_2": "ברטנורא על משנה ידים ד, ג,  ד",
-    "path_2": "ברטנורא על משנה ידים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 110,
-    "heRef_2": "ברטנורא על משנה ידים ד, ג,  ה",
-    "path_2": "ברטנורא על משנה ידים.txt",
     "Conection Type": "commentary"
   }
 ]

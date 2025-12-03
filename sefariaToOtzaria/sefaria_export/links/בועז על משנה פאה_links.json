@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 22,
+    "line_index_2": 64,
+    "heRef_2": "ביצה ד.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 29,
     "line_index_2": 646,
     "heRef_2": "בכורות יח.,  א",
@@ -714,6 +721,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 26,
+    "line_index_2": 2182,
+    "heRef_2": "עבודה זרה עג:,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 37,
     "line_index_2": 2843,
     "heRef_2": "בבא בתרא קכד., ד",
@@ -781,20 +795,6 @@
     "line_index_2": 65,
     "heRef_2": "בבא מציעא ד.,  א",
     "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 64,
-    "heRef_2": "ביצה ד.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 2182,
-    "heRef_2": "עבודה זרה עג:,  א",
-    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   }
 ]

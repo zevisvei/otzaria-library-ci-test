@@ -1,5 +1,810 @@
 [
   {
+    "line_index_1": 120,
+    "line_index_2": 500,
+    "heRef_2": "רש\"י על בכורות יא., ז, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 516,
+    "heRef_2": "רש\"י על בכורות יא., כא, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 532,
+    "heRef_2": "רש\"י על בכורות יא:, ז, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 121,
+    "heRef_2": "תוספות על בכורות יא:, ב, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 605,
+    "heRef_2": "רש\"י על בכורות יב:, כו, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 132,
+    "heRef_2": "תוספות על בכורות יב:, ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 167,
+    "heRef_2": "תוספות על בכורות טו., ו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 902,
+    "heRef_2": "רש\"י על בכורות יט., ד, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 216,
+    "heRef_2": "תוספות על בכורות כא., ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 216,
+    "heRef_2": "תוספות על בכורות כא., ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 216,
+    "heRef_2": "תוספות על בכורות כא., ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 234,
+    "heRef_2": "תוספות על בכורות כב., יא, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 260,
+    "heRef_2": "תוספות על בכורות כד:, ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 260,
+    "heRef_2": "תוספות על בכורות כד:, ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 265,
+    "heRef_2": "תוספות על בכורות כה., ו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 279,
+    "heRef_2": "תוספות על בכורות כו:, יא, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 291,
+    "heRef_2": "תוספות על בכורות כז:, א, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 296,
+    "heRef_2": "תוספות על בכורות כח., ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 296,
+    "heRef_2": "תוספות על בכורות כח., ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 1323,
+    "heRef_2": "רש\"י על בכורות כט., י, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 311,
+    "heRef_2": "תוספות על בכורות כט., יג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 45,
+    "heRef_2": "רש\"י על בכורות ב:, טו, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 12,
+    "heRef_2": "תוספות על בכורות ב:, א, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 16,
+    "heRef_2": "תוספות על בכורות ב:, יט, ג",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 16,
+    "heRef_2": "תוספות על בכורות ב:, יט, ג",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 327,
+    "heRef_2": "תוספות על בכורות לא., יב, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 1472,
+    "heRef_2": "רש\"י על בכורות לב., ה, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 347,
+    "heRef_2": "תוספות על בכורות לג:, ה, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 1573,
+    "heRef_2": "רש\"י על בכורות לד:, ד, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 1641,
+    "heRef_2": "רש\"י על בכורות לה:, ב, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 1643,
+    "heRef_2": "רש\"י על בכורות לה:, ב, ג",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 381,
+    "heRef_2": "תוספות על בכורות לו., טו, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 385,
+    "heRef_2": "תוספות על בכורות לו:, ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 385,
+    "heRef_2": "תוספות על בכורות לו:, ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 411,
+    "heRef_2": "תוספות על בכורות לח:, ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 412,
+    "heRef_2": "תוספות על בכורות לח:, ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 1891,
+    "heRef_2": "רש\"י על בכורות לט., ו, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 1914,
+    "heRef_2": "רש\"י על בכורות לט., יט, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 26,
+    "heRef_2": "תוספות על בכורות ג:, טו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 82,
+    "heRef_2": "רש\"י על בכורות ג:, א, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 25,
+    "heRef_2": "תוספות על בכורות ג:, יב, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 25,
+    "heRef_2": "תוספות על בכורות ג:, יב, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 25,
+    "heRef_2": "תוספות על בכורות ג:, יב, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 436,
+    "heRef_2": "תוספות על בכורות מא:, ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 2127,
+    "heRef_2": "רש\"י על בכורות מב:, ט, ד",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 2129,
+    "heRef_2": "רש\"י על בכורות מב:, יב, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 2157,
+    "heRef_2": "רש\"י על בכורות מג., יג, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 449,
+    "heRef_2": "תוספות על בכורות מג., יב, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 450,
+    "heRef_2": "תוספות על בכורות מג., טו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 454,
+    "heRef_2": "תוספות על בכורות מג:, יז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 2281,
+    "heRef_2": "רש\"י על בכורות מד:, י, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 2295,
+    "heRef_2": "רש\"י על בכורות מד:, טו, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 460,
+    "heRef_2": "תוספות על בכורות מד:, ב, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 461,
+    "heRef_2": "תוספות על בכורות מד:, ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 461,
+    "heRef_2": "תוספות על בכורות מד:, ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 2340,
+    "heRef_2": "רש\"י על בכורות מה:, ה, ג",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 479,
+    "heRef_2": "תוספות על בכורות מו., ז, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 480,
+    "heRef_2": "תוספות על בכורות מו., י, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 484,
+    "heRef_2": "תוספות על בכורות מו:, ח, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 2437,
+    "heRef_2": "רש\"י על בכורות מז., כב, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 290,
+    "line_index_2": 497,
+    "heRef_2": "תוספות על בכורות מז:, יג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 503,
+    "heRef_2": "תוספות על בכורות מח., ח, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 503,
+    "heRef_2": "תוספות על בכורות מח., ח, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 503,
+    "heRef_2": "תוספות על בכורות מח., ח, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 503,
+    "heRef_2": "תוספות על בכורות מח., ח, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 2544,
+    "heRef_2": "רש\"י על בכורות מט:, יב, ג",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 2545,
+    "heRef_2": "רש\"י על בכורות מט:, יב, ד",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 522,
+    "heRef_2": "תוספות על בכורות מט:, יב, ג",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 120,
+    "heRef_2": "רש\"י על בכורות ד., ח, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 30,
+    "heRef_2": "תוספות על בכורות ד., ד, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 31,
+    "heRef_2": "תוספות על בכורות ד., ה, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 31,
+    "heRef_2": "תוספות על בכורות ד., ה, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 35,
+    "heRef_2": "תוספות על בכורות ד., י, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 135,
+    "heRef_2": "רש\"י על בכורות ד:, ט, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 38,
+    "heRef_2": "תוספות על בכורות ד:, ד, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 42,
+    "heRef_2": "תוספות על בכורות ד:, כד, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 2586,
+    "heRef_2": "רש\"י על בכורות נ:, י, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 314,
+    "line_index_2": 2591,
+    "heRef_2": "רש\"י על בכורות נא., ג, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 2593,
+    "heRef_2": "רש\"י על בכורות נא., ה, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 2608,
+    "heRef_2": "רש\"י על בכורות נא., טו, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 540,
+    "heRef_2": "תוספות על בכורות נא:, יב, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 542,
+    "heRef_2": "תוספות על בכורות נב., ד, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 322,
+    "line_index_2": 543,
+    "heRef_2": "תוספות על בכורות נב., ד, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 2678,
+    "heRef_2": "רש\"י על בכורות נג., ה, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 566,
+    "heRef_2": "תוספות על בכורות נד., ד, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 566,
+    "heRef_2": "תוספות על בכורות נד., ד, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 2749,
+    "heRef_2": "רש\"י על בכורות נד:, יד, ג",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 2786,
+    "heRef_2": "רש\"י על בכורות נה:, ו, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 2788,
+    "heRef_2": "רש\"י על בכורות נה:, ז, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 579,
+    "heRef_2": "תוספות על בכורות נה:, ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 580,
+    "heRef_2": "תוספות על בכורות נה:, ה, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 584,
+    "heRef_2": "תוספות על בכורות נה:, ו, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 600,
+    "heRef_2": "תוספות על בכורות נז., יח, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 346,
+    "line_index_2": 602,
+    "heRef_2": "תוספות על בכורות נז:, ו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 602,
+    "heRef_2": "תוספות על בכורות נז:, ו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 348,
+    "line_index_2": 602,
+    "heRef_2": "תוספות על בכורות נז:, ו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 2894,
+    "heRef_2": "רש\"י על בכורות נח., ב, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 613,
+    "heRef_2": "תוספות על בכורות נט., א, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 160,
+    "heRef_2": "רש\"י על בכורות ה., י, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 165,
+    "heRef_2": "רש\"י על בכורות ה., טו, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 166,
+    "heRef_2": "רש\"י על בכורות ה., יח, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 186,
+    "heRef_2": "רש\"י על בכורות ה:, יב, א",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 219,
+    "heRef_2": "רש\"י על בכורות ו:, א, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 63,
+    "heRef_2": "תוספות על בכורות ו:, ז, ב",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 69,
+    "heRef_2": "תוספות על בכורות ז., ז, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 266,
+    "heRef_2": "רש\"י על בכורות ז:, ז, ב",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 79,
+    "heRef_2": "תוספות על בכורות ז:, טו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 79,
+    "heRef_2": "תוספות על בכורות ז:, טו, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 80,
+    "heRef_2": "תוספות על בכורות ז:, יט, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 310,
+    "heRef_2": "רש\"י על בכורות ח., יג, ד",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 83,
+    "heRef_2": "תוספות על בכורות ח., א, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 359,
+    "heRef_2": "רש\"י על בכורות ח:, יז, ג",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 384,
+    "heRef_2": "רש\"י על בכורות ט., ג, ד",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 414,
+    "heRef_2": "רש\"י על בכורות ט:, ו, ד",
+    "path_2": "רשי על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 101,
+    "heRef_2": "תוספות על בכורות ט:, ג, א",
+    "path_2": "תוספות על בכורות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 112,
     "line_index_2": 341,
     "heRef_2": "בכורות י., ה",
@@ -1531,810 +2336,5 @@
     "heRef_2": "בבא בתרא נח.,  א",
     "path_2": "בבא בתרא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 500,
-    "heRef_2": "רש\"י על בכורות יא., ז, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 516,
-    "heRef_2": "רש\"י על בכורות יא., כא, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 532,
-    "heRef_2": "רש\"י על בכורות יא:, ז, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 126,
-    "line_index_2": 121,
-    "heRef_2": "תוספות על בכורות יא:, ב, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 605,
-    "heRef_2": "רש\"י על בכורות יב:, כו, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 132,
-    "heRef_2": "תוספות על בכורות יב:, ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 167,
-    "heRef_2": "תוספות על בכורות טו., ו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 902,
-    "heRef_2": "רש\"י על בכורות יט., ד, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 216,
-    "heRef_2": "תוספות על בכורות כא., ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 216,
-    "heRef_2": "תוספות על בכורות כא., ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 216,
-    "heRef_2": "תוספות על בכורות כא., ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 234,
-    "heRef_2": "תוספות על בכורות כב., יא, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 260,
-    "heRef_2": "תוספות על בכורות כד:, ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 260,
-    "heRef_2": "תוספות על בכורות כד:, ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 169,
-    "line_index_2": 265,
-    "heRef_2": "תוספות על בכורות כה., ו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 279,
-    "heRef_2": "תוספות על בכורות כו:, יא, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 291,
-    "heRef_2": "תוספות על בכורות כז:, א, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 177,
-    "line_index_2": 296,
-    "heRef_2": "תוספות על בכורות כח., ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 296,
-    "heRef_2": "תוספות על בכורות כח., ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 1323,
-    "heRef_2": "רש\"י על בכורות כט., י, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 185,
-    "line_index_2": 311,
-    "heRef_2": "תוספות על בכורות כט., יג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 45,
-    "heRef_2": "רש\"י על בכורות ב:, טו, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 12,
-    "heRef_2": "תוספות על בכורות ב:, א, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 16,
-    "heRef_2": "תוספות על בכורות ב:, יט, ג",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 16,
-    "heRef_2": "תוספות על בכורות ב:, יט, ג",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 194,
-    "line_index_2": 327,
-    "heRef_2": "תוספות על בכורות לא., יב, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 1472,
-    "heRef_2": "רש\"י על בכורות לב., ה, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 201,
-    "line_index_2": 347,
-    "heRef_2": "תוספות על בכורות לג:, ה, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 1573,
-    "heRef_2": "רש\"י על בכורות לד:, ד, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 205,
-    "line_index_2": 1641,
-    "heRef_2": "רש\"י על בכורות לה:, ב, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 1643,
-    "heRef_2": "רש\"י על בכורות לה:, ב, ג",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 381,
-    "heRef_2": "תוספות על בכורות לו., טו, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 385,
-    "heRef_2": "תוספות על בכורות לו:, ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 216,
-    "line_index_2": 385,
-    "heRef_2": "תוספות על בכורות לו:, ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 411,
-    "heRef_2": "תוספות על בכורות לח:, ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 412,
-    "heRef_2": "תוספות על בכורות לח:, ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 226,
-    "line_index_2": 1891,
-    "heRef_2": "רש\"י על בכורות לט., ו, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 227,
-    "line_index_2": 1914,
-    "heRef_2": "רש\"י על בכורות לט., יט, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 26,
-    "heRef_2": "תוספות על בכורות ג:, טו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 82,
-    "heRef_2": "רש\"י על בכורות ג:, א, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 25,
-    "heRef_2": "תוספות על בכורות ג:, יב, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 25,
-    "heRef_2": "תוספות על בכורות ג:, יב, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 25,
-    "heRef_2": "תוספות על בכורות ג:, יב, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 241,
-    "line_index_2": 436,
-    "heRef_2": "תוספות על בכורות מא:, ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 250,
-    "line_index_2": 2127,
-    "heRef_2": "רש\"י על בכורות מב:, ט, ד",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 251,
-    "line_index_2": 2129,
-    "heRef_2": "רש\"י על בכורות מב:, יב, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 2157,
-    "heRef_2": "רש\"י על בכורות מג., יג, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 449,
-    "heRef_2": "תוספות על בכורות מג., יב, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 258,
-    "line_index_2": 450,
-    "heRef_2": "תוספות על בכורות מג., טו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 263,
-    "line_index_2": 454,
-    "heRef_2": "תוספות על בכורות מג:, יז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 269,
-    "line_index_2": 2281,
-    "heRef_2": "רש\"י על בכורות מד:, י, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 270,
-    "line_index_2": 2295,
-    "heRef_2": "רש\"י על בכורות מד:, טו, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 271,
-    "line_index_2": 460,
-    "heRef_2": "תוספות על בכורות מד:, ב, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 272,
-    "line_index_2": 461,
-    "heRef_2": "תוספות על בכורות מד:, ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 273,
-    "line_index_2": 461,
-    "heRef_2": "תוספות על בכורות מד:, ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 277,
-    "line_index_2": 2340,
-    "heRef_2": "רש\"י על בכורות מה:, ה, ג",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 281,
-    "line_index_2": 479,
-    "heRef_2": "תוספות על בכורות מו., ז, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 282,
-    "line_index_2": 480,
-    "heRef_2": "תוספות על בכורות מו., י, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 284,
-    "line_index_2": 484,
-    "heRef_2": "תוספות על בכורות מו:, ח, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 288,
-    "line_index_2": 2437,
-    "heRef_2": "רש\"י על בכורות מז., כב, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 290,
-    "line_index_2": 497,
-    "heRef_2": "תוספות על בכורות מז:, יג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 292,
-    "line_index_2": 503,
-    "heRef_2": "תוספות על בכורות מח., ח, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 293,
-    "line_index_2": 503,
-    "heRef_2": "תוספות על בכורות מח., ח, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 294,
-    "line_index_2": 503,
-    "heRef_2": "תוספות על בכורות מח., ח, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 295,
-    "line_index_2": 503,
-    "heRef_2": "תוספות על בכורות מח., ח, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 298,
-    "line_index_2": 2544,
-    "heRef_2": "רש\"י על בכורות מט:, יב, ג",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 299,
-    "line_index_2": 2545,
-    "heRef_2": "רש\"י על בכורות מט:, יב, ד",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 300,
-    "line_index_2": 522,
-    "heRef_2": "תוספות על בכורות מט:, יב, ג",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 120,
-    "heRef_2": "רש\"י על בכורות ד., ח, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 30,
-    "heRef_2": "תוספות על בכורות ד., ד, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 31,
-    "heRef_2": "תוספות על בכורות ד., ה, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 31,
-    "heRef_2": "תוספות על בכורות ד., ה, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 35,
-    "heRef_2": "תוספות על בכורות ד., י, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 135,
-    "heRef_2": "רש\"י על בכורות ד:, ט, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 38,
-    "heRef_2": "תוספות על בכורות ד:, ד, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 42,
-    "heRef_2": "תוספות על בכורות ד:, כד, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 309,
-    "line_index_2": 2586,
-    "heRef_2": "רש\"י על בכורות נ:, י, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 314,
-    "line_index_2": 2591,
-    "heRef_2": "רש\"י על בכורות נא., ג, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 315,
-    "line_index_2": 2593,
-    "heRef_2": "רש\"י על בכורות נא., ה, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 316,
-    "line_index_2": 2608,
-    "heRef_2": "רש\"י על בכורות נא., טו, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 319,
-    "line_index_2": 540,
-    "heRef_2": "תוספות על בכורות נא:, יב, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 321,
-    "line_index_2": 542,
-    "heRef_2": "תוספות על בכורות נב., ד, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 322,
-    "line_index_2": 543,
-    "heRef_2": "תוספות על בכורות נב., ד, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 324,
-    "line_index_2": 2678,
-    "heRef_2": "רש\"י על בכורות נג., ה, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 326,
-    "line_index_2": 566,
-    "heRef_2": "תוספות על בכורות נד., ד, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 327,
-    "line_index_2": 566,
-    "heRef_2": "תוספות על בכורות נד., ד, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 329,
-    "line_index_2": 2749,
-    "heRef_2": "רש\"י על בכורות נד:, יד, ג",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 332,
-    "line_index_2": 2786,
-    "heRef_2": "רש\"י על בכורות נה:, ו, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 333,
-    "line_index_2": 2788,
-    "heRef_2": "רש\"י על בכורות נה:, ז, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 334,
-    "line_index_2": 579,
-    "heRef_2": "תוספות על בכורות נה:, ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 335,
-    "line_index_2": 580,
-    "heRef_2": "תוספות על בכורות נה:, ה, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 336,
-    "line_index_2": 584,
-    "heRef_2": "תוספות על בכורות נה:, ו, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 341,
-    "line_index_2": 600,
-    "heRef_2": "תוספות על בכורות נז., יח, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 346,
-    "line_index_2": 602,
-    "heRef_2": "תוספות על בכורות נז:, ו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 347,
-    "line_index_2": 602,
-    "heRef_2": "תוספות על בכורות נז:, ו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 348,
-    "line_index_2": 602,
-    "heRef_2": "תוספות על בכורות נז:, ו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 350,
-    "line_index_2": 2894,
-    "heRef_2": "רש\"י על בכורות נח., ב, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 355,
-    "line_index_2": 613,
-    "heRef_2": "תוספות על בכורות נט., א, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 160,
-    "heRef_2": "רש\"י על בכורות ה., י, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 165,
-    "heRef_2": "רש\"י על בכורות ה., טו, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 166,
-    "heRef_2": "רש\"י על בכורות ה., יח, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 186,
-    "heRef_2": "רש\"י על בכורות ה:, יב, א",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 219,
-    "heRef_2": "רש\"י על בכורות ו:, א, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 63,
-    "heRef_2": "תוספות על בכורות ו:, ז, ב",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 69,
-    "heRef_2": "תוספות על בכורות ז., ז, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 266,
-    "heRef_2": "רש\"י על בכורות ז:, ז, ב",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 79,
-    "heRef_2": "תוספות על בכורות ז:, טו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 79,
-    "heRef_2": "תוספות על בכורות ז:, טו, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 80,
-    "heRef_2": "תוספות על בכורות ז:, יט, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 310,
-    "heRef_2": "רש\"י על בכורות ח., יג, ד",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 83,
-    "heRef_2": "תוספות על בכורות ח., א, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 359,
-    "heRef_2": "רש\"י על בכורות ח:, יז, ג",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 384,
-    "heRef_2": "רש\"י על בכורות ט., ג, ד",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 414,
-    "heRef_2": "רש\"י על בכורות ט:, ו, ד",
-    "path_2": "רשי על בכורות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 101,
-    "heRef_2": "תוספות על בכורות ט:, ג, א",
-    "path_2": "תוספות על בכורות.txt",
-    "Conection Type": "commentary"
   }
 ]

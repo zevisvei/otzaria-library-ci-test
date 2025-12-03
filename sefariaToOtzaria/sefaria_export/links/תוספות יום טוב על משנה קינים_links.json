@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 80,
-    "line_index_2": 821,
-    "heRef_2": "שמות כח, לד",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 313,
-    "heRef_2": "ויקרא יב,  א",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 320,
-    "heRef_2": "ויקרא יב, ח",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 23,
     "line_index_2": 7,
     "heRef_2": "רש״ש על משנה קינים א, ג, א",
@@ -42,10 +21,38 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 43,
+    "line_index_2": 313,
+    "heRef_2": "ויקרא יב,  א",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 320,
+    "heRef_2": "ויקרא יב, ח",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 11,
     "line_index_2": 184,
     "heRef_2": "מעילה ח., ג",
     "path_2": "מעילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 2824,
+    "heRef_2": "זבחים פז.,  א",
+    "path_2": "זבחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 821,
+    "heRef_2": "שמות כח, לד",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -467,12 +474,5 @@
     "heRef_2": "משנה קינים ג, ו",
     "path_2": "משנה קינים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 2824,
-    "heRef_2": "זבחים פז.,  א",
-    "path_2": "זבחים.txt",
-    "Conection Type": ""
   }
 ]

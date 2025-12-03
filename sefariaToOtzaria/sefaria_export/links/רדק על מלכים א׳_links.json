@@ -8,13 +8,6 @@
   },
   {
     "line_index_1": 1075,
-    "line_index_2": 75,
-    "heRef_2": "נחמיה ד, א",
-    "path_2": "נחמיה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1075,
     "line_index_2": 441,
     "heRef_2": "דברי הימים א יא, ח",
     "path_2": "דברי הימים א.txt",
@@ -5969,5 +5962,19 @@
     "heRef_2": "מלכים א ט, ח",
     "path_2": "מלכים א.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1075,
+    "line_index_2": 75,
+    "heRef_2": "נחמיה ד, א",
+    "path_2": "נחמיה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 26,
+    "heRef_2": "משנה מעשרות ג, ו",
+    "path_2": "משנה מעשרות.txt",
+    "Conection Type": "related"
   }
 ]

@@ -1,9 +1,30 @@
 [
   {
-    "line_index_1": 1048,
-    "line_index_2": 972,
-    "heRef_2": "יחזקאל לז,  א",
-    "path_2": "יחזקאל.txt",
+    "line_index_1": 1044,
+    "line_index_2": 4172,
+    "heRef_2": "סנהדרין קז:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1034,
+    "line_index_2": 3853,
+    "heRef_2": "סנהדרין צט., ג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1044,
+    "line_index_2": 3875,
+    "heRef_2": "סנהדרין צט:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1054,
+    "line_index_2": 757,
+    "heRef_2": "מלכים א כא,  א",
+    "path_2": "מלכים א.txt",
     "Conection Type": ""
   },
   {
@@ -77,24 +98,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 1044,
-    "line_index_2": 4172,
-    "heRef_2": "סנהדרין קז:,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1034,
-    "line_index_2": 3853,
-    "heRef_2": "סנהדרין צט., ג",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1044,
-    "line_index_2": 3875,
-    "heRef_2": "סנהדרין צט:,  א",
-    "path_2": "סנהדרין.txt",
+    "line_index_1": 1054,
+    "line_index_2": 126,
+    "heRef_2": "קהלת ז, ד",
+    "path_2": "קהלת.txt",
     "Conection Type": ""
   },
   {
@@ -102,6 +109,20 @@
     "line_index_2": 1180,
     "heRef_2": "סוטה לה., ז",
     "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1034,
+    "line_index_2": 65,
+    "heRef_2": "תענית ד., ב",
+    "path_2": "תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1034,
+    "line_index_2": 100,
+    "heRef_2": "תענית ה.,  א",
+    "path_2": "תענית.txt",
     "Conection Type": ""
   },
   {
@@ -119,17 +140,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 1054,
-    "line_index_2": 126,
-    "heRef_2": "קהלת ז, ד",
-    "path_2": "קהלת.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 1038,
     "line_index_2": 2006,
     "heRef_2": "עירובין נד., ז",
     "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1048,
+    "line_index_2": 972,
+    "heRef_2": "יחזקאל לז,  א",
+    "path_2": "יחזקאל.txt",
     "Conection Type": ""
   },
   {
@@ -4205,26 +4226,5 @@
     "heRef_2": "משנה סנהדרין ט, ו",
     "path_2": "משנה סנהדרין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1054,
-    "line_index_2": 757,
-    "heRef_2": "מלכים א כא,  א",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1034,
-    "line_index_2": 65,
-    "heRef_2": "תענית ד., ב",
-    "path_2": "תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1034,
-    "line_index_2": 100,
-    "heRef_2": "תענית ה.,  א",
-    "path_2": "תענית.txt",
-    "Conection Type": ""
   }
 ]

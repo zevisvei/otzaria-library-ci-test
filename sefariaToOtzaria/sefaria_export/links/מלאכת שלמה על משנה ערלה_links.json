@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 112,
+    "line_index_2": 3036,
+    "heRef_2": "חולין צח., יח",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 1500,
+    "heRef_2": "עבודה זרה מט.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "משנה ערלה א, א",
@@ -803,19 +817,5 @@
     "heRef_2": "משנה ערלה ג, ט",
     "path_2": "משנה ערלה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 3036,
-    "heRef_2": "חולין צח., יח",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 1500,
-    "heRef_2": "עבודה זרה מט.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

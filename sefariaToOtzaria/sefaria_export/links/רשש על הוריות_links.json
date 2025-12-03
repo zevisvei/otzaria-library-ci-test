@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 147,
-    "line_index_2": 845,
-    "heRef_2": "ברכות יז.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 109,
     "line_index_2": 455,
     "heRef_2": "רש\"י על הוריות י., יח, א",
@@ -733,5 +726,12 @@
     "heRef_2": "הוריות ט:, ט",
     "path_2": "הוריות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 845,
+    "heRef_2": "ברכות יז.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
   }
 ]

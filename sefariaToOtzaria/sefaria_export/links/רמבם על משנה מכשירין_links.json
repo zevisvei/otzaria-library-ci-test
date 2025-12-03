@@ -1,5 +1,33 @@
 [
   {
+    "line_index_1": 21,
+    "line_index_2": 1131,
+    "heRef_2": "תהילים סט, טז",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 1400,
+    "heRef_2": "תהילים פ, ו",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 257,
+    "heRef_2": "ירמיהו ט, יז",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 496,
+    "heRef_2": "ישעיהו כה, ו",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 135,
     "line_index_2": 114,
     "heRef_2": "שופטים ד, יט",
@@ -35,6 +63,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 49,
+    "line_index_2": 710,
+    "heRef_2": "דברים כו, יב",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 910,
+    "heRef_2": "דברים לב, יד",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 139,
     "line_index_2": 2117,
     "heRef_2": "נדה נה:, ו",
@@ -49,31 +91,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 21,
-    "line_index_2": 1131,
-    "heRef_2": "תהילים סט, טז",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 1400,
-    "heRef_2": "תהילים פ, ו",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 710,
-    "heRef_2": "דברים כו, יב",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 910,
-    "heRef_2": "דברים לב, יד",
-    "path_2": "דברים.txt",
+    "line_index_1": 6,
+    "line_index_2": 751,
+    "heRef_2": "בבא מציעא כב:, ד",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   },
   {
@@ -677,26 +698,5 @@
     "heRef_2": "משנה מכשירין ו, ח",
     "path_2": "משנה מכשירין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 751,
-    "heRef_2": "בבא מציעא כב:, ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 496,
-    "heRef_2": "ישעיהו כה, ו",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 257,
-    "heRef_2": "ירמיהו ט, יז",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
   }
 ]

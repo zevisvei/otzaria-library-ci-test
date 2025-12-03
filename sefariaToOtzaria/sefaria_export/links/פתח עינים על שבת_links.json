@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 46,
-    "line_index_2": 1354,
-    "heRef_2": "מנחות מא., יב",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 1485,
-    "heRef_2": "מנחות מד., כ",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 286,
-    "line_index_2": 3486,
-    "heRef_2": "פסחים קיב:, יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 220,
     "line_index_2": 2404,
     "heRef_2": "שבת קב:, א",
@@ -5376,6 +5355,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 4,
+    "line_index_2": 1217,
+    "heRef_2": "גיטין מא.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 266,
     "line_index_2": 4280,
     "heRef_2": "חולין קלג.,  א",
@@ -5390,17 +5376,31 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 1217,
-    "heRef_2": "גיטין מא.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 113,
     "line_index_2": 1109,
     "heRef_2": "עבודה זרה לח., ב",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 3486,
+    "heRef_2": "פסחים קיב:, יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 1354,
+    "heRef_2": "מנחות מא., יב",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 1485,
+    "heRef_2": "מנחות מד., כ",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   }
 ]

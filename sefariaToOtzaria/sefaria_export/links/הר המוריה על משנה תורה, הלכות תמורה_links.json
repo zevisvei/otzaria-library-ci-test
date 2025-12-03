@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 8,
-    "line_index_2": 2449,
-    "heRef_2": "חולין פא.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 2912,
-    "heRef_2": "בבא מציעא צא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 42,
     "line_index_2": 13,
     "heRef_2": "משנה תורה, הלכות תמורה א, י",
@@ -936,5 +922,19 @@
     "heRef_2": "משנה תורה, הלכות תמורה ד, ט",
     "path_2": "משנה תורה, הלכות תמורה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 2449,
+    "heRef_2": "חולין פא.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 2912,
+    "heRef_2": "בבא מציעא צא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
   }
 ]

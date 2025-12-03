@@ -1,40 +1,5 @@
 [
   {
-    "line_index_1": 19,
-    "line_index_2": 435,
-    "heRef_2": "בראשית יז, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 50,
-    "heRef_2": "יונה ד, ח",
-    "path_2": "יונה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 186,
-    "line_index_2": 285,
-    "heRef_2": "ויקרא יא, כא",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 183,
-    "line_index_2": 612,
-    "heRef_2": "ויקרא כ, יח",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 1561,
-    "heRef_2": "ברכות לג.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 7,
     "line_index_2": 7,
     "heRef_2": "רש״ש על משנה מכשירין א, א, ג",
@@ -98,6 +63,41 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 87,
+    "line_index_2": 201,
+    "heRef_2": "הושע יג, טו",
+    "path_2": "הושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 50,
+    "heRef_2": "יונה ד, ח",
+    "path_2": "יונה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 1561,
+    "heRef_2": "ברכות לג.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 285,
+    "heRef_2": "ויקרא יא, כא",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 612,
+    "heRef_2": "ויקרא כ, יח",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 191,
     "line_index_2": 374,
     "heRef_2": "דברים יב, טז",
@@ -109,6 +109,20 @@
     "line_index_2": 833,
     "heRef_2": "דברים כט, יח",
     "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 196,
+    "heRef_2": "זכריה יג, א",
+    "path_2": "זכריה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 435,
+    "heRef_2": "בראשית יז, יט",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
@@ -1181,19 +1195,5 @@
     "heRef_2": "משנה מכשירין ו, ח",
     "path_2": "משנה מכשירין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 201,
-    "heRef_2": "הושע יג, טו",
-    "path_2": "הושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 183,
-    "line_index_2": 196,
-    "heRef_2": "זכריה יג, א",
-    "path_2": "זכריה.txt",
-    "Conection Type": ""
   }
 ]

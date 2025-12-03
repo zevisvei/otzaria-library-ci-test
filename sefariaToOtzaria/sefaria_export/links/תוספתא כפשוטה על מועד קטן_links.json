@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 122,
-    "line_index_2": 117,
-    "heRef_2": "יחזקאל ו, יא",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 3958,
-    "heRef_2": "שולחן ערוך, אורח חיים תקמו,  א",
-    "path_2": "שולחן ערוך, אורח חיים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 1718,
-    "heRef_2": "פסחים נה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 29,
     "line_index_2": 998,
     "heRef_2": "תהילים סב, ד",
@@ -28,25 +7,11 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 7,
-    "line_index_2": 335,
-    "heRef_2": "דברים יא, י",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 3,
-    "heRef_2": "משנה שקלים א, א",
-    "path_2": "משנה שקלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 183,
-    "heRef_2": "בבא בתרא ח.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
+    "line_index_1": 50,
+    "line_index_2": 33,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ד, ב",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 63,
@@ -67,6 +32,20 @@
     "line_index_2": 650,
     "heRef_2": "ישעיהו לב, יב",
     "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 335,
+    "heRef_2": "דברים יא, י",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 3958,
+    "heRef_2": "שולחן ערוך, אורח חיים תקמו,  א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
     "Conection Type": ""
   },
   {
@@ -707,11 +686,32 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 50,
-    "line_index_2": 33,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ד, ב",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "commentary"
+    "line_index_1": 99,
+    "line_index_2": 1718,
+    "heRef_2": "פסחים נה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 183,
+    "heRef_2": "בבא בתרא ח.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 117,
+    "heRef_2": "יחזקאל ו, יא",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 3,
+    "heRef_2": "משנה שקלים א, א",
+    "path_2": "משנה שקלים.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 5,

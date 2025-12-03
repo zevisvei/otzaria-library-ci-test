@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 417,
-    "line_index_2": 29,
-    "heRef_2": "בראשית א, כז",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 65,
     "line_index_2": 261,
     "heRef_2": "עבודה זרה י., א",
@@ -1863,8 +1856,8 @@
   },
   {
     "line_index_1": 372,
-    "line_index_2": 1185,
-    "heRef_2": "עבודה זרה מ., ג",
+    "line_index_2": 1184,
+    "heRef_2": "עבודה זרה מ., ב",
     "path_2": "עבודה זרה.txt",
     "Conection Type": "commentary"
   },
@@ -4711,6 +4704,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 832,
+    "line_index_2": 2064,
+    "heRef_2": "עבודה זרה סט., ו",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 825,
     "line_index_2": 2066,
     "heRef_2": "עבודה זרה סט., ח",
@@ -4733,6 +4733,20 @@
   },
   {
     "line_index_1": 822,
+    "line_index_2": 2066,
+    "heRef_2": "עבודה זרה סט., ח",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 833,
+    "line_index_2": 2066,
+    "heRef_2": "עבודה זרה סט., ח",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 834,
     "line_index_2": 2066,
     "heRef_2": "עבודה זרה סט., ח",
     "path_2": "עבודה זרה.txt",
@@ -4789,27 +4803,6 @@
   },
   {
     "line_index_1": 835,
-    "line_index_2": 2074,
-    "heRef_2": "עבודה זרה סט:, ב",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 834,
-    "line_index_2": 2074,
-    "heRef_2": "עבודה זרה סט:, ב",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 833,
-    "line_index_2": 2074,
-    "heRef_2": "עבודה זרה סט:, ב",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 832,
     "line_index_2": 2074,
     "heRef_2": "עבודה זרה סט:, ב",
     "path_2": "עבודה זרה.txt",
@@ -6193,5 +6186,12 @@
     "heRef_2": "עבודה זרה ט:, ד",
     "path_2": "עבודה זרה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 29,
+    "heRef_2": "בראשית א, כז",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

@@ -7,13 +7,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 306,
-    "line_index_2": 1801,
-    "heRef_2": "תהילים קד, א",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 679,
     "line_index_2": 252,
     "heRef_2": "דברים ח, א",
@@ -5626,5 +5619,12 @@
     "heRef_2": "דברים רבה ט, ט",
     "path_2": "דברים רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 1801,
+    "heRef_2": "תהילים קד, א",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
   }
 ]

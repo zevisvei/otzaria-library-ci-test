@@ -1,5 +1,33 @@
 [
   {
+    "line_index_1": 184,
+    "line_index_2": 795,
+    "heRef_2": "גיטין כז:, ו",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 1761,
+    "heRef_2": "גיטין נו.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 1795,
+    "heRef_2": "גיטין נו:, טז",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 786,
+    "line_index_2": 2075,
+    "heRef_2": "גיטין סד.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 665,
     "line_index_2": 735,
     "heRef_2": "קידושין כג:,  א",
@@ -28,17 +56,59 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 767,
-    "line_index_2": 1120,
-    "heRef_2": "מנחות לב:,  א",
-    "path_2": "מנחות.txt",
+    "line_index_1": 85,
+    "line_index_2": 3806,
+    "heRef_2": "חולין קכא:,  א",
+    "path_2": "חולין.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 780,
-    "line_index_2": 2249,
-    "heRef_2": "מנחות סד:,  א",
-    "path_2": "מנחות.txt",
+    "line_index_1": 184,
+    "line_index_2": 2974,
+    "heRef_2": "חולין צו., ה",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 419,
+    "line_index_2": 2974,
+    "heRef_2": "חולין צו., ה",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 426,
+    "heRef_2": "עבודה זרה טז.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 871,
+    "heRef_2": "עבודה זרה ל., ב",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 963,
+    "heRef_2": "עבודה זרה לג:,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 482,
+    "line_index_2": 1421,
+    "heRef_2": "עבודה זרה מז.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 1500,
+    "heRef_2": "עבודה זרה מט.,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
@@ -63,10 +133,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 310,
+    "line_index_2": 841,
+    "heRef_2": "שולחן ערוך, יורה דעה קא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 311,
     "line_index_2": 1098,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קא, י",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 843,
+    "heRef_2": "שולחן ערוך, יורה דעה קא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -77,10 +161,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 313,
+    "line_index_2": 853,
+    "heRef_2": "שולחן ערוך, יורה דעה קב, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 315,
     "line_index_2": 1124,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קג, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 856,
+    "heRef_2": "שולחן ערוך, יורה דעה קג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -91,6 +189,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 316,
+    "line_index_2": 859,
+    "heRef_2": "שולחן ערוך, יורה דעה קג, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 318,
     "line_index_2": 1131,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קד, א",
@@ -98,10 +203,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 318,
+    "line_index_2": 863,
+    "heRef_2": "שולחן ערוך, יורה דעה קד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 320,
     "line_index_2": 1140,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קה, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 867,
+    "heRef_2": "שולחן ערוך, יורה דעה קה, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -119,6 +238,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 321,
+    "line_index_2": 868,
+    "heRef_2": "שולחן ערוך, יורה דעה קה, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 322,
     "line_index_2": 3906,
     "heRef_2": "שפתי כהן על שולחן ערוך יורה דעה קה, ה,  א",
@@ -133,10 +259,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 323,
+    "line_index_2": 871,
+    "heRef_2": "שולחן ערוך, יורה דעה קה, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 324,
     "line_index_2": 1150,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קה, יג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 873,
+    "heRef_2": "שולחן ערוך, יורה דעה קה, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -147,10 +287,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 325,
+    "line_index_2": 875,
+    "heRef_2": "שולחן ערוך, יורה דעה קה, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 327,
     "line_index_2": 1175,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קז, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 885,
+    "heRef_2": "שולחן ערוך, יורה דעה קז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -161,10 +315,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 328,
+    "line_index_2": 885,
+    "heRef_2": "שולחן ערוך, יורה דעה קז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 330,
     "line_index_2": 1185,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קח, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 890,
+    "heRef_2": "שולחן ערוך, יורה דעה קח, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -175,10 +343,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 331,
+    "line_index_2": 893,
+    "heRef_2": "שולחן ערוך, יורה דעה קח, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 333,
     "line_index_2": 1190,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קט, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 896,
+    "heRef_2": "שולחן ערוך, יורה דעה קט, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -189,10 +371,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 26,
+    "line_index_2": 56,
+    "heRef_2": "שולחן ערוך, יורה דעה י, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 27,
     "line_index_2": 82,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה י, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 56,
+    "heRef_2": "שולחן ערוך, יורה דעה י, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -203,10 +399,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 28,
+    "line_index_2": 57,
+    "heRef_2": "שולחן ערוך, יורה דעה י, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 29,
     "line_index_2": 91,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה י, טו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 58,
+    "heRef_2": "שולחן ערוך, יורה דעה י, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -217,10 +427,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 30,
+    "line_index_2": 58,
+    "heRef_2": "שולחן ערוך, יורה דעה י, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 335,
     "line_index_2": 1196,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 902,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -231,10 +455,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 344,
+    "line_index_2": 906,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 345,
     "line_index_2": 1203,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, י",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 906,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -245,10 +483,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 346,
+    "line_index_2": 906,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 347,
     "line_index_2": 1204,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, יא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 906,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -259,10 +511,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 348,
+    "line_index_2": 906,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 349,
     "line_index_2": 1207,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, יד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 907,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -273,10 +539,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 350,
+    "line_index_2": 907,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 351,
     "line_index_2": 1208,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, טו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 907,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -294,10 +574,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 337,
+    "line_index_2": 903,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 338,
     "line_index_2": 1198,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 903,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -308,10 +602,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 339,
+    "line_index_2": 903,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 340,
     "line_index_2": 1198,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 903,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -322,6 +630,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 341,
+    "line_index_2": 903,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 342,
     "line_index_2": 1200,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, ז",
@@ -329,10 +644,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 342,
+    "line_index_2": 904,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 343,
     "line_index_2": 1202,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קי, ט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 905,
+    "heRef_2": "שולחן ערוך, יורה דעה קי, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -357,10 +686,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 355,
+    "line_index_2": 931,
+    "heRef_2": "שולחן ערוך, יורה דעה קיב, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 357,
     "line_index_2": 1234,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיג, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 937,
+    "heRef_2": "שולחן ערוך, יורה דעה קיג, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -371,10 +714,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 358,
+    "line_index_2": 950,
+    "heRef_2": "שולחן ערוך, יורה דעה קיג, טז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 360,
     "line_index_2": 1252,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיד, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 955,
+    "heRef_2": "שולחן ערוך, יורה דעה קיד, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -385,10 +742,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 361,
+    "line_index_2": 961,
+    "heRef_2": "שולחן ערוך, יורה דעה קיד, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 362,
     "line_index_2": 1262,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיד, יד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 961,
+    "heRef_2": "שולחן ערוך, יורה דעה קיד, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -406,10 +777,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 365,
+    "line_index_2": 965,
+    "heRef_2": "שולחן ערוך, יורה דעה קטו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 366,
     "line_index_2": 1268,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קטו, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 965,
+    "heRef_2": "שולחן ערוך, יורה דעה קטו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -420,6 +805,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 367,
+    "line_index_2": 966,
+    "heRef_2": "שולחן ערוך, יורה דעה קטו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 369,
     "line_index_2": 1281,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קטז, ב",
@@ -427,10 +819,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 369,
+    "line_index_2": 970,
+    "heRef_2": "שולחן ערוך, יורה דעה קטז, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 371,
     "line_index_2": 1290,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיז, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 371,
+    "line_index_2": 977,
+    "heRef_2": "שולחן ערוך, יורה דעה קיז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -455,10 +861,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 372,
+    "line_index_2": 977,
+    "heRef_2": "שולחן ערוך, יורה דעה קיז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 374,
     "line_index_2": 1294,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיח, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 979,
+    "heRef_2": "שולחן ערוך, יורה דעה קיח, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -469,10 +889,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 375,
+    "line_index_2": 979,
+    "heRef_2": "שולחן ערוך, יורה דעה קיח, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 376,
     "line_index_2": 1296,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיח, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 980,
+    "heRef_2": "שולחן ערוך, יורה דעה קיח, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -483,10 +917,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 377,
+    "line_index_2": 985,
+    "heRef_2": "שולחן ערוך, יורה דעה קיח, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 379,
     "line_index_2": 1308,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיט, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 994,
+    "heRef_2": "שולחן ערוך, יורה דעה קיט, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -504,10 +952,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 381,
+    "line_index_2": 996,
+    "heRef_2": "שולחן ערוך, יורה דעה קיט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 382,
     "line_index_2": 1312,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיט, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 997,
+    "heRef_2": "שולחן ערוך, יורה דעה קיט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -518,10 +980,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 383,
+    "line_index_2": 999,
+    "heRef_2": "שולחן ערוך, יורה דעה קיט, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 384,
     "line_index_2": 1316,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיט, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 1005,
+    "heRef_2": "שולחן ערוך, יורה דעה קיט, יג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -532,10 +1008,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 385,
+    "line_index_2": 1006,
+    "heRef_2": "שולחן ערוך, יורה דעה קיט, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 386,
     "line_index_2": 1322,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קיט, יח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 386,
+    "line_index_2": 1011,
+    "heRef_2": "שולחן ערוך, יורה דעה קיט, יט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -546,10 +1036,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 32,
+    "line_index_2": 60,
+    "heRef_2": "שולחן ערוך, יורה דעה יא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 388,
     "line_index_2": 1327,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכ, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 1015,
+    "heRef_2": "שולחן ערוך, יורה דעה קכ, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -560,10 +1064,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 389,
+    "line_index_2": 1018,
+    "heRef_2": "שולחן ערוך, יורה דעה קכ, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 391,
     "line_index_2": 1344,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכא, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 391,
+    "line_index_2": 1032,
+    "heRef_2": "שולחן ערוך, יורה דעה קכא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -581,10 +1099,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 394,
+    "line_index_2": 1047,
+    "heRef_2": "שולחן ערוך, יורה דעה קכב, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 396,
     "line_index_2": 1367,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכג, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 1060,
+    "heRef_2": "שולחן ערוך, יורה דעה קכג, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -595,10 +1127,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 397,
+    "line_index_2": 1072,
+    "heRef_2": "שולחן ערוך, יורה דעה קכג, כא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 398,
     "line_index_2": 1375,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכג, טו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 1072,
+    "heRef_2": "שולחן ערוך, יורה דעה קכג, כא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -609,10 +1155,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 399,
+    "line_index_2": 1072,
+    "heRef_2": "שולחן ערוך, יורה דעה קכג, כא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 400,
     "line_index_2": 1377,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכג, יז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 400,
+    "line_index_2": 1073,
+    "heRef_2": "שולחן ערוך, יורה דעה קכג, כב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -623,10 +1183,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 401,
+    "line_index_2": 1073,
+    "heRef_2": "שולחן ערוך, יורה דעה קכג, כב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 402,
     "line_index_2": 1378,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכג, יח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 1077,
+    "heRef_2": "שולחן ערוך, יורה דעה קכג, כו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -637,10 +1211,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 404,
+    "line_index_2": 1080,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 413,
     "line_index_2": 1397,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, יח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 1097,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -651,10 +1239,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 414,
+    "line_index_2": 1099,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, כא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 415,
     "line_index_2": 1404,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, כה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 1101,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, כג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -665,10 +1267,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 416,
+    "line_index_2": 1102,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, כד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 417,
     "line_index_2": 1409,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, ל",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 1102,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, כד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -679,6 +1295,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 418,
+    "line_index_2": 1102,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, כד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 419,
     "line_index_2": 1411,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, לב",
@@ -686,10 +1309,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 419,
+    "line_index_2": 1102,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, כד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 420,
     "line_index_2": 1412,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, לג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 1102,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, כד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -707,10 +1344,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 405,
+    "line_index_2": 1092,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 406,
     "line_index_2": 1392,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, יג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 1092,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -721,10 +1372,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 407,
+    "line_index_2": 1095,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 408,
     "line_index_2": 1394,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, טו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 1095,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -735,10 +1400,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 409,
+    "line_index_2": 1097,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 410,
     "line_index_2": 1396,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, יז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 1097,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -749,10 +1428,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 411,
+    "line_index_2": 1097,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 412,
     "line_index_2": 1397,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכד, יח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 1097,
+    "heRef_2": "שולחן ערוך, יורה דעה קכד, יט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -763,10 +1456,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 423,
+    "line_index_2": 1107,
+    "heRef_2": "שולחן ערוך, יורה דעה קכה, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 424,
     "line_index_2": 1420,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכה, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 1107,
+    "heRef_2": "שולחן ערוך, יורה דעה קכה, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -777,10 +1484,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 425,
+    "line_index_2": 1113,
+    "heRef_2": "שולחן ערוך, יורה דעה קכה, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 427,
     "line_index_2": 1431,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכו, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 1120,
+    "heRef_2": "שולחן ערוך, יורה דעה קכו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -826,6 +1547,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 434,
+    "line_index_2": 1127,
+    "heRef_2": "שולחן ערוך, יורה דעה קכז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 435,
     "line_index_2": 1444,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכז, ו",
@@ -833,10 +1561,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 435,
+    "line_index_2": 1129,
+    "heRef_2": "שולחן ערוך, יורה דעה קכז, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 436,
     "line_index_2": 1445,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכז, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 436,
+    "line_index_2": 1129,
+    "heRef_2": "שולחן ערוך, יורה דעה קכז, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -854,6 +1596,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 439,
+    "line_index_2": 1133,
+    "heRef_2": "שולחן ערוך, יורה דעה קכח, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 441,
     "line_index_2": 1143,
     "heRef_2": "שולחן ערוך, יורה דעה קכט, ו",
@@ -868,10 +1617,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 442,
+    "line_index_2": 1148,
+    "heRef_2": "שולחן ערוך, יורה דעה קכט, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 443,
     "line_index_2": 1481,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכט, כה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 443,
+    "line_index_2": 1153,
+    "heRef_2": "שולחן ערוך, יורה דעה קכט, טז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -889,10 +1652,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 445,
+    "line_index_2": 1154,
+    "heRef_2": "שולחן ערוך, יורה דעה קכט, יז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 446,
     "line_index_2": 1483,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קכט, כז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 446,
+    "line_index_2": 1155,
+    "heRef_2": "שולחן ערוך, יורה דעה קכט, יח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -903,10 +1680,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 447,
+    "line_index_2": 1157,
+    "heRef_2": "שולחן ערוך, יורה דעה קכט, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 449,
     "line_index_2": 1490,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קל, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 449,
+    "line_index_2": 1159,
+    "heRef_2": "שולחן ערוך, יורה דעה קל, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -917,10 +1708,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 451,
+    "line_index_2": 1170,
+    "heRef_2": "שולחן ערוך, יורה דעה קלא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 452,
     "line_index_2": 1507,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קלא, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 452,
+    "line_index_2": 1171,
+    "heRef_2": "שולחן ערוך, יורה דעה קלא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -931,10 +1736,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 454,
+    "line_index_2": 1173,
+    "heRef_2": "שולחן ערוך, יורה דעה קלב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 455,
     "line_index_2": 1515,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קלב, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 1174,
+    "heRef_2": "שולחן ערוך, יורה דעה קלב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -952,10 +1771,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 458,
+    "line_index_2": 1183,
+    "heRef_2": "שולחן ערוך, יורה דעה קלג, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 459,
     "line_index_2": 1526,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קלג, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 459,
+    "line_index_2": 1183,
+    "heRef_2": "שולחן ערוך, יורה דעה קלג, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -966,10 +1799,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 461,
+    "line_index_2": 1191,
+    "heRef_2": "שולחן ערוך, יורה דעה קלד, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 462,
     "line_index_2": 1540,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קלד, י",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 462,
+    "line_index_2": 1198,
+    "heRef_2": "שולחן ערוך, יורה דעה קלד, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -980,6 +1827,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 463,
+    "line_index_2": 1199,
+    "heRef_2": "שולחן ערוך, יורה דעה קלד, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 465,
     "line_index_2": 1551,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קלה, ט",
@@ -987,10 +1841,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 465,
+    "line_index_2": 1209,
+    "heRef_2": "שולחן ערוך, יורה דעה קלה, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 466,
     "line_index_2": 1557,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קלה, טו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 466,
+    "line_index_2": 1214,
+    "heRef_2": "שולחן ערוך, יורה דעה קלה, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1008,10 +1876,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 469,
+    "line_index_2": 1224,
+    "heRef_2": "שולחן ערוך, יורה דעה קלז, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 471,
     "line_index_2": 1577,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קלח, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 471,
+    "line_index_2": 1229,
+    "heRef_2": "שולחן ערוך, יורה דעה קלח, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1022,10 +1904,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 473,
+    "line_index_2": 1241,
+    "heRef_2": "שולחן ערוך, יורה דעה קלט, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 34,
     "line_index_2": 106,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה יג, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 69,
+    "heRef_2": "שולחן ערוך, יורה דעה יג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1036,10 +1932,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 35,
+    "line_index_2": 69,
+    "heRef_2": "שולחן ערוך, יורה דעה יג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 36,
     "line_index_2": 109,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה יג, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 69,
+    "heRef_2": "שולחן ערוך, יורה דעה יג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1050,10 +1960,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 475,
+    "line_index_2": 1262,
+    "heRef_2": "שולחן ערוך, יורה דעה קמא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 476,
     "line_index_2": 1613,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קמא, יג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 476,
+    "line_index_2": 1262,
+    "heRef_2": "שולחן ערוך, יורה דעה קמא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1071,10 +1995,24 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 478,
+    "line_index_2": 1270,
+    "heRef_2": "שולחן ערוך, יורה דעה קמב, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 480,
     "line_index_2": 1644,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קמד, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 480,
+    "line_index_2": 1291,
+    "heRef_2": "שולחן ערוך, יורה דעה קמד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1085,10 +2023,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 482,
+    "line_index_2": 1294,
+    "heRef_2": "שולחן ערוך, יורה דעה קמה, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 484,
     "line_index_2": 1667,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קמו, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 1318,
+    "heRef_2": "שולחן ערוך, יורה דעה קמו, טו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1099,10 +2051,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 486,
+    "line_index_2": 1326,
+    "heRef_2": "שולחן ערוך, יורה דעה קמח, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 487,
     "line_index_2": 1676,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קמח, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 487,
+    "line_index_2": 1330,
+    "heRef_2": "שולחן ערוך, יורה דעה קמח, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1113,10 +2079,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 488,
+    "line_index_2": 1335,
+    "heRef_2": "שולחן ערוך, יורה דעה קמח, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 38,
     "line_index_2": 121,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה יד, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 79,
+    "heRef_2": "שולחן ערוך, יורה דעה יד, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1127,10 +2107,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 39,
+    "line_index_2": 80,
+    "heRef_2": "שולחן ערוך, יורה דעה יד, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 490,
     "line_index_2": 1700,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קנב, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 490,
+    "line_index_2": 1364,
+    "heRef_2": "שולחן ערוך, יורה דעה קנב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1141,6 +2135,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 492,
+    "line_index_2": 1369,
+    "heRef_2": "שולחן ערוך, יורה דעה קנג, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 494,
     "line_index_2": 1709,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קנד, א",
@@ -1148,10 +2149,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 494,
+    "line_index_2": 1372,
+    "heRef_2": "שולחן ערוך, יורה דעה קנד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 496,
     "line_index_2": 1733,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קנח, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 1387,
+    "heRef_2": "שולחן ערוך, יורה דעה קנח, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1169,10 +2184,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 41,
+    "line_index_2": 82,
+    "heRef_2": "שולחן ערוך, יורה דעה טו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 42,
     "line_index_2": 127,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה טו, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 83,
+    "heRef_2": "שולחן ערוך, יורה דעה טו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1183,10 +2212,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 43,
+    "line_index_2": 84,
+    "heRef_2": "שולחן ערוך, יורה דעה טו, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 500,
     "line_index_2": 1742,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קס, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 500,
+    "line_index_2": 1401,
+    "heRef_2": "שולחן ערוך, יורה דעה קס, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1197,10 +2240,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 501,
+    "line_index_2": 1401,
+    "heRef_2": "שולחן ערוך, יורה דעה קס, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 502,
     "line_index_2": 1749,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קס, יא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 502,
+    "line_index_2": 1409,
+    "heRef_2": "שולחן ערוך, יורה דעה קס, טז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1211,6 +2268,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 503,
+    "line_index_2": 1410,
+    "heRef_2": "שולחן ערוך, יורה דעה קס, יז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 504,
     "line_index_2": 1754,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קס, טז",
@@ -1218,10 +2282,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 504,
+    "line_index_2": 1411,
+    "heRef_2": "שולחן ערוך, יורה דעה קס, יח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 505,
     "line_index_2": 1760,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קס, כב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 505,
+    "line_index_2": 1416,
+    "heRef_2": "שולחן ערוך, יורה דעה קס, כג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1239,10 +2317,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 509,
+    "line_index_2": 1428,
+    "heRef_2": "שולחן ערוך, יורה דעה קסא, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 511,
     "line_index_2": 1775,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסב, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 1431,
+    "heRef_2": "שולחן ערוך, יורה דעה קסב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1253,10 +2345,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 512,
+    "line_index_2": 1431,
+    "heRef_2": "שולחן ערוך, יורה דעה קסב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 513,
     "line_index_2": 1779,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסב, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 1434,
+    "heRef_2": "שולחן ערוך, יורה דעה קסב, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1267,10 +2373,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 514,
+    "line_index_2": 1434,
+    "heRef_2": "שולחן ערוך, יורה דעה קסב, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 516,
     "line_index_2": 1789,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסג, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 516,
+    "line_index_2": 1438,
+    "heRef_2": "שולחן ערוך, יורה דעה קסג, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1281,10 +2401,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 518,
+    "line_index_2": 1441,
+    "heRef_2": "שולחן ערוך, יורה דעה קסד, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 520,
     "line_index_2": 1798,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסה, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 1445,
+    "heRef_2": "שולחן ערוך, יורה דעה קסה, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1295,10 +2429,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 522,
+    "line_index_2": 1447,
+    "heRef_2": "שולחן ערוך, יורה דעה קסו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 523,
     "line_index_2": 1804,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסו, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 523,
+    "line_index_2": 1447,
+    "heRef_2": "שולחן ערוך, יורה דעה קסו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1309,10 +2457,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 525,
+    "line_index_2": 1451,
+    "heRef_2": "שולחן ערוך, יורה דעה קסז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 527,
     "line_index_2": 1821,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסח, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 527,
+    "line_index_2": 1462,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1323,10 +2485,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 536,
+    "line_index_2": 1477,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, כה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 528,
     "line_index_2": 1821,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסח, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 528,
+    "line_index_2": 1462,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1337,10 +2513,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 529,
+    "line_index_2": 1463,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 530,
     "line_index_2": 1826,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסח, יז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 530,
+    "line_index_2": 1464,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1351,10 +2541,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 531,
+    "line_index_2": 1465,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, יג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 532,
     "line_index_2": 1829,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסח, כ",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 1466,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1365,10 +2569,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 533,
+    "line_index_2": 1470,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, יח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 534,
     "line_index_2": 1835,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קסח, כו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 534,
+    "line_index_2": 1470,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, יח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1379,10 +2597,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 535,
+    "line_index_2": 1471,
+    "heRef_2": "שולחן ערוך, יורה דעה קסח, יט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 45,
     "line_index_2": 141,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה טז, יא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 93,
+    "heRef_2": "שולחן ערוך, יורה דעה טז, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1393,10 +2625,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 46,
+    "line_index_2": 94,
+    "heRef_2": "שולחן ערוך, יורה דעה טז, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 539,
     "line_index_2": 1850,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קע, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 1481,
+    "heRef_2": "שולחן ערוך, יורה דעה קע, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1407,10 +2653,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 540,
+    "line_index_2": 1482,
+    "heRef_2": "שולחן ערוך, יורה דעה קע, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 541,
     "line_index_2": 1853,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קע, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 541,
+    "line_index_2": 1482,
+    "heRef_2": "שולחן ערוך, יורה דעה קע, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1421,10 +2681,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 542,
+    "line_index_2": 1482,
+    "heRef_2": "שולחן ערוך, יורה דעה קע, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 544,
     "line_index_2": 1862,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעב, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 1486,
+    "heRef_2": "שולחן ערוך, יורה דעה קעב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1435,10 +2709,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 545,
+    "line_index_2": 1486,
+    "heRef_2": "שולחן ערוך, יורה דעה קעב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 547,
     "line_index_2": 1883,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעג, ט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 547,
+    "line_index_2": 1498,
+    "heRef_2": "שולחן ערוך, יורה דעה קעג, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1449,10 +2737,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 548,
+    "line_index_2": 1498,
+    "heRef_2": "שולחן ערוך, יורה דעה קעג, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 549,
     "line_index_2": 1886,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעג, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 549,
+    "line_index_2": 1499,
+    "heRef_2": "שולחן ערוך, יורה דעה קעג, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1463,10 +2765,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 550,
+    "line_index_2": 1506,
+    "heRef_2": "שולחן ערוך, יורה דעה קעג, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 551,
     "line_index_2": 1905,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעג, לא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 551,
+    "line_index_2": 1510,
+    "heRef_2": "שולחן ערוך, יורה דעה קעג, יח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1477,10 +2793,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 553,
+    "line_index_2": 1513,
+    "heRef_2": "שולחן ערוך, יורה דעה קעד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 555,
     "line_index_2": 1931,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעו, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 1536,
+    "heRef_2": "שולחן ערוך, יורה דעה קעו, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1491,10 +2821,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 556,
+    "line_index_2": 1536,
+    "heRef_2": "שולחן ערוך, יורה דעה קעו, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 558,
     "line_index_2": 1937,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעז, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 1541,
+    "heRef_2": "שולחן ערוך, יורה דעה קעז, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1505,10 +2849,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 559,
+    "line_index_2": 1544,
+    "heRef_2": "שולחן ערוך, יורה דעה קעז, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 560,
     "line_index_2": 1949,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעז, טו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 1546,
+    "heRef_2": "שולחן ערוך, יורה דעה קעז, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1519,6 +2877,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 561,
+    "line_index_2": 1548,
+    "heRef_2": "שולחן ערוך, יורה דעה קעז, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 562,
     "line_index_2": 1952,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעז, יח",
@@ -1526,10 +2891,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 562,
+    "line_index_2": 1549,
+    "heRef_2": "שולחן ערוך, יורה דעה קעז, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 563,
     "line_index_2": 1955,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קעז, כא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 563,
+    "line_index_2": 1555,
+    "heRef_2": "שולחן ערוך, יורה דעה קעז, טז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1568,10 +2947,24 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 567,
+    "line_index_2": 1641,
+    "heRef_2": "שולחן ערוך, יורה דעה קפד, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 568,
     "line_index_2": 2032,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפד, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 568,
+    "line_index_2": 1648,
+    "heRef_2": "שולחן ערוך, יורה דעה קפד, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1582,10 +2975,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 570,
+    "line_index_2": 1653,
+    "heRef_2": "שולחן ערוך, יורה דעה קפה, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 571,
     "line_index_2": 2039,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפה, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 1654,
+    "heRef_2": "שולחן ערוך, יורה דעה קפה, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1596,10 +3003,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 573,
+    "line_index_2": 1667,
+    "heRef_2": "שולחן ערוך, יורה דעה קפז, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 574,
     "line_index_2": 2051,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפז, י",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 574,
+    "line_index_2": 1668,
+    "heRef_2": "שולחן ערוך, יורה דעה קפז, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1610,10 +3031,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 575,
+    "line_index_2": 1673,
+    "heRef_2": "שולחן ערוך, יורה דעה קפז, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 576,
     "line_index_2": 2057,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפז, טז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 576,
+    "line_index_2": 1674,
+    "heRef_2": "שולחן ערוך, יורה דעה קפז, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1624,10 +3059,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 578,
+    "line_index_2": 1680,
+    "heRef_2": "שולחן ערוך, יורה דעה קפח, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 580,
     "line_index_2": 2072,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפט, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 580,
+    "line_index_2": 1689,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1638,10 +3087,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 589,
+    "line_index_2": 1710,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, כה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 590,
     "line_index_2": 2110,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפט, מג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 1712,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, כז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1652,10 +3115,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 591,
+    "line_index_2": 1714,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, כט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 592,
     "line_index_2": 2114,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפט, מז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 592,
+    "line_index_2": 1717,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, לב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1666,10 +3143,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 581,
+    "line_index_2": 1692,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 582,
     "line_index_2": 2078,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפט, יא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 582,
+    "line_index_2": 1694,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1680,10 +3171,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 583,
+    "line_index_2": 1698,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, יג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 584,
     "line_index_2": 2091,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפט, כד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 1698,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, יג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1694,10 +3199,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 585,
+    "line_index_2": 1699,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 586,
     "line_index_2": 2098,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפט, לא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 586,
+    "line_index_2": 1700,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, טו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1708,10 +3227,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 587,
+    "line_index_2": 1702,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, יז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 588,
     "line_index_2": 2105,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קפט, לח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 588,
+    "line_index_2": 1706,
+    "heRef_2": "שולחן ערוך, יורה דעה קפט, כא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1722,10 +3255,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 50,
+    "line_index_2": 113,
+    "heRef_2": "שולחן ערוך, יורה דעה יח, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 594,
     "line_index_2": 2122,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצ, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 594,
+    "line_index_2": 1722,
+    "heRef_2": "שולחן ערוך, יורה דעה קצ, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1736,10 +3283,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 603,
+    "line_index_2": 1774,
+    "heRef_2": "שולחן ערוך, יורה דעה קצ, נד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 595,
     "line_index_2": 2123,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצ, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 595,
+    "line_index_2": 1723,
+    "heRef_2": "שולחן ערוך, יורה דעה קצ, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1757,10 +3318,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 597,
+    "line_index_2": 1731,
+    "heRef_2": "שולחן ערוך, יורה דעה קצ, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 598,
     "line_index_2": 2135,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצ, יז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 598,
+    "line_index_2": 1745,
+    "heRef_2": "שולחן ערוך, יורה דעה קצ, כה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1771,10 +3346,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 599,
+    "line_index_2": 1747,
+    "heRef_2": "שולחן ערוך, יורה דעה קצ, כז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 601,
     "line_index_2": 2148,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצ, ל",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 601,
+    "line_index_2": 1760,
+    "heRef_2": "שולחן ערוך, יורה דעה קצ, מ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1785,10 +3374,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 602,
+    "line_index_2": 1772,
+    "heRef_2": "שולחן ערוך, יורה דעה קצ, נב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 605,
     "line_index_2": 2171,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצב, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 1780,
+    "heRef_2": "שולחן ערוך, יורה דעה קצב, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1799,10 +3402,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 606,
+    "line_index_2": 1781,
+    "heRef_2": "שולחן ערוך, יורה דעה קצב, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 608,
     "line_index_2": 2189,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצה, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 1805,
+    "heRef_2": "שולחן ערוך, יורה דעה קצה, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1813,10 +3430,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 609,
+    "line_index_2": 1812,
+    "heRef_2": "שולחן ערוך, יורה דעה קצה, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 611,
     "line_index_2": 2204,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצו, יא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 611,
+    "line_index_2": 1830,
+    "heRef_2": "שולחן ערוך, יורה דעה קצו, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1848,6 +3479,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 613,
+    "line_index_2": 1834,
+    "heRef_2": "שולחן ערוך, יורה דעה קצז, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 615,
     "line_index_2": 2235,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצח, כא",
@@ -1862,10 +3500,24 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 615,
+    "line_index_2": 1858,
+    "heRef_2": "שולחן ערוך, יורה דעה קצח, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 616,
     "line_index_2": 2245,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצח, לא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 616,
+    "line_index_2": 1869,
+    "heRef_2": "שולחן ערוך, יורה דעה קצח, לא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1876,10 +3528,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 617,
+    "line_index_2": 1873,
+    "heRef_2": "שולחן ערוך, יורה דעה קצח, לה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 619,
     "line_index_2": 2256,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה קצט, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 619,
+    "line_index_2": 1888,
+    "heRef_2": "שולחן ערוך, יורה דעה קצט, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1897,10 +3563,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 53,
+    "line_index_2": 128,
+    "heRef_2": "שולחן ערוך, יורה דעה יט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 4,
     "line_index_2": 5,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה א, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 4,
+    "heRef_2": "שולחן ערוך, יורה דעה א, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1911,10 +3591,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 5,
+    "line_index_2": 4,
+    "heRef_2": "שולחן ערוך, יורה דעה א, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 6,
     "line_index_2": 11,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה א, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 6,
+    "heRef_2": "שולחן ערוך, יורה דעה א, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1925,10 +3619,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 7,
+    "line_index_2": 6,
+    "heRef_2": "שולחן ערוך, יורה דעה א, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 8,
     "line_index_2": 25,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה א, כב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 16,
+    "heRef_2": "שולחן ערוך, יורה דעה א, יג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1939,10 +3647,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 621,
+    "line_index_2": 1908,
+    "heRef_2": "שולחן ערוך, יורה דעה רא, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 622,
     "line_index_2": 2291,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רא, יט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 622,
+    "line_index_2": 1913,
+    "heRef_2": "שולחן ערוך, יורה דעה רא, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1953,10 +3675,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 623,
+    "line_index_2": 1943,
+    "heRef_2": "שולחן ערוך, יורה דעה רא, מ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 624,
     "line_index_2": 2333,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רא, סא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 624,
+    "line_index_2": 1953,
+    "heRef_2": "שולחן ערוך, יורה דעה רא, נ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1974,6 +3710,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 627,
+    "line_index_2": 1985,
+    "heRef_2": "שולחן ערוך, יורה דעה רב, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 629,
     "line_index_2": 402,
     "heRef_2": "ראש השנה טז.,  א",
@@ -1988,10 +3731,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 629,
+    "line_index_2": 2004,
+    "heRef_2": "שולחן ערוך, יורה דעה רה, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 631,
     "line_index_2": 2402,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רח, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 2015,
+    "heRef_2": "שולחן ערוך, יורה דעה רח, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2002,10 +3759,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 633,
+    "line_index_2": 2020,
+    "heRef_2": "שולחן ערוך, יורה דעה רט, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 635,
     "line_index_2": 2409,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רי, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 635,
+    "line_index_2": 2022,
+    "heRef_2": "שולחן ערוך, יורה דעה רי, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2016,10 +3787,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 637,
+    "line_index_2": 2026,
+    "heRef_2": "שולחן ערוך, יורה דעה ריא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 638,
     "line_index_2": 2414,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ריא, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 638,
+    "line_index_2": 2026,
+    "heRef_2": "שולחן ערוך, יורה דעה ריא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2030,10 +3815,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 639,
+    "line_index_2": 2027,
+    "heRef_2": "שולחן ערוך, יורה דעה ריא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 641,
     "line_index_2": 2427,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רטו, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 641,
+    "line_index_2": 2042,
+    "heRef_2": "שולחן ערוך, יורה דעה רטו, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2044,10 +3843,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 642,
+    "line_index_2": 2042,
+    "heRef_2": "שולחן ערוך, יורה דעה רטו, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 644,
     "line_index_2": 2434,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רטז, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 644,
+    "line_index_2": 2047,
+    "heRef_2": "שולחן ערוך, יורה דעה רטז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2058,10 +3871,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 646,
+    "line_index_2": 2063,
+    "heRef_2": "שולחן ערוך, יורה דעה ריז, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 647,
     "line_index_2": 2449,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ריז, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 647,
+    "line_index_2": 2063,
+    "heRef_2": "שולחן ערוך, יורה דעה ריז, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2072,10 +3899,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 648,
+    "line_index_2": 2067,
+    "heRef_2": "שולחן ערוך, יורה דעה ריז, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 650,
     "line_index_2": 2489,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ריח, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 650,
+    "line_index_2": 2110,
+    "heRef_2": "שולחן ערוך, יורה דעה ריח, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2086,10 +3927,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 652,
+    "line_index_2": 2118,
+    "heRef_2": "שולחן ערוך, יורה דעה ריט, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 55,
     "line_index_2": 199,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה כא, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 142,
+    "heRef_2": "שולחן ערוך, יורה דעה כא, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2100,6 +3955,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 654,
+    "line_index_2": 2122,
+    "heRef_2": "שולחן ערוך, יורה דעה רכ, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 655,
     "line_index_2": 2496,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכ, ג",
@@ -2107,10 +3969,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 655,
+    "line_index_2": 2122,
+    "heRef_2": "שולחן ערוך, יורה דעה רכ, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 657,
     "line_index_2": 2515,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכא, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 657,
+    "line_index_2": 2144,
+    "heRef_2": "שולחן ערוך, יורה דעה רכא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2128,10 +4004,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 659,
+    "line_index_2": 2150,
+    "heRef_2": "שולחן ערוך, יורה דעה רכא, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 660,
     "line_index_2": 2547,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכא, לג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 660,
+    "line_index_2": 2150,
+    "heRef_2": "שולחן ערוך, יורה דעה רכא, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2149,10 +4039,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 662,
+    "line_index_2": 2153,
+    "heRef_2": "שולחן ערוך, יורה דעה רכא, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 663,
     "line_index_2": 2556,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכא, מב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 663,
+    "line_index_2": 2155,
+    "heRef_2": "שולחן ערוך, יורה דעה רכא, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2170,10 +4074,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 667,
+    "line_index_2": 2164,
+    "heRef_2": "שולחן ערוך, יורה דעה רכג, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 669,
     "line_index_2": 2574,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכו, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 669,
+    "line_index_2": 2170,
+    "heRef_2": "שולחן ערוך, יורה דעה רכו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2191,6 +4109,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 672,
+    "line_index_2": 2182,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 681,
     "line_index_2": 9250,
     "heRef_2": "שפתי כהן על שולחן ערוך יורה דעה רכח, קיא,  א",
@@ -2205,10 +4130,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 673,
+    "line_index_2": 2183,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 674,
     "line_index_2": 2611,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכח, כז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 674,
+    "line_index_2": 2197,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2219,10 +4158,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 675,
+    "line_index_2": 2197,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 676,
     "line_index_2": 2618,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכח, לד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 2197,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2233,10 +4186,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 677,
+    "line_index_2": 2214,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, לז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 678,
     "line_index_2": 2633,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכח, מט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 2217,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, מ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2247,10 +4214,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 679,
+    "line_index_2": 2218,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, מא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 680,
     "line_index_2": 2638,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכח, נד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 680,
+    "line_index_2": 2226,
+    "heRef_2": "שולחן ערוך, יורה דעה רכח, מט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2261,10 +4242,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 683,
+    "line_index_2": 2230,
+    "heRef_2": "שולחן ערוך, יורה דעה רכט, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 684,
     "line_index_2": 2649,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכט, י",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 684,
+    "line_index_2": 2232,
+    "heRef_2": "שולחן ערוך, יורה דעה רכט, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2275,10 +4270,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 685,
+    "line_index_2": 2236,
+    "heRef_2": "שולחן ערוך, יורה דעה רכט, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 686,
     "line_index_2": 2656,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רכט, יז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 686,
+    "line_index_2": 2237,
+    "heRef_2": "שולחן ערוך, יורה דעה רכט, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2289,10 +4298,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 57,
+    "line_index_2": 144,
+    "heRef_2": "שולחן ערוך, יורה דעה כב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 58,
     "line_index_2": 207,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה כב, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 144,
+    "heRef_2": "שולחן ערוך, יורה דעה כב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2303,10 +4326,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 688,
+    "line_index_2": 2245,
+    "heRef_2": "שולחן ערוך, יורה דעה רלב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 689,
     "line_index_2": 2682,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רלב, יט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 689,
+    "line_index_2": 2255,
+    "heRef_2": "שולחן ערוך, יורה דעה רלב, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2317,10 +4354,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 690,
+    "line_index_2": 2257,
+    "heRef_2": "שולחן ערוך, יורה דעה רלב, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 691,
     "line_index_2": 2697,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רלב, לד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 691,
+    "line_index_2": 2263,
+    "heRef_2": "שולחן ערוך, יורה דעה רלב, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2331,10 +4382,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 693,
+    "line_index_2": 2271,
+    "heRef_2": "שולחן ערוך, יורה דעה רלד, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 694,
     "line_index_2": 2738,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רלד, מ",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 694,
+    "line_index_2": 2312,
+    "heRef_2": "שולחן ערוך, יורה דעה רלד, מו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2352,10 +4417,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 696,
+    "line_index_2": 2334,
+    "heRef_2": "שולחן ערוך, יורה דעה רלד, סח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 697,
     "line_index_2": 2761,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רלד, סג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 697,
+    "line_index_2": 2337,
+    "heRef_2": "שולחן ערוך, יורה דעה רלד, עא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2366,10 +4445,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 699,
+    "line_index_2": 2353,
+    "heRef_2": "שולחן ערוך, יורה דעה רלו, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 700,
     "line_index_2": 2794,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רלו, יג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 700,
+    "line_index_2": 2354,
+    "heRef_2": "שולחן ערוך, יורה דעה רלו, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2380,6 +4473,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 702,
+    "line_index_2": 2393,
+    "heRef_2": "שולחן ערוך, יורה דעה רלט, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 703,
     "line_index_2": 2827,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רלט, ז",
@@ -2387,10 +4487,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 703,
+    "line_index_2": 2398,
+    "heRef_2": "שולחן ערוך, יורה דעה רלט, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 704,
     "line_index_2": 2832,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רלט, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 704,
+    "line_index_2": 2406,
+    "heRef_2": "שולחן ערוך, יורה דעה רלט, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2408,10 +4522,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 61,
+    "line_index_2": 152,
+    "heRef_2": "שולחן ערוך, יורה דעה כג, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 706,
     "line_index_2": 2840,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רמ, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 706,
+    "line_index_2": 2415,
+    "heRef_2": "שולחן ערוך, יורה דעה רמ, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2422,10 +4550,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 707,
+    "line_index_2": 2428,
+    "heRef_2": "שולחן ערוך, יורה דעה רמ, יח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 708,
     "line_index_2": 2854,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רמ, כ",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 708,
+    "line_index_2": 2434,
+    "heRef_2": "שולחן ערוך, יורה דעה רמ, כד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2436,10 +4578,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 710,
+    "line_index_2": 2462,
+    "heRef_2": "שולחן ערוך, יורה דעה רמב, טז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 711,
     "line_index_2": 2877,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רמב, יח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 711,
+    "line_index_2": 2477,
+    "heRef_2": "שולחן ערוך, יורה דעה רמב, לא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2457,10 +4613,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 715,
+    "line_index_2": 2589,
+    "heRef_2": "שולחן ערוך, יורה דעה רמט, יג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 63,
     "line_index_2": 220,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה כד, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 156,
+    "heRef_2": "שולחן ערוך, יורה דעה כד, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2478,10 +4648,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 65,
+    "line_index_2": 158,
+    "heRef_2": "שולחן ערוך, יורה דעה כד, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 66,
     "line_index_2": 223,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה כד, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 161,
+    "heRef_2": "שולחן ערוך, יורה דעה כד, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2499,6 +4683,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 68,
+    "line_index_2": 169,
+    "heRef_2": "שולחן ערוך, יורה דעה כד, טז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 717,
     "line_index_2": 2615,
     "heRef_2": "שולחן ערוך, יורה דעה רנב, א",
@@ -2513,10 +4704,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 719,
+    "line_index_2": 2628,
+    "heRef_2": "שולחן ערוך, יורה דעה רנג, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 721,
     "line_index_2": 2941,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רנד, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 721,
+    "line_index_2": 2642,
+    "heRef_2": "שולחן ערוך, יורה דעה רנד, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2534,6 +4739,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 724,
+    "line_index_2": 2664,
+    "heRef_2": "שולחן ערוך, יורה דעה רנז, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 726,
     "line_index_2": 2675,
     "heRef_2": "שולחן ערוך, יורה דעה רנח, י",
@@ -2548,10 +4760,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 728,
+    "line_index_2": 2684,
+    "heRef_2": "שולחן ערוך, יורה דעה רנט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 70,
     "line_index_2": 242,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה כה, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 175,
+    "heRef_2": "שולחן ערוך, יורה דעה כה, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2562,10 +4788,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 730,
+    "line_index_2": 2691,
+    "heRef_2": "שולחן ערוך, יורה דעה רסב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 731,
     "line_index_2": 2978,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רסב, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 731,
+    "line_index_2": 2692,
+    "heRef_2": "שולחן ערוך, יורה דעה רסב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2576,10 +4816,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 733,
+    "line_index_2": 2703,
+    "heRef_2": "שולחן ערוך, יורה דעה רסג, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 735,
     "line_index_2": 2985,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רסד, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 735,
+    "line_index_2": 2705,
+    "heRef_2": "שולחן ערוך, יורה דעה רסד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2590,10 +4844,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 736,
+    "line_index_2": 2705,
+    "heRef_2": "שולחן ערוך, יורה דעה רסד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 737,
     "line_index_2": 2988,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רסד, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 737,
+    "line_index_2": 2705,
+    "heRef_2": "שולחן ערוך, יורה דעה רסד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2604,10 +4872,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 738,
+    "line_index_2": 2710,
+    "heRef_2": "שולחן ערוך, יורה דעה רסד, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 740,
     "line_index_2": 3009,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רסו, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 740,
+    "line_index_2": 2727,
+    "heRef_2": "שולחן ערוך, יורה דעה רסו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2618,10 +4900,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 741,
+    "line_index_2": 2739,
+    "heRef_2": "שולחן ערוך, יורה דעה רסו, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 743,
     "line_index_2": 3034,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רסז, יד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 743,
+    "line_index_2": 2779,
+    "heRef_2": "שולחן ערוך, יורה דעה רסז, לט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2632,10 +4928,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 745,
+    "line_index_2": 2869,
+    "heRef_2": "שולחן ערוך, יורה דעה רעג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 747,
     "line_index_2": 3118,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה עדר, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 747,
+    "line_index_2": 2879,
+    "heRef_2": "שולחן ערוך, יורה דעה עדר, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2646,10 +4956,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 749,
+    "line_index_2": 2888,
+    "heRef_2": "שולחן ערוך, יורה דעה ערה, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 751,
     "line_index_2": 3134,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רעו, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 751,
+    "line_index_2": 2891,
+    "heRef_2": "שולחן ערוך, יורה דעה רעו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2667,10 +4991,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 754,
+    "line_index_2": 2904,
+    "heRef_2": "שולחן ערוך, יורה דעה רעז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 756,
     "line_index_2": 3149,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רעח, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 756,
+    "line_index_2": 2908,
+    "heRef_2": "שולחן ערוך, יורה דעה רעח, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2688,10 +5026,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 73,
+    "line_index_2": 182,
+    "heRef_2": "שולחן ערוך, יורה דעה כז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 759,
     "line_index_2": 3154,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רפ, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 759,
+    "line_index_2": 2917,
+    "heRef_2": "שולחן ערוך, יורה דעה רפ, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2709,6 +5061,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 761,
+    "line_index_2": 2917,
+    "heRef_2": "שולחן ערוך, יורה דעה רפ, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 763,
     "line_index_2": 3160,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רפא, א",
@@ -2716,10 +5075,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 763,
+    "line_index_2": 2920,
+    "heRef_2": "שולחן ערוך, יורה דעה רפא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 764,
     "line_index_2": 3164,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רפא, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 764,
+    "line_index_2": 2924,
+    "heRef_2": "שולחן ערוך, יורה דעה רפא, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2737,10 +5110,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 767,
+    "line_index_2": 2932,
+    "heRef_2": "שולחן ערוך, יורה דעה רפב, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 769,
     "line_index_2": 3184,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רפד, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 769,
+    "line_index_2": 2953,
+    "heRef_2": "שולחן ערוך, יורה דעה רפד, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2758,6 +5145,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 772,
+    "line_index_2": 2987,
+    "heRef_2": "שולחן ערוך, יורה דעה רפח, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 774,
     "line_index_2": 3002,
     "heRef_2": "שולחן ערוך, יורה דעה רפט, ב",
@@ -2772,10 +5166,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 775,
+    "line_index_2": 3002,
+    "heRef_2": "שולחן ערוך, יורה דעה רפט, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 75,
     "line_index_2": 261,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה כח, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 197,
+    "heRef_2": "שולחן ערוך, יורה דעה כח, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2786,6 +5194,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 76,
+    "line_index_2": 202,
+    "heRef_2": "שולחן ערוך, יורה דעה כח, יט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 77,
     "line_index_2": 266,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה כח, יז",
@@ -2793,10 +5208,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 77,
+    "line_index_2": 204,
+    "heRef_2": "שולחן ערוך, יורה דעה כח, כא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 777,
     "line_index_2": 3222,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רצ, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 777,
+    "line_index_2": 3008,
+    "heRef_2": "שולחן ערוך, יורה דעה רצ, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2821,10 +5250,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 780,
+    "line_index_2": 3030,
+    "heRef_2": "שולחן ערוך, יורה דעה רצג, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 782,
     "line_index_2": 3264,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה רצד, כג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 782,
+    "line_index_2": 3048,
+    "heRef_2": "שולחן ערוך, יורה דעה רצד, טו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2849,10 +5292,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 10,
+    "line_index_2": 20,
+    "heRef_2": "שולחן ערוך, יורה דעה ב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 11,
     "line_index_2": 33,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ב, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 21,
+    "heRef_2": "שולחן ערוך, יורה דעה ב, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2863,10 +5320,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 12,
+    "line_index_2": 22,
+    "heRef_2": "שולחן ערוך, יורה דעה ב, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 13,
     "line_index_2": 39,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ב, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 27,
+    "heRef_2": "שולחן ערוך, יורה דעה ב, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2877,10 +5348,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 14,
+    "line_index_2": 27,
+    "heRef_2": "שולחן ערוך, יורה דעה ב, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 15,
     "line_index_2": 41,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ב, יד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 28,
+    "heRef_2": "שולחן ערוך, יורה דעה ב, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2895,7 +5380,7 @@
     "line_index_2": 3245,
     "heRef_2": "שולחן ערוך, יורה דעה שה, י",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "related"
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 787,
@@ -2905,10 +5390,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 787,
+    "line_index_2": 3248,
+    "heRef_2": "שולחן ערוך, יורה דעה שה, יג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 789,
     "line_index_2": 3378,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שו, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 789,
+    "line_index_2": 3278,
+    "heRef_2": "שולחן ערוך, יורה דעה שו, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2926,6 +5425,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 791,
+    "line_index_2": 3300,
+    "heRef_2": "שולחן ערוך, יורה דעה שיב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 793,
     "line_index_2": 3409,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שיג, ב",
@@ -2933,10 +5439,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 793,
+    "line_index_2": 3305,
+    "heRef_2": "שולחן ערוך, יורה דעה שיג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 795,
     "line_index_2": 3421,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שיד, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 795,
+    "line_index_2": 3318,
+    "heRef_2": "שולחן ערוך, יורה דעה שיד, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2954,10 +5474,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 799,
+    "line_index_2": 3334,
+    "heRef_2": "שולחן ערוך, יורה דעה שטז, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 800,
     "line_index_2": 3434,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שטז, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 800,
+    "line_index_2": 3337,
+    "heRef_2": "שולחן ערוך, יורה דעה שטז, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -2968,6 +5502,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 802,
+    "line_index_2": 3360,
+    "heRef_2": "שולחן ערוך, יורה דעה שכ, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 804,
     "line_index_2": 3475,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שכג, ב",
@@ -2975,10 +5516,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 804,
+    "line_index_2": 3393,
+    "heRef_2": "שולחן ערוך, יורה דעה שכג, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 806,
     "line_index_2": 3481,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שכד, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 806,
+    "line_index_2": 3398,
+    "heRef_2": "שולחן ערוך, יורה דעה שכד, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3003,10 +5558,24 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 809,
+    "line_index_2": 3413,
+    "heRef_2": "שולחן ערוך, יורה דעה שכו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 811,
     "line_index_2": 3506,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שכח, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 811,
+    "line_index_2": 3425,
+    "heRef_2": "שולחן ערוך, יורה דעה שכח, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3017,10 +5586,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 812,
+    "line_index_2": 3427,
+    "heRef_2": "שולחן ערוך, יורה דעה שכח, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 814,
     "line_index_2": 3512,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שכט, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 814,
+    "line_index_2": 3432,
+    "heRef_2": "שולחן ערוך, יורה דעה שכט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3031,10 +5614,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 83,
+    "line_index_2": 223,
+    "heRef_2": "שולחן ערוך, יורה דעה לב, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 816,
     "line_index_2": 3523,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שלא, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 816,
+    "line_index_2": 3451,
+    "heRef_2": "שולחן ערוך, יורה דעה שלא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3059,10 +5656,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 820,
+    "line_index_2": 3614,
+    "heRef_2": "שולחן ערוך, יורה דעה שלד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 822,
     "line_index_2": 3583,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שלה, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 822,
+    "line_index_2": 3667,
+    "heRef_2": "שולחן ערוך, יורה דעה שלה, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3073,10 +5684,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 824,
+    "line_index_2": 3683,
+    "heRef_2": "שולחן ערוך, יורה דעה שלט, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 825,
     "line_index_2": 3593,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שלט, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 825,
+    "line_index_2": 3687,
+    "heRef_2": "שולחן ערוך, יורה דעה שלט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3094,6 +5719,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 86,
+    "line_index_2": 236,
+    "heRef_2": "שולחן ערוך, יורה דעה לג, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 87,
     "line_index_2": 305,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לג, יח",
@@ -3105,6 +5737,13 @@
     "line_index_2": 156,
     "heRef_2": "הגהות רבי עקיבא איגר על שלחן ערוך יורה דעה לג, ט",
     "path_2": "הגהות רבי עקיבא איגר על שלחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 236,
+    "heRef_2": "שולחן ערוך, יורה דעה לג, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3122,10 +5761,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 827,
+    "line_index_2": 3698,
+    "heRef_2": "שולחן ערוך, יורה דעה שמ, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 828,
     "line_index_2": 3609,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שמ, טו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 828,
+    "line_index_2": 3715,
+    "heRef_2": "שולחן ערוך, יורה דעה שמ, כז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3136,10 +5789,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 830,
+    "line_index_2": 3729,
+    "heRef_2": "שולחן ערוך, יורה דעה שמא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 831,
     "line_index_2": 3625,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שמא, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 831,
+    "line_index_2": 3730,
+    "heRef_2": "שולחן ערוך, יורה דעה שמא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3157,10 +5824,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 833,
+    "line_index_2": 3736,
+    "heRef_2": "שולחן ערוך, יורה דעה שמב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 834,
     "line_index_2": 3630,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שמב, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 834,
+    "line_index_2": 3736,
+    "heRef_2": "שולחן ערוך, יורה דעה שמב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3199,10 +5880,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 839,
+    "line_index_2": 3810,
+    "heRef_2": "שולחן ערוך, יורה דעה שנז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 841,
     "line_index_2": 3653,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שנח, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 841,
+    "line_index_2": 3815,
+    "heRef_2": "שולחן ערוך, יורה דעה שנח, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3213,10 +5908,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 93,
+    "line_index_2": 252,
+    "heRef_2": "שולחן ערוך, יורה דעה לה, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 94,
     "line_index_2": 319,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לה, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 252,
+    "heRef_2": "שולחן ערוך, יורה דעה לה, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3227,10 +5936,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 95,
+    "line_index_2": 255,
+    "heRef_2": "שולחן ערוך, יורה דעה לה, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 96,
     "line_index_2": 325,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לה, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 255,
+    "heRef_2": "שולחן ערוך, יורה דעה לה, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3241,6 +5964,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 97,
+    "line_index_2": 258,
+    "heRef_2": "שולחן ערוך, יורה דעה לה, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 843,
     "line_index_2": 3658,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שסא, ב",
@@ -3248,10 +5978,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 843,
+    "line_index_2": 3825,
+    "heRef_2": "שולחן ערוך, יורה דעה שסא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 99,
     "line_index_2": 332,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לו, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 262,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3269,10 +6013,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 100,
+    "line_index_2": 262,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 101,
     "line_index_2": 333,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לו, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 263,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3283,10 +6041,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 102,
+    "line_index_2": 263,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 103,
     "line_index_2": 342,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לו, יא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 268,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3297,10 +6069,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 104,
+    "line_index_2": 269,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 105,
     "line_index_2": 347,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לו, טז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 270,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3311,10 +6097,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 106,
+    "line_index_2": 271,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 107,
     "line_index_2": 352,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לו, כא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 276,
+    "heRef_2": "שולחן ערוך, יורה דעה לו, טו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3325,10 +6125,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 845,
+    "line_index_2": 3874,
+    "heRef_2": "שולחן ערוך, יורה דעה שעא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 846,
     "line_index_2": 3683,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שעא, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 846,
+    "line_index_2": 3874,
+    "heRef_2": "שולחן ערוך, יורה דעה שעא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3339,10 +6153,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 847,
+    "line_index_2": 3877,
+    "heRef_2": "שולחן ערוך, יורה דעה שעא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 848,
     "line_index_2": 3690,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שעא, י",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 848,
+    "line_index_2": 3877,
+    "heRef_2": "שולחן ערוך, יורה דעה שעא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3353,10 +6181,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 849,
+    "line_index_2": 3877,
+    "heRef_2": "שולחן ערוך, יורה דעה שעא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 850,
     "line_index_2": 3691,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שעא, יא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 850,
+    "line_index_2": 3877,
+    "heRef_2": "שולחן ערוך, יורה דעה שעא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3388,10 +6230,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 856,
+    "line_index_2": 3921,
+    "heRef_2": "שולחן ערוך, יורה דעה שעו, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 110,
     "line_index_2": 355,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לז, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 281,
+    "heRef_2": "שולחן ערוך, יורה דעה לז, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3402,10 +6258,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 111,
+    "line_index_2": 281,
+    "heRef_2": "שולחן ערוך, יורה דעה לז, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 112,
     "line_index_2": 357,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לז, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 282,
+    "heRef_2": "שולחן ערוך, יורה דעה לז, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3416,10 +6286,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 113,
+    "line_index_2": 284,
+    "heRef_2": "שולחן ערוך, יורה דעה לז, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 114,
     "line_index_2": 369,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לז, טז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 284,
+    "heRef_2": "שולחן ערוך, יורה דעה לז, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3430,10 +6314,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 116,
+    "line_index_2": 289,
+    "heRef_2": "שולחן ערוך, יורה דעה לח, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 117,
     "line_index_2": 375,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לח, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 291,
+    "heRef_2": "שולחן ערוך, יורה דעה לח, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3444,10 +6342,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 861,
+    "line_index_2": 4025,
+    "heRef_2": "שולחן ערוך, יורה דעה שצא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 862,
     "line_index_2": 3744,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שצא, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 862,
+    "line_index_2": 4025,
+    "heRef_2": "שולחן ערוך, יורה דעה שצא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3458,10 +6370,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 863,
+    "line_index_2": 4025,
+    "heRef_2": "שולחן ערוך, יורה דעה שצא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 865,
     "line_index_2": 3750,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שצב, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 865,
+    "line_index_2": 4029,
+    "heRef_2": "שולחן ערוך, יורה דעה שצב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3472,10 +6398,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 866,
+    "line_index_2": 4029,
+    "heRef_2": "שולחן ערוך, יורה דעה שצב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 868,
     "line_index_2": 3757,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שצה, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 868,
+    "line_index_2": 4046,
+    "heRef_2": "שולחן ערוך, יורה דעה שצה, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3486,10 +6426,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 870,
+    "line_index_2": 4050,
+    "heRef_2": "שולחן ערוך, יורה דעה שצו, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 872,
     "line_index_2": 3763,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שצז, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 872,
+    "line_index_2": 4053,
+    "heRef_2": "שולחן ערוך, יורה דעה שצז, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3500,10 +6454,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 874,
+    "line_index_2": 4058,
+    "heRef_2": "שולחן ערוך, יורה דעה שצט, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 875,
     "line_index_2": 3772,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה שצט, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 875,
+    "line_index_2": 4061,
+    "heRef_2": "שולחן ערוך, יורה דעה שצט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3514,10 +6482,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 119,
+    "line_index_2": 297,
+    "heRef_2": "שולחן ערוך, יורה דעה לט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 120,
     "line_index_2": 384,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לט, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 297,
+    "heRef_2": "שולחן ערוך, יורה דעה לט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3528,10 +6510,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 121,
+    "line_index_2": 302,
+    "heRef_2": "שולחן ערוך, יורה דעה לט, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 122,
     "line_index_2": 394,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לט, יח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 306,
+    "heRef_2": "שולחן ערוך, יורה דעה לט, יג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3542,10 +6538,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 123,
+    "line_index_2": 310,
+    "heRef_2": "שולחן ערוך, יורה דעה לט, יז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 124,
     "line_index_2": 399,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה לט, כג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 313,
+    "heRef_2": "שולחן ערוך, יורה דעה לט, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3570,6 +6580,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 877,
+    "line_index_2": 4083,
+    "heRef_2": "שולחן ערוך, יורה דעה תב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 878,
     "line_index_2": 13669,
     "heRef_2": "שפתי כהן על שולחן ערוך יורה דעה תב, ה,  א",
@@ -3581,6 +6598,13 @@
     "line_index_2": 3786,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה תב, ט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 879,
+    "line_index_2": 4094,
+    "heRef_2": "שולחן ערוך, יורה דעה תב, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3598,10 +6622,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 129,
+    "line_index_2": 322,
+    "heRef_2": "שולחן ערוך, יורה דעה מ, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 131,
     "line_index_2": 409,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה מא, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 329,
+    "heRef_2": "שולחן ערוך, יורה דעה מא, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3612,10 +6650,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 133,
+    "line_index_2": 349,
+    "heRef_2": "שולחן ערוך, יורה דעה מג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 134,
     "line_index_2": 425,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה מג, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 349,
+    "heRef_2": "שולחן ערוך, יורה דעה מג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3626,10 +6678,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 135,
+    "line_index_2": 352,
+    "heRef_2": "שולחן ערוך, יורה דעה מג, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 137,
     "line_index_2": 438,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה מד, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 356,
+    "heRef_2": "שולחן ערוך, יורה דעה מד, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3640,10 +6706,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 138,
+    "line_index_2": 361,
+    "heRef_2": "שולחן ערוך, יורה דעה מד, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 140,
     "line_index_2": 458,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה מו, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 373,
+    "heRef_2": "שולחן ערוך, יורה דעה מו, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3654,10 +6734,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 142,
+    "line_index_2": 380,
+    "heRef_2": "שולחן ערוך, יורה דעה מז, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 144,
     "line_index_2": 471,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה מח, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 384,
+    "heRef_2": "שולחן ערוך, יורה דעה מח, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3668,10 +6762,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 145,
+    "line_index_2": 384,
+    "heRef_2": "שולחן ערוך, יורה דעה מח, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 146,
     "line_index_2": 478,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה מח, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 389,
+    "heRef_2": "שולחן ערוך, יורה דעה מח, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3682,10 +6790,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 147,
+    "line_index_2": 389,
+    "heRef_2": "שולחן ערוך, יורה דעה מח, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 148,
     "line_index_2": 483,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה מח, יז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 392,
+    "heRef_2": "שולחן ערוך, יורה דעה מח, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3696,10 +6818,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 149,
+    "line_index_2": 392,
+    "heRef_2": "שולחן ערוך, יורה דעה מח, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 150,
     "line_index_2": 485,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה מח, יט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 393,
+    "heRef_2": "שולחן ערוך, יורה דעה מח, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3710,6 +6846,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 152,
+    "line_index_2": 398,
+    "heRef_2": "שולחן ערוך, יורה דעה מט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 17,
     "line_index_2": 48,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ד, ד",
@@ -3717,10 +6860,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 17,
+    "line_index_2": 36,
+    "heRef_2": "שולחן ערוך, יורה דעה ד, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 18,
     "line_index_2": 49,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ד, ה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 36,
+    "heRef_2": "שולחן ערוך, יורה דעה ד, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3738,10 +6895,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 154,
+    "line_index_2": 405,
+    "heRef_2": "שולחן ערוך, יורה דעה נא, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 155,
     "line_index_2": 499,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה נא, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 407,
+    "heRef_2": "שולחן ערוך, יורה דעה נא, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3752,10 +6923,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 157,
+    "line_index_2": 410,
+    "heRef_2": "שולחן ערוך, יורה דעה נב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 158,
     "line_index_2": 509,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה נב, ט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 413,
+    "heRef_2": "שולחן ערוך, יורה דעה נב, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3766,6 +6951,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 159,
+    "line_index_2": 414,
+    "heRef_2": "שולחן ערוך, יורה דעה נב, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 160,
     "line_index_2": 511,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה נב, יא",
@@ -3773,10 +6965,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 160,
+    "line_index_2": 416,
+    "heRef_2": "שולחן ערוך, יורה דעה נב, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 162,
     "line_index_2": 519,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה נג, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 421,
+    "heRef_2": "שולחן ערוך, יורה דעה נג, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3794,6 +7000,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 165,
+    "line_index_2": 426,
+    "heRef_2": "שולחן ערוך, יורה דעה נד, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 167,
     "line_index_2": 532,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה נה, ד",
@@ -3801,10 +7014,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 167,
+    "line_index_2": 433,
+    "heRef_2": "שולחן ערוך, יורה דעה נה, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 168,
     "line_index_2": 535,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה נה, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 434,
+    "heRef_2": "שולחן ערוך, יורה דעה נה, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3822,6 +7049,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 172,
+    "line_index_2": 459,
+    "heRef_2": "שולחן ערוך, יורה דעה נז, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 173,
     "line_index_2": 571,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה נז, כא",
@@ -3829,10 +7063,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 173,
+    "line_index_2": 468,
+    "heRef_2": "שולחן ערוך, יורה דעה נז, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 174,
     "line_index_2": 573,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה נז, כג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 468,
+    "heRef_2": "שולחן ערוך, יורה דעה נז, יד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3850,6 +7098,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 177,
+    "line_index_2": 477,
+    "heRef_2": "שולחן ערוך, יורה דעה נח, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 178,
     "line_index_2": 1938,
     "heRef_2": "שפתי כהן על שולחן ערוך יורה דעה נח, ה,  א",
@@ -3864,10 +7119,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 21,
+    "line_index_2": 41,
+    "heRef_2": "שולחן ערוך, יורה דעה ה, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 180,
     "line_index_2": 621,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סא, ל",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 525,
+    "heRef_2": "שולחן ערוך, יורה דעה סא, כט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3878,6 +7147,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 182,
+    "line_index_2": 531,
+    "heRef_2": "שולחן ערוך, יורה דעה סב, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 184,
     "line_index_2": 628,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סג, א",
@@ -3885,10 +7161,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 184,
+    "line_index_2": 536,
+    "heRef_2": "שולחן ערוך, יורה דעה סג, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 185,
     "line_index_2": 629,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סג, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 537,
+    "heRef_2": "שולחן ערוך, יורה דעה סג, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3920,10 +7210,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 200,
+    "line_index_2": 624,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, טו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 201,
     "line_index_2": 720,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סט, מא",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 625,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, טז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3934,10 +7238,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 202,
+    "line_index_2": 627,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, יח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 203,
     "line_index_2": 729,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סט, נ",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 629,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3948,10 +7266,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 204,
+    "line_index_2": 629,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, כ",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 192,
     "line_index_2": 694,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סט, טו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 613,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3962,10 +7294,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 193,
+    "line_index_2": 613,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 194,
     "line_index_2": 696,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סט, יז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 616,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3976,10 +7322,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 195,
+    "line_index_2": 619,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 196,
     "line_index_2": 704,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סט, כה",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 619,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -3990,10 +7350,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 197,
+    "line_index_2": 620,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, יא",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 198,
     "line_index_2": 711,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה סט, לב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 621,
+    "heRef_2": "שולחן ערוך, יורה דעה סט, יב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4011,6 +7385,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 23,
+    "line_index_2": 45,
+    "heRef_2": "שולחן ערוך, יורה דעה ו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 24,
     "line_index_2": 212,
     "heRef_2": "שפתי כהן על שולחן ערוך יורה דעה ו, ח,  א",
@@ -4022,6 +7403,13 @@
     "line_index_2": 742,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ע, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 633,
+    "heRef_2": "שולחן ערוך, יורה דעה ע, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4039,6 +7427,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 208,
+    "line_index_2": 637,
+    "heRef_2": "שולחן ערוך, יורה דעה ע, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 209,
     "line_index_2": 751,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה ע, יז",
@@ -4046,10 +7441,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 209,
+    "line_index_2": 637,
+    "heRef_2": "שולחן ערוך, יורה דעה ע, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 211,
     "line_index_2": 763,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה עב, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 644,
+    "heRef_2": "שולחן ערוך, יורה דעה עב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4067,6 +7476,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 214,
+    "line_index_2": 651,
+    "heRef_2": "שולחן ערוך, יורה דעה עג, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 215,
     "line_index_2": 2639,
     "heRef_2": "שפתי כהן על שולחן ערוך יורה דעה עג, יד,  א",
@@ -4078,6 +7494,13 @@
     "line_index_2": 778,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה עג, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 653,
+    "heRef_2": "שולחן ערוך, יורה דעה עג, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4102,10 +7525,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 220,
+    "line_index_2": 662,
+    "heRef_2": "שולחן ערוך, יורה דעה עו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 221,
     "line_index_2": 797,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה עו, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 662,
+    "heRef_2": "שולחן ערוך, יורה דעה עו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4123,10 +7560,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 224,
+    "line_index_2": 668,
+    "heRef_2": "שולחן ערוך, יורה דעה עז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 226,
     "line_index_2": 824,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פא, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 684,
+    "heRef_2": "שולחן ערוך, יורה דעה פא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4144,10 +7595,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 228,
+    "line_index_2": 688,
+    "heRef_2": "שולחן ערוך, יורה דעה פא, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 230,
     "line_index_2": 841,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פב, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 697,
+    "heRef_2": "שולחן ערוך, יורה דעה פב, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4158,10 +7623,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 232,
+    "line_index_2": 702,
+    "heRef_2": "שולחן ערוך, יורה דעה פג, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 233,
     "line_index_2": 856,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פג, יד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 708,
+    "heRef_2": "שולחן ערוך, יורה דעה פג, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4179,6 +7658,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 236,
+    "line_index_2": 715,
+    "heRef_2": "שולחן ערוך, יורה דעה פד, ו",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 237,
     "line_index_2": 872,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פד, טו",
@@ -4186,10 +7672,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 237,
+    "line_index_2": 718,
+    "heRef_2": "שולחן ערוך, יורה דעה פד, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 238,
     "line_index_2": 874,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פד, יז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 718,
+    "heRef_2": "שולחן ערוך, יורה דעה פד, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4207,10 +7707,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 240,
+    "line_index_2": 718,
+    "heRef_2": "שולחן ערוך, יורה דעה פד, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 242,
     "line_index_2": 885,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פה, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 730,
+    "heRef_2": "שולחן ערוך, יורה דעה פה, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4221,10 +7735,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 244,
+    "line_index_2": 733,
+    "heRef_2": "שולחן ערוך, יורה דעה פו, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 245,
     "line_index_2": 896,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פו, י",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 736,
+    "heRef_2": "שולחן ערוך, יורה דעה פו, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4235,10 +7763,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 246,
+    "line_index_2": 736,
+    "heRef_2": "שולחן ערוך, יורה דעה פו, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 247,
     "line_index_2": 900,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פו, יד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 738,
+    "heRef_2": "שולחן ערוך, יורה דעה פו, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4249,6 +7791,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 250,
+    "line_index_2": 745,
+    "heRef_2": "שולחן ערוך, יורה דעה פז, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 251,
     "line_index_2": 907,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פז, ד",
@@ -4256,10 +7805,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 251,
+    "line_index_2": 745,
+    "heRef_2": "שולחן ערוך, יורה דעה פז, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 252,
     "line_index_2": 909,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פז, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 747,
+    "heRef_2": "שולחן ערוך, יורה דעה פז, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4284,10 +7847,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 255,
+    "line_index_2": 752,
+    "heRef_2": "שולחן ערוך, יורה דעה פז, י",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 257,
     "line_index_2": 920,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה פח, ג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 756,
+    "heRef_2": "שולחן ערוך, יורה דעה פח, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4298,6 +7875,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 259,
+    "line_index_2": 761,
+    "heRef_2": "שולחן ערוך, יורה דעה פט, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 261,
     "line_index_2": 932,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צ, ב",
@@ -4305,10 +7889,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 261,
+    "line_index_2": 763,
+    "heRef_2": "שולחן ערוך, יורה דעה צ, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 262,
     "line_index_2": 942,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צ, יב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 765,
+    "heRef_2": "שולחן ערוך, יורה דעה צ, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4326,10 +7924,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 265,
+    "line_index_2": 769,
+    "heRef_2": "שולחן ערוך, יורה דעה צא, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 266,
     "line_index_2": 951,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צא, ז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 771,
+    "heRef_2": "שולחן ערוך, יורה דעה צא, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4340,10 +7952,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 268,
+    "line_index_2": 778,
+    "heRef_2": "שולחן ערוך, יורה דעה צב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 269,
     "line_index_2": 961,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צב, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 778,
+    "heRef_2": "שולחן ערוך, יורה דעה צב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4354,10 +7980,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 270,
+    "line_index_2": 778,
+    "heRef_2": "שולחן ערוך, יורה דעה צב, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 271,
     "line_index_2": 973,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צב, טז",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 780,
+    "heRef_2": "שולחן ערוך, יורה דעה צב, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4375,10 +8015,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 273,
+    "line_index_2": 784,
+    "heRef_2": "שולחן ערוך, יורה דעה צב, ח",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 274,
     "line_index_2": 987,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צב, ל",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 785,
+    "heRef_2": "שולחן ערוך, יורה דעה צב, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4389,10 +8043,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 277,
+    "line_index_2": 787,
+    "heRef_2": "שולחן ערוך, יורה דעה צג, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 278,
     "line_index_2": 990,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צג, ב",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 787,
+    "heRef_2": "שולחן ערוך, יורה דעה צג, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4403,10 +8071,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 279,
+    "line_index_2": 787,
+    "heRef_2": "שולחן ערוך, יורה דעה צג, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 281,
     "line_index_2": 992,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צד, א",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 789,
+    "heRef_2": "שולחן ערוך, יורה דעה צד, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4417,10 +8099,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 282,
+    "line_index_2": 793,
+    "heRef_2": "שולחן ערוך, יורה דעה צד, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 283,
     "line_index_2": 1004,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צד, יג",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 795,
+    "heRef_2": "שולחן ערוך, יורה דעה צד, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4431,10 +8127,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 284,
+    "line_index_2": 797,
+    "heRef_2": "שולחן ערוך, יורה דעה צד, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 286,
     "line_index_2": 1013,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צה, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 800,
+    "heRef_2": "שולחן ערוך, יורה דעה צה, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4445,10 +8155,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 287,
+    "line_index_2": 802,
+    "heRef_2": "שולחן ערוך, יורה דעה צה, ד",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 288,
     "line_index_2": 1027,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צה, יח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 805,
+    "heRef_2": "שולחן ערוך, יורה דעה צה, ז",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4459,10 +8183,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 290,
+    "line_index_2": 807,
+    "heRef_2": "שולחן ערוך, יורה דעה צו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 291,
     "line_index_2": 1034,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צו, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 807,
+    "heRef_2": "שולחן ערוך, יורה דעה צו, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4473,10 +8211,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 293,
+    "line_index_2": 813,
+    "heRef_2": "שולחן ערוך, יורה דעה צז, א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 294,
     "line_index_2": 1047,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צז, ד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 814,
+    "heRef_2": "שולחן ערוך, יורה דעה צז, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4487,10 +8239,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 296,
+    "line_index_2": 818,
+    "heRef_2": "שולחן ערוך, יורה דעה צח, ב",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 297,
     "line_index_2": 1055,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צח, ו",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 819,
+    "heRef_2": "שולחן ערוך, יורה דעה צח, ג",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4501,10 +8267,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 298,
+    "line_index_2": 821,
+    "heRef_2": "שולחן ערוך, יורה דעה צח, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 299,
     "line_index_2": 1057,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צח, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 821,
+    "heRef_2": "שולחן ערוך, יורה דעה צח, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4515,10 +8295,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 300,
+    "line_index_2": 821,
+    "heRef_2": "שולחן ערוך, יורה דעה צח, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 301,
     "line_index_2": 1063,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צח, יד",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 825,
+    "heRef_2": "שולחן ערוך, יורה דעה צח, ט",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4529,10 +8323,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 303,
+    "line_index_2": 831,
+    "heRef_2": "שולחן ערוך, יורה דעה צט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 304,
     "line_index_2": 1073,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צט, ח",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 831,
+    "heRef_2": "שולחן ערוך, יורה דעה צט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4543,10 +8351,24 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 305,
+    "line_index_2": 831,
+    "heRef_2": "שולחן ערוך, יורה דעה צט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 306,
     "line_index_2": 1074,
     "heRef_2": "טורי זהב על שולחן ערוך יורה דעה צט, ט",
     "path_2": "טורי זהב על שולחן ערוך יורה דעה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 831,
+    "heRef_2": "שולחן ערוך, יורה דעה צט, ה",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -4564,87 +8386,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 85,
-    "line_index_2": 3806,
-    "heRef_2": "חולין קכא:,  א",
-    "path_2": "חולין.txt",
+    "line_index_1": 767,
+    "line_index_2": 1120,
+    "heRef_2": "מנחות לב:,  א",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 184,
-    "line_index_2": 2974,
-    "heRef_2": "חולין צו., ה",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 419,
-    "line_index_2": 2974,
-    "heRef_2": "חולין צו., ה",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 795,
-    "heRef_2": "גיטין כז:, ו",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 1761,
-    "heRef_2": "גיטין נו.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 1795,
-    "heRef_2": "גיטין נו:, טז",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 786,
-    "line_index_2": 2075,
-    "heRef_2": "גיטין סד.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 224,
-    "line_index_2": 426,
-    "heRef_2": "עבודה זרה טז.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 871,
-    "heRef_2": "עבודה זרה ל., ב",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 279,
-    "line_index_2": 963,
-    "heRef_2": "עבודה זרה לג:,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 482,
-    "line_index_2": 1421,
-    "heRef_2": "עבודה זרה מז.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 478,
-    "line_index_2": 1500,
-    "heRef_2": "עבודה זרה מט.,  א",
-    "path_2": "עבודה זרה.txt",
+    "line_index_1": 780,
+    "line_index_2": 2249,
+    "heRef_2": "מנחות סד:,  א",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   }
 ]

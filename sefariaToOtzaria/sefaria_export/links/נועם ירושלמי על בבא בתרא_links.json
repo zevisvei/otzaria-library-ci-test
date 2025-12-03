@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 47,
-    "line_index_2": 93,
-    "heRef_2": "יבמות ה., יא",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 193,
     "line_index_2": 345,
     "heRef_2": "תלמוד ירושלמי בבא בתרא י, י, ב",
@@ -1013,5 +1006,12 @@
     "heRef_2": "תלמוד ירושלמי בבא בתרא ט, ב, ב",
     "path_2": "תלמוד ירושלמי בבא בתרא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 93,
+    "heRef_2": "יבמות ה., יא",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
   }
 ]

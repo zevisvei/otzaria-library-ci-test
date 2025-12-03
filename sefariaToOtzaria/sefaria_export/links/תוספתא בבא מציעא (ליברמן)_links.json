@@ -1,38 +1,1025 @@
 [
   {
-    "line_index_1": 201,
-    "line_index_2": 615,
-    "heRef_2": "שמות כב, יג",
-    "path_2": "שמות.txt",
+    "line_index_1": 83,
+    "line_index_2": 559,
+    "heRef_2": "משלי יט, יד",
+    "path_2": "משלי.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 200,
-    "line_index_2": 616,
-    "heRef_2": "שמות כב, יד",
-    "path_2": "שמות.txt",
+    "line_index_1": 159,
+    "line_index_2": 715,
+    "heRef_2": "משלי כד, יא",
+    "path_2": "משלי.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 90,
-    "line_index_2": 626,
-    "heRef_2": "שמות כב, כד",
-    "path_2": "שמות.txt",
+    "line_index_1": 83,
+    "line_index_2": 886,
+    "heRef_2": "משלי ל, ד",
+    "path_2": "משלי.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 49,
-    "line_index_2": 637,
-    "heRef_2": "שמות כג, ד",
-    "path_2": "שמות.txt",
+    "line_index_1": 258,
+    "line_index_2": 586,
+    "heRef_2": "סנהדרין כא.,  א",
+    "path_2": "סנהדרין.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 39,
-    "line_index_2": 694,
-    "heRef_2": "שמות כה, ח",
-    "path_2": "שמות.txt",
+    "line_index_1": 57,
+    "line_index_2": 2213,
+    "heRef_2": "סנהדרין נז.,  יז",
+    "path_2": "סנהדרין.txt",
     "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 2214,
+    "heRef_2": "סנהדרין נז.,  יח",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 345,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה ה, א, ה",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 19,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ב",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 21,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ד",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 22,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ה",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 22,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ה",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 22,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ה",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 335,
+    "heRef_2": "תלמוד ירושלמי בבא קמא י, א, ב",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 335,
+    "heRef_2": "תלמוד ירושלמי בבא קמא י, א, ב",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 81,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ג, ג, ה",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 196,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ו, א, ג",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 315,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ט, ה, ד",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 315,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ט, ה, ד",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 347,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא י, א, א",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 350,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא י, א, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 357,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ג, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 364,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ה, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 364,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ה, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 364,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ה, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 364,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ה, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 7,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא א, א, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 8,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא א, א, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 18,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא א, ד, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 81,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, י, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 81,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, י, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 81,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, י, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 42,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, א, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 46,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ב, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 46,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ב, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 47,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ב, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 55,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ד, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 55,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ד, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 55,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ד, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 67,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ו, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 73,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ח, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ט, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ט, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 96,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ג, ב, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 99,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ג, ג, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 124,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, א, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 150,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ו, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 158,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, א, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 162,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, א, ז",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 162,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, א, ז",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 166,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ב, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 170,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 171,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 172,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 174,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ז",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 175,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ח",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 175,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ח",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 179,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 180,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 181,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 181,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 181,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 181,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 182,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ו",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 183,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ז",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 186,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 189,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 189,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 190,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ו",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 191,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ז",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 192,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ח",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ט",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ט",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 198,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ו, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 199,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ו, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 207,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ח, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 207,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ח, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 207,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ח, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 211,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, א, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 213,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, א, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 220,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ג, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 221,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ג, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 225,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 226,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 227,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 228,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 229,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ו",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 229,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ו",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 246,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ב, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 248,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ב, ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 249,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ב, ה",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 255,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 287,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ח, ו, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 329,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, י, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 329,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, י, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 333,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יא, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 338,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יב, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 339,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יב, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 340,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יב,  ד",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 342,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יג,  א",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 343,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יג,  ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 344,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יג, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 301,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, א, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 323,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, ח, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 326,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, ט, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 321,
+    "heRef_2": "תלמוד ירושלמי דמאי ז, ג, ד",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 369,
+    "heRef_2": "תלמוד ירושלמי עירובין ז, י, ג",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 147,
+    "heRef_2": "תלמוד ירושלמי גיטין ד, ד, ז",
+    "path_2": "תלמוד ירושלמי גיטין.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 127,
+    "heRef_2": "תלמוד ירושלמי הוריות ג, ד, ח",
+    "path_2": "תלמוד ירושלמי הוריות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 127,
+    "heRef_2": "תלמוד ירושלמי הוריות ג, ד, ח",
+    "path_2": "תלמוד ירושלמי הוריות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 127,
+    "heRef_2": "תלמוד ירושלמי הוריות ג, ד, ח",
+    "path_2": "תלמוד ירושלמי הוריות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 466,
+    "heRef_2": "תלמוד ירושלמי כתובות ט, ה, ג",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 96,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ד, י",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 94,
+    "heRef_2": "תלמוד ירושלמי מעשרות ב, ד, י",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 95,
+    "heRef_2": "תלמוד ירושלמי מעשרות ב, ד, יא",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 95,
+    "heRef_2": "תלמוד ירושלמי מעשרות ב, ד, יא",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 88,
+    "heRef_2": "תלמוד ירושלמי מעשרות ב, ד, ד",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 15,
+    "heRef_2": "תלמוד ירושלמי מכות א, ב,  ג",
+    "path_2": "תלמוד ירושלמי מכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 16,
+    "heRef_2": "תלמוד ירושלמי מכות א, ב,  ד",
+    "path_2": "תלמוד ירושלמי מכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 159,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ז,  ה",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 160,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ז,  ו",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 276,
+    "heRef_2": "תלמוד ירושלמי נזיר ז, א, כא",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 406,
+    "heRef_2": "תלמוד ירושלמי נדרים יא, א, ו",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 309,
+    "heRef_2": "תלמוד ירושלמי נדרים ח, ו, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 101,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, טז",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 251,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ז",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 251,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ז",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 416,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, ו, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 803,
+    "heRef_2": "גיטין כח.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 924,
+    "heRef_2": "גיטין לא:, ז",
+    "path_2": "גיטין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 1205,
+    "heRef_2": "גיטין מ:,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 229,
+    "heRef_2": "שמואל א י, יב",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 263,
+    "heRef_2": "תלמוד ירושלמי שבת ד, א, ו",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 231,
+    "heRef_2": "תלמוד ירושלמי שקלים ז, ב, ט",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 426,
+    "heRef_2": "תלמוד ירושלמי שביעית י, א, טז",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 328,
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ד, ד",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 334,
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ה, ד",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 404,
+    "heRef_2": "תלמוד ירושלמי שביעית ט, ו, ג",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 333,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, א, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 361,
+    "heRef_2": "תלמוד ירושלמי תרומות ט, א, יג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "related passage"
   },
   {
     "line_index_1": 195,
@@ -91,10 +1078,10 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 251,
-    "line_index_2": 569,
-    "heRef_2": "ויקרא יט, יג",
-    "path_2": "ויקרא.txt",
+    "line_index_1": 206,
+    "line_index_2": 898,
+    "heRef_2": "ביצה כט., יד",
+    "path_2": "ביצה.txt",
     "Conection Type": "related"
   },
   {
@@ -2730,164 +3717,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 258,
-    "line_index_2": 586,
-    "heRef_2": "סנהדרין כא.,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 2213,
-    "heRef_2": "סנהדרין נז.,  יז",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 2214,
-    "heRef_2": "סנהדרין נז.,  יח",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 653,
-    "heRef_2": "שבת לא., יב",
-    "path_2": "שבת.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 177,
-    "line_index_2": 1530,
-    "heRef_2": "שבועות מו.,  א",
-    "path_2": "שבועות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 1410,
-    "heRef_2": "ספרי דברים רכב,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1410,
-    "heRef_2": "ספרי דברים רכב,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1415,
-    "heRef_2": "ספרי דברים רכב, ו",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1418,
-    "heRef_2": "ספרי דברים רכג,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1422,
-    "heRef_2": "ספרי דברים רכד,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 1424,
-    "heRef_2": "ספרי דברים רכד, ג",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 1425,
-    "heRef_2": "ספרי דברים רכד,  ד",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 1632,
-    "heRef_2": "ספרי דברים רסב,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 1655,
-    "heRef_2": "ספרי דברים רסו,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 259,
-    "line_index_2": 1701,
-    "heRef_2": "ספרי דברים ערב, א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 1721,
-    "heRef_2": "ספרי דברים רעו,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
     "line_index_1": 251,
-    "line_index_2": 1729,
-    "heRef_2": "ספרי דברים רעח,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 1729,
-    "heRef_2": "ספרי דברים רעח, א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 1734,
-    "heRef_2": "ספרי דברים רעט,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 258,
-    "line_index_2": 1741,
-    "heRef_2": "ספרי דברים רפא,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 1783,
-    "heRef_2": "ספרי דברים רפז, ג",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 1830,
-    "heRef_2": "ספרי דברים רצה,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 1832,
-    "heRef_2": "ספרי דברים רצה, ג",
-    "path_2": "ספרי דברים.txt",
+    "line_index_2": 569,
+    "heRef_2": "ויקרא יט, יג",
+    "path_2": "ויקרא.txt",
     "Conection Type": "related"
   },
   {
@@ -5873,41 +6706,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 293,
-    "line_index_2": 1509,
-    "heRef_2": "נדרים פ:, ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 369,
-    "heRef_2": "פסחים יג.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 559,
-    "heRef_2": "משלי יט, יד",
-    "path_2": "משלי.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 715,
-    "heRef_2": "משלי כד, יא",
-    "path_2": "משלי.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 886,
-    "heRef_2": "משלי ל, ד",
-    "path_2": "משלי.txt",
-    "Conection Type": "related"
-  },
-  {
     "line_index_1": 52,
     "line_index_2": 602,
     "heRef_2": "דברים כב, ד",
@@ -5950,2803 +6748,143 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 278,
-    "line_index_2": 2920,
-    "heRef_2": "עירובין פ.,  יז",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2921,
-    "heRef_2": "עירובין פ.,  יח",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2922,
-    "heRef_2": "עירובין פ.,  יט",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2923,
-    "heRef_2": "עירובין פ.,  כ",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2924,
-    "heRef_2": "עירובין פ.,  כא",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2925,
-    "heRef_2": "עירובין פ.,  כב",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2926,
-    "heRef_2": "עירובין פ.,  כג",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2927,
-    "heRef_2": "עירובין פ.,  כד",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2928,
-    "heRef_2": "עירובין פ.,  כה",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 19,
-    "heRef_2": "משנה ערכין ג, ה",
-    "path_2": "משנה ערכין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 55,
-    "heRef_2": "משנה ערכין ט, ג",
-    "path_2": "משנה ערכין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 91,
-    "heRef_2": "משנה בבא בתרא י, ב",
-    "path_2": "משנה בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 282,
-    "line_index_2": 3,
-    "heRef_2": "משנה בבא בתרא א, א",
-    "path_2": "משנה בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 282,
-    "line_index_2": 6,
-    "heRef_2": "משנה בבא בתרא א, ד",
-    "path_2": "משנה בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 277,
-    "line_index_2": 7,
-    "heRef_2": "משנה בבא בתרא א, ה",
-    "path_2": "משנה בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 269,
-    "line_index_2": 8,
-    "heRef_2": "משנה בבא בתרא א, ו",
-    "path_2": "משנה בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 56,
-    "heRef_2": "משנה בבא בתרא ו, א",
-    "path_2": "משנה בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 261,
-    "line_index_2": 107,
-    "heRef_2": "משנה בבא מציעא י, א",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 110,
-    "heRef_2": "משנה בבא מציעא י, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 111,
-    "heRef_2": "משנה בבא מציעא י, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 265,
-    "line_index_2": 111,
-    "heRef_2": "משנה בבא מציעא י, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 266,
-    "line_index_2": 111,
-    "heRef_2": "משנה בבא מציעא י, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 268,
-    "line_index_2": 111,
-    "heRef_2": "משנה בבא מציעא י, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 6,
-    "heRef_2": "משנה בבא מציעא א, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 8,
-    "heRef_2": "משנה בבא מציעא א, ו",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 9,
-    "heRef_2": "משנה בבא מציעא א, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 9,
-    "heRef_2": "משנה בבא מציעא א, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 9,
-    "heRef_2": "משנה בבא מציעא א, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 10,
-    "heRef_2": "משנה בבא מציעא א, ח",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 12,
-    "heRef_2": "משנה בבא מציעא ב, א",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 21,
-    "heRef_2": "משנה בבא מציעא ב, י",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 22,
-    "heRef_2": "משנה בבא מציעא ב, יא",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 13,
-    "heRef_2": "משנה בבא מציעא ב, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 13,
-    "heRef_2": "משנה בבא מציעא ב, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 14,
-    "heRef_2": "משנה בבא מציעא ב, ג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 14,
-    "heRef_2": "משנה בבא מציעא ב, ג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 14,
-    "heRef_2": "משנה בבא מציעא ב, ג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 16,
-    "heRef_2": "משנה בבא מציעא ב, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 17,
-    "heRef_2": "משנה בבא מציעא ב, ו",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 18,
-    "heRef_2": "משנה בבא מציעא ב, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 19,
-    "heRef_2": "משנה בבא מציעא ב, ח",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 19,
-    "heRef_2": "משנה בבא מציעא ב, ח",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 20,
-    "heRef_2": "משנה בבא מציעא ב, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 24,
-    "heRef_2": "משנה בבא מציעא ג, א",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 24,
-    "heRef_2": "משנה בבא מציעא ג, א",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 193,
-    "line_index_2": 33,
-    "heRef_2": "משנה בבא מציעא ג, י",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 26,
-    "heRef_2": "משנה בבא מציעא ג, ג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 27,
-    "heRef_2": "משנה בבא מציעא ג, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 29,
-    "heRef_2": "משנה בבא מציעא ג, ו",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 30,
-    "heRef_2": "משנה בבא מציעא ג, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 30,
-    "heRef_2": "משנה בבא מציעא ג, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 37,
-    "heRef_2": "משנה בבא מציעא ד, א",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 37,
-    "heRef_2": "משנה בבא מציעא ד, א",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 46,
-    "heRef_2": "משנה בבא מציעא ד, י",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 47,
-    "heRef_2": "משנה בבא מציעא ד, יא",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 47,
-    "heRef_2": "משנה בבא מציעא ד, יא",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 38,
-    "heRef_2": "משנה בבא מציעא ד, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 38,
-    "heRef_2": "משנה בבא מציעא ד, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 40,
-    "heRef_2": "משנה בבא מציעא ד, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 40,
-    "heRef_2": "משנה בבא מציעא ד, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 41,
-    "heRef_2": "משנה בבא מציעא ד, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 42,
-    "heRef_2": "משנה בבא מציעא ד, ו",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 42,
-    "heRef_2": "משנה בבא מציעא ד, ו",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 43,
-    "heRef_2": "משנה בבא מציעא ד, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 45,
-    "heRef_2": "משנה בבא מציעא ד, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 45,
-    "heRef_2": "משנה בבא מציעא ד, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 204,
-    "line_index_2": 45,
-    "heRef_2": "משנה בבא מציעא ד, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 59,
-    "heRef_2": "משנה בבא מציעא ה, י",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 60,
-    "heRef_2": "משנה בבא מציעא ה, יא",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 51,
-    "heRef_2": "משנה בבא מציעא ה, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 51,
-    "heRef_2": "משנה בבא מציעא ה, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 53,
-    "heRef_2": "משנה בבא מציעא ה, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 53,
-    "heRef_2": "משנה בבא מציעא ה, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 53,
-    "heRef_2": "משנה בבא מציעא ה, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 54,
-    "heRef_2": "משנה בבא מציעא ה, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 54,
-    "heRef_2": "משנה בבא מציעא ה, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 55,
-    "heRef_2": "משנה בבא מציעא ה, ו",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 56,
-    "heRef_2": "משנה בבא מציעא ה, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 143,
-    "line_index_2": 56,
-    "heRef_2": "משנה בבא מציעא ה, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 144,
-    "line_index_2": 56,
-    "heRef_2": "משנה בבא מציעא ה, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 57,
-    "heRef_2": "משנה בבא מציעא ה, ח",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 58,
-    "heRef_2": "משנה בבא מציעא ה, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 62,
-    "heRef_2": "משנה בבא מציעא ו, א",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 63,
-    "heRef_2": "משנה בבא מציעא ו, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 64,
-    "heRef_2": "משנה בבא מציעא ו, ג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 66,
-    "heRef_2": "משנה בבא מציעא ו, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 67,
-    "heRef_2": "משנה בבא מציעא ו, ו",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 179,
-    "line_index_2": 68,
-    "heRef_2": "משנה בבא מציעא ו, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 195,
-    "line_index_2": 80,
-    "heRef_2": "משנה בבא מציעא ז, י",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 81,
-    "heRef_2": "משנה בבא מציעא ז, יא",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 73,
-    "heRef_2": "משנה בבא מציעא ז, ג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 185,
-    "line_index_2": 74,
-    "heRef_2": "משנה בבא מציעא ז, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 75,
-    "heRef_2": "משנה בבא מציעא ז, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 75,
-    "heRef_2": "משנה בבא מציעא ז, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 195,
-    "line_index_2": 78,
-    "heRef_2": "משנה בבא מציעא ז, ח",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 196,
-    "line_index_2": 79,
-    "heRef_2": "משנה בבא מציעא ז, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 83,
-    "heRef_2": "משנה בבא מציעא ח, א",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 84,
-    "heRef_2": "משנה בבא מציעא ח, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 86,
-    "heRef_2": "משנה בבא מציעא ח, ד",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 88,
-    "heRef_2": "משנה בבא מציעא ח, ו",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 209,
-    "line_index_2": 89,
-    "heRef_2": "משנה בבא מציעא ח, ז",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 90,
-    "heRef_2": "משנה בבא מציעא ח, ח",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 212,
-    "line_index_2": 91,
-    "heRef_2": "משנה בבא מציעא ח, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 213,
-    "line_index_2": 91,
-    "heRef_2": "משנה בבא מציעא ח, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 250,
-    "line_index_2": 103,
-    "heRef_2": "משנה בבא מציעא ט, יא",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 104,
-    "heRef_2": "משנה בבא מציעא ט, יב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 104,
-    "heRef_2": "משנה בבא מציעא ט, יב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 254,
-    "line_index_2": 104,
-    "heRef_2": "משנה בבא מציעא ט, יב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 105,
-    "heRef_2": "משנה בבא מציעא ט, יג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 105,
-    "heRef_2": "משנה בבא מציעא ט, יג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 258,
-    "line_index_2": 105,
-    "heRef_2": "משנה בבא מציעא ט, יג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 259,
-    "line_index_2": 105,
-    "heRef_2": "משנה בבא מציעא ט, יג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 217,
-    "line_index_2": 94,
-    "heRef_2": "משנה בבא מציעא ט, ב",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 226,
-    "line_index_2": 95,
-    "heRef_2": "משנה בבא מציעא ט, ג",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 227,
-    "line_index_2": 97,
-    "heRef_2": "משנה בבא מציעא ט, ה",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 245,
-    "line_index_2": 100,
-    "heRef_2": "משנה בבא מציעא ט, ח",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 245,
-    "line_index_2": 101,
-    "heRef_2": "משנה בבא מציעא ט, ט",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 26,
-    "heRef_2": "משנה בכורות ד, א",
-    "path_2": "משנה בכורות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 25,
-    "heRef_2": "משנה גיטין ג, ח",
-    "path_2": "משנה גיטין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 49,
-    "heRef_2": "משנה שבועות ו, א",
-    "path_2": "משנה שבועות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 204,
-    "line_index_2": 53,
-    "heRef_2": "משנה שבועות ו, ה",
-    "path_2": "משנה שבועות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 85,
-    "heRef_2": "משנה תרומות ט, ג",
-    "path_2": "משנה תרומות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 967,
-    "heRef_2": "מועד קטן כו:, יט",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 271,
-    "line_index_2": 282,
-    "heRef_2": "בבא בתרא יא.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 279,
-    "line_index_2": 297,
-    "heRef_2": "בבא בתרא יא:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 279,
-    "line_index_2": 306,
-    "heRef_2": "בבא בתרא יא:, י",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 279,
-    "line_index_2": 307,
-    "heRef_2": "בבא בתרא יא:, יא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 272,
-    "line_index_2": 302,
-    "heRef_2": "בבא בתרא יא:, ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 270,
-    "line_index_2": 350,
-    "heRef_2": "בבא בתרא יג:, ב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 3947,
-    "heRef_2": "בבא בתרא קע.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 3972,
-    "heRef_2": "בבא בתרא קעא.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 276,
-    "line_index_2": 610,
-    "heRef_2": "בבא בתרא כא:, ט",
-    "path_2": "בבא בתרא.txt",
+    "line_index_1": 86,
+    "line_index_2": 653,
+    "heRef_2": "שבת לא., יב",
+    "path_2": "שבת.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 177,
-    "line_index_2": 1121,
-    "heRef_2": "בבא בתרא מה:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 280,
-    "line_index_2": 122,
-    "heRef_2": "בבא בתרא ו.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 137,
-    "heRef_2": "בבא בתרא ו:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 148,
-    "heRef_2": "בבא בתרא ו:, יב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 2007,
-    "heRef_2": "בבא בתרא פו:,  ה",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 2008,
-    "heRef_2": "בבא בתרא פו:,  ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 2009,
-    "heRef_2": "בבא בתרא פו:,  ז",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 202,
-    "heRef_2": "בבא בתרא ח:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 283,
-    "line_index_2": 209,
-    "heRef_2": "בבא בתרא ח:, ח",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 2178,
-    "heRef_2": "בבא בתרא צג:, א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 2183,
-    "heRef_2": "בבא בתרא צג:, ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 2228,
-    "heRef_2": "בבא בתרא צה.,  ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 2229,
-    "heRef_2": "בבא בתרא צה.,  ז",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 3856,
-    "heRef_2": "בבא קמא קב:, א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 205,
-    "line_index_2": 4392,
-    "heRef_2": "בבא קמא קטז:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 286,
-    "line_index_2": 4392,
-    "heRef_2": "בבא קמא קטז:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 4392,
-    "heRef_2": "בבא קמא קטז:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 4393,
-    "heRef_2": "בבא קמא קטז:,  ב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 4394,
-    "heRef_2": "בבא קמא קטז:, ג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 285,
-    "line_index_2": 4396,
-    "heRef_2": "בבא קמא קטז:, ה",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 4398,
-    "heRef_2": "בבא קמא קטז:, ז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 268,
-    "line_index_2": 1127,
-    "heRef_2": "בבא קמא ל.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 1776,
-    "heRef_2": "בבא קמא מו.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 2210,
-    "heRef_2": "בבא קמא נז.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 2210,
-    "heRef_2": "בבא קמא נז., א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 2218,
-    "heRef_2": "בבא קמא נז., ט",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 2234,
-    "heRef_2": "בבא קמא נז:,  ז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 2235,
-    "heRef_2": "בבא קמא נז:,  ח",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 3011,
-    "heRef_2": "בבא קמא עט., יד",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 3079,
-    "heRef_2": "בבא קמא פא:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 3101,
-    "heRef_2": "בבא קמא פא:, כג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 3580,
-    "heRef_2": "בבא קמא צד.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 3605,
-    "heRef_2": "בבא קמא צד:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 3605,
-    "heRef_2": "בבא קמא צד:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 204,
-    "line_index_2": 3669,
-    "heRef_2": "בבא קמא צו:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 3686,
-    "heRef_2": "בבא קמא צו:, יח",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 255,
-    "line_index_2": 3754,
-    "heRef_2": "בבא קמא צט.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 3277,
-    "heRef_2": "בבא מציעא ק:,  יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 3278,
-    "heRef_2": "בבא מציעא ק:,  יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 3321,
-    "heRef_2": "בבא מציעא קא:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 3342,
-    "heRef_2": "בבא מציעא קב.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 209,
-    "line_index_2": 3352,
-    "heRef_2": "בבא מציעא קב., יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 3350,
-    "heRef_2": "בבא מציעא קב., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 218,
-    "line_index_2": 3402,
-    "heRef_2": "בבא מציעא קג:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 227,
-    "line_index_2": 3457,
-    "heRef_2": "בבא מציעא קה., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 3499,
-    "heRef_2": "בבא מציעא קו:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 3500,
-    "heRef_2": "בבא מציעא קו:,  ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 3501,
-    "heRef_2": "בבא מציעא קו:,  ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 3502,
-    "heRef_2": "בבא מציעא קו:,  ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 3503,
-    "heRef_2": "בבא מציעא קו:,  ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 3504,
-    "heRef_2": "בבא מציעא קו:,  ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 3505,
-    "heRef_2": "בבא מציעא קו:,  ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 280,
-    "line_index_2": 3551,
-    "heRef_2": "בבא מציעא קח.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 281,
-    "line_index_2": 3551,
-    "heRef_2": "בבא מציעא קח.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 3637,
-    "heRef_2": "בבא מציעא קי:,  יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 3638,
-    "heRef_2": "בבא מציעא קי:,  יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 3639,
-    "heRef_2": "בבא מציעא קי:,  יד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 3640,
-    "heRef_2": "בבא מציעא קי:,  טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 3641,
-    "heRef_2": "בבא מציעא קי:,  טז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 3642,
-    "heRef_2": "בבא מציעא קי:,  יז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 250,
-    "line_index_2": 3640,
-    "heRef_2": "בבא מציעא קי:, טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 251,
-    "line_index_2": 3644,
-    "heRef_2": "בבא מציעא קיא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 250,
-    "line_index_2": 3650,
-    "heRef_2": "בבא מציעא קיא., ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 250,
-    "line_index_2": 3651,
-    "heRef_2": "בבא מציעא קיא., ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 3667,
-    "heRef_2": "בבא מציעא קיא:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 3671,
-    "heRef_2": "בבא מציעא קיא:, ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 255,
-    "line_index_2": 3683,
-    "heRef_2": "בבא מציעא קיב.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 3693,
-    "heRef_2": "בבא מציעא קיב., יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 3724,
-    "heRef_2": "בבא מציעא קיג:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 3756,
-    "heRef_2": "בבא מציעא קיד:,  ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 3757,
-    "heRef_2": "בבא מציעא קיד:,  ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 3757,
-    "heRef_2": "בבא מציעא קיד:,  ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 3758,
-    "heRef_2": "בבא מציעא קיד:,  ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 3759,
-    "heRef_2": "בבא מציעא קיד:,  ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 3760,
-    "heRef_2": "בבא מציעא קיד:,  י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 258,
-    "line_index_2": 3762,
-    "heRef_2": "בבא מציעא קטו.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 259,
-    "line_index_2": 3788,
-    "heRef_2": "בבא מציעא קטז.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 259,
-    "line_index_2": 3791,
-    "heRef_2": "בבא מציעא קטז., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 262,
-    "line_index_2": 3848,
-    "heRef_2": "בבא מציעא קיז:, יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 3857,
-    "heRef_2": "בבא מציעא קיח., ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 265,
-    "line_index_2": 3876,
-    "heRef_2": "בבא מציעא קיח:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 268,
-    "line_index_2": 3876,
-    "heRef_2": "בבא מציעא קיח:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 272,
-    "line_index_2": 353,
-    "heRef_2": "בבא מציעא יא:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 273,
-    "line_index_2": 353,
-    "heRef_2": "בבא מציעא יא:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 269,
-    "line_index_2": 424,
-    "heRef_2": "בבא מציעא יג:, ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 427,
-    "heRef_2": "בבא מציעא יג:, ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 606,
-    "heRef_2": "בבא מציעא יח:, ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 631,
-    "heRef_2": "בבא מציעא יט., י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 634,
-    "heRef_2": "בבא מציעא יט.,  יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 635,
-    "heRef_2": "בבא מציעא יט.,  יד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 636,
-    "heRef_2": "בבא מציעא יט.,  טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 637,
-    "heRef_2": "בבא מציעא יט.,  טז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 638,
-    "heRef_2": "בבא מציעא יט.,  יז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 639,
-    "heRef_2": "בבא מציעא יט.,  יח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 640,
-    "heRef_2": "בבא מציעא יט.,  יט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 670,
-    "heRef_2": "בבא מציעא כ:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 670,
-    "heRef_2": "בבא מציעא כ:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 697,
-    "heRef_2": "בבא מציעא כא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 757,
-    "heRef_2": "בבא מציעא כב:,  י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 758,
-    "heRef_2": "בבא מציעא כב:,  יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 783,
-    "heRef_2": "בבא מציעא כג:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 793,
-    "heRef_2": "בבא מציעא כד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 793,
-    "heRef_2": "בבא מציעא כד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 795,
-    "heRef_2": "בבא מציעא כד., ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 824,
-    "heRef_2": "בבא מציעא כה.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 825,
-    "heRef_2": "בבא מציעא כה.,  ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 825,
-    "heRef_2": "בבא מציעא כה., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 825,
-    "heRef_2": "בבא מציעא כה., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 855,
-    "heRef_2": "בבא מציעא כה:, טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 842,
-    "heRef_2": "בבא מציעא כה:, ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 843,
-    "heRef_2": "בבא מציעא כה:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 887,
-    "heRef_2": "בבא מציעא כז.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 958,
-    "heRef_2": "בבא מציעא כח:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 958,
-    "heRef_2": "בבא מציעא כח:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 958,
-    "heRef_2": "בבא מציעא כח:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 972,
-    "heRef_2": "בבא מציעא כח:, טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 973,
-    "heRef_2": "בבא מציעא כח:, טז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 990,
-    "heRef_2": "בבא מציעא כט:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 1000,
-    "heRef_2": "בבא מציעא כט:, יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 1026,
-    "heRef_2": "בבא מציעא ל., יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1033,
-    "heRef_2": "בבא מציעא ל:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1046,
-    "heRef_2": "בבא מציעא ל:,  יד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1047,
-    "heRef_2": "בבא מציעא ל:,  טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1048,
-    "heRef_2": "בבא מציעא ל:,  טז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1049,
-    "heRef_2": "בבא מציעא ל:,  יז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1050,
-    "heRef_2": "בבא מציעא ל:,  יח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1051,
-    "heRef_2": "בבא מציעא ל:,  יט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1052,
-    "heRef_2": "בבא מציעא ל:,  כ",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 1054,
-    "heRef_2": "בבא מציעא לא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1054,
-    "heRef_2": "בבא מציעא לא., א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1066,
-    "heRef_2": "בבא מציעא לא., יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1114,
-    "heRef_2": "בבא מציעא לב., כ",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1118,
-    "heRef_2": "בבא מציעא לב:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 1118,
-    "heRef_2": "בבא מציעא לב:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1138,
-    "heRef_2": "בבא מציעא לג.,  א",
-    "path_2": "בבא מציעא.txt",
+    "line_index_2": 1530,
+    "heRef_2": "שבועות מו.,  א",
+    "path_2": "שבועות.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 49,
-    "line_index_2": 1138,
-    "heRef_2": "בבא מציעא לג.,  א",
-    "path_2": "בבא מציעא.txt",
+    "line_index_2": 1410,
+    "heRef_2": "ספרי דברים רכב,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 54,
-    "line_index_2": 1149,
-    "heRef_2": "בבא מציעא לג., יב",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 52,
+    "line_index_2": 1410,
+    "heRef_2": "ספרי דברים רכב,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 60,
-    "line_index_2": 1184,
-    "heRef_2": "בבא מציעא לד.,  יב",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 47,
+    "line_index_2": 1415,
+    "heRef_2": "ספרי דברים רכב, ו",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 60,
-    "line_index_2": 1185,
-    "heRef_2": "בבא מציעא לד.,  יג",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 52,
+    "line_index_2": 1418,
+    "heRef_2": "ספרי דברים רכג,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 60,
-    "line_index_2": 1180,
-    "heRef_2": "בבא מציעא לד.,  ח",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 39,
+    "line_index_2": 1422,
+    "heRef_2": "ספרי דברים רכד,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 60,
-    "line_index_2": 1181,
-    "heRef_2": "בבא מציעא לד.,  ט",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 46,
+    "line_index_2": 1424,
+    "heRef_2": "ספרי דברים רכד,  ג",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 61,
-    "line_index_2": 1180,
-    "heRef_2": "בבא מציעא לד.,  ח",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 46,
+    "line_index_2": 1425,
+    "heRef_2": "ספרי דברים רכד,  ד",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 61,
-    "line_index_2": 1181,
-    "heRef_2": "בבא מציעא לד.,  ט",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 158,
+    "line_index_2": 1632,
+    "heRef_2": "ספרי דברים רסב,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 67,
-    "line_index_2": 1297,
-    "heRef_2": "בבא מציעא לח.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 1309,
-    "heRef_2": "בבא מציעא לח., יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 1300,
-    "heRef_2": "בבא מציעא לח., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 50,
-    "heRef_2": "בבא מציעא ג:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 1359,
-    "heRef_2": "בבא מציעא מ.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 1368,
-    "heRef_2": "בבא מציעא מ., י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 1367,
-    "heRef_2": "בבא מציעא מ., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 197,
-    "line_index_2": 1408,
-    "heRef_2": "בבא מציעא מא., יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 1526,
-    "heRef_2": "בבא מציעא מה:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 1544,
-    "heRef_2": "בבא מציעא מו., ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 1601,
-    "heRef_2": "בבא מציעא מח.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 1615,
-    "heRef_2": "בבא מציעא מח:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 1653,
-    "heRef_2": "בבא מציעא מט:,  י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 1654,
-    "heRef_2": "בבא מציעא מט:,  יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 74,
+    "line_index_1": 188,
     "line_index_2": 1655,
-    "heRef_2": "בבא מציעא מט:,  יב",
-    "path_2": "בבא מציעא.txt",
+    "heRef_2": "ספרי דברים רסו,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 74,
-    "line_index_2": 1656,
-    "heRef_2": "בבא מציעא מט:,  יג",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 259,
+    "line_index_2": 1701,
+    "heRef_2": "ספרי דברים ערב, א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 74,
-    "line_index_2": 1657,
-    "heRef_2": "בבא מציעא מט:,  יד",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 256,
+    "line_index_2": 1721,
+    "heRef_2": "ספרי דברים רעו,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 74,
-    "line_index_2": 1665,
-    "heRef_2": "בבא מציעא נ:,  א",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 251,
+    "line_index_2": 1729,
+    "heRef_2": "ספרי דברים רעח,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 80,
-    "line_index_2": 1702,
-    "heRef_2": "בבא מציעא נא:, ד",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 252,
+    "line_index_2": 1729,
+    "heRef_2": "ספרי דברים רעח, א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 75,
-    "line_index_2": 1718,
-    "heRef_2": "בבא מציעא נב., ח",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 253,
+    "line_index_2": 1734,
+    "heRef_2": "ספרי דברים רעט,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 76,
-    "line_index_2": 1719,
-    "heRef_2": "בבא מציעא נב., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 1719,
-    "heRef_2": "בבא מציעא נב., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 1808,
-    "heRef_2": "בבא מציעא נה., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 1902,
-    "heRef_2": "בבא מציעא נח:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 1904,
-    "heRef_2": "בבא מציעא נח:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 1906,
-    "heRef_2": "בבא מציעא נח:, ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 1947,
-    "heRef_2": "בבא מציעא ס.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 1958,
-    "heRef_2": "בבא מציעא ס., יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 1966,
-    "heRef_2": "בבא מציעא ס:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 2023,
-    "heRef_2": "בבא מציעא סב.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 2030,
-    "heRef_2": "בבא מציעא סב., ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 2039,
-    "heRef_2": "בבא מציעא סב:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 2039,
-    "heRef_2": "בבא מציעא סב:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 2060,
-    "heRef_2": "בבא מציעא סג., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 2079,
-    "heRef_2": "בבא מציעא סד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 2116,
-    "heRef_2": "בבא מציעא סה:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 2123,
-    "heRef_2": "בבא מציעא סה:, ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 2219,
-    "heRef_2": "בבא מציעא סח:, י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 2219,
-    "heRef_2": "בבא מציעא סח:, י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 2221,
-    "heRef_2": "בבא מציעא סח:, יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 2214,
-    "heRef_2": "בבא מציעא סח:, ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 2215,
-    "heRef_2": "בבא מציעא סח:, ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 2226,
-    "heRef_2": "בבא מציעא סט.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 2236,
-    "heRef_2": "בבא מציעא סט., יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 2234,
-    "heRef_2": "בבא מציעא סט., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 2234,
-    "heRef_2": "בבא מציעא סט., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 2234,
-    "heRef_2": "בבא מציעא סט., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 2250,
-    "heRef_2": "בבא מציעא סט:,  י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 2251,
-    "heRef_2": "בבא מציעא סט:,  יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 2249,
-    "heRef_2": "בבא מציעא סט:,  ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 2250,
-    "heRef_2": "בבא מציעא סט:,  י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 2251,
-    "heRef_2": "בבא מציעא סט:,  יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 141,
-    "heRef_2": "בבא מציעא ו.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 2262,
-    "heRef_2": "בבא מציעא ע., ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 2281,
-    "heRef_2": "בבא מציעא עא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 2285,
-    "heRef_2": "בבא מציעא עא., ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 2302,
-    "heRef_2": "בבא מציעא עא:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 2305,
-    "heRef_2": "בבא מציעא עא:, ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 2317,
-    "heRef_2": "בבא מציעא עב.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 2322,
-    "heRef_2": "בבא מציעא עב., ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 2329,
-    "heRef_2": "בבא מציעא עב:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2340,
-    "heRef_2": "בבא מציעא עב:,  יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2341,
-    "heRef_2": "בבא מציעא עב:,  יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2342,
-    "heRef_2": "בבא מציעא עב:,  יד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2343,
-    "heRef_2": "בבא מציעא עב:,  טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2344,
-    "heRef_2": "בבא מציעא עב:,  טז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2345,
-    "heRef_2": "בבא מציעא עב:,  יז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 2348,
-    "heRef_2": "בבא מציעא עג., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 144,
-    "line_index_2": 2386,
-    "heRef_2": "בבא מציעא עד., יד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 2390,
-    "heRef_2": "בבא מציעא עד:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 2415,
-    "heRef_2": "בבא מציעא עה., י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 2418,
-    "heRef_2": "בבא מציעא עה:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 2450,
-    "heRef_2": "בבא מציעא עו:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 2452,
-    "heRef_2": "בבא מציעא עו:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 2454,
-    "heRef_2": "בבא מציעא עו:, ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 2524,
-    "heRef_2": "בבא מציעא עח:, טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 2530,
-    "heRef_2": "בבא מציעא עט.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 2549,
-    "heRef_2": "בבא מציעא עט:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 2552,
-    "heRef_2": "בבא מציעא עט:, ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 2555,
-    "heRef_2": "בבא מציעא עט:, ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 172,
-    "heRef_2": "בבא מציעא ז.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 178,
-    "heRef_2": "בבא מציעא ז., ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 2566,
-    "heRef_2": "בבא מציעא פ., ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 2571,
-    "heRef_2": "בבא מציעא פ:, ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 2584,
-    "heRef_2": "בבא מציעא פא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 2783,
-    "heRef_2": "בבא מציעא פז.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 2803,
-    "heRef_2": "בבא מציעא פז:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 183,
-    "line_index_2": 2854,
-    "heRef_2": "בבא מציעא פט.,  א",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 258,
+    "line_index_2": 1741,
+    "heRef_2": "ספרי דברים רפא,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 187,
-    "line_index_2": 2860,
-    "heRef_2": "בבא מציעא פט., ז",
-    "path_2": "בבא מציעא.txt",
+    "line_index_2": 1783,
+    "heRef_2": "ספרי דברים רפז, ג",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 190,
-    "line_index_2": 2875,
-    "heRef_2": "בבא מציעא פט:,  ח",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 84,
+    "line_index_2": 1830,
+    "heRef_2": "ספרי דברים רצה,  א",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 190,
-    "line_index_2": 2876,
-    "heRef_2": "בבא מציעא פט:,  ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 2877,
-    "heRef_2": "בבא מציעא פט:,  י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 2878,
-    "heRef_2": "בבא מציעא פט:,  יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 2875,
-    "heRef_2": "בבא מציעא פט:,  ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 2876,
-    "heRef_2": "בבא מציעא פט:,  ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 2877,
-    "heRef_2": "בבא מציעא פט:,  י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 2878,
-    "heRef_2": "בבא מציעא פט:,  יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 249,
-    "heRef_2": "בבא מציעא ח:,  ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 250,
-    "heRef_2": "בבא מציעא ח:,  י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 251,
-    "heRef_2": "בבא מציעא ח:,  יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 252,
-    "heRef_2": "בבא מציעא ח:,  יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 253,
-    "heRef_2": "בבא מציעא ח:,  יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 2881,
-    "heRef_2": "בבא מציעא צ., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 192,
-    "line_index_2": 2908,
-    "heRef_2": "בבא מציעא צ:,  יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 192,
-    "line_index_2": 2909,
-    "heRef_2": "בבא מציעא צ:,  יג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 183,
-    "line_index_2": 2903,
-    "heRef_2": "בבא מציעא צ:, ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 192,
-    "line_index_2": 2915,
-    "heRef_2": "בבא מציעא צא., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 2926,
-    "heRef_2": "בבא מציעא צא:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 185,
-    "line_index_2": 2947,
-    "heRef_2": "בבא מציעא צב.,  ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 185,
-    "line_index_2": 2948,
-    "heRef_2": "בבא מציעא צב.,  ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 2947,
-    "heRef_2": "בבא מציעא צב.,  ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 2948,
-    "heRef_2": "בבא מציעא צב.,  ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 186,
-    "line_index_2": 2996,
-    "heRef_2": "בבא מציעא צג., יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 198,
-    "line_index_2": 3007,
-    "heRef_2": "בבא מציעא צג:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 195,
-    "line_index_2": 3008,
-    "heRef_2": "בבא מציעא צג:, ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 3030,
-    "heRef_2": "בבא מציעא צד., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 3098,
-    "heRef_2": "בבא מציעא צה:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 3104,
-    "heRef_2": "בבא מציעא צה:,  ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 3105,
-    "heRef_2": "בבא מציעא צה:,  ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 3230,
-    "heRef_2": "בבא מציעא צט:, א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 898,
-    "heRef_2": "ביצה כט., יד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 803,
-    "heRef_2": "גיטין כח.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 924,
-    "heRef_2": "גיטין לא:, ז",
-    "path_2": "גיטין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 1205,
-    "heRef_2": "גיטין מ:,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 229,
-    "heRef_2": "שמואל א י, יב",
-    "path_2": "שמואל א.txt",
+    "line_index_1": 84,
+    "line_index_2": 1832,
+    "heRef_2": "ספרי דברים רצה, ג",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
@@ -27594,948 +25732,2817 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 164,
-    "line_index_2": 345,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה ה, א, ה",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "reference"
+    "line_index_1": 208,
+    "line_index_2": 967,
+    "heRef_2": "מועד קטן כו:, יט",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 275,
-    "line_index_2": 19,
-    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ב",
-    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
-    "Conection Type": ""
+    "line_index_1": 293,
+    "line_index_2": 1509,
+    "heRef_2": "נדרים פ:, ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 278,
-    "line_index_2": 21,
-    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ד",
-    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
-    "Conection Type": ""
+    "line_index_1": 67,
+    "line_index_2": 369,
+    "heRef_2": "פסחים יג.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 282,
+    "heRef_2": "בבא בתרא יא.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 297,
+    "heRef_2": "בבא בתרא יא:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 306,
+    "heRef_2": "בבא בתרא יא:, י",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 307,
+    "heRef_2": "בבא בתרא יא:, יא",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 272,
-    "line_index_2": 22,
-    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ה",
-    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 302,
+    "heRef_2": "בבא בתרא יא:, ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 281,
-    "line_index_2": 22,
-    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ה",
-    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 280,
-    "line_index_2": 22,
-    "heRef_2": "תלמוד ירושלמי בבא בתרא א, ה, ה",
-    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 335,
-    "heRef_2": "תלמוד ירושלמי בבא קמא י, א, ב",
-    "path_2": "תלמוד ירושלמי בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 335,
-    "heRef_2": "תלמוד ירושלמי בבא קמא י, א, ב",
-    "path_2": "תלמוד ירושלמי בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 81,
-    "heRef_2": "תלמוד ירושלמי בבא קמא ג, ג, ה",
-    "path_2": "תלמוד ירושלמי בבא קמא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 196,
-    "heRef_2": "תלמוד ירושלמי בבא קמא ו, א, ג",
-    "path_2": "תלמוד ירושלמי בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 315,
-    "heRef_2": "תלמוד ירושלמי בבא קמא ט, ה, ד",
-    "path_2": "תלמוד ירושלמי בבא קמא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 315,
-    "heRef_2": "תלמוד ירושלמי בבא קמא ט, ה, ד",
-    "path_2": "תלמוד ירושלמי בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 261,
-    "line_index_2": 347,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא י, א, א",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 264,
+    "line_index_1": 270,
     "line_index_2": 350,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא י, א, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 357,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ג, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 364,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ה, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 268,
-    "line_index_2": 364,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ה, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 266,
-    "line_index_2": 364,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ה, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 265,
-    "line_index_2": 364,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא י, ה, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "heRef_2": "בבא בתרא יג:, ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 17,
-    "line_index_2": 7,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא א, א, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "line_index_2": 3947,
+    "heRef_2": "בבא בתרא קע.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 8,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא א, א, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 22,
+    "line_index_2": 3972,
+    "heRef_2": "בבא בתרא קעא.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 6,
-    "line_index_2": 18,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא א, ד, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "line_index_1": 276,
+    "line_index_2": 610,
+    "heRef_2": "בבא בתרא כא:, ט",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 45,
-    "line_index_2": 81,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, י, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 177,
+    "line_index_2": 1121,
+    "heRef_2": "בבא בתרא מה:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 46,
-    "line_index_2": 81,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, י, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 280,
+    "line_index_2": 122,
+    "heRef_2": "בבא בתרא ו.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 48,
-    "line_index_2": 81,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, י, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "line_index_1": 264,
+    "line_index_2": 137,
+    "heRef_2": "בבא בתרא ו:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 29,
-    "line_index_2": 42,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, א, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "line_index_1": 264,
+    "line_index_2": 148,
+    "heRef_2": "בבא בתרא ו:, יב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 28,
-    "line_index_2": 46,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ב, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 156,
+    "line_index_2": 2007,
+    "heRef_2": "בבא בתרא פו:,  ה",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 32,
-    "line_index_2": 46,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ב, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "line_index_1": 156,
+    "line_index_2": 2008,
+    "heRef_2": "בבא בתרא פו:,  ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 25,
-    "line_index_2": 47,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ב, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "line_index_1": 156,
+    "line_index_2": 2009,
+    "heRef_2": "בבא בתרא פו:,  ז",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 35,
-    "line_index_2": 55,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ד, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 67,
+    "line_index_2": 202,
+    "heRef_2": "בבא בתרא ח:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 37,
-    "line_index_2": 55,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ד, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 55,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ד, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 67,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ו, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 73,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ח, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 77,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ט, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 77,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ב, ט, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 96,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ג, ב, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 99,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ג, ג, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 124,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, א, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 143,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 143,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 143,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 150,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ו, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 158,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, א, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 162,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, א, ז",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 162,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, א, ז",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 166,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ב, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 170,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 171,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 172,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 174,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ז",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 175,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ח",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 175,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ג, ח",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 178,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 178,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 178,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 178,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 179,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 180,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 181,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 181,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 181,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 126,
-    "line_index_2": 181,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 182,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ו",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 183,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ד, ז",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 186,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 189,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 189,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 190,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ו",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 191,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ז",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 192,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ח",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 193,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ט",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 193,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ה, ט",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 198,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ו, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 199,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ו, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 207,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ח, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 207,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ח, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 207,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ה, ח, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 211,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, א, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 213,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, א, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 220,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ג, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 221,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ג, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 225,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 226,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 227,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 205,
-    "line_index_2": 228,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 229,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ו",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 205,
-    "line_index_2": 229,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ו, ד, ו",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 246,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ב, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 248,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ב, ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 249,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ב, ה",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 255,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ד, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 287,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ח, ו, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 329,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, י, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 250,
-    "line_index_2": 329,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, י, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 333,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יא, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 338,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יב, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 339,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יב, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 258,
-    "line_index_2": 340,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יב,  ד",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 258,
-    "line_index_2": 342,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יג,  א",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 258,
-    "line_index_2": 343,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יג,  ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 259,
-    "line_index_2": 344,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, יג, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 228,
-    "line_index_2": 301,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, א, ג",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "line_index_1": 283,
+    "line_index_2": 209,
+    "heRef_2": "בבא בתרא ח:, ח",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 230,
-    "line_index_2": 326,
-    "heRef_2": "תלמוד ירושלמי בבא מציעא ט, ט, ב",
-    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
-    "Conection Type": ""
+    "line_index_2": 2178,
+    "heRef_2": "בבא בתרא צג:, א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 182,
-    "line_index_2": 321,
-    "heRef_2": "תלמוד ירושלמי דמאי ז, ג, ד",
-    "path_2": "תלמוד ירושלמי דמאי.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 230,
+    "line_index_2": 2183,
+    "heRef_2": "בבא בתרא צג:, ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 278,
-    "line_index_2": 369,
-    "heRef_2": "תלמוד ירושלמי עירובין ז, י, ג",
-    "path_2": "תלמוד ירושלמי עירובין.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 231,
+    "line_index_2": 2228,
+    "heRef_2": "בבא בתרא צה.,  ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 136,
-    "line_index_2": 147,
-    "heRef_2": "תלמוד ירושלמי גיטין ד, ד, ז",
-    "path_2": "תלמוד ירושלמי גיטין.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 231,
+    "line_index_2": 2229,
+    "heRef_2": "בבא בתרא צה.,  ז",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 53,
-    "line_index_2": 127,
-    "heRef_2": "תלמוד ירושלמי הוריות ג, ד, ח",
-    "path_2": "תלמוד ירושלמי הוריות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 108,
+    "line_index_2": 3856,
+    "heRef_2": "בבא קמא קב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 54,
-    "line_index_2": 127,
-    "heRef_2": "תלמוד ירושלמי הוריות ג, ד, ח",
-    "path_2": "תלמוד ירושלמי הוריות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 205,
+    "line_index_2": 4392,
+    "heRef_2": "בבא קמא קטז:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 55,
-    "line_index_2": 127,
-    "heRef_2": "תלמוד ירושלמי הוריות ג, ד, ח",
-    "path_2": "תלמוד ירושלמי הוריות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 286,
+    "line_index_2": 4392,
+    "heRef_2": "בבא קמא קטז:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 59,
-    "line_index_2": 466,
-    "heRef_2": "תלמוד ירושלמי כתובות ט, ה, ג",
-    "path_2": "תלמוד ירושלמי כתובות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 164,
+    "line_index_2": 4392,
+    "heRef_2": "בבא קמא קטז:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 59,
-    "line_index_2": 96,
-    "heRef_2": "תלמוד ירושלמי קידושין א, ד, י",
-    "path_2": "תלמוד ירושלמי קידושין.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 164,
+    "line_index_2": 4393,
+    "heRef_2": "בבא קמא קטז:,  ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 188,
-    "line_index_2": 94,
-    "heRef_2": "תלמוד ירושלמי מעשרות ב, ד, י",
-    "path_2": "תלמוד ירושלמי מעשרות.txt",
-    "Conection Type": ""
+    "line_index_1": 173,
+    "line_index_2": 4394,
+    "heRef_2": "בבא קמא קטז:, ג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 183,
-    "line_index_2": 95,
-    "heRef_2": "תלמוד ירושלמי מעשרות ב, ד, יא",
-    "path_2": "תלמוד ירושלמי מעשרות.txt",
-    "Conection Type": ""
+    "line_index_1": 285,
+    "line_index_2": 4396,
+    "heRef_2": "בבא קמא קטז:, ה",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 184,
-    "line_index_2": 95,
-    "heRef_2": "תלמוד ירושלמי מעשרות ב, ד, יא",
-    "path_2": "תלמוד ירושלמי מעשרות.txt",
-    "Conection Type": ""
+    "line_index_1": 174,
+    "line_index_2": 4398,
+    "heRef_2": "בבא קמא קטז:, ז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 187,
-    "line_index_2": 88,
-    "heRef_2": "תלמוד ירושלמי מעשרות ב, ד, ד",
-    "path_2": "תלמוד ירושלמי מעשרות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 268,
+    "line_index_2": 1127,
+    "heRef_2": "בבא קמא ל.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 249,
-    "line_index_2": 15,
-    "heRef_2": "תלמוד ירושלמי מכות א, ב,  ג",
-    "path_2": "תלמוד ירושלמי מכות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 202,
+    "line_index_2": 1776,
+    "heRef_2": "בבא קמא מו.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 249,
-    "line_index_2": 16,
-    "heRef_2": "תלמוד ירושלמי מכות א, ב,  ד",
-    "path_2": "תלמוד ירושלמי מכות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 200,
+    "line_index_2": 2210,
+    "heRef_2": "בבא קמא נז.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 54,
-    "line_index_2": 159,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ז,  ה",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 47,
+    "line_index_2": 2210,
+    "heRef_2": "בבא קמא נז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 54,
-    "line_index_2": 160,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ז,  ו",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 47,
+    "line_index_2": 2218,
+    "heRef_2": "בבא קמא נז., ט",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 292,
-    "line_index_2": 276,
-    "heRef_2": "תלמוד ירושלמי נזיר ז, א, כא",
-    "path_2": "תלמוד ירושלמי נזיר.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 60,
+    "line_index_2": 2234,
+    "heRef_2": "בבא קמא נז:,  ז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 293,
-    "line_index_2": 406,
-    "heRef_2": "תלמוד ירושלמי נדרים יא, א, ו",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 60,
+    "line_index_2": 2235,
+    "heRef_2": "בבא קמא נז:,  ח",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 211,
-    "line_index_2": 309,
-    "heRef_2": "תלמוד ירושלמי נדרים ח, ו, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 223,
+    "line_index_2": 3011,
+    "heRef_2": "בבא קמא עט., יד",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 136,
-    "line_index_2": 101,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, טז",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 52,
+    "line_index_2": 3079,
+    "heRef_2": "בבא קמא פא:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 210,
-    "line_index_2": 251,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ז",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 52,
+    "line_index_2": 3101,
+    "heRef_2": "בבא קמא פא:, כג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 247,
-    "line_index_2": 251,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ז",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 206,
+    "line_index_2": 3580,
+    "heRef_2": "בבא קמא צד.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 57,
-    "line_index_2": 416,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, ו, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 139,
+    "line_index_2": 3605,
+    "heRef_2": "בבא קמא צד:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 210,
-    "line_index_2": 263,
-    "heRef_2": "תלמוד ירושלמי שבת ד, א, ו",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 140,
+    "line_index_2": 3605,
+    "heRef_2": "בבא קמא צד:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 3669,
+    "heRef_2": "בבא קמא צו:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 3686,
+    "heRef_2": "בבא קמא צו:, יח",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 3754,
+    "heRef_2": "בבא קמא צט.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 3277,
+    "heRef_2": "בבא מציעא ק:,  יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 3278,
+    "heRef_2": "בבא מציעא ק:,  יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 3321,
+    "heRef_2": "בבא מציעא קא:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 3342,
+    "heRef_2": "בבא מציעא קב.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 3352,
+    "heRef_2": "בבא מציעא קב., יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 3350,
+    "heRef_2": "בבא מציעא קב., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 3402,
+    "heRef_2": "בבא מציעא קג:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 3457,
+    "heRef_2": "בבא מציעא קה., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 3499,
+    "heRef_2": "בבא מציעא קו:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 3500,
+    "heRef_2": "בבא מציעא קו:,  ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 3501,
+    "heRef_2": "בבא מציעא קו:,  ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 3502,
+    "heRef_2": "בבא מציעא קו:,  ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 3503,
+    "heRef_2": "בבא מציעא קו:,  ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 3504,
+    "heRef_2": "בבא מציעא קו:,  ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 3505,
+    "heRef_2": "בבא מציעא קו:,  ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 3551,
+    "heRef_2": "בבא מציעא קח.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 3551,
+    "heRef_2": "בבא מציעא קח.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 3637,
+    "heRef_2": "בבא מציעא קי:,  יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 3638,
+    "heRef_2": "בבא מציעא קי:,  יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 3639,
+    "heRef_2": "בבא מציעא קי:,  יד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 3640,
+    "heRef_2": "בבא מציעא קי:,  טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 3641,
+    "heRef_2": "בבא מציעא קי:,  טז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 3642,
+    "heRef_2": "בבא מציעא קי:,  יז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 3640,
+    "heRef_2": "בבא מציעא קי:, טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 3644,
+    "heRef_2": "בבא מציעא קיא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 3650,
+    "heRef_2": "בבא מציעא קיא., ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 3651,
+    "heRef_2": "בבא מציעא קיא., ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 3667,
+    "heRef_2": "בבא מציעא קיא:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 3671,
+    "heRef_2": "בבא מציעא קיא:, ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 3683,
+    "heRef_2": "בבא מציעא קיב.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 3693,
+    "heRef_2": "בבא מציעא קיב., יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 3724,
+    "heRef_2": "בבא מציעא קיג:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 3756,
+    "heRef_2": "בבא מציעא קיד:,  ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 3757,
+    "heRef_2": "בבא מציעא קיד:,  ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 3757,
+    "heRef_2": "בבא מציעא קיד:,  ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 3758,
+    "heRef_2": "בבא מציעא קיד:,  ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 3759,
+    "heRef_2": "בבא מציעא קיד:,  ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 3760,
+    "heRef_2": "בבא מציעא קיד:,  י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 3762,
+    "heRef_2": "בבא מציעא קטו.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 3788,
+    "heRef_2": "בבא מציעא קטז.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 3791,
+    "heRef_2": "בבא מציעא קטז., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 3848,
+    "heRef_2": "בבא מציעא קיז:, יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 3857,
+    "heRef_2": "בבא מציעא קיח., ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 3876,
+    "heRef_2": "בבא מציעא קיח:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 3876,
+    "heRef_2": "בבא מציעא קיח:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 353,
+    "heRef_2": "בבא מציעא יא:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 353,
+    "heRef_2": "בבא מציעא יא:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 424,
+    "heRef_2": "בבא מציעא יג:, ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 427,
+    "heRef_2": "בבא מציעא יג:, ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 606,
+    "heRef_2": "בבא מציעא יח:, ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 631,
+    "heRef_2": "בבא מציעא יט., י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 634,
+    "heRef_2": "בבא מציעא יט.,  יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 635,
+    "heRef_2": "בבא מציעא יט.,  יד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 636,
+    "heRef_2": "בבא מציעא יט.,  טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 637,
+    "heRef_2": "בבא מציעא יט.,  טז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 638,
+    "heRef_2": "בבא מציעא יט.,  יז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 639,
+    "heRef_2": "בבא מציעא יט.,  יח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 640,
+    "heRef_2": "בבא מציעא יט.,  יט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 670,
+    "heRef_2": "בבא מציעא כ:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 670,
+    "heRef_2": "בבא מציעא כ:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 697,
+    "heRef_2": "בבא מציעא כא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 757,
+    "heRef_2": "בבא מציעא כב:,  י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 758,
+    "heRef_2": "בבא מציעא כב:,  יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 783,
+    "heRef_2": "בבא מציעא כג:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 793,
+    "heRef_2": "בבא מציעא כד.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 26,
-    "line_index_2": 231,
-    "heRef_2": "תלמוד ירושלמי שקלים ז, ב, ט",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 793,
+    "heRef_2": "בבא מציעא כד.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 249,
-    "line_index_2": 426,
-    "heRef_2": "תלמוד ירושלמי שביעית י, א, טז",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 25,
+    "line_index_2": 795,
+    "heRef_2": "בבא מציעא כד., ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 145,
-    "line_index_2": 328,
-    "heRef_2": "תלמוד ירושלמי שביעית ח, ד, ד",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 31,
+    "line_index_2": 824,
+    "heRef_2": "בבא מציעא כה.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 293,
-    "line_index_2": 334,
-    "heRef_2": "תלמוד ירושלמי שביעית ח, ה, ד",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 31,
+    "line_index_2": 825,
+    "heRef_2": "בבא מציעא כה.,  ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 825,
+    "heRef_2": "בבא מציעא כה., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 825,
+    "heRef_2": "בבא מציעא כה., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 855,
+    "heRef_2": "בבא מציעא כה:, טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 842,
+    "heRef_2": "בבא מציעא כה:, ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 843,
+    "heRef_2": "בבא מציעא כה:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 887,
+    "heRef_2": "בבא מציעא כז.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 958,
+    "heRef_2": "בבא מציעא כח:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 958,
+    "heRef_2": "בבא מציעא כח:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 958,
+    "heRef_2": "בבא מציעא כח:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 972,
+    "heRef_2": "בבא מציעא כח:, טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 973,
+    "heRef_2": "בבא מציעא כח:, טז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 990,
+    "heRef_2": "בבא מציעא כט:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 1000,
+    "heRef_2": "בבא מציעא כט:, יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 1026,
+    "heRef_2": "בבא מציעא ל., יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 48,
-    "line_index_2": 404,
-    "heRef_2": "תלמוד ירושלמי שביעית ט, ו, ג",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 1033,
+    "heRef_2": "בבא מציעא ל:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 226,
-    "line_index_2": 333,
-    "heRef_2": "תלמוד ירושלמי שבועות ח, א, ב",
-    "path_2": "תלמוד ירושלמי שבועות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 43,
+    "line_index_2": 1046,
+    "heRef_2": "בבא מציעא ל:,  יד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 1047,
+    "heRef_2": "בבא מציעא ל:,  טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 1048,
+    "heRef_2": "בבא מציעא ל:,  טז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 1049,
+    "heRef_2": "בבא מציעא ל:,  יז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 1050,
+    "heRef_2": "בבא מציעא ל:,  יח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 1051,
+    "heRef_2": "בבא מציעא ל:,  יט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 1052,
+    "heRef_2": "בבא מציעא ל:,  כ",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 1054,
+    "heRef_2": "בבא מציעא לא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 1054,
+    "heRef_2": "בבא מציעא לא., א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1066,
+    "heRef_2": "בבא מציעא לא., יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 1114,
+    "heRef_2": "בבא מציעא לב., כ",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1118,
+    "heRef_2": "בבא מציעא לב:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 1118,
+    "heRef_2": "בבא מציעא לב:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 1138,
+    "heRef_2": "בבא מציעא לג.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 1138,
+    "heRef_2": "בבא מציעא לג.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 1149,
+    "heRef_2": "בבא מציעא לג., יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1184,
+    "heRef_2": "בבא מציעא לד.,  יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1185,
+    "heRef_2": "בבא מציעא לד.,  יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1180,
+    "heRef_2": "בבא מציעא לד.,  ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1181,
+    "heRef_2": "בבא מציעא לד.,  ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 1180,
+    "heRef_2": "בבא מציעא לד.,  ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 1181,
+    "heRef_2": "בבא מציעא לד.,  ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 1297,
+    "heRef_2": "בבא מציעא לח.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 1309,
+    "heRef_2": "בבא מציעא לח., יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 1300,
+    "heRef_2": "בבא מציעא לח., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 50,
+    "heRef_2": "בבא מציעא ג:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 1359,
+    "heRef_2": "בבא מציעא מ.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 1368,
+    "heRef_2": "בבא מציעא מ., י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 1367,
+    "heRef_2": "בבא מציעא מ., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 1408,
+    "heRef_2": "בבא מציעא מא., יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 1526,
+    "heRef_2": "בבא מציעא מה:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 1544,
+    "heRef_2": "בבא מציעא מו., ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 1601,
+    "heRef_2": "בבא מציעא מח.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 1615,
+    "heRef_2": "בבא מציעא מח:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1653,
+    "heRef_2": "בבא מציעא מט:,  י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1654,
+    "heRef_2": "בבא מציעא מט:,  יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1655,
+    "heRef_2": "בבא מציעא מט:,  יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1656,
+    "heRef_2": "בבא מציעא מט:,  יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1657,
+    "heRef_2": "בבא מציעא מט:,  יד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1665,
+    "heRef_2": "בבא מציעא נ:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 1702,
+    "heRef_2": "בבא מציעא נא:, ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 1718,
+    "heRef_2": "בבא מציעא נב., ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 1719,
+    "heRef_2": "בבא מציעא נב., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 1719,
+    "heRef_2": "בבא מציעא נב., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 1808,
+    "heRef_2": "בבא מציעא נה., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 1902,
+    "heRef_2": "בבא מציעא נח:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 1904,
+    "heRef_2": "בבא מציעא נח:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 1906,
+    "heRef_2": "בבא מציעא נח:, ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 1947,
+    "heRef_2": "בבא מציעא ס.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 1958,
+    "heRef_2": "בבא מציעא ס., יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 1966,
+    "heRef_2": "בבא מציעא ס:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 2023,
+    "heRef_2": "בבא מציעא סב.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 2030,
+    "heRef_2": "בבא מציעא סב., ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 2039,
+    "heRef_2": "בבא מציעא סב:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 2039,
+    "heRef_2": "בבא מציעא סב:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 2060,
+    "heRef_2": "בבא מציעא סג., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 2079,
+    "heRef_2": "בבא מציעא סד.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 2116,
+    "heRef_2": "בבא מציעא סה:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 2123,
+    "heRef_2": "בבא מציעא סה:, ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 2219,
+    "heRef_2": "בבא מציעא סח:, י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 2219,
+    "heRef_2": "בבא מציעא סח:, י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 2221,
+    "heRef_2": "בבא מציעא סח:, יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 2214,
+    "heRef_2": "בבא מציעא סח:, ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 2215,
+    "heRef_2": "בבא מציעא סח:, ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 2226,
+    "heRef_2": "בבא מציעא סט.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 2236,
+    "heRef_2": "בבא מציעא סט., יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 2234,
+    "heRef_2": "בבא מציעא סט., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 2234,
+    "heRef_2": "בבא מציעא סט., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 2234,
+    "heRef_2": "בבא מציעא סט., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 2250,
+    "heRef_2": "בבא מציעא סט:,  י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 2251,
+    "heRef_2": "בבא מציעא סט:,  יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 2249,
+    "heRef_2": "בבא מציעא סט:,  ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 2250,
+    "heRef_2": "בבא מציעא סט:,  י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 2251,
+    "heRef_2": "בבא מציעא סט:,  יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 141,
+    "heRef_2": "בבא מציעא ו.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 2262,
+    "heRef_2": "בבא מציעא ע., ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 2281,
+    "heRef_2": "בבא מציעא עא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 2285,
+    "heRef_2": "בבא מציעא עא., ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 2302,
+    "heRef_2": "בבא מציעא עא:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 2305,
+    "heRef_2": "בבא מציעא עא:, ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 2317,
+    "heRef_2": "בבא מציעא עב.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 2322,
+    "heRef_2": "בבא מציעא עב., ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 2329,
+    "heRef_2": "בבא מציעא עב:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2340,
+    "heRef_2": "בבא מציעא עב:,  יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2341,
+    "heRef_2": "בבא מציעא עב:,  יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2342,
+    "heRef_2": "בבא מציעא עב:,  יד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2343,
+    "heRef_2": "בבא מציעא עב:,  טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2344,
+    "heRef_2": "בבא מציעא עב:,  טז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2345,
+    "heRef_2": "בבא מציעא עב:,  יז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 2348,
+    "heRef_2": "בבא מציעא עג., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 2386,
+    "heRef_2": "בבא מציעא עד., יד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 2390,
+    "heRef_2": "בבא מציעא עד:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 2415,
+    "heRef_2": "בבא מציעא עה., י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 2418,
+    "heRef_2": "בבא מציעא עה:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 2450,
+    "heRef_2": "בבא מציעא עו:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 2452,
+    "heRef_2": "בבא מציעא עו:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 2454,
+    "heRef_2": "בבא מציעא עו:, ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 2524,
+    "heRef_2": "בבא מציעא עח:, טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 2530,
+    "heRef_2": "בבא מציעא עט.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 2549,
+    "heRef_2": "בבא מציעא עט:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 2552,
+    "heRef_2": "בבא מציעא עט:, ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 2555,
+    "heRef_2": "בבא מציעא עט:, ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 172,
+    "heRef_2": "בבא מציעא ז.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 178,
+    "heRef_2": "בבא מציעא ז., ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 2566,
+    "heRef_2": "בבא מציעא פ., ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 2571,
+    "heRef_2": "בבא מציעא פ:, ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 2584,
+    "heRef_2": "בבא מציעא פא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 2783,
+    "heRef_2": "בבא מציעא פז.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 2803,
+    "heRef_2": "בבא מציעא פז:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 2854,
+    "heRef_2": "בבא מציעא פט.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 2860,
+    "heRef_2": "בבא מציעא פט., ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 190,
-    "line_index_2": 361,
-    "heRef_2": "תלמוד ירושלמי תרומות ט, א, יג",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 2875,
+    "heRef_2": "בבא מציעא פט:,  ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 2876,
+    "heRef_2": "בבא מציעא פט:,  ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 2877,
+    "heRef_2": "בבא מציעא פט:,  י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 2878,
+    "heRef_2": "בבא מציעא פט:,  יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 2875,
+    "heRef_2": "בבא מציעא פט:,  ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 2876,
+    "heRef_2": "בבא מציעא פט:,  ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 2877,
+    "heRef_2": "בבא מציעא פט:,  י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 2878,
+    "heRef_2": "בבא מציעא פט:,  יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 249,
+    "heRef_2": "בבא מציעא ח:,  ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 250,
+    "heRef_2": "בבא מציעא ח:,  י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 251,
+    "heRef_2": "בבא מציעא ח:,  יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 252,
+    "heRef_2": "בבא מציעא ח:,  יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 253,
+    "heRef_2": "בבא מציעא ח:,  יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 2881,
+    "heRef_2": "בבא מציעא צ., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 2908,
+    "heRef_2": "בבא מציעא צ:,  יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 2909,
+    "heRef_2": "בבא מציעא צ:,  יג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 2903,
+    "heRef_2": "בבא מציעא צ:, ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 2915,
+    "heRef_2": "בבא מציעא צא., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 2926,
+    "heRef_2": "בבא מציעא צא:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 2947,
+    "heRef_2": "בבא מציעא צב.,  ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 2948,
+    "heRef_2": "בבא מציעא צב.,  ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 2947,
+    "heRef_2": "בבא מציעא צב.,  ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 2948,
+    "heRef_2": "בבא מציעא צב.,  ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 2996,
+    "heRef_2": "בבא מציעא צג., יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 3007,
+    "heRef_2": "בבא מציעא צג:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 3008,
+    "heRef_2": "בבא מציעא צג:, ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 3030,
+    "heRef_2": "בבא מציעא צד., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 3098,
+    "heRef_2": "בבא מציעא צה:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 3104,
+    "heRef_2": "בבא מציעא צה:,  ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 3105,
+    "heRef_2": "בבא מציעא צה:,  ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 3230,
+    "heRef_2": "בבא מציעא צט:, א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2920,
+    "heRef_2": "עירובין פ.,  יז",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2921,
+    "heRef_2": "עירובין פ.,  יח",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2922,
+    "heRef_2": "עירובין פ.,  יט",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2923,
+    "heRef_2": "עירובין פ.,  כ",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2924,
+    "heRef_2": "עירובין פ.,  כא",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2925,
+    "heRef_2": "עירובין פ.,  כב",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2926,
+    "heRef_2": "עירובין פ.,  כג",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2927,
+    "heRef_2": "עירובין פ.,  כד",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2928,
+    "heRef_2": "עירובין פ.,  כה",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 615,
+    "heRef_2": "שמות כב, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 616,
+    "heRef_2": "שמות כב, יד",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 626,
+    "heRef_2": "שמות כב, כד",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 637,
+    "heRef_2": "שמות כג, ד",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 694,
+    "heRef_2": "שמות כה, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 19,
+    "heRef_2": "משנה ערכין ג, ה",
+    "path_2": "משנה ערכין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 55,
+    "heRef_2": "משנה ערכין ט, ג",
+    "path_2": "משנה ערכין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 91,
+    "heRef_2": "משנה בבא בתרא י, ב",
+    "path_2": "משנה בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 3,
+    "heRef_2": "משנה בבא בתרא א, א",
+    "path_2": "משנה בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 6,
+    "heRef_2": "משנה בבא בתרא א, ד",
+    "path_2": "משנה בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 7,
+    "heRef_2": "משנה בבא בתרא א, ה",
+    "path_2": "משנה בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 8,
+    "heRef_2": "משנה בבא בתרא א, ו",
+    "path_2": "משנה בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 56,
+    "heRef_2": "משנה בבא בתרא ו, א",
+    "path_2": "משנה בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 107,
+    "heRef_2": "משנה בבא מציעא י, א",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 110,
+    "heRef_2": "משנה בבא מציעא י, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 111,
+    "heRef_2": "משנה בבא מציעא י, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 111,
+    "heRef_2": "משנה בבא מציעא י, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 111,
+    "heRef_2": "משנה בבא מציעא י, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 111,
+    "heRef_2": "משנה בבא מציעא י, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 6,
+    "heRef_2": "משנה בבא מציעא א, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 8,
+    "heRef_2": "משנה בבא מציעא א, ו",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 9,
+    "heRef_2": "משנה בבא מציעא א, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 9,
+    "heRef_2": "משנה בבא מציעא א, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 9,
+    "heRef_2": "משנה בבא מציעא א, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 10,
+    "heRef_2": "משנה בבא מציעא א, ח",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 12,
+    "heRef_2": "משנה בבא מציעא ב, א",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 21,
+    "heRef_2": "משנה בבא מציעא ב, י",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 22,
+    "heRef_2": "משנה בבא מציעא ב, יא",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 13,
+    "heRef_2": "משנה בבא מציעא ב, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 13,
+    "heRef_2": "משנה בבא מציעא ב, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 14,
+    "heRef_2": "משנה בבא מציעא ב, ג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 14,
+    "heRef_2": "משנה בבא מציעא ב, ג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 14,
+    "heRef_2": "משנה בבא מציעא ב, ג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 16,
+    "heRef_2": "משנה בבא מציעא ב, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 17,
+    "heRef_2": "משנה בבא מציעא ב, ו",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 18,
+    "heRef_2": "משנה בבא מציעא ב, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 19,
+    "heRef_2": "משנה בבא מציעא ב, ח",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 19,
+    "heRef_2": "משנה בבא מציעא ב, ח",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 20,
+    "heRef_2": "משנה בבא מציעא ב, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 24,
+    "heRef_2": "משנה בבא מציעא ג, א",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 24,
+    "heRef_2": "משנה בבא מציעא ג, א",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 33,
+    "heRef_2": "משנה בבא מציעא ג, י",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 26,
+    "heRef_2": "משנה בבא מציעא ג, ג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 27,
+    "heRef_2": "משנה בבא מציעא ג, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 29,
+    "heRef_2": "משנה בבא מציעא ג, ו",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 30,
+    "heRef_2": "משנה בבא מציעא ג, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 30,
+    "heRef_2": "משנה בבא מציעא ג, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 37,
+    "heRef_2": "משנה בבא מציעא ד, א",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 37,
+    "heRef_2": "משנה בבא מציעא ד, א",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 46,
+    "heRef_2": "משנה בבא מציעא ד, י",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 47,
+    "heRef_2": "משנה בבא מציעא ד, יא",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 47,
+    "heRef_2": "משנה בבא מציעא ד, יא",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 38,
+    "heRef_2": "משנה בבא מציעא ד, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 38,
+    "heRef_2": "משנה בבא מציעא ד, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 40,
+    "heRef_2": "משנה בבא מציעא ד, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 40,
+    "heRef_2": "משנה בבא מציעא ד, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 41,
+    "heRef_2": "משנה בבא מציעא ד, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 42,
+    "heRef_2": "משנה בבא מציעא ד, ו",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 42,
+    "heRef_2": "משנה בבא מציעא ד, ו",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 43,
+    "heRef_2": "משנה בבא מציעא ד, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 45,
+    "heRef_2": "משנה בבא מציעא ד, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 45,
+    "heRef_2": "משנה בבא מציעא ד, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 45,
+    "heRef_2": "משנה בבא מציעא ד, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 59,
+    "heRef_2": "משנה בבא מציעא ה, י",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 60,
+    "heRef_2": "משנה בבא מציעא ה, יא",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 51,
+    "heRef_2": "משנה בבא מציעא ה, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 51,
+    "heRef_2": "משנה בבא מציעא ה, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 53,
+    "heRef_2": "משנה בבא מציעא ה, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 53,
+    "heRef_2": "משנה בבא מציעא ה, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 53,
+    "heRef_2": "משנה בבא מציעא ה, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 54,
+    "heRef_2": "משנה בבא מציעא ה, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 54,
+    "heRef_2": "משנה בבא מציעא ה, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 55,
+    "heRef_2": "משנה בבא מציעא ה, ו",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 56,
+    "heRef_2": "משנה בבא מציעא ה, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 56,
+    "heRef_2": "משנה בבא מציעא ה, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 56,
+    "heRef_2": "משנה בבא מציעא ה, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 57,
+    "heRef_2": "משנה בבא מציעא ה, ח",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 58,
+    "heRef_2": "משנה בבא מציעא ה, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 62,
+    "heRef_2": "משנה בבא מציעא ו, א",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 63,
+    "heRef_2": "משנה בבא מציעא ו, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 64,
+    "heRef_2": "משנה בבא מציעא ו, ג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 66,
+    "heRef_2": "משנה בבא מציעא ו, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 67,
+    "heRef_2": "משנה בבא מציעא ו, ו",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 68,
+    "heRef_2": "משנה בבא מציעא ו, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 80,
+    "heRef_2": "משנה בבא מציעא ז, י",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 81,
+    "heRef_2": "משנה בבא מציעא ז, יא",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 73,
+    "heRef_2": "משנה בבא מציעא ז, ג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 74,
+    "heRef_2": "משנה בבא מציעא ז, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 75,
+    "heRef_2": "משנה בבא מציעא ז, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 75,
+    "heRef_2": "משנה בבא מציעא ז, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 78,
+    "heRef_2": "משנה בבא מציעא ז, ח",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 79,
+    "heRef_2": "משנה בבא מציעא ז, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 83,
+    "heRef_2": "משנה בבא מציעא ח, א",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 84,
+    "heRef_2": "משנה בבא מציעא ח, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 86,
+    "heRef_2": "משנה בבא מציעא ח, ד",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 88,
+    "heRef_2": "משנה בבא מציעא ח, ו",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 89,
+    "heRef_2": "משנה בבא מציעא ח, ז",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 90,
+    "heRef_2": "משנה בבא מציעא ח, ח",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 91,
+    "heRef_2": "משנה בבא מציעא ח, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 91,
+    "heRef_2": "משנה בבא מציעא ח, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 103,
+    "heRef_2": "משנה בבא מציעא ט, יא",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 104,
+    "heRef_2": "משנה בבא מציעא ט, יב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 104,
+    "heRef_2": "משנה בבא מציעא ט, יב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 104,
+    "heRef_2": "משנה בבא מציעא ט, יב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 105,
+    "heRef_2": "משנה בבא מציעא ט, יג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 105,
+    "heRef_2": "משנה בבא מציעא ט, יג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 105,
+    "heRef_2": "משנה בבא מציעא ט, יג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 105,
+    "heRef_2": "משנה בבא מציעא ט, יג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 94,
+    "heRef_2": "משנה בבא מציעא ט, ב",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 95,
+    "heRef_2": "משנה בבא מציעא ט, ג",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 97,
+    "heRef_2": "משנה בבא מציעא ט, ה",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 100,
+    "heRef_2": "משנה בבא מציעא ט, ח",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 101,
+    "heRef_2": "משנה בבא מציעא ט, ט",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 26,
+    "heRef_2": "משנה בכורות ד, א",
+    "path_2": "משנה בכורות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 25,
+    "heRef_2": "משנה גיטין ג, ח",
+    "path_2": "משנה גיטין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 49,
+    "heRef_2": "משנה שבועות ו, א",
+    "path_2": "משנה שבועות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 53,
+    "heRef_2": "משנה שבועות ו, ה",
+    "path_2": "משנה שבועות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 85,
+    "heRef_2": "משנה תרומות ט, ג",
+    "path_2": "משנה תרומות.txt",
+    "Conection Type": "related"
   }
 ]

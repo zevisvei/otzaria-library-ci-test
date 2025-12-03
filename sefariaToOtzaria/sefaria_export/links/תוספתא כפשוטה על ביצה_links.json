@@ -1,17 +1,52 @@
 [
   {
-    "line_index_1": 138,
-    "line_index_2": 34,
-    "heRef_2": "אסתר ב, ט",
-    "path_2": "אסתר.txt",
+    "line_index_1": 20,
+    "line_index_2": 215,
+    "heRef_2": "פסחים ח:,  א",
+    "path_2": "פסחים.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 163,
-    "line_index_2": 306,
-    "heRef_2": "שמות יב, ט",
-    "path_2": "שמות.txt",
+    "line_index_1": 129,
+    "line_index_2": 428,
+    "heRef_2": "ראש השנה טז:, ט",
+    "path_2": "ראש השנה.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 2510,
+    "heRef_2": "שבת קו:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 2520,
+    "heRef_2": "שבת קו:, יא",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 3879,
+    "heRef_2": "שבת קנ., יא",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 177,
+    "heRef_2": "תלמוד ירושלמי דמאי ד, ג, ה",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 323,
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ג, ה",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 303,
@@ -42,6 +77,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 326,
+    "line_index_2": 221,
+    "heRef_2": "מעילה ט:,  א",
+    "path_2": "מעילה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 103,
     "line_index_2": 3363,
     "heRef_2": "חולין קט:,  א",
@@ -49,31 +91,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 129,
-    "line_index_2": 428,
-    "heRef_2": "ראש השנה טז:, ט",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 2510,
-    "heRef_2": "שבת קו:, א",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 2520,
-    "heRef_2": "שבת קו:, יא",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 304,
-    "line_index_2": 3879,
-    "heRef_2": "שבת קנ., יא",
-    "path_2": "שבת.txt",
+    "line_index_1": 236,
+    "line_index_2": 971,
+    "heRef_2": "דברים לג, כב",
+    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -109,174 +130,6 @@
     "line_index_2": 1198,
     "heRef_2": "סוכה מו:,  א",
     "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 326,
-    "line_index_2": 221,
-    "heRef_2": "מעילה ט:,  א",
-    "path_2": "מעילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 326,
-    "line_index_2": 772,
-    "heRef_2": "פסחים כו.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 905,
-    "heRef_2": "פסחים ל:, י",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 1440,
-    "heRef_2": "פסחים מו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 1651,
-    "heRef_2": "פסחים נג:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 215,
-    "heRef_2": "פסחים ח:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 236,
-    "line_index_2": 971,
-    "heRef_2": "דברים לג, כב",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 334,
-    "line_index_2": 1679,
-    "heRef_2": "עירובין מה:, טז",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 2945,
-    "heRef_2": "עירובין פ:, טז",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 262,
-    "line_index_2": 33,
-    "heRef_2": "משנה חלה ד,  א",
-    "path_2": "משנה חלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 262,
-    "line_index_2": 18,
-    "heRef_2": "משנה דמאי ג, ה",
-    "path_2": "משנה דמאי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 22,
-    "heRef_2": "משנה עדיות ב, ה",
-    "path_2": "משנה עדיות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 43,
-    "heRef_2": "משנה עדיות ד, ב",
-    "path_2": "משנה עדיות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 343,
-    "line_index_2": 110,
-    "heRef_2": "משנה כלים יג, ב",
-    "path_2": "משנה כלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 15,
-    "heRef_2": "משנה כלים ב, ג",
-    "path_2": "משנה כלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 281,
-    "line_index_2": 36,
-    "heRef_2": "משנה כלים ה,  א",
-    "path_2": "משנה כלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 39,
-    "heRef_2": "משנה כלים ה, ד",
-    "path_2": "משנה כלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 239,
-    "line_index_2": 24,
-    "heRef_2": "משנה עוקצים ג, ד",
-    "path_2": "משנה עוקצים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 144,
-    "line_index_2": 25,
-    "heRef_2": "משנה עוקצים ג, ה",
-    "path_2": "משנה עוקצים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 65,
-    "heRef_2": "משנה שביעית ז, ד",
-    "path_2": "משנה שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 86,
-    "heRef_2": "משנה שביעית ט, ה",
-    "path_2": "משנה שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 731,
-    "heRef_2": "מועד קטן כ:, ג",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 303,
-    "line_index_2": 4084,
-    "heRef_2": "בבא בתרא קעד:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 3365,
-    "heRef_2": "בבא מציעא קב., כד",
-    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   },
   {
@@ -2198,18 +2051,165 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 63,
-    "line_index_2": 177,
-    "heRef_2": "תלמוד ירושלמי דמאי ד, ג, ה",
-    "path_2": "תלמוד ירושלמי דמאי.txt",
-    "Conection Type": "quotation"
+    "line_index_1": 35,
+    "line_index_2": 731,
+    "heRef_2": "מועד קטן כ:, ג",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": ""
   },
   {
-    "line_index_1": 202,
-    "line_index_2": 323,
-    "heRef_2": "תלמוד ירושלמי שביעית ח, ג, ה",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "commentary"
+    "line_index_1": 326,
+    "line_index_2": 772,
+    "heRef_2": "פסחים כו.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 905,
+    "heRef_2": "פסחים ל:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 1440,
+    "heRef_2": "פסחים מו:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 1651,
+    "heRef_2": "פסחים נג:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 4084,
+    "heRef_2": "בבא בתרא קעד:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 3365,
+    "heRef_2": "בבא מציעא קב., כד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 1679,
+    "heRef_2": "עירובין מה:, טז",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 2945,
+    "heRef_2": "עירובין פ:, טז",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 34,
+    "heRef_2": "אסתר ב, ט",
+    "path_2": "אסתר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 306,
+    "heRef_2": "שמות יב, ט",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 33,
+    "heRef_2": "משנה חלה ד,  א",
+    "path_2": "משנה חלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 18,
+    "heRef_2": "משנה דמאי ג, ה",
+    "path_2": "משנה דמאי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 22,
+    "heRef_2": "משנה עדיות ב, ה",
+    "path_2": "משנה עדיות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 43,
+    "heRef_2": "משנה עדיות ד, ב",
+    "path_2": "משנה עדיות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 110,
+    "heRef_2": "משנה כלים יג, ב",
+    "path_2": "משנה כלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 15,
+    "heRef_2": "משנה כלים ב, ג",
+    "path_2": "משנה כלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 36,
+    "heRef_2": "משנה כלים ה,  א",
+    "path_2": "משנה כלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 39,
+    "heRef_2": "משנה כלים ה, ד",
+    "path_2": "משנה כלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 24,
+    "heRef_2": "משנה עוקצים ג, ד",
+    "path_2": "משנה עוקצים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 25,
+    "heRef_2": "משנה עוקצים ג, ה",
+    "path_2": "משנה עוקצים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 65,
+    "heRef_2": "משנה שביעית ז, ד",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 86,
+    "heRef_2": "משנה שביעית ט, ה",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 5,

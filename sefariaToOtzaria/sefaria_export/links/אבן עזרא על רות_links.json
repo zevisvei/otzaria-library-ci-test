@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 24,
-    "line_index_2": 156,
-    "heRef_2": "אסתר ט, יד",
-    "path_2": "אסתר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 604,
-    "heRef_2": "בראשית כג, ח",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 9,
     "line_index_2": 160,
     "heRef_2": "דברי הימים א ד, כב",
@@ -705,5 +691,19 @@
     "heRef_2": "רות ד, ח",
     "path_2": "רות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 156,
+    "heRef_2": "אסתר ט, יד",
+    "path_2": "אסתר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 604,
+    "heRef_2": "בראשית כג, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

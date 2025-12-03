@@ -1,13 +1,6 @@
 [
   {
     "line_index_1": 17,
-    "line_index_2": 1320,
-    "heRef_2": "ברכות כח:,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 17,
     "line_index_2": 1780,
     "heRef_2": "גיטין נו:,  א",
     "path_2": "גיטין.txt",
@@ -101,6 +94,13 @@
     "line_index_1": 274,
     "line_index_2": 3950,
     "heRef_2": "סנהדרין קא:, ג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 3956,
+    "heRef_2": "סנהדרין קא:, ט",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
   },
@@ -329,6 +329,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 321,
+    "line_index_2": 4284,
+    "heRef_2": "סנהדרין קי., יא",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 324,
     "line_index_2": 4308,
     "heRef_2": "סנהדרין קיא., ב",
@@ -379,7 +386,7 @@
   },
   {
     "line_index_1": 333,
-    "line_index_2": 6393,
+    "line_index_2": 6394,
     "heRef_2": "רש\"י על סנהדרין קיג., ח, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1506,22 +1513,22 @@
   },
   {
     "line_index_1": 222,
-    "line_index_2": 3638,
-    "heRef_2": "סנהדרין צג., ה",
+    "line_index_2": 3641,
+    "heRef_2": "סנהדרין צג., ח",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 223,
-    "line_index_2": 3638,
-    "heRef_2": "סנהדרין צג., ה",
+    "line_index_2": 3647,
+    "heRef_2": "סנהדרין צג., יד",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 224,
-    "line_index_2": 3638,
-    "heRef_2": "סנהדרין צג., ה",
+    "line_index_2": 3651,
+    "heRef_2": "סנהדרין צג., יח",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
   },
@@ -1678,5 +1685,12 @@
     "heRef_2": "סנהדרין ט:, ח",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 1320,
+    "heRef_2": "ברכות כח:,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 5,
-    "line_index_2": 3751,
-    "heRef_2": "בבא מציעא קיד:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 11,
     "line_index_2": 118,
     "heRef_2": "מסכת דרך ארץ זוטא י, ח",
@@ -33,5 +26,12 @@
     "heRef_2": "מסכת דרך ארץ זוטא ב, י",
     "path_2": "מסכת דרך ארץ זוטא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 3751,
+    "heRef_2": "בבא מציעא קיד:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
   }
 ]

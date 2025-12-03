@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 214,
-    "line_index_2": 3689,
-    "heRef_2": "פסחים קיט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 33,
     "line_index_2": 72,
     "heRef_2": "אבות דרבי נתן יא, א",
@@ -887,5 +880,12 @@
     "heRef_2": "אבות דרבי נתן ט, ב",
     "path_2": "אבות דרבי נתן.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 3689,
+    "heRef_2": "פסחים קיט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
   }
 ]

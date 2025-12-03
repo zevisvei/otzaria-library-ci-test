@@ -1,5 +1,3568 @@
 [
   {
+    "line_index_1": 996,
+    "line_index_2": 3067,
+    "heRef_2": "בכור שור, שמות לג, כב, א",
+    "path_2": "בכור שור.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 469,
+    "heRef_2": "בראשית רבה מד, כא",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 1428,
+    "heRef_2": "מחברת מנחם, ד, ד ח, ג",
+    "path_2": "מחברת מנחם.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 1089,
+    "heRef_2": "נתינה לגר, שמות י, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 1079,
+    "heRef_2": "נתינה לגר, שמות י, א, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 1091,
+    "heRef_2": "נתינה לגר, שמות י, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 1093,
+    "heRef_2": "נתינה לגר, שמות י, כו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 1081,
+    "heRef_2": "נתינה לגר, שמות י, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 1083,
+    "heRef_2": "נתינה לגר, שמות י, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 1085,
+    "heRef_2": "נתינה לגר, שמות י, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 1087,
+    "heRef_2": "נתינה לגר, שמות י, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 1096,
+    "heRef_2": "נתינה לגר, שמות יא, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 1098,
+    "heRef_2": "נתינה לגר, שמות יא, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 1100,
+    "heRef_2": "נתינה לגר, שמות יא, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 1102,
+    "heRef_2": "נתינה לגר, שמות יא, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 1117,
+    "heRef_2": "נתינה לגר, שמות יב, יג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 313,
+    "line_index_2": 1119,
+    "heRef_2": "נתינה לגר, שמות יב, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 313,
+    "line_index_2": 1120,
+    "heRef_2": "נתינה לגר, שמות יב, טו, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 314,
+    "line_index_2": 1122,
+    "heRef_2": "נתינה לגר, שמות יב, טז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 1124,
+    "heRef_2": "נתינה לגר, שמות יב, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 1126,
+    "heRef_2": "נתינה לגר, שמות יב, כז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 1105,
+    "heRef_2": "נתינה לגר, שמות יב, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 1128,
+    "heRef_2": "נתינה לגר, שמות יב, לב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 1129,
+    "heRef_2": "נתינה לגר, שמות יב, לב, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 1131,
+    "heRef_2": "נתינה לגר, שמות יב, לד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 1133,
+    "heRef_2": "נתינה לגר, שמות יב, לה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 1135,
+    "heRef_2": "נתינה לגר, שמות יב, לז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 1137,
+    "heRef_2": "נתינה לגר, שמות יב, לח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 1107,
+    "heRef_2": "נתינה לגר, שמות יב, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 1139,
+    "heRef_2": "נתינה לגר, שמות יב, מג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 1141,
+    "heRef_2": "נתינה לגר, שמות יב, מו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 1142,
+    "heRef_2": "נתינה לגר, שמות יב, מו, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 1143,
+    "heRef_2": "נתינה לגר, שמות יב, מו, ג",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 1109,
+    "heRef_2": "נתינה לגר, שמות יב, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 1111,
+    "heRef_2": "נתינה לגר, שמות יב, ו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 1113,
+    "heRef_2": "נתינה לגר, שמות יב, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 1115,
+    "heRef_2": "נתינה לגר, שמות יב, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 1148,
+    "heRef_2": "נתינה לגר, שמות יג, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 1150,
+    "heRef_2": "נתינה לגר, שמות יג, יג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 1152,
+    "heRef_2": "נתינה לגר, שמות יג, טז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 367,
+    "line_index_2": 1154,
+    "heRef_2": "נתינה לגר, שמות יג, יז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 1156,
+    "heRef_2": "נתינה לגר, שמות יג, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 1146,
+    "heRef_2": "נתינה לגר, שמות יג, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 383,
+    "line_index_2": 1165,
+    "heRef_2": "נתינה לגר, שמות יד, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 1167,
+    "heRef_2": "נתינה לגר, שמות יד, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 393,
+    "line_index_2": 1169,
+    "heRef_2": "נתינה לגר, שמות יד, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 1171,
+    "heRef_2": "נתינה לגר, שמות יד, כח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 1172,
+    "heRef_2": "נתינה לגר, שמות יד, כח, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 1173,
+    "heRef_2": "נתינה לגר, שמות יד, כח, ג",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 1174,
+    "heRef_2": "נתינה לגר, שמות יד, כח, ד",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 1176,
+    "heRef_2": "נתינה לגר, שמות יד, לא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 1177,
+    "heRef_2": "נתינה לגר, שמות יד, לא, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 1178,
+    "heRef_2": "נתינה לגר, שמות יד, לא, ג",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 1159,
+    "heRef_2": "נתינה לגר, שמות יד, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 1161,
+    "heRef_2": "נתינה לגר, שמות יד, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 1163,
+    "heRef_2": "נתינה לגר, שמות יד, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 1192,
+    "heRef_2": "נתינה לגר, שמות טו, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 1194,
+    "heRef_2": "נתינה לגר, שמות טו, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 1196,
+    "heRef_2": "נתינה לגר, שמות טו, טז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 1198,
+    "heRef_2": "נתינה לגר, שמות טו, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 1181,
+    "heRef_2": "נתינה לגר, שמות טו, א, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 1183,
+    "heRef_2": "נתינה לגר, שמות טו, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 1184,
+    "heRef_2": "נתינה לגר, שמות טו, ב, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 1186,
+    "heRef_2": "נתינה לגר, שמות טו, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 1188,
+    "heRef_2": "נתינה לגר, שמות טו, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 1190,
+    "heRef_2": "נתינה לגר, שמות טו, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 1205,
+    "heRef_2": "נתינה לגר, שמות טז, יד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 454,
+    "line_index_2": 1207,
+    "heRef_2": "נתינה לגר, שמות טז, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 1209,
+    "heRef_2": "נתינה לגר, שמות טז, לה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 469,
+    "line_index_2": 1211,
+    "heRef_2": "נתינה לגר, שמות טז, לו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 1201,
+    "heRef_2": "נתינה לגר, שמות טז, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 440,
+    "line_index_2": 1203,
+    "heRef_2": "נתינה לגר, שמות טז, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 1218,
+    "heRef_2": "נתינה לגר, שמות יז, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 482,
+    "line_index_2": 1220,
+    "heRef_2": "נתינה לגר, שמות יז, יב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 485,
+    "line_index_2": 1222,
+    "heRef_2": "נתינה לגר, שמות יז, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 486,
+    "line_index_2": 1224,
+    "heRef_2": "נתינה לגר, שמות יז, טז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 486,
+    "line_index_2": 1225,
+    "heRef_2": "נתינה לגר, שמות יז, טז, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 1214,
+    "heRef_2": "נתינה לגר, שמות יז, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 479,
+    "line_index_2": 1216,
+    "heRef_2": "נתינה לגר, שמות יז, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 497,
+    "line_index_2": 1236,
+    "heRef_2": "נתינה לגר, שמות יח, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 498,
+    "line_index_2": 1238,
+    "heRef_2": "נתינה לגר, שמות יח, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 502,
+    "line_index_2": 1240,
+    "heRef_2": "נתינה לגר, שמות יח, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 506,
+    "line_index_2": 1242,
+    "heRef_2": "נתינה לגר, שמות יח, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 507,
+    "line_index_2": 1244,
+    "heRef_2": "נתינה לגר, שמות יח, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 510,
+    "line_index_2": 1246,
+    "heRef_2": "נתינה לגר, שמות יח, כג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 1248,
+    "heRef_2": "נתינה לגר, שמות יח, כו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 489,
+    "line_index_2": 1228,
+    "heRef_2": "נתינה לגר, שמות יח, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 490,
+    "line_index_2": 1230,
+    "heRef_2": "נתינה לגר, שמות יח, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 491,
+    "line_index_2": 1232,
+    "heRef_2": "נתינה לגר, שמות יח, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 1234,
+    "heRef_2": "נתינה לגר, שמות יח, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 528,
+    "line_index_2": 1255,
+    "heRef_2": "נתינה לגר, שמות יט, יג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 530,
+    "line_index_2": 1257,
+    "heRef_2": "נתינה לגר, שמות יט, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 1259,
+    "heRef_2": "נתינה לגר, שמות יט, יז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 536,
+    "line_index_2": 1261,
+    "heRef_2": "נתינה לגר, שמות יט, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 1263,
+    "heRef_2": "נתינה לגר, שמות יט, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 1251,
+    "heRef_2": "נתינה לגר, שמות יט, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 1253,
+    "heRef_2": "נתינה לגר, שמות יט, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 961,
+    "heRef_2": "נתינה לגר, שמות א, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 963,
+    "heRef_2": "נתינה לגר, שמות א, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 965,
+    "heRef_2": "נתינה לגר, שמות א, יז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 967,
+    "heRef_2": "נתינה לגר, שמות א, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 969,
+    "heRef_2": "נתינה לגר, שמות א, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 971,
+    "heRef_2": "נתינה לגר, שמות א, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 957,
+    "heRef_2": "נתינה לגר, שמות א, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 959,
+    "heRef_2": "נתינה לגר, שמות א, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 554,
+    "line_index_2": 1273,
+    "heRef_2": "נתינה לגר, שמות כ, יג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 1275,
+    "heRef_2": "נתינה לגר, שמות כ, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 561,
+    "line_index_2": 1277,
+    "heRef_2": "נתינה לגר, שמות כ, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 562,
+    "line_index_2": 1279,
+    "heRef_2": "נתינה לגר, שמות כ, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 562,
+    "line_index_2": 1280,
+    "heRef_2": "נתינה לגר, שמות כ, כא, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 563,
+    "line_index_2": 1282,
+    "heRef_2": "נתינה לגר, שמות כ, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 1266,
+    "heRef_2": "נתינה לגר, שמות כ, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 546,
+    "line_index_2": 1268,
+    "heRef_2": "נתינה לגר, שמות כ, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 1270,
+    "heRef_2": "נתינה לגר, שמות כ, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 1271,
+    "heRef_2": "נתינה לגר, שמות כ, ז, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 575,
+    "line_index_2": 1291,
+    "heRef_2": "נתינה לגר, שמות כא, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 577,
+    "line_index_2": 1293,
+    "heRef_2": "נתינה לגר, שמות כא, יב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 579,
+    "line_index_2": 1295,
+    "heRef_2": "נתינה לגר, שמות כא, יד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 581,
+    "line_index_2": 1297,
+    "heRef_2": "נתינה לגר, שמות כא, טז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 583,
+    "line_index_2": 1299,
+    "heRef_2": "נתינה לגר, שמות כא, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 583,
+    "line_index_2": 1300,
+    "heRef_2": "נתינה לגר, שמות כא, יח, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 1302,
+    "heRef_2": "נתינה לגר, שמות כא, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 1303,
+    "heRef_2": "נתינה לגר, שמות כא, יט, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 585,
+    "line_index_2": 1305,
+    "heRef_2": "נתינה לגר, שמות כא, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 586,
+    "line_index_2": 1307,
+    "heRef_2": "נתינה לגר, שמות כא, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 588,
+    "line_index_2": 1309,
+    "heRef_2": "נתינה לגר, שמות כא, כג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 1311,
+    "heRef_2": "נתינה לגר, שמות כא, כה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 591,
+    "line_index_2": 1313,
+    "heRef_2": "נתינה לגר, שמות כא, כו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 594,
+    "line_index_2": 1315,
+    "heRef_2": "נתינה לגר, שמות כא, כט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 595,
+    "line_index_2": 1317,
+    "heRef_2": "נתינה לגר, שמות כא, ל, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 595,
+    "line_index_2": 1318,
+    "heRef_2": "נתינה לגר, שמות כא, ל, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 596,
+    "line_index_2": 1320,
+    "heRef_2": "נתינה לגר, שמות כא, לא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 600,
+    "line_index_2": 1322,
+    "heRef_2": "נתינה לגר, שמות כא, לה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 1285,
+    "heRef_2": "נתינה לגר, שמות כא, ו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 573,
+    "line_index_2": 1287,
+    "heRef_2": "נתינה לגר, שמות כא, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 573,
+    "line_index_2": 1288,
+    "heRef_2": "נתינה לגר, שמות כא, ח, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 573,
+    "line_index_2": 1289,
+    "heRef_2": "נתינה לגר, שמות כא, ח, ג",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 1335,
+    "heRef_2": "נתינה לגר, שמות כב, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 615,
+    "line_index_2": 1337,
+    "heRef_2": "נתינה לגר, שמות כב, יב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 618,
+    "line_index_2": 1339,
+    "heRef_2": "נתינה לגר, שמות כב, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 618,
+    "line_index_2": 1340,
+    "heRef_2": "נתינה לגר, שמות כב, טו, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 622,
+    "line_index_2": 1342,
+    "heRef_2": "נתינה לגר, שמות כב, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 622,
+    "line_index_2": 1343,
+    "heRef_2": "נתינה לגר, שמות כב, יט, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 627,
+    "line_index_2": 1345,
+    "heRef_2": "נתינה לגר, שמות כב, כד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 627,
+    "line_index_2": 1346,
+    "heRef_2": "נתינה לגר, שמות כב, כד, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 629,
+    "line_index_2": 1348,
+    "heRef_2": "נתינה לגר, שמות כב, כו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 630,
+    "line_index_2": 1350,
+    "heRef_2": "נתינה לגר, שמות כב, כז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 1352,
+    "heRef_2": "נתינה לגר, שמות כב, כח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 632,
+    "line_index_2": 1354,
+    "heRef_2": "נתינה לגר, שמות כב, כט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 1325,
+    "heRef_2": "נתינה לגר, שמות כב, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 633,
+    "line_index_2": 1356,
+    "heRef_2": "נתינה לגר, שמות כב, ל, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 606,
+    "line_index_2": 1327,
+    "heRef_2": "נתינה לגר, שמות כב, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 607,
+    "line_index_2": 1329,
+    "heRef_2": "נתינה לגר, שמות כב, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 1331,
+    "heRef_2": "נתינה לגר, שמות כב, ו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 611,
+    "line_index_2": 1333,
+    "heRef_2": "נתינה לגר, שמות כב, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 652,
+    "line_index_2": 1368,
+    "heRef_2": "נתינה לגר, שמות כג, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 652,
+    "line_index_2": 1369,
+    "heRef_2": "נתינה לגר, שמות כג, יח, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 1371,
+    "heRef_2": "נתינה לגר, שמות כג, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 1373,
+    "heRef_2": "נתינה לגר, שמות כג, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 662,
+    "line_index_2": 1375,
+    "heRef_2": "נתינה לגר, שמות כג, כח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 636,
+    "line_index_2": 1359,
+    "heRef_2": "נתינה לגר, שמות כג, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 636,
+    "line_index_2": 1360,
+    "heRef_2": "נתינה לגר, שמות כג, ב, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 638,
+    "line_index_2": 1362,
+    "heRef_2": "נתינה לגר, שמות כג, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 639,
+    "line_index_2": 1364,
+    "heRef_2": "נתינה לגר, שמות כג, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 641,
+    "line_index_2": 1366,
+    "heRef_2": "נתינה לגר, שמות כג, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 1382,
+    "heRef_2": "נתינה לגר, שמות כד, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 679,
+    "line_index_2": 1384,
+    "heRef_2": "נתינה לגר, שמות כד, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 679,
+    "line_index_2": 1385,
+    "heRef_2": "נתינה לגר, שמות כד, יא, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 681,
+    "line_index_2": 1387,
+    "heRef_2": "נתינה לגר, שמות כד, יג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 673,
+    "line_index_2": 1378,
+    "heRef_2": "נתינה לגר, שמות כד, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 1380,
+    "heRef_2": "נתינה לגר, שמות כד, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 698,
+    "line_index_2": 1392,
+    "heRef_2": "נתינה לגר, שמות כה, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 699,
+    "line_index_2": 1394,
+    "heRef_2": "נתינה לגר, שמות כה, יב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 705,
+    "line_index_2": 1396,
+    "heRef_2": "נתינה לגר, שמות כה, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 709,
+    "line_index_2": 1398,
+    "heRef_2": "נתינה לגר, שמות כה, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 716,
+    "line_index_2": 1400,
+    "heRef_2": "נתינה לגר, שמות כה, כט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 1402,
+    "heRef_2": "נתינה לגר, שמות כה, לא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 721,
+    "line_index_2": 1404,
+    "heRef_2": "נתינה לגר, שמות כה, לד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 724,
+    "line_index_2": 1406,
+    "heRef_2": "נתינה לגר, שמות כה, לז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 692,
+    "line_index_2": 1390,
+    "heRef_2": "נתינה לגר, שמות כה, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 742,
+    "line_index_2": 1413,
+    "heRef_2": "נתינה לגר, שמות כו, יד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 742,
+    "line_index_2": 1414,
+    "heRef_2": "נתינה לגר, שמות כו, יד, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 729,
+    "line_index_2": 1409,
+    "heRef_2": "נתינה לגר, שמות כו, א, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 757,
+    "line_index_2": 1416,
+    "heRef_2": "נתינה לגר, שמות כו, כט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 759,
+    "line_index_2": 1418,
+    "heRef_2": "נתינה לגר, שמות כו, לא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 736,
+    "line_index_2": 1411,
+    "heRef_2": "נתינה לגר, שמות כו, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 776,
+    "line_index_2": 1427,
+    "heRef_2": "נתינה לגר, שמות כז, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 784,
+    "line_index_2": 1429,
+    "heRef_2": "נתינה לגר, שמות כז, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 786,
+    "line_index_2": 1431,
+    "heRef_2": "נתינה לגר, שמות כז, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 786,
+    "line_index_2": 1432,
+    "heRef_2": "נתינה לגר, שמות כז, כ, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 769,
+    "line_index_2": 1421,
+    "heRef_2": "נתינה לגר, שמות כז, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 770,
+    "line_index_2": 1423,
+    "heRef_2": "נתינה לגר, שמות כז, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 773,
+    "line_index_2": 1425,
+    "heRef_2": "נתינה לגר, שמות כז, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 799,
+    "line_index_2": 1439,
+    "heRef_2": "נתינה לגר, שמות כח, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 799,
+    "line_index_2": 1440,
+    "heRef_2": "נתינה לגר, שמות כח, יא, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 1442,
+    "heRef_2": "נתינה לגר, שמות כח, יז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 1443,
+    "heRef_2": "נתינה לגר, שמות כח, יז, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 1444,
+    "heRef_2": "נתינה לגר, שמות כח, יז, ג",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 1445,
+    "heRef_2": "נתינה לגר, שמות כח, יז, ד",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 806,
+    "line_index_2": 1447,
+    "heRef_2": "נתינה לגר, שמות כח, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 806,
+    "line_index_2": 1448,
+    "heRef_2": "נתינה לגר, שמות כח, יח, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 806,
+    "line_index_2": 1449,
+    "heRef_2": "נתינה לגר, שמות כח, יח, ג",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 807,
+    "line_index_2": 1451,
+    "heRef_2": "נתינה לגר, שמות כח, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 807,
+    "line_index_2": 1452,
+    "heRef_2": "נתינה לגר, שמות כח, יט, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 807,
+    "line_index_2": 1453,
+    "heRef_2": "נתינה לגר, שמות כח, יט, ג",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 808,
+    "line_index_2": 1455,
+    "heRef_2": "נתינה לגר, שמות כח, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 808,
+    "line_index_2": 1456,
+    "heRef_2": "נתינה לגר, שמות כח, כ, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 808,
+    "line_index_2": 1457,
+    "heRef_2": "נתינה לגר, שמות כח, כ, ג",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 809,
+    "line_index_2": 1459,
+    "heRef_2": "נתינה לגר, שמות כח, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 810,
+    "line_index_2": 1461,
+    "heRef_2": "נתינה לגר, שמות כח, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 813,
+    "line_index_2": 1463,
+    "heRef_2": "נתינה לגר, שמות כח, כה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 1465,
+    "heRef_2": "נתינה לגר, שמות כח, לב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 1466,
+    "heRef_2": "נתינה לגר, שמות כח, לב, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 821,
+    "line_index_2": 1468,
+    "heRef_2": "נתינה לגר, שמות כח, לג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 822,
+    "line_index_2": 1470,
+    "heRef_2": "נתינה לגר, שמות כח, לד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 822,
+    "line_index_2": 1471,
+    "heRef_2": "נתינה לגר, שמות כח, לד, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 826,
+    "line_index_2": 1473,
+    "heRef_2": "נתינה לגר, שמות כח, לח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 826,
+    "line_index_2": 1474,
+    "heRef_2": "נתינה לגר, שמות כח, לח, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 791,
+    "line_index_2": 1435,
+    "heRef_2": "נתינה לגר, שמות כח, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 828,
+    "line_index_2": 1476,
+    "heRef_2": "נתינה לגר, שמות כח, מ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 829,
+    "line_index_2": 1478,
+    "heRef_2": "נתינה לגר, שמות כח, מא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 792,
+    "line_index_2": 1437,
+    "heRef_2": "נתינה לגר, שמות כח, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 845,
+    "line_index_2": 1483,
+    "heRef_2": "נתינה לגר, שמות כט, יג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 852,
+    "line_index_2": 1485,
+    "heRef_2": "נתינה לגר, שמות כט, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 856,
+    "line_index_2": 1487,
+    "heRef_2": "נתינה לגר, שמות כט, כד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 861,
+    "line_index_2": 1489,
+    "heRef_2": "נתינה לגר, שמות כט, כט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 834,
+    "line_index_2": 1481,
+    "heRef_2": "נתינה לגר, שמות כט, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 862,
+    "line_index_2": 1491,
+    "heRef_2": "נתינה לגר, שמות כט, ל, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 871,
+    "line_index_2": 1493,
+    "heRef_2": "נתינה לגר, שמות כט, לט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 875,
+    "line_index_2": 1495,
+    "heRef_2": "נתינה לגר, שמות כט, מג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 979,
+    "heRef_2": "נתינה לגר, שמות ב, יב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 981,
+    "heRef_2": "נתינה לגר, שמות ב, יז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 983,
+    "heRef_2": "נתינה לגר, שמות ב, כג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 985,
+    "heRef_2": "נתינה לגר, שמות ב, כה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 986,
+    "heRef_2": "נתינה לגר, שמות ב, כה, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 974,
+    "heRef_2": "נתינה לגר, שמות ב, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 975,
+    "heRef_2": "נתינה לגר, שמות ב, ה, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 977,
+    "heRef_2": "נתינה לגר, שמות ב, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 894,
+    "line_index_2": 1505,
+    "heRef_2": "נתינה לגר, שמות ל, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 897,
+    "line_index_2": 1507,
+    "heRef_2": "נתינה לגר, שמות ל, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 880,
+    "line_index_2": 1498,
+    "heRef_2": "נתינה לגר, שמות ל, א, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 880,
+    "line_index_2": 1499,
+    "heRef_2": "נתינה לגר, שמות ל, א, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 911,
+    "line_index_2": 1509,
+    "heRef_2": "נתינה לגר, שמות ל, לב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 911,
+    "line_index_2": 1510,
+    "heRef_2": "נתינה לגר, שמות ל, לב, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 913,
+    "line_index_2": 1512,
+    "heRef_2": "נתינה לגר, שמות ל, לד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 913,
+    "line_index_2": 1513,
+    "heRef_2": "נתינה לגר, שמות ל, לד, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 914,
+    "line_index_2": 1515,
+    "heRef_2": "נתינה לגר, שמות ל, לה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 915,
+    "line_index_2": 1517,
+    "heRef_2": "נתינה לגר, שמות ל, לו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 885,
+    "line_index_2": 1501,
+    "heRef_2": "נתינה לגר, שמות ל, ו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 888,
+    "line_index_2": 1503,
+    "heRef_2": "נתינה לגר, שמות ל, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 928,
+    "line_index_2": 1526,
+    "heRef_2": "נתינה לגר, שמות לא, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 935,
+    "line_index_2": 1528,
+    "heRef_2": "נתינה לגר, שמות לא, יז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 936,
+    "line_index_2": 1530,
+    "heRef_2": "נתינה לגר, שמות לא, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 920,
+    "line_index_2": 1520,
+    "heRef_2": "נתינה לגר, שמות לא, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 921,
+    "line_index_2": 1522,
+    "heRef_2": "נתינה לגר, שמות לא, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 922,
+    "line_index_2": 1524,
+    "heRef_2": "נתינה לגר, שמות לא, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 947,
+    "line_index_2": 1535,
+    "heRef_2": "נתינה לגר, שמות לב, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 949,
+    "line_index_2": 1537,
+    "heRef_2": "נתינה לגר, שמות לב, יב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 953,
+    "line_index_2": 1539,
+    "heRef_2": "נתינה לגר, שמות לב, טז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 938,
+    "line_index_2": 1533,
+    "heRef_2": "נתינה לגר, שמות לב, א, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 957,
+    "line_index_2": 1541,
+    "heRef_2": "נתינה לגר, שמות לב, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 962,
+    "line_index_2": 1543,
+    "heRef_2": "נתינה לגר, שמות לב, כה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 963,
+    "line_index_2": 1545,
+    "heRef_2": "נתינה לגר, שמות לב, כו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 964,
+    "line_index_2": 1547,
+    "heRef_2": "נתינה לגר, שמות לב, כז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 966,
+    "line_index_2": 1549,
+    "heRef_2": "נתינה לגר, שמות לב, כט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 972,
+    "line_index_2": 1551,
+    "heRef_2": "נתינה לגר, שמות לב, לה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 984,
+    "line_index_2": 1560,
+    "heRef_2": "נתינה לגר, שמות לג, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 988,
+    "line_index_2": 1562,
+    "heRef_2": "נתינה לגר, שמות לג, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 989,
+    "line_index_2": 1564,
+    "heRef_2": "נתינה לגר, שמות לג, טז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 992,
+    "line_index_2": 1566,
+    "heRef_2": "נתינה לגר, שמות לג, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 996,
+    "line_index_2": 1568,
+    "heRef_2": "נתינה לגר, שמות לג, כג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 976,
+    "line_index_2": 1554,
+    "heRef_2": "נתינה לגר, שמות לג, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 977,
+    "line_index_2": 1556,
+    "heRef_2": "נתינה לגר, שמות לג, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 978,
+    "line_index_2": 1558,
+    "heRef_2": "נתינה לגר, שמות לג, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1013,
+    "line_index_2": 1578,
+    "heRef_2": "נתינה לגר, שמות לד, טז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1016,
+    "line_index_2": 1580,
+    "heRef_2": "נתינה לגר, שמות לד, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1022,
+    "line_index_2": 1582,
+    "heRef_2": "נתינה לגר, שמות לד, כה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1027,
+    "line_index_2": 1584,
+    "heRef_2": "נתינה לגר, שמות לד, ל, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1003,
+    "line_index_2": 1571,
+    "heRef_2": "נתינה לגר, שמות לד, ו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1004,
+    "line_index_2": 1573,
+    "heRef_2": "נתינה לגר, שמות לד, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1004,
+    "line_index_2": 1574,
+    "heRef_2": "נתינה לגר, שמות לד, ז, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1006,
+    "line_index_2": 1576,
+    "heRef_2": "נתינה לגר, שמות לד, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1054,
+    "line_index_2": 1587,
+    "heRef_2": "נתינה לגר, שמות לה, כא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1055,
+    "line_index_2": 1589,
+    "heRef_2": "נתינה לגר, שמות לה, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1058,
+    "line_index_2": 1591,
+    "heRef_2": "נתינה לגר, שמות לה, כה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1088,
+    "line_index_2": 1596,
+    "heRef_2": "נתינה לגר, שמות לו, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1074,
+    "line_index_2": 1594,
+    "heRef_2": "נתינה לגר, שמות לו, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1160,
+    "line_index_2": 1601,
+    "heRef_2": "נתינה לגר, שמות לח, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1146,
+    "line_index_2": 1599,
+    "heRef_2": "נתינה לגר, שמות לח, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1180,
+    "line_index_2": 1611,
+    "heRef_2": "נתינה לגר, שמות לט, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1171,
+    "line_index_2": 1604,
+    "heRef_2": "נתינה לגר, שמות לט, א, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1195,
+    "line_index_2": 1613,
+    "heRef_2": "נתינה לגר, שמות לט, כה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1198,
+    "line_index_2": 1615,
+    "heRef_2": "נתינה לגר, שמות לט, כח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1172,
+    "line_index_2": 1606,
+    "heRef_2": "נתינה לגר, שמות לט, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1200,
+    "line_index_2": 1617,
+    "heRef_2": "נתינה לגר, שמות לט, ל, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1176,
+    "line_index_2": 1608,
+    "heRef_2": "נתינה לגר, שמות לט, ו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1176,
+    "line_index_2": 1609,
+    "heRef_2": "נתינה לגר, שמות לט, ו, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 995,
+    "heRef_2": "נתינה לגר, שמות ג, יד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 997,
+    "heRef_2": "נתינה לגר, שמות ג, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 989,
+    "heRef_2": "נתינה לגר, שמות ג, א, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 991,
+    "heRef_2": "נתינה לגר, שמות ג, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 993,
+    "heRef_2": "נתינה לגר, שמות ג, ו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1226,
+    "line_index_2": 1620,
+    "heRef_2": "נתינה לגר, שמות מ, יב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1226,
+    "line_index_2": 1621,
+    "heRef_2": "נתינה לגר, שמות מ, יב, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1236,
+    "line_index_2": 1623,
+    "heRef_2": "נתינה לגר, שמות מ, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1248,
+    "line_index_2": 1625,
+    "heRef_2": "נתינה לגר, שמות מ, לד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1252,
+    "line_index_2": 1627,
+    "heRef_2": "נתינה לגר, שמות מ, לח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 1000,
+    "heRef_2": "נתינה לגר, שמות ד, י, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 1002,
+    "heRef_2": "נתינה לגר, שמות ד, יג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 1004,
+    "heRef_2": "נתינה לגר, שמות ד, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 1006,
+    "heRef_2": "נתינה לגר, שמות ד, כה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 1011,
+    "heRef_2": "נתינה לגר, שמות ה, יד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 1009,
+    "heRef_2": "נתינה לגר, שמות ה, ב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 1023,
+    "heRef_2": "נתינה לגר, שמות ו, יב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 1025,
+    "heRef_2": "נתינה לגר, שמות ו, כ, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 1014,
+    "heRef_2": "נתינה לגר, שמות ו, ג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 1016,
+    "heRef_2": "נתינה לגר, שמות ו, ז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 1017,
+    "heRef_2": "נתינה לגר, שמות ו, ז, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1019,
+    "heRef_2": "נתינה לגר, שמות ו, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 1021,
+    "heRef_2": "נתינה לגר, שמות ו, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 1034,
+    "heRef_2": "נתינה לגר, שמות ז, יא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 1035,
+    "heRef_2": "נתינה לגר, שמות ז, יא, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 1037,
+    "heRef_2": "נתינה לגר, שמות ז, יד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 1039,
+    "heRef_2": "נתינה לגר, שמות ז, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 1028,
+    "heRef_2": "נתינה לגר, שמות ז, א, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 1041,
+    "heRef_2": "נתינה לגר, שמות ז, כח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 1030,
+    "heRef_2": "נתינה לגר, שמות ז, ח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 1032,
+    "heRef_2": "נתינה לגר, שמות ז, ט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 1046,
+    "heRef_2": "נתינה לגר, שמות ח, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 1048,
+    "heRef_2": "נתינה לגר, שמות ח, יז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 1050,
+    "heRef_2": "נתינה לגר, שמות ח, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 1052,
+    "heRef_2": "נתינה לגר, שמות ח, יט, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 1054,
+    "heRef_2": "נתינה לגר, שמות ח, כב, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 1056,
+    "heRef_2": "נתינה לגר, שמות ח, כד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 1044,
+    "heRef_2": "נתינה לגר, שמות ח, ה, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 1061,
+    "heRef_2": "נתינה לגר, שמות ט, יד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 1063,
+    "heRef_2": "נתינה לגר, שמות ט, טו, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 1065,
+    "heRef_2": "נתינה לגר, שמות ט, יז, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 1067,
+    "heRef_2": "נתינה לגר, שמות ט, יח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 1069,
+    "heRef_2": "נתינה לגר, שמות ט, כח, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 1070,
+    "heRef_2": "נתינה לגר, שמות ט, כח, ב",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 1072,
+    "heRef_2": "נתינה לגר, שמות ט, ל, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 1074,
+    "heRef_2": "נתינה לגר, שמות ט, לא, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 1076,
+    "heRef_2": "נתינה לגר, שמות ט, לג, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 1059,
+    "heRef_2": "נתינה לגר, שמות ט, ד, א",
+    "path_2": "נתינה לגר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 492,
+    "heRef_2": "רש\"י על שמות י, י, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 210,
+    "heRef_2": "רמב\"ן על שמות י, י, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 511,
+    "heRef_2": "רש\"י על שמות י, כא, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 482,
+    "heRef_2": "רש\"י על שמות י, ג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 286,
+    "heRef_2": "רמב\"ן על שמות יב, מג, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 243,
+    "heRef_2": "רמב\"ן על שמות יב, ו, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 368,
+    "line_index_2": 770,
+    "heRef_2": "רש\"י על שמות יג, יח, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 383,
+    "line_index_2": 321,
+    "heRef_2": "רמב\"ן על שמות יד, י, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 839,
+    "heRef_2": "רש\"י על שמות יד, כד, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 838,
+    "heRef_2": "רש\"י על שמות יד, כד, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 333,
+    "heRef_2": "רמב\"ן על שמות יד, לא, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 804,
+    "heRef_2": "רש\"י על שמות יד, ז, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 863,
+    "heRef_2": "רש\"י על שמות טו, א, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 337,
+    "heRef_2": "רמב\"ן על שמות טו, א, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 912,
+    "heRef_2": "רש\"י על שמות טו, יג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 922,
+    "heRef_2": "רש\"י על שמות טו, טז, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 357,
+    "heRef_2": "רמב\"ן על שמות טו, יח, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 867,
+    "heRef_2": "רש\"י על שמות טו, ב, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 869,
+    "heRef_2": "רש\"י על שמות טו, ב, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 892,
+    "heRef_2": "רש\"י על שמות טו, ח, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 891,
+    "heRef_2": "רש\"י על שמות טו, ח, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 343,
+    "heRef_2": "רמב\"ן על שמות טו, ט, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 988,
+    "heRef_2": "רש\"י על שמות טז, יד, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 989,
+    "heRef_2": "רש\"י על שמות טז, יד, ד",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 389,
+    "heRef_2": "רמב\"ן על שמות טז, יד, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 390,
+    "heRef_2": "רמב\"ן על שמות טז, יד, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 454,
+    "line_index_2": 1004,
+    "heRef_2": "רש\"י על שמות טז, כא, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 456,
+    "line_index_2": 394,
+    "heRef_2": "רמב\"ן על שמות טז, כג, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 436,
+    "line_index_2": 962,
+    "heRef_2": "רש\"י על שמות טז, ג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 464,
+    "line_index_2": 1023,
+    "heRef_2": "רש\"י על שמות טז, לא, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 466,
+    "line_index_2": 1028,
+    "heRef_2": "רש\"י על שמות טז, לג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 377,
+    "heRef_2": "רמב\"ן על שמות טז, ד, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 570,
+    "heRef_2": "פרקי דרבי אליעזר מד, ג",
+    "path_2": "פרקי דרבי אליעזר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 497,
+    "line_index_2": 1107,
+    "heRef_2": "רש\"י על שמות יח, י, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 498,
+    "line_index_2": 1111,
+    "heRef_2": "רש\"י על שמות יח, יא, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 498,
+    "line_index_2": 429,
+    "heRef_2": "רמב\"ן על שמות יח, יא, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 502,
+    "line_index_2": 1124,
+    "heRef_2": "רש\"י על שמות יח, טו, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 505,
+    "line_index_2": 1130,
+    "heRef_2": "רש\"י על שמות יח, יח, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 508,
+    "line_index_2": 446,
+    "heRef_2": "רמב\"ן על שמות יח, כא, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 1155,
+    "heRef_2": "רש\"י על שמות יח, כו, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 525,
+    "line_index_2": 470,
+    "heRef_2": "רמב\"ן על שמות יט, י, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 514,
+    "heRef_2": "רמב\"ן על שמות כ, טז, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 533,
+    "line_index_2": 1217,
+    "heRef_2": "רש\"י על שמות יט, יח, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 1172,
+    "heRef_2": "רש\"י על שמות יט, ד, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 1174,
+    "heRef_2": "רש\"י על שמות יט, ד, ד",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 455,
+    "heRef_2": "רמב\"ן על שמות יט, ד, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 22,
+    "heRef_2": "רש\"י על שמות א, יא, ד",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 557,
+    "line_index_2": 514,
+    "heRef_2": "רמב\"ן על שמות כ, טז, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 488,
+    "heRef_2": "רמב\"ן על שמות כ, ג, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 489,
+    "heRef_2": "רמב\"ן על שמות כ, ג, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 546,
+    "line_index_2": 1260,
+    "heRef_2": "רש\"י על שמות כ, ה, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 1264,
+    "heRef_2": "רש\"י על שמות כ, ז, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 1363,
+    "heRef_2": "רש\"י על שמות כא, יג, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 583,
+    "line_index_2": 1383,
+    "heRef_2": "רש\"י על שמות כא, יח, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 583,
+    "line_index_2": 551,
+    "heRef_2": "רמב\"ן על שמות כא, יח, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 1388,
+    "heRef_2": "רש\"י על שמות כא, יט, ד",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 553,
+    "heRef_2": "רמב\"ן על שמות כא, יט, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 587,
+    "line_index_2": 558,
+    "heRef_2": "רמב\"ן על שמות כא, כב, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 1413,
+    "heRef_2": "רש\"י על שמות כא, כה, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 1882,
+    "heRef_2": "רש\"י על ויקרא כו, לו, ג",
+    "path_2": "רשי על ויקרא.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 594,
+    "line_index_2": 562,
+    "heRef_2": "רמב\"ן על שמות כא, כט, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 568,
+    "line_index_2": 1324,
+    "heRef_2": "רש\"י על שמות כא, ג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 618,
+    "line_index_2": 1504,
+    "heRef_2": "רש\"י על שמות כב, טו, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 618,
+    "line_index_2": 585,
+    "heRef_2": "רמב\"ן על שמות כב, טו, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 622,
+    "line_index_2": 589,
+    "heRef_2": "רמב\"ן על שמות כב, יט, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 1461,
+    "heRef_2": "רש\"י על שמות כב, ב, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 574,
+    "heRef_2": "רמב\"ן על שמות כב, ב, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 629,
+    "line_index_2": 2595,
+    "heRef_2": "רש\"י על חולין מט:, ו, א",
+    "path_2": "רשי על חולין.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 630,
+    "line_index_2": 601,
+    "heRef_2": "רמב\"ן על שמות כב, כז, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 604,
+    "heRef_2": "רמב\"ן על שמות כב, כח, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 633,
+    "line_index_2": 1550,
+    "heRef_2": "רש\"י על שמות כב, ל, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 635,
+    "line_index_2": 1554,
+    "heRef_2": "רש\"י על שמות כג, א, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 636,
+    "line_index_2": 1557,
+    "heRef_2": "רש\"י על שמות כג, ב, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 654,
+    "line_index_2": 619,
+    "heRef_2": "רמב\"ן על שמות כג, כ, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 656,
+    "line_index_2": 1624,
+    "heRef_2": "רש\"י על שמות כג, כב, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 661,
+    "line_index_2": 1632,
+    "heRef_2": "רש\"י על שמות כג, כז, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 642,
+    "line_index_2": 1574,
+    "heRef_2": "רש\"י על שמות כג, ח, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 642,
+    "line_index_2": 1575,
+    "heRef_2": "רש\"י על שמות כג, ח, ד",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 1672,
+    "heRef_2": "רש\"י על שמות כד, י, ד",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 647,
+    "heRef_2": "רמב\"ן על שמות כד, י, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 679,
+    "line_index_2": 1677,
+    "heRef_2": "רש\"י על שמות כד, יא, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 673,
+    "line_index_2": 642,
+    "heRef_2": "רמב\"ן על שמות כד, ה, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 674,
+    "line_index_2": 645,
+    "heRef_2": "רמב\"ן על שמות כד, ו, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 1667,
+    "heRef_2": "רש\"י על שמות כד, ח, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 699,
+    "line_index_2": 1732,
+    "heRef_2": "רש\"י על שמות כה, יב, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 699,
+    "line_index_2": 1733,
+    "heRef_2": "רש\"י על שמות כה, יב, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 712,
+    "line_index_2": 1767,
+    "heRef_2": "רש\"י על שמות כה, כה, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 714,
+    "line_index_2": 1772,
+    "heRef_2": "רש\"י על שמות כה, כז, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 716,
+    "line_index_2": 1779,
+    "heRef_2": "רש\"י על שמות כה, כט, ד",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 716,
+    "line_index_2": 679,
+    "heRef_2": "רמב\"ן על שמות כה, כט, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 1785,
+    "heRef_2": "רש\"י על שמות כה, לא, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 720,
+    "line_index_2": 1796,
+    "heRef_2": "רש\"י על שמות כה, לג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 725,
+    "line_index_2": 1808,
+    "heRef_2": "רש\"י על שמות כה, לח, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 691,
+    "line_index_2": 1708,
+    "heRef_2": "רש\"י על שמות כה, ד, ד",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 727,
+    "line_index_2": 1814,
+    "heRef_2": "רש\"י על שמות כה, מ, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 692,
+    "line_index_2": 1711,
+    "heRef_2": "רש\"י על שמות כה, ה, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 693,
+    "line_index_2": 665,
+    "heRef_2": "רמב\"ן על שמות כה, ו, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 694,
+    "line_index_2": 667,
+    "heRef_2": "רמב\"ן על שמות כה, ז, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 746,
+    "line_index_2": 1860,
+    "heRef_2": "רש\"י על שמות כו, יח, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 750,
+    "line_index_2": 1862,
+    "heRef_2": "רש\"י על שמות כו, כב, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 754,
+    "line_index_2": 1875,
+    "heRef_2": "רש\"י על שמות כו, כו, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 764,
+    "line_index_2": 1895,
+    "heRef_2": "רש\"י על שמות כו, לו, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 732,
+    "line_index_2": 1824,
+    "heRef_2": "רש\"י על שמות כו, ד, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 733,
+    "line_index_2": 1828,
+    "heRef_2": "רש\"י על שמות כו, ה, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 779,
+    "line_index_2": 1927,
+    "heRef_2": "רש\"י על שמות כז, יג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 769,
+    "line_index_2": 1905,
+    "heRef_2": "רש\"י על שמות כז, ג, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 769,
+    "line_index_2": 1904,
+    "heRef_2": "רש\"י על שמות כז, ג, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 774,
+    "line_index_2": 1917,
+    "heRef_2": "רש\"י על שמות כז, ח, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 775,
+    "line_index_2": 1919,
+    "heRef_2": "רש\"י על שמות כז, ט, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 799,
+    "line_index_2": 1980,
+    "heRef_2": "רש\"י על שמות כח, יא, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 818,
+    "line_index_2": 128,
+    "heRef_2": "פרקי דרבי אליעזר יב, ט",
+    "path_2": "פרקי דרבי אליעזר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 2037,
+    "heRef_2": "רש\"י על שמות כח, לב, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 93,
+    "heRef_2": "רד\"ק על יהושע ב, יח, א",
+    "path_2": "רדק על יהושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 792,
+    "line_index_2": 1955,
+    "heRef_2": "רש\"י על שמות כח, ד, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 829,
+    "line_index_2": 718,
+    "heRef_2": "רמב\"ן על שמות כח, מא, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 108,
+    "heRef_2": "רש\"י על שמות ב, כא, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 891,
+    "line_index_2": 2218,
+    "heRef_2": "רש\"י על שמות ל, יב, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 892,
+    "line_index_2": 752,
+    "heRef_2": "רמב\"ן על שמות ל, יג, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 897,
+    "line_index_2": 2236,
+    "heRef_2": "רש\"י על שמות ל, יח, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 898,
+    "line_index_2": 756,
+    "heRef_2": "רמב\"ן על שמות ל, יט, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 913,
+    "line_index_2": 2277,
+    "heRef_2": "רש\"י על שמות ל, לד, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 913,
+    "line_index_2": 766,
+    "heRef_2": "רמב\"ן על שמות ל, לד, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 914,
+    "line_index_2": 2283,
+    "heRef_2": "רש\"י על שמות ל, לה, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 914,
+    "line_index_2": 768,
+    "heRef_2": "רמב\"ן על שמות ל, לה, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 883,
+    "line_index_2": 2197,
+    "heRef_2": "רש\"י על שמות ל, ד, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 888,
+    "line_index_2": 748,
+    "heRef_2": "רמב\"ן על שמות ל, ט, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 928,
+    "line_index_2": 2313,
+    "heRef_2": "רש\"י על שמות לא, י, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 935,
+    "line_index_2": 2329,
+    "heRef_2": "רש\"י על שמות לא, יז, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 923,
+    "line_index_2": 2303,
+    "heRef_2": "רש\"י על שמות לא, ה, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 938,
+    "line_index_2": 2338,
+    "heRef_2": "רש\"י על שמות לב, א, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 962,
+    "line_index_2": 810,
+    "heRef_2": "רמב\"ן על שמות לב, כה, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 962,
+    "line_index_2": 811,
+    "heRef_2": "רמב\"ן על שמות לב, כה, ג",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 972,
+    "line_index_2": 824,
+    "heRef_2": "רמב\"ן על שמות לב, לה, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 941,
+    "line_index_2": 2349,
+    "heRef_2": "רש\"י על שמות לב, ד, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 984,
+    "line_index_2": 2465,
+    "heRef_2": "רש\"י על שמות לג, יא, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 987,
+    "line_index_2": 2475,
+    "heRef_2": "רש\"י על שמות לג, יד, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 995,
+    "line_index_2": 2497,
+    "heRef_2": "רש\"י על שמות לג, כב, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 979,
+    "line_index_2": 827,
+    "heRef_2": "רמב\"ן על שמות לג, ו, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 982,
+    "line_index_2": 2459,
+    "heRef_2": "רש\"י על שמות לג, ט, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1021,
+    "line_index_2": 2563,
+    "heRef_2": "רש\"י על שמות לד, כד, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1022,
+    "line_index_2": 2567,
+    "heRef_2": "רש\"י על שמות לד, כה, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1022,
+    "line_index_2": 876,
+    "heRef_2": "רמב\"ן על שמות לד, כה, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1030,
+    "line_index_2": 2587,
+    "heRef_2": "רש\"י על שמות לד, לג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1034,
+    "line_index_2": 2594,
+    "heRef_2": "רש\"י על שמות לה, א, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1165,
+    "line_index_2": 473,
+    "heRef_2": "רש\"י על שמות ט, לג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1165,
+    "line_index_2": 2673,
+    "heRef_2": "רש\"י על שמות לח, כז, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1143,
+    "line_index_2": 473,
+    "heRef_2": "רש\"י על שמות ט, לג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1146,
+    "line_index_2": 2655,
+    "heRef_2": "רש\"י על שמות לח, ח, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1146,
+    "line_index_2": 912,
+    "heRef_2": "רמב\"ן על שמות לח, ח, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1173,
+    "line_index_2": 2681,
+    "heRef_2": "רש\"י על שמות לט, ג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 42,
+    "heRef_2": "רמב\"ן על שמות ג, ב, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 155,
+    "heRef_2": "רש\"י על שמות ג, כב, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1236,
+    "line_index_2": 2703,
+    "heRef_2": "רש\"י על שמות מ, כב, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 1245,
+    "line_index_2": 2711,
+    "heRef_2": "רש\"י על שמות מ, לא, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 82,
+    "heRef_2": "רמב\"ן על שמות ד, יג, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 215,
+    "heRef_2": "רש\"י על שמות ד, כו, ג",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 266,
+    "heRef_2": "רש\"י על שמות ה, כג, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 106,
+    "heRef_2": "רמב\"ן על שמות ה, ד, ב",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 330,
+    "heRef_2": "רש\"י על שמות ז, א, ב",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 346,
+    "heRef_2": "רש\"י על שמות ז, יד, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 388,
+    "heRef_2": "רש\"י על שמות ח, י, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 447,
+    "heRef_2": "רש\"י על שמות ט, יז, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 452,
+    "heRef_2": "רש\"י על שמות ט, יט, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 438,
+    "heRef_2": "רש\"י על שמות ט, ט, א",
+    "path_2": "רשי על שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 258,
     "line_index_2": 257,
     "heRef_2": "שמות י, א",
@@ -8468,3569 +12031,6 @@
     "heRef_2": "שמות ט, ט",
     "path_2": "שמות.txt",
     "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 996,
-    "line_index_2": 3067,
-    "heRef_2": "בכור שור, שמות לג, כב, א",
-    "path_2": "בכור שור.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 559,
-    "line_index_2": 469,
-    "heRef_2": "בראשית רבה מד, כא",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 1428,
-    "heRef_2": "מחברת מנחם, ד, ד ח, ג",
-    "path_2": "מחברת מנחם.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 1089,
-    "heRef_2": "נתינה לגר, שמות י, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 258,
-    "line_index_2": 1079,
-    "heRef_2": "נתינה לגר, שמות י, א, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 1091,
-    "heRef_2": "נתינה לגר, שמות י, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 283,
-    "line_index_2": 1093,
-    "heRef_2": "נתינה לגר, שמות י, כו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 259,
-    "line_index_2": 1081,
-    "heRef_2": "נתינה לגר, שמות י, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 260,
-    "line_index_2": 1083,
-    "heRef_2": "נתינה לגר, שמות י, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 262,
-    "line_index_2": 1085,
-    "heRef_2": "נתינה לגר, שמות י, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 266,
-    "line_index_2": 1087,
-    "heRef_2": "נתינה לגר, שמות י, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 291,
-    "line_index_2": 1096,
-    "heRef_2": "נתינה לגר, שמות יא, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 292,
-    "line_index_2": 1098,
-    "heRef_2": "נתינה לגר, שמות יא, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 294,
-    "line_index_2": 1100,
-    "heRef_2": "נתינה לגר, שמות יא, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 295,
-    "line_index_2": 1102,
-    "heRef_2": "נתינה לגר, שמות יא, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 311,
-    "line_index_2": 1117,
-    "heRef_2": "נתינה לגר, שמות יב, יג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 313,
-    "line_index_2": 1119,
-    "heRef_2": "נתינה לגר, שמות יב, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 313,
-    "line_index_2": 1120,
-    "heRef_2": "נתינה לגר, שמות יב, טו, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 314,
-    "line_index_2": 1122,
-    "heRef_2": "נתינה לגר, שמות יב, טז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 320,
-    "line_index_2": 1124,
-    "heRef_2": "נתינה לגר, שמות יב, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 325,
-    "line_index_2": 1126,
-    "heRef_2": "נתינה לגר, שמות יב, כז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 300,
-    "line_index_2": 1105,
-    "heRef_2": "נתינה לגר, שמות יב, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 330,
-    "line_index_2": 1128,
-    "heRef_2": "נתינה לגר, שמות יב, לב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 330,
-    "line_index_2": 1129,
-    "heRef_2": "נתינה לגר, שמות יב, לב, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 332,
-    "line_index_2": 1131,
-    "heRef_2": "נתינה לגר, שמות יב, לד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 333,
-    "line_index_2": 1133,
-    "heRef_2": "נתינה לגר, שמות יב, לה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 335,
-    "line_index_2": 1135,
-    "heRef_2": "נתינה לגר, שמות יב, לז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 336,
-    "line_index_2": 1137,
-    "heRef_2": "נתינה לגר, שמות יב, לח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 301,
-    "line_index_2": 1107,
-    "heRef_2": "נתינה לגר, שמות יב, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 341,
-    "line_index_2": 1139,
-    "heRef_2": "נתינה לגר, שמות יב, מג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 344,
-    "line_index_2": 1141,
-    "heRef_2": "נתינה לגר, שמות יב, מו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 344,
-    "line_index_2": 1142,
-    "heRef_2": "נתינה לגר, שמות יב, מו, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 344,
-    "line_index_2": 1143,
-    "heRef_2": "נתינה לגר, שמות יב, מו, ג",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 303,
-    "line_index_2": 1109,
-    "heRef_2": "נתינה לגר, שמות יב, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 304,
-    "line_index_2": 1111,
-    "heRef_2": "נתינה לגר, שמות יב, ו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 306,
-    "line_index_2": 1113,
-    "heRef_2": "נתינה לגר, שמות יב, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 307,
-    "line_index_2": 1115,
-    "heRef_2": "נתינה לגר, שמות יב, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 360,
-    "line_index_2": 1148,
-    "heRef_2": "נתינה לגר, שמות יג, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 363,
-    "line_index_2": 1150,
-    "heRef_2": "נתינה לגר, שמות יג, יג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 366,
-    "line_index_2": 1152,
-    "heRef_2": "נתינה לגר, שמות יג, טז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 367,
-    "line_index_2": 1154,
-    "heRef_2": "נתינה לגר, שמות יג, יז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 369,
-    "line_index_2": 1156,
-    "heRef_2": "נתינה לגר, שמות יג, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 359,
-    "line_index_2": 1146,
-    "heRef_2": "נתינה לגר, שמות יג, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 383,
-    "line_index_2": 1165,
-    "heRef_2": "נתינה לגר, שמות יד, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 388,
-    "line_index_2": 1167,
-    "heRef_2": "נתינה לגר, שמות יד, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 393,
-    "line_index_2": 1169,
-    "heRef_2": "נתינה לגר, שמות יד, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 401,
-    "line_index_2": 1171,
-    "heRef_2": "נתינה לגר, שמות יד, כח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 401,
-    "line_index_2": 1172,
-    "heRef_2": "נתינה לגר, שמות יד, כח, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 401,
-    "line_index_2": 1173,
-    "heRef_2": "נתינה לגר, שמות יד, כח, ג",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 401,
-    "line_index_2": 1174,
-    "heRef_2": "נתינה לגר, שמות יד, כח, ד",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 404,
-    "line_index_2": 1176,
-    "heRef_2": "נתינה לגר, שמות יד, לא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 404,
-    "line_index_2": 1177,
-    "heRef_2": "נתינה לגר, שמות יד, לא, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 404,
-    "line_index_2": 1178,
-    "heRef_2": "נתינה לגר, שמות יד, לא, ג",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 376,
-    "line_index_2": 1159,
-    "heRef_2": "נתינה לגר, שמות יד, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 380,
-    "line_index_2": 1161,
-    "heRef_2": "נתינה לגר, שמות יד, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 381,
-    "line_index_2": 1163,
-    "heRef_2": "נתינה לגר, שמות יד, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 416,
-    "line_index_2": 1192,
-    "heRef_2": "נתינה לגר, שמות טו, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 420,
-    "line_index_2": 1194,
-    "heRef_2": "נתינה לגר, שמות טו, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 421,
-    "line_index_2": 1196,
-    "heRef_2": "נתינה לגר, שמות טו, טז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 423,
-    "line_index_2": 1198,
-    "heRef_2": "נתינה לגר, שמות טו, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 406,
-    "line_index_2": 1181,
-    "heRef_2": "נתינה לגר, שמות טו, א, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 407,
-    "line_index_2": 1183,
-    "heRef_2": "נתינה לגר, שמות טו, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 407,
-    "line_index_2": 1184,
-    "heRef_2": "נתינה לגר, שמות טו, ב, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 408,
-    "line_index_2": 1186,
-    "heRef_2": "נתינה לגר, שמות טו, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 412,
-    "line_index_2": 1188,
-    "heRef_2": "נתינה לגר, שמות טו, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 413,
-    "line_index_2": 1190,
-    "heRef_2": "נתינה לגר, שמות טו, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 447,
-    "line_index_2": 1205,
-    "heRef_2": "נתינה לגר, שמות טז, יד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 454,
-    "line_index_2": 1207,
-    "heRef_2": "נתינה לגר, שמות טז, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 468,
-    "line_index_2": 1209,
-    "heRef_2": "נתינה לגר, שמות טז, לה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 469,
-    "line_index_2": 1211,
-    "heRef_2": "נתינה לגר, שמות טז, לו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 437,
-    "line_index_2": 1201,
-    "heRef_2": "נתינה לגר, שמות טז, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 440,
-    "line_index_2": 1203,
-    "heRef_2": "נתינה לגר, שמות טז, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 481,
-    "line_index_2": 1218,
-    "heRef_2": "נתינה לגר, שמות יז, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 482,
-    "line_index_2": 1220,
-    "heRef_2": "נתינה לגר, שמות יז, יב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 485,
-    "line_index_2": 1222,
-    "heRef_2": "נתינה לגר, שמות יז, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 486,
-    "line_index_2": 1224,
-    "heRef_2": "נתינה לגר, שמות יז, טז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 486,
-    "line_index_2": 1225,
-    "heRef_2": "נתינה לגר, שמות יז, טז, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 477,
-    "line_index_2": 1214,
-    "heRef_2": "נתינה לגר, שמות יז, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 479,
-    "line_index_2": 1216,
-    "heRef_2": "נתינה לגר, שמות יז, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 497,
-    "line_index_2": 1236,
-    "heRef_2": "נתינה לגר, שמות יח, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 498,
-    "line_index_2": 1238,
-    "heRef_2": "נתינה לגר, שמות יח, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 502,
-    "line_index_2": 1240,
-    "heRef_2": "נתינה לגר, שמות יח, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 506,
-    "line_index_2": 1242,
-    "heRef_2": "נתינה לגר, שמות יח, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 507,
-    "line_index_2": 1244,
-    "heRef_2": "נתינה לגר, שמות יח, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 510,
-    "line_index_2": 1246,
-    "heRef_2": "נתינה לגר, שמות יח, כג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 513,
-    "line_index_2": 1248,
-    "heRef_2": "נתינה לגר, שמות יח, כו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 489,
-    "line_index_2": 1228,
-    "heRef_2": "נתינה לגר, שמות יח, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 490,
-    "line_index_2": 1230,
-    "heRef_2": "נתינה לגר, שמות יח, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 491,
-    "line_index_2": 1232,
-    "heRef_2": "נתינה לגר, שמות יח, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 496,
-    "line_index_2": 1234,
-    "heRef_2": "נתינה לגר, שמות יח, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 528,
-    "line_index_2": 1255,
-    "heRef_2": "נתינה לגר, שמות יט, יג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 530,
-    "line_index_2": 1257,
-    "heRef_2": "נתינה לגר, שמות יט, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 532,
-    "line_index_2": 1259,
-    "heRef_2": "נתינה לגר, שמות יט, יז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 536,
-    "line_index_2": 1261,
-    "heRef_2": "נתינה לגר, שמות יט, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 537,
-    "line_index_2": 1263,
-    "heRef_2": "נתינה לגר, שמות יט, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 519,
-    "line_index_2": 1251,
-    "heRef_2": "נתינה לגר, שמות יט, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 520,
-    "line_index_2": 1253,
-    "heRef_2": "נתינה לגר, שמות יט, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 961,
-    "heRef_2": "נתינה לגר, שמות א, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 963,
-    "heRef_2": "נתינה לגר, שמות א, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 965,
-    "heRef_2": "נתינה לגר, שמות א, יז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 967,
-    "heRef_2": "נתינה לגר, שמות א, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 969,
-    "heRef_2": "נתינה לגר, שמות א, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 971,
-    "heRef_2": "נתינה לגר, שמות א, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 957,
-    "heRef_2": "נתינה לגר, שמות א, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 959,
-    "heRef_2": "נתינה לגר, שמות א, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 554,
-    "line_index_2": 1273,
-    "heRef_2": "נתינה לגר, שמות כ, יג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 559,
-    "line_index_2": 1275,
-    "heRef_2": "נתינה לגר, שמות כ, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 561,
-    "line_index_2": 1277,
-    "heRef_2": "נתינה לגר, שמות כ, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 562,
-    "line_index_2": 1279,
-    "heRef_2": "נתינה לגר, שמות כ, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 562,
-    "line_index_2": 1280,
-    "heRef_2": "נתינה לגר, שמות כ, כא, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 563,
-    "line_index_2": 1282,
-    "heRef_2": "נתינה לגר, שמות כ, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 544,
-    "line_index_2": 1266,
-    "heRef_2": "נתינה לגר, שמות כ, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 546,
-    "line_index_2": 1268,
-    "heRef_2": "נתינה לגר, שמות כ, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 548,
-    "line_index_2": 1270,
-    "heRef_2": "נתינה לגר, שמות כ, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 548,
-    "line_index_2": 1271,
-    "heRef_2": "נתינה לגר, שמות כ, ז, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 575,
-    "line_index_2": 1291,
-    "heRef_2": "נתינה לגר, שמות כא, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 577,
-    "line_index_2": 1293,
-    "heRef_2": "נתינה לגר, שמות כא, יב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 579,
-    "line_index_2": 1295,
-    "heRef_2": "נתינה לגר, שמות כא, יד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 581,
-    "line_index_2": 1297,
-    "heRef_2": "נתינה לגר, שמות כא, טז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 583,
-    "line_index_2": 1299,
-    "heRef_2": "נתינה לגר, שמות כא, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 583,
-    "line_index_2": 1300,
-    "heRef_2": "נתינה לגר, שמות כא, יח, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 584,
-    "line_index_2": 1302,
-    "heRef_2": "נתינה לגר, שמות כא, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 584,
-    "line_index_2": 1303,
-    "heRef_2": "נתינה לגר, שמות כא, יט, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 585,
-    "line_index_2": 1305,
-    "heRef_2": "נתינה לגר, שמות כא, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 586,
-    "line_index_2": 1307,
-    "heRef_2": "נתינה לגר, שמות כא, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 588,
-    "line_index_2": 1309,
-    "heRef_2": "נתינה לגר, שמות כא, כג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 590,
-    "line_index_2": 1311,
-    "heRef_2": "נתינה לגר, שמות כא, כה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 591,
-    "line_index_2": 1313,
-    "heRef_2": "נתינה לגר, שמות כא, כו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 594,
-    "line_index_2": 1315,
-    "heRef_2": "נתינה לגר, שמות כא, כט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 595,
-    "line_index_2": 1317,
-    "heRef_2": "נתינה לגר, שמות כא, ל, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 595,
-    "line_index_2": 1318,
-    "heRef_2": "נתינה לגר, שמות כא, ל, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 596,
-    "line_index_2": 1320,
-    "heRef_2": "נתינה לגר, שמות כא, לא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 600,
-    "line_index_2": 1322,
-    "heRef_2": "נתינה לגר, שמות כא, לה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 571,
-    "line_index_2": 1285,
-    "heRef_2": "נתינה לגר, שמות כא, ו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 573,
-    "line_index_2": 1287,
-    "heRef_2": "נתינה לגר, שמות כא, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 573,
-    "line_index_2": 1288,
-    "heRef_2": "נתינה לגר, שמות כא, ח, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 573,
-    "line_index_2": 1289,
-    "heRef_2": "נתינה לגר, שמות כא, ח, ג",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 613,
-    "line_index_2": 1335,
-    "heRef_2": "נתינה לגר, שמות כב, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 615,
-    "line_index_2": 1337,
-    "heRef_2": "נתינה לגר, שמות כב, יב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 618,
-    "line_index_2": 1339,
-    "heRef_2": "נתינה לגר, שמות כב, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 618,
-    "line_index_2": 1340,
-    "heRef_2": "נתינה לגר, שמות כב, טו, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 622,
-    "line_index_2": 1342,
-    "heRef_2": "נתינה לגר, שמות כב, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 622,
-    "line_index_2": 1343,
-    "heRef_2": "נתינה לגר, שמות כב, יט, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 627,
-    "line_index_2": 1345,
-    "heRef_2": "נתינה לגר, שמות כב, כד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 627,
-    "line_index_2": 1346,
-    "heRef_2": "נתינה לגר, שמות כב, כד, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 629,
-    "line_index_2": 1348,
-    "heRef_2": "נתינה לגר, שמות כב, כו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 630,
-    "line_index_2": 1350,
-    "heRef_2": "נתינה לגר, שמות כב, כז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 631,
-    "line_index_2": 1352,
-    "heRef_2": "נתינה לגר, שמות כב, כח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 632,
-    "line_index_2": 1354,
-    "heRef_2": "נתינה לגר, שמות כב, כט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 605,
-    "line_index_2": 1325,
-    "heRef_2": "נתינה לגר, שמות כב, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 633,
-    "line_index_2": 1356,
-    "heRef_2": "נתינה לגר, שמות כב, ל, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 606,
-    "line_index_2": 1327,
-    "heRef_2": "נתינה לגר, שמות כב, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 607,
-    "line_index_2": 1329,
-    "heRef_2": "נתינה לגר, שמות כב, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 609,
-    "line_index_2": 1331,
-    "heRef_2": "נתינה לגר, שמות כב, ו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 611,
-    "line_index_2": 1333,
-    "heRef_2": "נתינה לגר, שמות כב, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 652,
-    "line_index_2": 1368,
-    "heRef_2": "נתינה לגר, שמות כג, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 652,
-    "line_index_2": 1369,
-    "heRef_2": "נתינה לגר, שמות כג, יח, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 653,
-    "line_index_2": 1371,
-    "heRef_2": "נתינה לגר, שמות כג, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 655,
-    "line_index_2": 1373,
-    "heRef_2": "נתינה לגר, שמות כג, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 662,
-    "line_index_2": 1375,
-    "heRef_2": "נתינה לגר, שמות כג, כח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 636,
-    "line_index_2": 1359,
-    "heRef_2": "נתינה לגר, שמות כג, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 636,
-    "line_index_2": 1360,
-    "heRef_2": "נתינה לגר, שמות כג, ב, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 638,
-    "line_index_2": 1362,
-    "heRef_2": "נתינה לגר, שמות כג, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 639,
-    "line_index_2": 1364,
-    "heRef_2": "נתינה לגר, שמות כג, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 641,
-    "line_index_2": 1366,
-    "heRef_2": "נתינה לגר, שמות כג, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 678,
-    "line_index_2": 1382,
-    "heRef_2": "נתינה לגר, שמות כד, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 679,
-    "line_index_2": 1384,
-    "heRef_2": "נתינה לגר, שמות כד, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 679,
-    "line_index_2": 1385,
-    "heRef_2": "נתינה לגר, שמות כד, יא, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 681,
-    "line_index_2": 1387,
-    "heRef_2": "נתינה לגר, שמות כד, יג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 673,
-    "line_index_2": 1378,
-    "heRef_2": "נתינה לגר, שמות כד, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 676,
-    "line_index_2": 1380,
-    "heRef_2": "נתינה לגר, שמות כד, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 698,
-    "line_index_2": 1392,
-    "heRef_2": "נתינה לגר, שמות כה, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 699,
-    "line_index_2": 1394,
-    "heRef_2": "נתינה לגר, שמות כה, יב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 705,
-    "line_index_2": 1396,
-    "heRef_2": "נתינה לגר, שמות כה, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 709,
-    "line_index_2": 1398,
-    "heRef_2": "נתינה לגר, שמות כה, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 716,
-    "line_index_2": 1400,
-    "heRef_2": "נתינה לגר, שמות כה, כט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 718,
-    "line_index_2": 1402,
-    "heRef_2": "נתינה לגר, שמות כה, לא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 721,
-    "line_index_2": 1404,
-    "heRef_2": "נתינה לגר, שמות כה, לד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 724,
-    "line_index_2": 1406,
-    "heRef_2": "נתינה לגר, שמות כה, לז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 692,
-    "line_index_2": 1390,
-    "heRef_2": "נתינה לגר, שמות כה, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 742,
-    "line_index_2": 1413,
-    "heRef_2": "נתינה לגר, שמות כו, יד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 742,
-    "line_index_2": 1414,
-    "heRef_2": "נתינה לגר, שמות כו, יד, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 729,
-    "line_index_2": 1409,
-    "heRef_2": "נתינה לגר, שמות כו, א, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 757,
-    "line_index_2": 1416,
-    "heRef_2": "נתינה לגר, שמות כו, כט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 759,
-    "line_index_2": 1418,
-    "heRef_2": "נתינה לגר, שמות כו, לא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 736,
-    "line_index_2": 1411,
-    "heRef_2": "נתינה לגר, שמות כו, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 776,
-    "line_index_2": 1427,
-    "heRef_2": "נתינה לגר, שמות כז, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 784,
-    "line_index_2": 1429,
-    "heRef_2": "נתינה לגר, שמות כז, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 786,
-    "line_index_2": 1431,
-    "heRef_2": "נתינה לגר, שמות כז, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 786,
-    "line_index_2": 1432,
-    "heRef_2": "נתינה לגר, שמות כז, כ, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 769,
-    "line_index_2": 1421,
-    "heRef_2": "נתינה לגר, שמות כז, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 770,
-    "line_index_2": 1423,
-    "heRef_2": "נתינה לגר, שמות כז, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 773,
-    "line_index_2": 1425,
-    "heRef_2": "נתינה לגר, שמות כז, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 799,
-    "line_index_2": 1439,
-    "heRef_2": "נתינה לגר, שמות כח, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 799,
-    "line_index_2": 1440,
-    "heRef_2": "נתינה לגר, שמות כח, יא, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 805,
-    "line_index_2": 1442,
-    "heRef_2": "נתינה לגר, שמות כח, יז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 805,
-    "line_index_2": 1443,
-    "heRef_2": "נתינה לגר, שמות כח, יז, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 805,
-    "line_index_2": 1444,
-    "heRef_2": "נתינה לגר, שמות כח, יז, ג",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 805,
-    "line_index_2": 1445,
-    "heRef_2": "נתינה לגר, שמות כח, יז, ד",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 806,
-    "line_index_2": 1447,
-    "heRef_2": "נתינה לגר, שמות כח, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 806,
-    "line_index_2": 1448,
-    "heRef_2": "נתינה לגר, שמות כח, יח, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 806,
-    "line_index_2": 1449,
-    "heRef_2": "נתינה לגר, שמות כח, יח, ג",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 807,
-    "line_index_2": 1451,
-    "heRef_2": "נתינה לגר, שמות כח, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 807,
-    "line_index_2": 1452,
-    "heRef_2": "נתינה לגר, שמות כח, יט, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 807,
-    "line_index_2": 1453,
-    "heRef_2": "נתינה לגר, שמות כח, יט, ג",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 808,
-    "line_index_2": 1455,
-    "heRef_2": "נתינה לגר, שמות כח, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 808,
-    "line_index_2": 1456,
-    "heRef_2": "נתינה לגר, שמות כח, כ, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 808,
-    "line_index_2": 1457,
-    "heRef_2": "נתינה לגר, שמות כח, כ, ג",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 809,
-    "line_index_2": 1459,
-    "heRef_2": "נתינה לגר, שמות כח, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 810,
-    "line_index_2": 1461,
-    "heRef_2": "נתינה לגר, שמות כח, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 813,
-    "line_index_2": 1463,
-    "heRef_2": "נתינה לגר, שמות כח, כה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 820,
-    "line_index_2": 1465,
-    "heRef_2": "נתינה לגר, שמות כח, לב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 820,
-    "line_index_2": 1466,
-    "heRef_2": "נתינה לגר, שמות כח, לב, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 821,
-    "line_index_2": 1468,
-    "heRef_2": "נתינה לגר, שמות כח, לג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 822,
-    "line_index_2": 1470,
-    "heRef_2": "נתינה לגר, שמות כח, לד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 822,
-    "line_index_2": 1471,
-    "heRef_2": "נתינה לגר, שמות כח, לד, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 826,
-    "line_index_2": 1473,
-    "heRef_2": "נתינה לגר, שמות כח, לח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 826,
-    "line_index_2": 1474,
-    "heRef_2": "נתינה לגר, שמות כח, לח, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 791,
-    "line_index_2": 1435,
-    "heRef_2": "נתינה לגר, שמות כח, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 828,
-    "line_index_2": 1476,
-    "heRef_2": "נתינה לגר, שמות כח, מ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 829,
-    "line_index_2": 1478,
-    "heRef_2": "נתינה לגר, שמות כח, מא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 792,
-    "line_index_2": 1437,
-    "heRef_2": "נתינה לגר, שמות כח, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 845,
-    "line_index_2": 1483,
-    "heRef_2": "נתינה לגר, שמות כט, יג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 852,
-    "line_index_2": 1485,
-    "heRef_2": "נתינה לגר, שמות כט, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 856,
-    "line_index_2": 1487,
-    "heRef_2": "נתינה לגר, שמות כט, כד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 861,
-    "line_index_2": 1489,
-    "heRef_2": "נתינה לגר, שמות כט, כט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 834,
-    "line_index_2": 1481,
-    "heRef_2": "נתינה לגר, שמות כט, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 862,
-    "line_index_2": 1491,
-    "heRef_2": "נתינה לגר, שמות כט, ל, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 871,
-    "line_index_2": 1493,
-    "heRef_2": "נתינה לגר, שמות כט, לט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 875,
-    "line_index_2": 1495,
-    "heRef_2": "נתינה לגר, שמות כט, מג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 979,
-    "heRef_2": "נתינה לגר, שמות ב, יב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 981,
-    "heRef_2": "נתינה לגר, שמות ב, יז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 983,
-    "heRef_2": "נתינה לגר, שמות ב, כג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 985,
-    "heRef_2": "נתינה לגר, שמות ב, כה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 986,
-    "heRef_2": "נתינה לגר, שמות ב, כה, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 974,
-    "heRef_2": "נתינה לגר, שמות ב, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 975,
-    "heRef_2": "נתינה לגר, שמות ב, ה, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 977,
-    "heRef_2": "נתינה לגר, שמות ב, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 894,
-    "line_index_2": 1505,
-    "heRef_2": "נתינה לגר, שמות ל, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 897,
-    "line_index_2": 1507,
-    "heRef_2": "נתינה לגר, שמות ל, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 880,
-    "line_index_2": 1498,
-    "heRef_2": "נתינה לגר, שמות ל, א, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 880,
-    "line_index_2": 1499,
-    "heRef_2": "נתינה לגר, שמות ל, א, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 911,
-    "line_index_2": 1509,
-    "heRef_2": "נתינה לגר, שמות ל, לב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 911,
-    "line_index_2": 1510,
-    "heRef_2": "נתינה לגר, שמות ל, לב, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 913,
-    "line_index_2": 1512,
-    "heRef_2": "נתינה לגר, שמות ל, לד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 913,
-    "line_index_2": 1513,
-    "heRef_2": "נתינה לגר, שמות ל, לד, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 914,
-    "line_index_2": 1515,
-    "heRef_2": "נתינה לגר, שמות ל, לה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 915,
-    "line_index_2": 1517,
-    "heRef_2": "נתינה לגר, שמות ל, לו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 885,
-    "line_index_2": 1501,
-    "heRef_2": "נתינה לגר, שמות ל, ו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 888,
-    "line_index_2": 1503,
-    "heRef_2": "נתינה לגר, שמות ל, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 928,
-    "line_index_2": 1526,
-    "heRef_2": "נתינה לגר, שמות לא, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 935,
-    "line_index_2": 1528,
-    "heRef_2": "נתינה לגר, שמות לא, יז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 936,
-    "line_index_2": 1530,
-    "heRef_2": "נתינה לגר, שמות לא, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 920,
-    "line_index_2": 1520,
-    "heRef_2": "נתינה לגר, שמות לא, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 921,
-    "line_index_2": 1522,
-    "heRef_2": "נתינה לגר, שמות לא, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 922,
-    "line_index_2": 1524,
-    "heRef_2": "נתינה לגר, שמות לא, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 947,
-    "line_index_2": 1535,
-    "heRef_2": "נתינה לגר, שמות לב, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 949,
-    "line_index_2": 1537,
-    "heRef_2": "נתינה לגר, שמות לב, יב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 953,
-    "line_index_2": 1539,
-    "heRef_2": "נתינה לגר, שמות לב, טז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 938,
-    "line_index_2": 1533,
-    "heRef_2": "נתינה לגר, שמות לב, א, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 957,
-    "line_index_2": 1541,
-    "heRef_2": "נתינה לגר, שמות לב, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 962,
-    "line_index_2": 1543,
-    "heRef_2": "נתינה לגר, שמות לב, כה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 963,
-    "line_index_2": 1545,
-    "heRef_2": "נתינה לגר, שמות לב, כו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 964,
-    "line_index_2": 1547,
-    "heRef_2": "נתינה לגר, שמות לב, כז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 966,
-    "line_index_2": 1549,
-    "heRef_2": "נתינה לגר, שמות לב, כט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 972,
-    "line_index_2": 1551,
-    "heRef_2": "נתינה לגר, שמות לב, לה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 984,
-    "line_index_2": 1560,
-    "heRef_2": "נתינה לגר, שמות לג, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 988,
-    "line_index_2": 1562,
-    "heRef_2": "נתינה לגר, שמות לג, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 989,
-    "line_index_2": 1564,
-    "heRef_2": "נתינה לגר, שמות לג, טז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 992,
-    "line_index_2": 1566,
-    "heRef_2": "נתינה לגר, שמות לג, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 996,
-    "line_index_2": 1568,
-    "heRef_2": "נתינה לגר, שמות לג, כג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 976,
-    "line_index_2": 1554,
-    "heRef_2": "נתינה לגר, שמות לג, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 977,
-    "line_index_2": 1556,
-    "heRef_2": "נתינה לגר, שמות לג, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 978,
-    "line_index_2": 1558,
-    "heRef_2": "נתינה לגר, שמות לג, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1013,
-    "line_index_2": 1578,
-    "heRef_2": "נתינה לגר, שמות לד, טז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1016,
-    "line_index_2": 1580,
-    "heRef_2": "נתינה לגר, שמות לד, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1022,
-    "line_index_2": 1582,
-    "heRef_2": "נתינה לגר, שמות לד, כה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1027,
-    "line_index_2": 1584,
-    "heRef_2": "נתינה לגר, שמות לד, ל, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1003,
-    "line_index_2": 1571,
-    "heRef_2": "נתינה לגר, שמות לד, ו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1004,
-    "line_index_2": 1573,
-    "heRef_2": "נתינה לגר, שמות לד, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1004,
-    "line_index_2": 1574,
-    "heRef_2": "נתינה לגר, שמות לד, ז, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1006,
-    "line_index_2": 1576,
-    "heRef_2": "נתינה לגר, שמות לד, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1054,
-    "line_index_2": 1587,
-    "heRef_2": "נתינה לגר, שמות לה, כא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1055,
-    "line_index_2": 1589,
-    "heRef_2": "נתינה לגר, שמות לה, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1058,
-    "line_index_2": 1591,
-    "heRef_2": "נתינה לגר, שמות לה, כה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1088,
-    "line_index_2": 1596,
-    "heRef_2": "נתינה לגר, שמות לו, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1074,
-    "line_index_2": 1594,
-    "heRef_2": "נתינה לגר, שמות לו, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1160,
-    "line_index_2": 1601,
-    "heRef_2": "נתינה לגר, שמות לח, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1146,
-    "line_index_2": 1599,
-    "heRef_2": "נתינה לגר, שמות לח, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1180,
-    "line_index_2": 1611,
-    "heRef_2": "נתינה לגר, שמות לט, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1171,
-    "line_index_2": 1604,
-    "heRef_2": "נתינה לגר, שמות לט, א, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1195,
-    "line_index_2": 1613,
-    "heRef_2": "נתינה לגר, שמות לט, כה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1198,
-    "line_index_2": 1615,
-    "heRef_2": "נתינה לגר, שמות לט, כח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1172,
-    "line_index_2": 1606,
-    "heRef_2": "נתינה לגר, שמות לט, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1200,
-    "line_index_2": 1617,
-    "heRef_2": "נתינה לגר, שמות לט, ל, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1176,
-    "line_index_2": 1608,
-    "heRef_2": "נתינה לגר, שמות לט, ו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1176,
-    "line_index_2": 1609,
-    "heRef_2": "נתינה לגר, שמות לט, ו, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 995,
-    "heRef_2": "נתינה לגר, שמות ג, יד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 997,
-    "heRef_2": "נתינה לגר, שמות ג, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 989,
-    "heRef_2": "נתינה לגר, שמות ג, א, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 991,
-    "heRef_2": "נתינה לגר, שמות ג, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 993,
-    "heRef_2": "נתינה לגר, שמות ג, ו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1226,
-    "line_index_2": 1620,
-    "heRef_2": "נתינה לגר, שמות מ, יב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1226,
-    "line_index_2": 1621,
-    "heRef_2": "נתינה לגר, שמות מ, יב, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1236,
-    "line_index_2": 1623,
-    "heRef_2": "נתינה לגר, שמות מ, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1248,
-    "line_index_2": 1625,
-    "heRef_2": "נתינה לגר, שמות מ, לד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1252,
-    "line_index_2": 1627,
-    "heRef_2": "נתינה לגר, שמות מ, לח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 1000,
-    "heRef_2": "נתינה לגר, שמות ד, י, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 1002,
-    "heRef_2": "נתינה לגר, שמות ד, יג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 1004,
-    "heRef_2": "נתינה לגר, שמות ד, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 1006,
-    "heRef_2": "נתינה לגר, שמות ד, כה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 1011,
-    "heRef_2": "נתינה לגר, שמות ה, יד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 1009,
-    "heRef_2": "נתינה לגר, שמות ה, ב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 143,
-    "line_index_2": 1023,
-    "heRef_2": "נתינה לגר, שמות ו, יב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 1025,
-    "heRef_2": "נתינה לגר, שמות ו, כ, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 1014,
-    "heRef_2": "נתינה לגר, שמות ו, ג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 138,
-    "line_index_2": 1016,
-    "heRef_2": "נתינה לגר, שמות ו, ז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 138,
-    "line_index_2": 1017,
-    "heRef_2": "נתינה לגר, שמות ו, ז, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 1019,
-    "heRef_2": "נתינה לגר, שמות ו, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 1021,
-    "heRef_2": "נתינה לגר, שמות ו, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 1034,
-    "heRef_2": "נתינה לגר, שמות ז, יא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 1035,
-    "heRef_2": "נתינה לגר, שמות ז, יא, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 1037,
-    "heRef_2": "נתינה לגר, שמות ז, יד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 1039,
-    "heRef_2": "נתינה לגר, שמות ז, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 1028,
-    "heRef_2": "נתינה לגר, שמות ז, א, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 1041,
-    "heRef_2": "נתינה לגר, שמות ז, כח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 1030,
-    "heRef_2": "נתינה לגר, שמות ז, ח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 1032,
-    "heRef_2": "נתינה לגר, שמות ז, ט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 1046,
-    "heRef_2": "נתינה לגר, שמות ח, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 209,
-    "line_index_2": 1048,
-    "heRef_2": "נתינה לגר, שמות ח, יז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 210,
-    "line_index_2": 1050,
-    "heRef_2": "נתינה לגר, שמות ח, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 1052,
-    "heRef_2": "נתינה לגר, שמות ח, יט, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 214,
-    "line_index_2": 1054,
-    "heRef_2": "נתינה לגר, שמות ח, כב, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 216,
-    "line_index_2": 1056,
-    "heRef_2": "נתינה לגר, שמות ח, כד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 197,
-    "line_index_2": 1044,
-    "heRef_2": "נתינה לגר, שמות ח, ה, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 235,
-    "line_index_2": 1061,
-    "heRef_2": "נתינה לגר, שמות ט, יד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 236,
-    "line_index_2": 1063,
-    "heRef_2": "נתינה לגר, שמות ט, טו, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 238,
-    "line_index_2": 1065,
-    "heRef_2": "נתינה לגר, שמות ט, יז, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 239,
-    "line_index_2": 1067,
-    "heRef_2": "נתינה לגר, שמות ט, יח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 1069,
-    "heRef_2": "נתינה לגר, שמות ט, כח, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 1070,
-    "heRef_2": "נתינה לגר, שמות ט, כח, ב",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 251,
-    "line_index_2": 1072,
-    "heRef_2": "נתינה לגר, שמות ט, ל, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 1074,
-    "heRef_2": "נתינה לגר, שמות ט, לא, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 254,
-    "line_index_2": 1076,
-    "heRef_2": "נתינה לגר, שמות ט, לג, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 225,
-    "line_index_2": 1059,
-    "heRef_2": "נתינה לגר, שמות ט, ד, א",
-    "path_2": "נתינה לגר.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 492,
-    "heRef_2": "רש\"י על שמות י, י, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 210,
-    "heRef_2": "רמב\"ן על שמות י, י, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 511,
-    "heRef_2": "רש\"י על שמות י, כא, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 260,
-    "line_index_2": 482,
-    "heRef_2": "רש\"י על שמות י, ג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 341,
-    "line_index_2": 286,
-    "heRef_2": "רמב\"ן על שמות יב, מג, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 304,
-    "line_index_2": 243,
-    "heRef_2": "רמב\"ן על שמות יב, ו, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 368,
-    "line_index_2": 770,
-    "heRef_2": "רש\"י על שמות יג, יח, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 383,
-    "line_index_2": 321,
-    "heRef_2": "רמב\"ן על שמות יד, י, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 397,
-    "line_index_2": 839,
-    "heRef_2": "רש\"י על שמות יד, כד, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 397,
-    "line_index_2": 838,
-    "heRef_2": "רש\"י על שמות יד, כד, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 404,
-    "line_index_2": 333,
-    "heRef_2": "רמב\"ן על שמות יד, לא, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 380,
-    "line_index_2": 804,
-    "heRef_2": "רש\"י על שמות יד, ז, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 406,
-    "line_index_2": 863,
-    "heRef_2": "רש\"י על שמות טו, א, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 406,
-    "line_index_2": 337,
-    "heRef_2": "רמב\"ן על שמות טו, א, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 418,
-    "line_index_2": 912,
-    "heRef_2": "רש\"י על שמות טו, יג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 421,
-    "line_index_2": 922,
-    "heRef_2": "רש\"י על שמות טו, טז, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 423,
-    "line_index_2": 357,
-    "heRef_2": "רמב\"ן על שמות טו, יח, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 407,
-    "line_index_2": 867,
-    "heRef_2": "רש\"י על שמות טו, ב, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 407,
-    "line_index_2": 869,
-    "heRef_2": "רש\"י על שמות טו, ב, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 413,
-    "line_index_2": 892,
-    "heRef_2": "רש\"י על שמות טו, ח, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 413,
-    "line_index_2": 891,
-    "heRef_2": "רש\"י על שמות טו, ח, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 414,
-    "line_index_2": 343,
-    "heRef_2": "רמב\"ן על שמות טו, ט, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 447,
-    "line_index_2": 988,
-    "heRef_2": "רש\"י על שמות טז, יד, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 447,
-    "line_index_2": 989,
-    "heRef_2": "רש\"י על שמות טז, יד, ד",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 447,
-    "line_index_2": 389,
-    "heRef_2": "רמב\"ן על שמות טז, יד, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 447,
-    "line_index_2": 390,
-    "heRef_2": "רמב\"ן על שמות טז, יד, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 454,
-    "line_index_2": 1004,
-    "heRef_2": "רש\"י על שמות טז, כא, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 456,
-    "line_index_2": 394,
-    "heRef_2": "רמב\"ן על שמות טז, כג, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 436,
-    "line_index_2": 962,
-    "heRef_2": "רש\"י על שמות טז, ג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 464,
-    "line_index_2": 1023,
-    "heRef_2": "רש\"י על שמות טז, לא, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 466,
-    "line_index_2": 1028,
-    "heRef_2": "רש\"י על שמות טז, לג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 437,
-    "line_index_2": 377,
-    "heRef_2": "רמב\"ן על שמות טז, ד, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 478,
-    "line_index_2": 570,
-    "heRef_2": "פרקי דרבי אליעזר מד, ג",
-    "path_2": "פרקי דרבי אליעזר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 497,
-    "line_index_2": 1107,
-    "heRef_2": "רש\"י על שמות יח, י, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 498,
-    "line_index_2": 1111,
-    "heRef_2": "רש\"י על שמות יח, יא, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 498,
-    "line_index_2": 429,
-    "heRef_2": "רמב\"ן על שמות יח, יא, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 502,
-    "line_index_2": 1124,
-    "heRef_2": "רש\"י על שמות יח, טו, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 505,
-    "line_index_2": 1130,
-    "heRef_2": "רש\"י על שמות יח, יח, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 508,
-    "line_index_2": 446,
-    "heRef_2": "רמב\"ן על שמות יח, כא, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 513,
-    "line_index_2": 1155,
-    "heRef_2": "רש\"י על שמות יח, כו, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 525,
-    "line_index_2": 470,
-    "heRef_2": "רמב\"ן על שמות יט, י, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 532,
-    "line_index_2": 514,
-    "heRef_2": "רמב\"ן על שמות כ, טז, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 533,
-    "line_index_2": 1217,
-    "heRef_2": "רש\"י על שמות יט, יח, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 519,
-    "line_index_2": 1172,
-    "heRef_2": "רש\"י על שמות יט, ד, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 519,
-    "line_index_2": 1174,
-    "heRef_2": "רש\"י על שמות יט, ד, ד",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 519,
-    "line_index_2": 455,
-    "heRef_2": "רמב\"ן על שמות יט, ד, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 22,
-    "heRef_2": "רש\"י על שמות א, יא, ד",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 557,
-    "line_index_2": 514,
-    "heRef_2": "רמב\"ן על שמות כ, טז, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 544,
-    "line_index_2": 488,
-    "heRef_2": "רמב\"ן על שמות כ, ג, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 544,
-    "line_index_2": 489,
-    "heRef_2": "רמב\"ן על שמות כ, ג, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 546,
-    "line_index_2": 1260,
-    "heRef_2": "רש\"י על שמות כ, ה, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 548,
-    "line_index_2": 1264,
-    "heRef_2": "רש\"י על שמות כ, ז, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 578,
-    "line_index_2": 1363,
-    "heRef_2": "רש\"י על שמות כא, יג, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 583,
-    "line_index_2": 1383,
-    "heRef_2": "רש\"י על שמות כא, יח, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 583,
-    "line_index_2": 551,
-    "heRef_2": "רמב\"ן על שמות כא, יח, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 584,
-    "line_index_2": 1388,
-    "heRef_2": "רש\"י על שמות כא, יט, ד",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 584,
-    "line_index_2": 553,
-    "heRef_2": "רמב\"ן על שמות כא, יט, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 587,
-    "line_index_2": 558,
-    "heRef_2": "רמב\"ן על שמות כא, כב, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 590,
-    "line_index_2": 1413,
-    "heRef_2": "רש\"י על שמות כא, כה, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 590,
-    "line_index_2": 1882,
-    "heRef_2": "רש\"י על ויקרא כו, לו, ג",
-    "path_2": "רשי על ויקרא.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 594,
-    "line_index_2": 562,
-    "heRef_2": "רמב\"ן על שמות כא, כט, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 568,
-    "line_index_2": 1324,
-    "heRef_2": "רש\"י על שמות כא, ג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 618,
-    "line_index_2": 1504,
-    "heRef_2": "רש\"י על שמות כב, טו, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 618,
-    "line_index_2": 585,
-    "heRef_2": "רמב\"ן על שמות כב, טו, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 622,
-    "line_index_2": 589,
-    "heRef_2": "רמב\"ן על שמות כב, יט, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 605,
-    "line_index_2": 1461,
-    "heRef_2": "רש\"י על שמות כב, ב, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 605,
-    "line_index_2": 574,
-    "heRef_2": "רמב\"ן על שמות כב, ב, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 629,
-    "line_index_2": 2594,
-    "heRef_2": "רש\"י על חולין מט:, ו, א",
-    "path_2": "רשי על חולין.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 630,
-    "line_index_2": 601,
-    "heRef_2": "רמב\"ן על שמות כב, כז, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 631,
-    "line_index_2": 604,
-    "heRef_2": "רמב\"ן על שמות כב, כח, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 633,
-    "line_index_2": 1550,
-    "heRef_2": "רש\"י על שמות כב, ל, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 635,
-    "line_index_2": 1554,
-    "heRef_2": "רש\"י על שמות כג, א, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 636,
-    "line_index_2": 1557,
-    "heRef_2": "רש\"י על שמות כג, ב, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 654,
-    "line_index_2": 619,
-    "heRef_2": "רמב\"ן על שמות כג, כ, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 656,
-    "line_index_2": 1624,
-    "heRef_2": "רש\"י על שמות כג, כב, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 661,
-    "line_index_2": 1632,
-    "heRef_2": "רש\"י על שמות כג, כז, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 642,
-    "line_index_2": 1574,
-    "heRef_2": "רש\"י על שמות כג, ח, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 642,
-    "line_index_2": 1575,
-    "heRef_2": "רש\"י על שמות כג, ח, ד",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 678,
-    "line_index_2": 1672,
-    "heRef_2": "רש\"י על שמות כד, י, ד",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 678,
-    "line_index_2": 647,
-    "heRef_2": "רמב\"ן על שמות כד, י, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 679,
-    "line_index_2": 1677,
-    "heRef_2": "רש\"י על שמות כד, יא, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 673,
-    "line_index_2": 642,
-    "heRef_2": "רמב\"ן על שמות כד, ה, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 674,
-    "line_index_2": 645,
-    "heRef_2": "רמב\"ן על שמות כד, ו, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 676,
-    "line_index_2": 1667,
-    "heRef_2": "רש\"י על שמות כד, ח, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 699,
-    "line_index_2": 1732,
-    "heRef_2": "רש\"י על שמות כה, יב, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 699,
-    "line_index_2": 1733,
-    "heRef_2": "רש\"י על שמות כה, יב, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 712,
-    "line_index_2": 1767,
-    "heRef_2": "רש\"י על שמות כה, כה, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 714,
-    "line_index_2": 1772,
-    "heRef_2": "רש\"י על שמות כה, כז, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 716,
-    "line_index_2": 1779,
-    "heRef_2": "רש\"י על שמות כה, כט, ד",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 716,
-    "line_index_2": 679,
-    "heRef_2": "רמב\"ן על שמות כה, כט, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 718,
-    "line_index_2": 1785,
-    "heRef_2": "רש\"י על שמות כה, לא, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 720,
-    "line_index_2": 1796,
-    "heRef_2": "רש\"י על שמות כה, לג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 725,
-    "line_index_2": 1808,
-    "heRef_2": "רש\"י על שמות כה, לח, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 691,
-    "line_index_2": 1708,
-    "heRef_2": "רש\"י על שמות כה, ד, ד",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 727,
-    "line_index_2": 1814,
-    "heRef_2": "רש\"י על שמות כה, מ, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 692,
-    "line_index_2": 1711,
-    "heRef_2": "רש\"י על שמות כה, ה, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 693,
-    "line_index_2": 665,
-    "heRef_2": "רמב\"ן על שמות כה, ו, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 694,
-    "line_index_2": 667,
-    "heRef_2": "רמב\"ן על שמות כה, ז, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 746,
-    "line_index_2": 1860,
-    "heRef_2": "רש\"י על שמות כו, יח, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 750,
-    "line_index_2": 1862,
-    "heRef_2": "רש\"י על שמות כו, כב, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 754,
-    "line_index_2": 1875,
-    "heRef_2": "רש\"י על שמות כו, כו, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 764,
-    "line_index_2": 1895,
-    "heRef_2": "רש\"י על שמות כו, לו, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 732,
-    "line_index_2": 1824,
-    "heRef_2": "רש\"י על שמות כו, ד, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 733,
-    "line_index_2": 1828,
-    "heRef_2": "רש\"י על שמות כו, ה, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 779,
-    "line_index_2": 1927,
-    "heRef_2": "רש\"י על שמות כז, יג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 769,
-    "line_index_2": 1905,
-    "heRef_2": "רש\"י על שמות כז, ג, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 769,
-    "line_index_2": 1904,
-    "heRef_2": "רש\"י על שמות כז, ג, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 774,
-    "line_index_2": 1917,
-    "heRef_2": "רש\"י על שמות כז, ח, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 775,
-    "line_index_2": 1919,
-    "heRef_2": "רש\"י על שמות כז, ט, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 799,
-    "line_index_2": 1980,
-    "heRef_2": "רש\"י על שמות כח, יא, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 818,
-    "line_index_2": 128,
-    "heRef_2": "פרקי דרבי אליעזר יב, ט",
-    "path_2": "פרקי דרבי אליעזר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 820,
-    "line_index_2": 2037,
-    "heRef_2": "רש\"י על שמות כח, לב, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 820,
-    "line_index_2": 93,
-    "heRef_2": "רד\"ק על יהושע ב, יח, א",
-    "path_2": "רדק על יהושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 792,
-    "line_index_2": 1955,
-    "heRef_2": "רש\"י על שמות כח, ד, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 829,
-    "line_index_2": 718,
-    "heRef_2": "רמב\"ן על שמות כח, מא, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 108,
-    "heRef_2": "רש\"י על שמות ב, כא, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 891,
-    "line_index_2": 2218,
-    "heRef_2": "רש\"י על שמות ל, יב, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 892,
-    "line_index_2": 752,
-    "heRef_2": "רמב\"ן על שמות ל, יג, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 897,
-    "line_index_2": 2236,
-    "heRef_2": "רש\"י על שמות ל, יח, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 898,
-    "line_index_2": 756,
-    "heRef_2": "רמב\"ן על שמות ל, יט, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 913,
-    "line_index_2": 2277,
-    "heRef_2": "רש\"י על שמות ל, לד, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 913,
-    "line_index_2": 766,
-    "heRef_2": "רמב\"ן על שמות ל, לד, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 914,
-    "line_index_2": 2283,
-    "heRef_2": "רש\"י על שמות ל, לה, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 914,
-    "line_index_2": 768,
-    "heRef_2": "רמב\"ן על שמות ל, לה, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 883,
-    "line_index_2": 2197,
-    "heRef_2": "רש\"י על שמות ל, ד, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 888,
-    "line_index_2": 748,
-    "heRef_2": "רמב\"ן על שמות ל, ט, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 928,
-    "line_index_2": 2313,
-    "heRef_2": "רש\"י על שמות לא, י, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 935,
-    "line_index_2": 2329,
-    "heRef_2": "רש\"י על שמות לא, יז, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 923,
-    "line_index_2": 2303,
-    "heRef_2": "רש\"י על שמות לא, ה, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 938,
-    "line_index_2": 2338,
-    "heRef_2": "רש\"י על שמות לב, א, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 962,
-    "line_index_2": 810,
-    "heRef_2": "רמב\"ן על שמות לב, כה, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 962,
-    "line_index_2": 811,
-    "heRef_2": "רמב\"ן על שמות לב, כה, ג",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 972,
-    "line_index_2": 824,
-    "heRef_2": "רמב\"ן על שמות לב, לה, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 941,
-    "line_index_2": 2349,
-    "heRef_2": "רש\"י על שמות לב, ד, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 984,
-    "line_index_2": 2465,
-    "heRef_2": "רש\"י על שמות לג, יא, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 987,
-    "line_index_2": 2475,
-    "heRef_2": "רש\"י על שמות לג, יד, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 995,
-    "line_index_2": 2497,
-    "heRef_2": "רש\"י על שמות לג, כב, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 979,
-    "line_index_2": 827,
-    "heRef_2": "רמב\"ן על שמות לג, ו, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 982,
-    "line_index_2": 2459,
-    "heRef_2": "רש\"י על שמות לג, ט, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1021,
-    "line_index_2": 2563,
-    "heRef_2": "רש\"י על שמות לד, כד, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1022,
-    "line_index_2": 2567,
-    "heRef_2": "רש\"י על שמות לד, כה, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1022,
-    "line_index_2": 876,
-    "heRef_2": "רמב\"ן על שמות לד, כה, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1030,
-    "line_index_2": 2587,
-    "heRef_2": "רש\"י על שמות לד, לג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1034,
-    "line_index_2": 2594,
-    "heRef_2": "רש\"י על שמות לה, א, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1165,
-    "line_index_2": 473,
-    "heRef_2": "רש\"י על שמות ט, לג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1165,
-    "line_index_2": 2673,
-    "heRef_2": "רש\"י על שמות לח, כז, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1143,
-    "line_index_2": 473,
-    "heRef_2": "רש\"י על שמות ט, לג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1146,
-    "line_index_2": 2655,
-    "heRef_2": "רש\"י על שמות לח, ח, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1146,
-    "line_index_2": 912,
-    "heRef_2": "רמב\"ן על שמות לח, ח, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1173,
-    "line_index_2": 2681,
-    "heRef_2": "רש\"י על שמות לט, ג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 42,
-    "heRef_2": "רמב\"ן על שמות ג, ב, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 155,
-    "heRef_2": "רש\"י על שמות ג, כב, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1236,
-    "line_index_2": 2703,
-    "heRef_2": "רש\"י על שמות מ, כב, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1245,
-    "line_index_2": 2711,
-    "heRef_2": "רש\"י על שמות מ, לא, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 82,
-    "heRef_2": "רמב\"ן על שמות ד, יג, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 215,
-    "heRef_2": "רש\"י על שמות ד, כו, ג",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 266,
-    "heRef_2": "רש\"י על שמות ה, כג, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 106,
-    "heRef_2": "רמב\"ן על שמות ה, ד, ב",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 330,
-    "heRef_2": "רש\"י על שמות ז, א, ב",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 346,
-    "heRef_2": "רש\"י על שמות ז, יד, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 388,
-    "heRef_2": "רש\"י על שמות ח, י, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 238,
-    "line_index_2": 447,
-    "heRef_2": "רש\"י על שמות ט, יז, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 240,
-    "line_index_2": 452,
-    "heRef_2": "רש\"י על שמות ט, יט, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 438,
-    "heRef_2": "רש\"י על שמות ט, ט, א",
-    "path_2": "רשי על שמות.txt",
-    "Conection Type": "reference"
   },
   {
     "line_index_1": 267,

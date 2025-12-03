@@ -1,8 +1,29 @@
 [
   {
+    "line_index_1": 83,
+    "line_index_2": 987,
+    "heRef_2": "ביצה לב:, ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 69,
+    "line_index_2": 464,
+    "heRef_2": "ברכות י., כט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
     "line_index_2": 466,
     "heRef_2": "ברכות י., לא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 470,
+    "heRef_2": "ברכות י:, ב",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -14,11 +35,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 73,
+    "line_index_2": 483,
+    "heRef_2": "ברכות י:, טו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 74,
     "line_index_2": 196,
     "heRef_2": "שמואל א ט, ז",
     "path_2": "שמואל א.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 489,
+    "heRef_2": "ברכות י:, כא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 75,
@@ -28,6 +63,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 75,
+    "line_index_2": 494,
+    "heRef_2": "ברכות י:, כו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 76,
     "line_index_2": 525,
     "heRef_2": "מלכים א יד, ט",
@@ -35,18 +77,18 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 76,
+    "line_index_2": 498,
+    "heRef_2": "ברכות י:, ל",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 78,
     "line_index_2": 1270,
     "heRef_2": "קידושין מ:, ח",
     "path_2": "קידושין.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 632,
-    "heRef_2": "ברכות יג., יב",
-    "path_2": "ברכות.txt",
-    "Conection Type": "commentary"
   },
   {
     "line_index_1": 80,
@@ -77,6 +119,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 80,
+    "line_index_2": 621,
+    "heRef_2": "ברכות יג., א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 632,
+    "heRef_2": "ברכות יג., יב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 83,
     "line_index_2": 672,
     "heRef_2": "ברכות יג:, יד",
@@ -98,9 +154,30 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 94,
-    "line_index_2": 850,
-    "heRef_2": "ברכות יז., ו",
+    "line_index_1": 89,
+    "line_index_2": 829,
+    "heRef_2": "ברכות טז:, יא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 832,
+    "heRef_2": "ברכות טז:, יד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 707,
+    "heRef_2": "ברכות יד., יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 841,
+    "heRef_2": "ברכות טז:, כג",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -112,6 +189,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 94,
+    "line_index_2": 846,
+    "heRef_2": "ברכות יז., ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 95,
     "line_index_2": 1345,
     "heRef_2": "ברכות כט.,  א",
@@ -119,9 +203,9 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 97,
-    "line_index_2": 864,
-    "heRef_2": "ברכות יז:, ב",
+    "line_index_1": 95,
+    "line_index_2": 850,
+    "heRef_2": "ברכות יז., ו",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -131,6 +215,13 @@
     "heRef_2": "סנהדרין קד.,  א",
     "path_2": "סנהדרין.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 863,
+    "heRef_2": "ברכות יז:, א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 98,
@@ -147,9 +238,9 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 100,
-    "line_index_2": 919,
-    "heRef_2": "ברכות יט., ו",
+    "line_index_1": 98,
+    "line_index_2": 864,
+    "heRef_2": "ברכות יז:, ב",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -166,6 +257,13 @@
     "heRef_2": "משלי ד, ה",
     "path_2": "משלי.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 916,
+    "heRef_2": "ברכות יט., ג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 101,
@@ -194,6 +292,20 @@
     "heRef_2": "ירמיהו כג, כט",
     "path_2": "ירמיהו.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 918,
+    "heRef_2": "ברכות יט., ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 919,
+    "heRef_2": "ברכות יט., ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 104,
@@ -239,17 +351,17 @@
   },
   {
     "line_index_1": 112,
-    "line_index_2": 1161,
-    "heRef_2": "ברכות כד:, יח",
-    "path_2": "ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 112,
     "line_index_2": 2105,
     "heRef_2": "יבמות סג:,  א",
     "path_2": "יבמות.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 1153,
+    "heRef_2": "ברכות כד:, י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 113,
@@ -280,6 +392,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 113,
+    "line_index_2": 1161,
+    "heRef_2": "ברכות כד:, יח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 115,
     "line_index_2": 44,
     "heRef_2": "ירמיהו ב, כב",
@@ -302,17 +421,17 @@
   },
   {
     "line_index_1": 117,
-    "line_index_2": 1327,
-    "heRef_2": "ברכות כח:, ח",
-    "path_2": "ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 117,
     "line_index_2": 574,
     "heRef_2": "סוכה כא:, ט",
     "path_2": "סוכה.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 1324,
+    "heRef_2": "ברכות כח:, ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 118,
@@ -322,6 +441,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 118,
+    "line_index_2": 1326,
+    "heRef_2": "ברכות כח:, ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 119,
     "line_index_2": 566,
     "heRef_2": "סוכה כא:,  א",
@@ -329,16 +455,16 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 121,
-    "line_index_2": 1356,
-    "heRef_2": "ברכות כט., יב",
+    "line_index_1": 119,
+    "line_index_2": 1327,
+    "heRef_2": "ברכות כח:, ח",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 123,
-    "line_index_2": 1388,
-    "heRef_2": "ברכות כט:, טז",
+    "line_index_1": 121,
+    "line_index_2": 1356,
+    "heRef_2": "ברכות כט., יב",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -350,6 +476,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 123,
+    "line_index_2": 1382,
+    "heRef_2": "ברכות כט:, י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 1388,
+    "heRef_2": "ברכות כט:, טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 125,
     "line_index_2": 2167,
     "heRef_2": "תהילים קיט, כד",
@@ -357,9 +497,16 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 125,
+    "line_index_2": 1388,
+    "heRef_2": "ברכות כט:, טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 127,
-    "line_index_2": 1425,
-    "heRef_2": "ברכות ל:, יד",
+    "line_index_2": 1419,
+    "heRef_2": "ברכות ל:, ח",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -371,9 +518,16 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 128,
+    "line_index_2": 1425,
+    "heRef_2": "ברכות ל:, יד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 130,
-    "line_index_2": 1471,
-    "heRef_2": "ברכות לא:, ה",
+    "line_index_2": 1467,
+    "heRef_2": "ברכות לא:, א",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -397,6 +551,13 @@
     "heRef_2": "במדבר כ, כד",
     "path_2": "במדבר.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 1471,
+    "heRef_2": "ברכות לא:, ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 133,
@@ -434,11 +595,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 133,
+    "line_index_2": 1496,
+    "heRef_2": "ברכות לב., ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 134,
     "line_index_2": 286,
     "heRef_2": "דברים ט, יד",
     "path_2": "דברים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 1508,
+    "heRef_2": "ברכות לב., יד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 135,
@@ -448,9 +623,16 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 138,
-    "line_index_2": 1552,
-    "heRef_2": "ברכות לב:, כד",
+    "line_index_1": 135,
+    "line_index_2": 1522,
+    "heRef_2": "ברכות לב., כח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 1523,
+    "heRef_2": "ברכות לב., כט",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -460,6 +642,13 @@
     "heRef_2": "במדבר ב, כ",
     "path_2": "במדבר.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 1544,
+    "heRef_2": "ברכות לב:, טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 139,
@@ -476,11 +665,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 139,
+    "line_index_2": 1545,
+    "heRef_2": "ברכות לב:, יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 140,
     "line_index_2": 2543,
     "heRef_2": "תהילים קמ, יד",
     "path_2": "תהילים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 1549,
+    "heRef_2": "ברכות לב:, כא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 142,
@@ -511,6 +714,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 142,
+    "line_index_2": 1570,
+    "heRef_2": "ברכות לג., י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 1579,
+    "heRef_2": "ברכות לג., יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 144,
     "line_index_2": 536,
     "heRef_2": "ישעיהו כז, יא",
@@ -525,6 +742,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 144,
+    "line_index_2": 1579,
+    "heRef_2": "ברכות לג., יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 145,
     "line_index_2": 2431,
     "heRef_2": "תהילים קלג, ג",
@@ -532,11 +756,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 145,
+    "line_index_2": 1580,
+    "heRef_2": "ברכות לג., כ",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 146,
     "line_index_2": 280,
     "heRef_2": "דניאל ט, יט",
     "path_2": "דניאל.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 1582,
+    "heRef_2": "ברכות לג., כב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 147,
@@ -551,6 +789,27 @@
     "heRef_2": "ויקרא כב, כז",
     "path_2": "ויקרא.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 1616,
+    "heRef_2": "ברכות לג:, יח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 1617,
+    "heRef_2": "ברכות לג:, יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 1622,
+    "heRef_2": "ברכות לג:, כד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 151,
@@ -574,6 +833,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 153,
+    "line_index_2": 1674,
+    "heRef_2": "ברכות לד:, כח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 1668,
+    "heRef_2": "ברכות לד:, כב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 155,
     "line_index_2": 747,
     "heRef_2": "תענית כה.,  א",
@@ -581,16 +854,16 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 157,
-    "line_index_2": 1681,
-    "heRef_2": "ברכות לה., ב",
+    "line_index_1": 155,
+    "line_index_2": 1643,
+    "heRef_2": "ברכות לד., יג",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 51,
-    "heRef_2": "ברכות ג., יד",
+    "line_index_1": 157,
+    "line_index_2": 1681,
+    "heRef_2": "ברכות לה., ב",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -637,6 +910,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 4,
+    "line_index_2": 44,
+    "heRef_2": "ברכות ג., ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 47,
+    "heRef_2": "ברכות ג., י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 6,
     "line_index_2": 1048,
     "heRef_2": "ישעיהו מט, טז",
@@ -656,6 +943,13 @@
     "heRef_2": "איכה ג, מא",
     "path_2": "איכה.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 51,
+    "heRef_2": "ברכות ג., יד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 7,
@@ -714,9 +1008,9 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 9,
-    "line_index_2": 82,
-    "heRef_2": "ברכות ג:, כט",
+    "line_index_1": 7,
+    "line_index_2": 51,
+    "heRef_2": "ברכות ג., יד",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -735,6 +1029,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 9,
+    "line_index_2": 63,
+    "heRef_2": "ברכות ג:, י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 10,
     "line_index_2": 290,
     "heRef_2": "שמות יא, ד",
@@ -747,6 +1048,13 @@
     "heRef_2": "תהילים קיט, סב",
     "path_2": "תהילים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 64,
+    "heRef_2": "ברכות ג:, יא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 11,
@@ -763,9 +1071,9 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 159,
-    "line_index_2": 1933,
-    "heRef_2": "ברכות מב., ח",
+    "line_index_1": 11,
+    "line_index_2": 82,
+    "heRef_2": "ברכות ג:, כט",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -775,6 +1083,13 @@
     "heRef_2": "ברכות כו:,  א",
     "path_2": "ברכות.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 1932,
+    "heRef_2": "ברכות מב., ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 160,
@@ -791,16 +1106,16 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 162,
-    "line_index_2": 1963,
-    "heRef_2": "ברכות מג., יב",
+    "line_index_1": 160,
+    "line_index_2": 1933,
+    "heRef_2": "ברכות מב., ח",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 164,
-    "line_index_2": 1990,
-    "heRef_2": "ברכות מג:, יט",
+    "line_index_1": 162,
+    "line_index_2": 1963,
+    "heRef_2": "ברכות מג., יב",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -840,11 +1155,39 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 164,
+    "line_index_2": 1975,
+    "heRef_2": "ברכות מג:, ד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 845,
+    "heRef_2": "ברכות יז.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 1987,
+    "heRef_2": "ברכות מג:, טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 166,
     "line_index_2": 3187,
     "heRef_2": "כתובות קיא.,  א",
     "path_2": "כתובות.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 1990,
+    "heRef_2": "ברכות מג:, יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 168,
@@ -889,6 +1232,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 172,
+    "line_index_2": 2131,
+    "heRef_2": "ברכות מז:, ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 173,
     "line_index_2": 1054,
     "heRef_2": "יבמות לד:,  א",
@@ -896,11 +1246,32 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 173,
+    "line_index_2": 2133,
+    "heRef_2": "ברכות מז:, ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 174,
     "line_index_2": 679,
     "heRef_2": "ויקרא כב, לב",
     "path_2": "ויקרא.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 2143,
+    "heRef_2": "ברכות מז:, יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 2151,
+    "heRef_2": "ברכות מח., ג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 177,
@@ -915,6 +1286,13 @@
     "heRef_2": "שמות יא, ד",
     "path_2": "שמות.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 93,
+    "heRef_2": "ברכות ד., ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 14,
@@ -945,6 +1323,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 14,
+    "line_index_2": 94,
+    "heRef_2": "ברכות ד., ח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 108,
+    "heRef_2": "ברכות ד:, ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 16,
     "line_index_2": 108,
     "heRef_2": "מיכה ז, טו",
@@ -959,11 +1351,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 16,
+    "line_index_2": 116,
+    "heRef_2": "ברכות ד:, י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 17,
     "line_index_2": 833,
     "heRef_2": "תהילים נא,  א",
     "path_2": "תהילים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 120,
+    "heRef_2": "ברכות ד:, יד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 18,
@@ -994,6 +1400,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 18,
+    "line_index_2": 125,
+    "heRef_2": "ברכות ד:, יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 19,
     "line_index_2": 1274,
     "heRef_2": "ישעיהו סב, יא",
@@ -1006,6 +1419,13 @@
     "heRef_2": "ישעיהו נא, יא",
     "path_2": "ישעיהו.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 128,
+    "heRef_2": "ברכות ד:, כב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 179,
@@ -1023,8 +1443,8 @@
   },
   {
     "line_index_1": 181,
-    "line_index_2": 2252,
-    "heRef_2": "ברכות נ:, יב",
+    "line_index_2": 2249,
+    "heRef_2": "ברכות נ:, ט",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -1034,6 +1454,13 @@
     "heRef_2": "משלי יב, ד",
     "path_2": "משלי.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 2252,
+    "heRef_2": "ברכות נ:, יב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 184,
@@ -1055,6 +1482,27 @@
     "heRef_2": "משלי ט, ו",
     "path_2": "משלי.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 2261,
+    "heRef_2": "ברכות נא., ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 2274,
+    "heRef_2": "ברכות נא., יח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 2284,
+    "heRef_2": "ברכות נא:, ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 188,
@@ -1142,17 +1590,24 @@
   },
   {
     "line_index_1": 196,
-    "line_index_2": 2509,
-    "heRef_2": "ברכות נה:, כא",
-    "path_2": "ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 196,
     "line_index_2": 1124,
     "heRef_2": "בראשית לז, ב",
     "path_2": "בראשית.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 2490,
+    "heRef_2": "ברכות נה:, ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 2494,
+    "heRef_2": "ברכות נה:, ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 198,
@@ -1162,11 +1617,39 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 198,
+    "line_index_2": 2495,
+    "heRef_2": "ברכות נה:, ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 199,
     "line_index_2": 666,
     "heRef_2": "בראשית כד, מט",
     "path_2": "בראשית.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 2500,
+    "heRef_2": "ברכות נה:, יב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 2506,
+    "heRef_2": "ברכות נה:, יח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 2509,
+    "heRef_2": "ברכות נה:, כא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 202,
@@ -1176,7 +1659,28 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 202,
+    "line_index_2": 2509,
+    "heRef_2": "ברכות נה:, כא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 204,
+    "line_index_2": 2511,
+    "heRef_2": "ברכות נו., א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 2527,
+    "heRef_2": "ברכות נו., יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
     "line_index_2": 2529,
     "heRef_2": "ברכות נו., יט",
     "path_2": "ברכות.txt",
@@ -1226,13 +1730,6 @@
   },
   {
     "line_index_1": 21,
-    "line_index_2": 155,
-    "heRef_2": "ברכות ה., כ",
-    "path_2": "ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
     "line_index_2": 169,
     "heRef_2": "זכריה יא, ז",
     "path_2": "זכריה.txt",
@@ -1260,6 +1757,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 21,
+    "line_index_2": 154,
+    "heRef_2": "ברכות ה., יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 22,
     "line_index_2": 373,
     "heRef_2": "במדבר ט, ב",
@@ -1267,9 +1771,9 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 24,
-    "line_index_2": 186,
-    "heRef_2": "ברכות ה:, כו",
+    "line_index_1": 22,
+    "line_index_2": 155,
+    "heRef_2": "ברכות ה., כ",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -1286,6 +1790,20 @@
     "heRef_2": "יחזקאל טז, ו",
     "path_2": "יחזקאל.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 176,
+    "heRef_2": "ברכות ה:, טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 180,
+    "heRef_2": "ברכות ה:, כ",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 26,
@@ -1330,6 +1848,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 26,
+    "line_index_2": 183,
+    "heRef_2": "ברכות ה:, כג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 27,
     "line_index_2": 189,
     "heRef_2": "שמואל ב ז, כג",
@@ -1358,6 +1883,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 27,
+    "line_index_2": 185,
+    "heRef_2": "ברכות ה:, כה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 28,
     "line_index_2": 431,
     "heRef_2": "במדבר י, לו",
@@ -1365,11 +1897,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 28,
+    "line_index_2": 186,
+    "heRef_2": "ברכות ה:, כו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 214,
     "line_index_2": 446,
     "heRef_2": "משלי טו, כג",
     "path_2": "משלי.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 2679,
+    "heRef_2": "ברכות ס., יג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 215,
@@ -1386,6 +1932,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 215,
+    "line_index_2": 2682,
+    "heRef_2": "ברכות ס., טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 2435,
+    "heRef_2": "ברכות נד., ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 218,
     "line_index_2": 2710,
     "heRef_2": "ברכות ס:, יג",
@@ -1398,6 +1958,27 @@
     "heRef_2": "שבת סד.,  א",
     "path_2": "שבת.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 2724,
+    "heRef_2": "ברכות סא., יג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 2738,
+    "heRef_2": "ברכות סא., כז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 2743,
+    "heRef_2": "ברכות סא:, ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 224,
@@ -1422,13 +2003,6 @@
   },
   {
     "line_index_1": 226,
-    "line_index_2": 2820,
-    "heRef_2": "ברכות סג., יג",
-    "path_2": "ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 226,
     "line_index_2": 691,
     "heRef_2": "משלי כג, כג",
     "path_2": "משלי.txt",
@@ -1442,11 +2016,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 226,
+    "line_index_2": 2817,
+    "heRef_2": "ברכות סג., י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 227,
     "line_index_2": 65,
     "heRef_2": "משלי ג, ו",
     "path_2": "משלי.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 2820,
+    "heRef_2": "ברכות סג., יג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 229,
@@ -1464,8 +2052,22 @@
   },
   {
     "line_index_1": 231,
-    "line_index_2": 2871,
-    "heRef_2": "ברכות סד., יא",
+    "line_index_2": 2862,
+    "heRef_2": "ברכות סד., ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 2867,
+    "heRef_2": "ברכות סד., ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 2869,
+    "heRef_2": "ברכות סד., ט",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -1477,9 +2079,9 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 30,
-    "line_index_2": 202,
-    "heRef_2": "ברכות ו., יד",
+    "line_index_1": 234,
+    "line_index_2": 2871,
+    "heRef_2": "ברכות סד., יא",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -1526,6 +2128,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 30,
+    "line_index_2": 189,
+    "heRef_2": "ברכות ו., א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 195,
+    "heRef_2": "ברכות ו., ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 32,
     "line_index_2": 22,
     "heRef_2": "משנה אבות ב, א",
@@ -1540,9 +2156,9 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 34,
-    "line_index_2": 244,
-    "heRef_2": "ברכות ו:, ל",
+    "line_index_1": 32,
+    "line_index_2": 202,
+    "heRef_2": "ברכות ו., יד",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -1554,11 +2170,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 34,
+    "line_index_2": 216,
+    "heRef_2": "ברכות ו:, ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 35,
     "line_index_2": 67,
     "heRef_2": "ישעיהו ג, י",
     "path_2": "ישעיהו.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 216,
+    "heRef_2": "ברכות ו:, ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 36,
@@ -1582,6 +2212,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 36,
+    "line_index_2": 219,
+    "heRef_2": "ברכות ו:, ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 37,
     "line_index_2": 990,
     "heRef_2": "ברכות כא.,  א",
@@ -1603,11 +2240,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 37,
+    "line_index_2": 220,
+    "heRef_2": "ברכות ו:, ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 38,
     "line_index_2": 1300,
     "heRef_2": "ברכות כח.,  א",
     "path_2": "ברכות.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 221,
+    "heRef_2": "ברכות ו:, ז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 39,
@@ -1622,6 +2273,20 @@
     "heRef_2": "אסתר ז, י",
     "path_2": "אסתר.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 220,
+    "heRef_2": "ברכות ו:, ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 226,
+    "heRef_2": "ברכות ו:, יב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 41,
@@ -1652,6 +2317,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 41,
+    "line_index_2": 243,
+    "heRef_2": "ברכות ו:, כט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 42,
     "line_index_2": 555,
     "heRef_2": "שמות כ, טו",
@@ -1666,10 +2338,31 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 44,
-    "line_index_2": 280,
-    "heRef_2": "ברכות ז., כח",
+    "line_index_1": 42,
+    "line_index_2": 244,
+    "heRef_2": "ברכות ו:, ל",
     "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 257,
+    "heRef_2": "ברכות ז., ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 261,
+    "heRef_2": "ברכות ז., ט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 4092,
+    "heRef_2": "סנהדרין קה:, ב",
+    "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
   },
   {
@@ -1680,6 +2373,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 46,
+    "line_index_2": 268,
+    "heRef_2": "ברכות ז., טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 271,
+    "heRef_2": "ברכות ז., יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 48,
     "line_index_2": 21,
     "heRef_2": "הושע ב, ט",
@@ -1687,11 +2394,32 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 48,
+    "line_index_2": 274,
+    "heRef_2": "ברכות ז., כב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 49,
     "line_index_2": 991,
     "heRef_2": "שמות לג, יט",
     "path_2": "שמות.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 275,
+    "heRef_2": "ברכות ז., כג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 280,
+    "heRef_2": "ברכות ז., כח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 52,
@@ -1706,6 +2434,20 @@
     "heRef_2": "משנה אבות ה, ג",
     "path_2": "משנה אבות.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 290,
+    "heRef_2": "ברכות ז:, א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 298,
+    "heRef_2": "ברכות ז:, ט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 54,
@@ -1729,9 +2471,16 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 54,
+    "line_index_2": 294,
+    "heRef_2": "ברכות ז:, ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 56,
-    "line_index_2": 339,
-    "heRef_2": "ברכות ח., כא",
+    "line_index_2": 323,
+    "heRef_2": "ברכות ח., ה",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -1741,6 +2490,20 @@
     "heRef_2": "תהילים עב, ה",
     "path_2": "תהילים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 324,
+    "heRef_2": "ברכות ח., ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 326,
+    "heRef_2": "ברכות ח., ח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 59,
@@ -1757,6 +2520,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 59,
+    "line_index_2": 327,
+    "heRef_2": "ברכות ח., ט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 328,
+    "heRef_2": "ברכות ח., י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 61,
     "line_index_2": 797,
     "heRef_2": "ירמיהו לא, כ",
@@ -1764,11 +2541,25 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 61,
+    "line_index_2": 335,
+    "heRef_2": "ברכות ח., יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 62,
     "line_index_2": 2381,
     "heRef_2": "תהילים קכח, א",
     "path_2": "תהילים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 339,
+    "heRef_2": "ברכות ח., כא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 64,
@@ -1792,10 +2583,31 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 66,
+    "line_index_2": 398,
+    "heRef_2": "ברכות ט., כה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 67,
     "line_index_2": 63,
     "heRef_2": "שמות ג, יב",
     "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 408,
+    "heRef_2": "ברכות ט:, ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 104,
+    "heRef_2": "עבודה זרה ה.,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
@@ -1824,20 +2636,6 @@
     "line_index_2": 427,
     "heRef_2": "בבא בתרא טז.,  א",
     "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 987,
-    "heRef_2": "ביצה לב:, ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 104,
-    "heRef_2": "עבודה זרה ה.,  א",
-    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   }
 ]

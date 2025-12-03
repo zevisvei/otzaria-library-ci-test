@@ -1,44 +1,16 @@
 [
   {
     "line_index_1": 218,
-    "line_index_2": 405,
-    "heRef_2": "שמות טו,  א",
-    "path_2": "שמות.txt",
+    "line_index_2": 2588,
+    "heRef_2": "פסחים פב.,  א",
+    "path_2": "פסחים.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 139,
-    "line_index_2": 734,
-    "heRef_2": "ברכות יד:, כד",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 965,
-    "heRef_2": "ברכות כ., י",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 1115,
-    "heRef_2": "ברכות כג:, כ",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 1123,
-    "heRef_2": "ברכות כד., ד",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 1168,
-    "heRef_2": "ברכות כה., ב",
-    "path_2": "ברכות.txt",
+    "line_index_1": 52,
+    "line_index_2": 1788,
+    "heRef_2": "תהילים קג, יא",
+    "path_2": "תהילים.txt",
     "Conection Type": ""
   },
   {
@@ -154,1130 +126,59 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 115,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ד, ד",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 2323,
+    "heRef_2": "גיטין ע:, ח",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 734,
+    "heRef_2": "ברכות יד:, כד",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 965,
+    "heRef_2": "ברכות כ., י",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 1115,
+    "heRef_2": "ברכות כג:, כ",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1123,
+    "heRef_2": "ברכות כד., ד",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 1168,
+    "heRef_2": "ברכות כה., ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 87,
     "line_index_2": 542,
     "heRef_2": "מגילה יד:, ד",
     "path_2": "מגילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 984,
-    "heRef_2": "מנחות כח., יג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 977,
-    "heRef_2": "מנחות כח., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 978,
-    "heRef_2": "מנחות כח., ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 978,
-    "heRef_2": "מנחות כח., ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 1010,
-    "heRef_2": "מנחות כט., א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1023,
-    "heRef_2": "מנחות כט., יד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1025,
-    "heRef_2": "מנחות כט., טז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 1027,
-    "heRef_2": "מנחות כט., יח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 1012,
-    "heRef_2": "מנחות כט., ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1013,
-    "heRef_2": "מנחות כט., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1014,
-    "heRef_2": "מנחות כט., ה",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 1015,
-    "heRef_2": "מנחות כט., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 1030,
-    "heRef_2": "מנחות כט:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 1044,
-    "heRef_2": "מנחות כט:, טו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 1036,
-    "heRef_2": "מנחות כט:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 1057,
-    "heRef_2": "מנחות ל., י",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 1058,
-    "heRef_2": "מנחות ל., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1049,
-    "heRef_2": "מנחות ל., ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 1050,
-    "heRef_2": "מנחות ל., ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 1050,
-    "heRef_2": "מנחות ל., ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 1051,
-    "heRef_2": "מנחות ל., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 1051,
-    "heRef_2": "מנחות ל., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1051,
-    "heRef_2": "מנחות ל., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 1052,
-    "heRef_2": "מנחות ל., ה",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1053,
-    "heRef_2": "מנחות ל., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1068,
-    "heRef_2": "מנחות ל:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 1070,
-    "heRef_2": "מנחות ל:, ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1073,
-    "heRef_2": "מנחות ל:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 1073,
-    "heRef_2": "מנחות ל:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 1097,
-    "heRef_2": "מנחות לא:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 1100,
-    "heRef_2": "מנחות לא:, ה",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1101,
-    "heRef_2": "מנחות לא:, ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 1102,
-    "heRef_2": "מנחות לא:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1102,
-    "heRef_2": "מנחות לא:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 1126,
-    "heRef_2": "מנחות לב:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 1126,
-    "heRef_2": "מנחות לב:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 1126,
-    "heRef_2": "מנחות לב:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 1127,
-    "heRef_2": "מנחות לב:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 1127,
-    "heRef_2": "מנחות לב:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 1127,
-    "heRef_2": "מנחות לב:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 1132,
-    "heRef_2": "מנחות לג., א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 1144,
-    "heRef_2": "מנחות לג:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 1169,
-    "heRef_2": "מנחות לד., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 1169,
-    "heRef_2": "מנחות לד., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1169,
-    "heRef_2": "מנחות לד., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 1161,
-    "heRef_2": "מנחות לד., ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 1161,
-    "heRef_2": "מנחות לד., ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 1162,
-    "heRef_2": "מנחות לד., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 1162,
-    "heRef_2": "מנחות לד., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 1164,
-    "heRef_2": "מנחות לד., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 1166,
-    "heRef_2": "מנחות לד., ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 1177,
-    "heRef_2": "מנחות לד:, א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 1177,
-    "heRef_2": "מנחות לד:, א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 1187,
-    "heRef_2": "מנחות לד:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 1187,
-    "heRef_2": "מנחות לד:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 1187,
-    "heRef_2": "מנחות לד:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 1182,
-    "heRef_2": "מנחות לד:, ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1185,
-    "heRef_2": "מנחות לד:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 1185,
-    "heRef_2": "מנחות לד:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 1199,
-    "heRef_2": "מנחות לה., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 1214,
-    "heRef_2": "מנחות לה:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 1207,
-    "heRef_2": "מנחות לה:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 1211,
-    "heRef_2": "מנחות לה:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 1216,
-    "heRef_2": "מנחות לו., א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 1219,
-    "heRef_2": "מנחות לו., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 1221,
-    "heRef_2": "מנחות לו., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 1222,
-    "heRef_2": "מנחות לו., ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 1223,
-    "heRef_2": "מנחות לו., ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 1235,
-    "heRef_2": "מנחות לו:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 1235,
-    "heRef_2": "מנחות לו:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 1235,
-    "heRef_2": "מנחות לו:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 1235,
-    "heRef_2": "מנחות לו:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 1235,
-    "heRef_2": "מנחות לו:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 1236,
-    "heRef_2": "מנחות לו:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 1236,
-    "heRef_2": "מנחות לו:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 1236,
-    "heRef_2": "מנחות לו:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 1227,
-    "heRef_2": "מנחות לו:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 1228,
-    "heRef_2": "מנחות לו:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 1228,
-    "heRef_2": "מנחות לו:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 1228,
-    "heRef_2": "מנחות לו:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 137,
-    "line_index_2": 1228,
-    "heRef_2": "מנחות לו:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 1228,
-    "heRef_2": "מנחות לו:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 1228,
-    "heRef_2": "מנחות לו:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 1229,
-    "heRef_2": "מנחות לו:, ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 1229,
-    "heRef_2": "מנחות לו:, ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 1231,
-    "heRef_2": "מנחות לו:, ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 1234,
-    "heRef_2": "מנחות לו:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 1234,
-    "heRef_2": "מנחות לו:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 1234,
-    "heRef_2": "מנחות לו:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 1234,
-    "heRef_2": "מנחות לו:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 1234,
-    "heRef_2": "מנחות לו:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 1234,
-    "heRef_2": "מנחות לו:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 1238,
-    "heRef_2": "מנחות לז.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 1241,
-    "heRef_2": "מנחות לז., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 1245,
-    "heRef_2": "מנחות לז., ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1268,
-    "heRef_2": "מנחות לח., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 1269,
-    "heRef_2": "מנחות לח., ה",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 1270,
-    "heRef_2": "מנחות לח., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1273,
-    "heRef_2": "מנחות לח., ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 1277,
-    "heRef_2": "מנחות לח:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 1279,
-    "heRef_2": "מנחות לח:, ה",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 1295,
-    "heRef_2": "מנחות לט., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 1319,
-    "heRef_2": "מנחות מ., א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 1319,
-    "heRef_2": "מנחות מ., א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 1320,
-    "heRef_2": "מנחות מ., ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 1338,
-    "heRef_2": "מנחות מ:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 1338,
-    "heRef_2": "מנחות מ:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1338,
-    "heRef_2": "מנחות מ:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 1338,
-    "heRef_2": "מנחות מ:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 1339,
-    "heRef_2": "מנחות מ:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 1341,
-    "heRef_2": "מנחות מ:, יג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 1332,
-    "heRef_2": "מנחות מ:, ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 1336,
-    "heRef_2": "מנחות מ:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 1343,
-    "heRef_2": "מנחות מא., א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 1361,
-    "heRef_2": "מנחות מא., יט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 1344,
-    "heRef_2": "מנחות מא., ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 1344,
-    "heRef_2": "מנחות מא., ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 1345,
-    "heRef_2": "מנחות מא., ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1348,
-    "heRef_2": "מנחות מא., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 1348,
-    "heRef_2": "מנחות מא., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 1348,
-    "heRef_2": "מנחות מא., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 1393,
-    "heRef_2": "מנחות מב., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 1386,
-    "heRef_2": "מנחות מב., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 1416,
-    "heRef_2": "מנחות מב:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 1421,
-    "heRef_2": "מנחות מב:, טו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 1421,
-    "heRef_2": "מנחות מב:, טו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 1408,
-    "heRef_2": "מנחות מב:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 1408,
-    "heRef_2": "מנחות מב:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 1413,
-    "heRef_2": "מנחות מב:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 1415,
-    "heRef_2": "מנחות מב:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 1415,
-    "heRef_2": "מנחות מב:, ט",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 1434,
-    "heRef_2": "מנחות מג., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 1439,
-    "heRef_2": "מנחות מג., טז",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 1442,
-    "heRef_2": "מנחות מג., יט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 1425,
-    "heRef_2": "מנחות מג., ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 1427,
-    "heRef_2": "מנחות מג., ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 1431,
-    "heRef_2": "מנחות מג., ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 1456,
-    "heRef_2": "מנחות מג:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 1450,
-    "heRef_2": "מנחות מג:, ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 1454,
-    "heRef_2": "מנחות מג:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 2450,
-    "heRef_2": "מנחות ע:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 2450,
-    "heRef_2": "מנחות ע:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 217,
-    "line_index_2": 2450,
-    "heRef_2": "מנחות ע:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 220,
-    "line_index_2": 2450,
-    "heRef_2": "מנחות ע:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 234,
-    "line_index_2": 2450,
-    "heRef_2": "מנחות ע:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 2450,
-    "heRef_2": "מנחות ע:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 220,
-    "line_index_2": 2451,
-    "heRef_2": "מנחות ע:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 2442,
-    "heRef_2": "מנחות ע:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 2444,
-    "heRef_2": "מנחות ע:, ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 2445,
-    "heRef_2": "מנחות ע:, ה",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 234,
-    "line_index_2": 2446,
-    "heRef_2": "מנחות ע:, ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 217,
-    "line_index_2": 2448,
-    "heRef_2": "מנחות ע:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 220,
-    "line_index_2": 2448,
-    "heRef_2": "מנחות ע:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 2448,
-    "heRef_2": "מנחות ע:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 964,
-    "heRef_2": "נדה כו:,  יב",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 965,
-    "heRef_2": "נדה כו:,  יג",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 263,
-    "line_index_2": 142,
-    "heRef_2": "נדה ו.,  א",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 218,
-    "line_index_2": 585,
-    "heRef_2": "במדבר טו, כ",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 218,
-    "line_index_2": 2588,
-    "heRef_2": "פסחים פב.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1788,
-    "heRef_2": "תהילים קג, יא",
-    "path_2": "תהילים.txt",
     "Conection Type": ""
   },
   {
@@ -6426,6 +5327,90 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 212,
+    "line_index_2": 349,
+    "heRef_2": "עבודה זרה יג., ז",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 683,
+    "heRef_2": "מועד קטן יח:, כד",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 686,
+    "heRef_2": "מועד קטן יט., ב",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 907,
+    "heRef_2": "נזיר מג:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 997,
+    "heRef_2": "נזיר מז., ו",
+    "path_2": "נזיר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 964,
+    "heRef_2": "נדה כו:,  יב",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 965,
+    "heRef_2": "נדה כו:,  יג",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 142,
+    "heRef_2": "נדה ו.,  א",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 585,
+    "heRef_2": "במדבר טו, כ",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 366,
+    "heRef_2": "בבא בתרא יד., ה",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 107,
+    "heRef_2": "בבא בתרא ה., ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 3343,
+    "heRef_2": "בבא מציעא קב., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 101,
     "line_index_2": 2126,
     "heRef_2": "עירובין נז., י",
@@ -6445,6 +5430,1098 @@
     "heRef_2": "עירובין צה., כב",
     "path_2": "עירובין.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 3470,
+    "heRef_2": "עירובין צה:, יט",
+    "path_2": "עירובין.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 405,
+    "heRef_2": "שמות טו,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 984,
+    "heRef_2": "מנחות כח., יג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 977,
+    "heRef_2": "מנחות כח., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 978,
+    "heRef_2": "מנחות כח., ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 978,
+    "heRef_2": "מנחות כח., ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 1010,
+    "heRef_2": "מנחות כט., א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1023,
+    "heRef_2": "מנחות כט., יד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 1025,
+    "heRef_2": "מנחות כט., טז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 1027,
+    "heRef_2": "מנחות כט., יח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 1012,
+    "heRef_2": "מנחות כט., ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 1013,
+    "heRef_2": "מנחות כט., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1014,
+    "heRef_2": "מנחות כט., ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 1015,
+    "heRef_2": "מנחות כט., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 1030,
+    "heRef_2": "מנחות כט:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 1044,
+    "heRef_2": "מנחות כט:, טו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 1036,
+    "heRef_2": "מנחות כט:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 1057,
+    "heRef_2": "מנחות ל., י",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 1058,
+    "heRef_2": "מנחות ל., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 1049,
+    "heRef_2": "מנחות ל., ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 1050,
+    "heRef_2": "מנחות ל., ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 1050,
+    "heRef_2": "מנחות ל., ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 1051,
+    "heRef_2": "מנחות ל., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 1051,
+    "heRef_2": "מנחות ל., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 1051,
+    "heRef_2": "מנחות ל., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 1052,
+    "heRef_2": "מנחות ל., ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 1053,
+    "heRef_2": "מנחות ל., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 1068,
+    "heRef_2": "מנחות ל:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 1070,
+    "heRef_2": "מנחות ל:, ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 1073,
+    "heRef_2": "מנחות ל:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 1073,
+    "heRef_2": "מנחות ל:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 1097,
+    "heRef_2": "מנחות לא:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 1100,
+    "heRef_2": "מנחות לא:, ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 1101,
+    "heRef_2": "מנחות לא:, ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 1102,
+    "heRef_2": "מנחות לא:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 1102,
+    "heRef_2": "מנחות לא:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1126,
+    "heRef_2": "מנחות לב:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 1126,
+    "heRef_2": "מנחות לב:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 1126,
+    "heRef_2": "מנחות לב:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1127,
+    "heRef_2": "מנחות לב:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 1127,
+    "heRef_2": "מנחות לב:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 1127,
+    "heRef_2": "מנחות לב:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 1132,
+    "heRef_2": "מנחות לג., א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 1144,
+    "heRef_2": "מנחות לג:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 1169,
+    "heRef_2": "מנחות לד., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 1169,
+    "heRef_2": "מנחות לד., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1169,
+    "heRef_2": "מנחות לד., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 1161,
+    "heRef_2": "מנחות לד., ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1161,
+    "heRef_2": "מנחות לד., ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 1162,
+    "heRef_2": "מנחות לד., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 1162,
+    "heRef_2": "מנחות לד., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 1164,
+    "heRef_2": "מנחות לד., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1166,
+    "heRef_2": "מנחות לד., ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 1177,
+    "heRef_2": "מנחות לד:, א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 1177,
+    "heRef_2": "מנחות לד:, א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 1187,
+    "heRef_2": "מנחות לד:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 1187,
+    "heRef_2": "מנחות לד:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 1187,
+    "heRef_2": "מנחות לד:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 1182,
+    "heRef_2": "מנחות לד:, ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 1185,
+    "heRef_2": "מנחות לד:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 1185,
+    "heRef_2": "מנחות לד:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 1199,
+    "heRef_2": "מנחות לה., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 1214,
+    "heRef_2": "מנחות לה:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 1207,
+    "heRef_2": "מנחות לה:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 1211,
+    "heRef_2": "מנחות לה:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 1216,
+    "heRef_2": "מנחות לו., א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 1219,
+    "heRef_2": "מנחות לו., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 1221,
+    "heRef_2": "מנחות לו., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 1222,
+    "heRef_2": "מנחות לו., ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 1223,
+    "heRef_2": "מנחות לו., ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 1235,
+    "heRef_2": "מנחות לו:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 1235,
+    "heRef_2": "מנחות לו:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 1235,
+    "heRef_2": "מנחות לו:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 1235,
+    "heRef_2": "מנחות לו:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1235,
+    "heRef_2": "מנחות לו:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 1236,
+    "heRef_2": "מנחות לו:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 1236,
+    "heRef_2": "מנחות לו:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1236,
+    "heRef_2": "מנחות לו:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 1227,
+    "heRef_2": "מנחות לו:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 1228,
+    "heRef_2": "מנחות לו:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 1228,
+    "heRef_2": "מנחות לו:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 1228,
+    "heRef_2": "מנחות לו:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 1228,
+    "heRef_2": "מנחות לו:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1228,
+    "heRef_2": "מנחות לו:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 1228,
+    "heRef_2": "מנחות לו:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 1229,
+    "heRef_2": "מנחות לו:, ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 1229,
+    "heRef_2": "מנחות לו:, ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 1231,
+    "heRef_2": "מנחות לו:, ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 1234,
+    "heRef_2": "מנחות לו:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 1234,
+    "heRef_2": "מנחות לו:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 1234,
+    "heRef_2": "מנחות לו:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 1234,
+    "heRef_2": "מנחות לו:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1234,
+    "heRef_2": "מנחות לו:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 1234,
+    "heRef_2": "מנחות לו:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 1238,
+    "heRef_2": "מנחות לז.,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 1241,
+    "heRef_2": "מנחות לז., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 1245,
+    "heRef_2": "מנחות לז., ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1268,
+    "heRef_2": "מנחות לח., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 1269,
+    "heRef_2": "מנחות לח., ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 1270,
+    "heRef_2": "מנחות לח., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1273,
+    "heRef_2": "מנחות לח., ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 1277,
+    "heRef_2": "מנחות לח:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 1279,
+    "heRef_2": "מנחות לח:, ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 1295,
+    "heRef_2": "מנחות לט., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 1319,
+    "heRef_2": "מנחות מ., א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 1319,
+    "heRef_2": "מנחות מ., א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 1320,
+    "heRef_2": "מנחות מ., ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 1338,
+    "heRef_2": "מנחות מ:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 1338,
+    "heRef_2": "מנחות מ:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1338,
+    "heRef_2": "מנחות מ:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 1338,
+    "heRef_2": "מנחות מ:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 1339,
+    "heRef_2": "מנחות מ:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 1341,
+    "heRef_2": "מנחות מ:, יג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 1332,
+    "heRef_2": "מנחות מ:, ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 1336,
+    "heRef_2": "מנחות מ:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 1343,
+    "heRef_2": "מנחות מא., א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 1361,
+    "heRef_2": "מנחות מא., יט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 1344,
+    "heRef_2": "מנחות מא., ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 1344,
+    "heRef_2": "מנחות מא., ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 1345,
+    "heRef_2": "מנחות מא., ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1348,
+    "heRef_2": "מנחות מא., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 1348,
+    "heRef_2": "מנחות מא., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 1348,
+    "heRef_2": "מנחות מא., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 1393,
+    "heRef_2": "מנחות מב., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 1386,
+    "heRef_2": "מנחות מב., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 1416,
+    "heRef_2": "מנחות מב:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 1421,
+    "heRef_2": "מנחות מב:, טו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 1421,
+    "heRef_2": "מנחות מב:, טו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 1408,
+    "heRef_2": "מנחות מב:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 1408,
+    "heRef_2": "מנחות מב:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 1413,
+    "heRef_2": "מנחות מב:, ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 1415,
+    "heRef_2": "מנחות מב:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 1415,
+    "heRef_2": "מנחות מב:, ט",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 1434,
+    "heRef_2": "מנחות מג., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 1439,
+    "heRef_2": "מנחות מג., טז",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 1442,
+    "heRef_2": "מנחות מג., יט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 1425,
+    "heRef_2": "מנחות מג., ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 1427,
+    "heRef_2": "מנחות מג., ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 1431,
+    "heRef_2": "מנחות מג., ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 1456,
+    "heRef_2": "מנחות מג:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 1450,
+    "heRef_2": "מנחות מג:, ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 1454,
+    "heRef_2": "מנחות מג:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 2450,
+    "heRef_2": "מנחות ע:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 2450,
+    "heRef_2": "מנחות ע:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 2450,
+    "heRef_2": "מנחות ע:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 2450,
+    "heRef_2": "מנחות ע:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 2450,
+    "heRef_2": "מנחות ע:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 2450,
+    "heRef_2": "מנחות ע:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 2451,
+    "heRef_2": "מנחות ע:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 2442,
+    "heRef_2": "מנחות ע:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 2444,
+    "heRef_2": "מנחות ע:, ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 2445,
+    "heRef_2": "מנחות ע:, ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 2446,
+    "heRef_2": "מנחות ע:, ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 2448,
+    "heRef_2": "מנחות ע:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 2448,
+    "heRef_2": "מנחות ע:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 2448,
+    "heRef_2": "מנחות ע:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 215,
@@ -6557,61 +6634,5 @@
     "heRef_2": "משנה טבול יום ג,  א",
     "path_2": "משנה טבול יום.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 198,
-    "line_index_2": 907,
-    "heRef_2": "נזיר מג:, א",
-    "path_2": "נזיר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 198,
-    "line_index_2": 997,
-    "heRef_2": "נזיר מז., ו",
-    "path_2": "נזיר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 366,
-    "heRef_2": "בבא בתרא יד., ה",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 107,
-    "heRef_2": "בבא בתרא ה., ב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 3343,
-    "heRef_2": "בבא מציעא קב., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 212,
-    "line_index_2": 2323,
-    "heRef_2": "גיטין ע:, ח",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 212,
-    "line_index_2": 349,
-    "heRef_2": "עבודה זרה יג., ז",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 119,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ד, ד",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "quotation"
   }
 ]

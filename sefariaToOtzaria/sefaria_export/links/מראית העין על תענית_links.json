@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 35,
-    "line_index_2": 573,
-    "heRef_2": "בראשית כב, ב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 574,
-    "heRef_2": "בראשית כב, ג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 16,
     "line_index_2": 301,
     "heRef_2": "תענית יא., ד",
@@ -166,5 +152,19 @@
     "heRef_2": "תענית ט:, ד",
     "path_2": "תענית.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 573,
+    "heRef_2": "בראשית כב, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 574,
+    "heRef_2": "בראשית כב, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

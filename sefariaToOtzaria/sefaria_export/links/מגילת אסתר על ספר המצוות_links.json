@@ -1,138 +1,5 @@
 [
   {
-    "line_index_1": 83,
-    "line_index_2": 1035,
-    "heRef_2": "שמות לה, ג",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 254,
-    "line_index_2": 613,
-    "heRef_2": "כריתות יד.,  א",
-    "path_2": "כריתות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 201,
-    "line_index_2": 680,
-    "heRef_2": "קידושין כא:, כ",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 1251,
-    "heRef_2": "סוטה לז.,  א",
-    "path_2": "סוטה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 850,
-    "heRef_2": "שבת מ:, יא",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 912,
-    "heRef_2": "סנהדרין כז:,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 1296,
-    "heRef_2": "סנהדרין לה:,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 1306,
-    "heRef_2": "במדבר לה, כט",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 733,
-    "heRef_2": "יבמות כד., ח",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 1587,
-    "heRef_2": "שבת סד.,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 221,
-    "line_index_2": 2444,
-    "heRef_2": "יבמות עג:,  א",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 234,
-    "line_index_2": 733,
-    "heRef_2": "פסחים כד:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 2266,
-    "heRef_2": "יומא פג.,  א",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 246,
-    "line_index_2": 1943,
-    "heRef_2": "חולין סז.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 805,
-    "heRef_2": "עירובין כא:,  ח",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 806,
-    "heRef_2": "עירובין כא:,  ט",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 254,
-    "line_index_2": 1054,
-    "heRef_2": "עירובין כח.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 235,
-    "line_index_2": 1054,
-    "heRef_2": "עירובין כח.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 753,
-    "heRef_2": "ביצה כה.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 284,
     "line_index_2": 56,
     "heRef_2": "השגות הרמב\"ן על ספר המצוות, שורשים יב, א",
@@ -1848,10 +1715,143 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 254,
+    "line_index_2": 613,
+    "heRef_2": "כריתות יד.,  א",
+    "path_2": "כריתות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 680,
+    "heRef_2": "קידושין כא:, כ",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 753,
+    "heRef_2": "ביצה כה.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 1251,
+    "heRef_2": "סוטה לז.,  א",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 850,
+    "heRef_2": "שבת מ:, יא",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 912,
+    "heRef_2": "סנהדרין כז:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 1296,
+    "heRef_2": "סנהדרין לה:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 1306,
+    "heRef_2": "במדבר לה, כט",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 733,
+    "heRef_2": "יבמות כד., ח",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 1587,
+    "heRef_2": "שבת סד.,  א",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 2444,
+    "heRef_2": "יבמות עג:,  א",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 733,
+    "heRef_2": "פסחים כד:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 2266,
+    "heRef_2": "יומא פג.,  א",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 1943,
+    "heRef_2": "חולין סז.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 16,
     "line_index_2": 1003,
     "heRef_2": "עבודה זרה לה.,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 805,
+    "heRef_2": "עירובין כא:,  ח",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 806,
+    "heRef_2": "עירובין כא:,  ט",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 1054,
+    "heRef_2": "עירובין כח.,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 1054,
+    "heRef_2": "עירובין כח.,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 1035,
+    "heRef_2": "שמות לה, ג",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   }
 ]

@@ -1,79 +1,9 @@
 [
   {
-    "line_index_1": 804,
-    "line_index_2": 139,
-    "heRef_2": "עזרא ה, טו",
-    "path_2": "עזרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 803,
-    "line_index_2": 127,
-    "heRef_2": "עזרא ה, ג",
-    "path_2": "עזרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 804,
-    "line_index_2": 723,
-    "heRef_2": "בראשית כו, ג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 805,
-    "line_index_2": 148,
-    "heRef_2": "בראשית רבה יג, יב",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 25,
     "line_index_2": 3254,
     "heRef_2": "יבמות צח., ו",
     "path_2": "יבמות.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 2071,
-    "line_index_2": 57,
-    "heRef_2": "מלאכי ג, כב",
-    "path_2": "מלאכי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2071,
-    "line_index_2": 58,
-    "heRef_2": "מלאכי ג, כג",
-    "path_2": "מלאכי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 805,
-    "line_index_2": 427,
-    "heRef_2": "מגילה יב.,  א",
-    "path_2": "מגילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 805,
-    "line_index_2": 75,
-    "heRef_2": "דניאל ג,  א",
-    "path_2": "דניאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2020,
-    "line_index_2": 26,
-    "heRef_2": "איכה רבה, פתיחתא כד",
-    "path_2": "איכה רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2713,
-    "line_index_2": 261,
-    "heRef_2": "בבא בתרא י., יב",
-    "path_2": "בבא בתרא.txt",
     "Conection Type": "quotation"
   },
   {
@@ -15181,5 +15111,89 @@
     "heRef_2": "ירמיהו ט, ט",
     "path_2": "ירמיהו.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1454,
+    "line_index_2": 40,
+    "heRef_2": "איוב ג, א",
+    "path_2": "איוב.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 1461,
+    "line_index_2": 49,
+    "heRef_2": "איוב ג, י",
+    "path_2": "איוב.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 148,
+    "heRef_2": "בראשית רבה יג, יב",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2071,
+    "line_index_2": 57,
+    "heRef_2": "מלאכי ג, כב",
+    "path_2": "מלאכי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2071,
+    "line_index_2": 58,
+    "heRef_2": "מלאכי ג, כג",
+    "path_2": "מלאכי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 427,
+    "heRef_2": "מגילה יב.,  א",
+    "path_2": "מגילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 75,
+    "heRef_2": "דניאל ג,  א",
+    "path_2": "דניאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2020,
+    "line_index_2": 26,
+    "heRef_2": "איכה רבה, פתיחתא כד",
+    "path_2": "איכה רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2713,
+    "line_index_2": 261,
+    "heRef_2": "בבא בתרא י., יב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 804,
+    "line_index_2": 139,
+    "heRef_2": "עזרא ה, טו",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 803,
+    "line_index_2": 127,
+    "heRef_2": "עזרא ה, ג",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 804,
+    "line_index_2": 723,
+    "heRef_2": "בראשית כו, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,61 +1,5 @@
 [
   {
-    "line_index_1": 294,
-    "line_index_2": 591,
-    "heRef_2": "יחזקאל כג, כד",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 330,
-    "line_index_2": 851,
-    "heRef_2": "בראשית כט, כה",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 924,
-    "heRef_2": "איוב לו, כ",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 118,
-    "heRef_2": "איוב ו, ב",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 120,
-    "heRef_2": "יהושע ו, טו",
-    "path_2": "יהושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 488,
-    "heRef_2": "שופטים טז, לא",
-    "path_2": "שופטים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 675,
-    "heRef_2": "משלי כג, ז",
-    "path_2": "משלי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 481,
-    "line_index_2": 135,
-    "heRef_2": "תהילים י, טו",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 462,
     "line_index_2": 450,
     "heRef_2": "דברי הימים א יא, יז",
@@ -906,13 +850,6 @@
     "line_index_1": 365,
     "line_index_2": 569,
     "heRef_2": "שמואל א כ, ל",
-    "path_2": "שמואל א.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 367,
-    "line_index_2": 574,
-    "heRef_2": "שמואל א כ, לה",
     "path_2": "שמואל א.txt",
     "Conection Type": "commentary"
   },
@@ -2268,6 +2205,41 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 462,
+    "line_index_2": 287,
+    "heRef_2": "איוב יב, טו",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 924,
+    "heRef_2": "איוב לו, כ",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 118,
+    "heRef_2": "איוב ו, ב",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 120,
+    "heRef_2": "יהושע ו, טו",
+    "path_2": "יהושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 488,
+    "heRef_2": "שופטים טז, לא",
+    "path_2": "שופטים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 120,
     "line_index_2": 697,
     "heRef_2": "עבודה זרה כד:, ח",
@@ -2275,10 +2247,31 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 462,
-    "line_index_2": 287,
-    "heRef_2": "איוב יב, טו",
-    "path_2": "איוב.txt",
+    "line_index_1": 294,
+    "line_index_2": 591,
+    "heRef_2": "יחזקאל כג, כד",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 851,
+    "heRef_2": "בראשית כט, כה",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 675,
+    "heRef_2": "משלי כג, ז",
+    "path_2": "משלי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 135,
+    "heRef_2": "תהילים י, טו",
+    "path_2": "תהילים.txt",
     "Conection Type": ""
   }
 ]

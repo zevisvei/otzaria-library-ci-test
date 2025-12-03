@@ -1,9 +1,30 @@
 [
   {
-    "line_index_1": 28,
-    "line_index_2": 1505,
-    "heRef_2": "בראשית מח, ד",
-    "path_2": "בראשית.txt",
+    "line_index_1": 49,
+    "line_index_2": 17,
+    "heRef_2": "רש״ש על משנה הוריות ב, ג, א",
+    "path_2": "רשש על משנה הוריות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 528,
+    "heRef_2": "ירמיהו כא, יב",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 30,
+    "heRef_2": "חגי ב, יב",
+    "path_2": "חגי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 342,
+    "heRef_2": "מלכים א ח, סה",
+    "path_2": "מלכים א.txt",
     "Conection Type": ""
   },
   {
@@ -12,13 +33,6 @@
     "heRef_2": "ויקרא יח, יט",
     "path_2": "ויקרא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 17,
-    "heRef_2": "רש״ש על משנה הוריות ב, ג, א",
-    "path_2": "רשש על משנה הוריות.txt",
-    "Conection Type": "commentary"
   },
   {
     "line_index_1": 9,
@@ -39,6 +53,13 @@
     "line_index_2": 82,
     "heRef_2": "ויקרא ד, כז",
     "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 599,
+    "heRef_2": "דברים כב,  א",
+    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -63,10 +84,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 57,
-    "line_index_2": 599,
-    "heRef_2": "דברים כב,  א",
-    "path_2": "דברים.txt",
+    "line_index_1": 28,
+    "line_index_2": 1505,
+    "heRef_2": "בראשית מח, ד",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
@@ -579,26 +600,5 @@
     "heRef_2": "משנה הוריות ג, ח",
     "path_2": "משנה הוריות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 30,
-    "heRef_2": "חגי ב, יב",
-    "path_2": "חגי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 342,
-    "heRef_2": "מלכים א ח, סה",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 528,
-    "heRef_2": "ירמיהו כא, יב",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 141,
-    "line_index_2": 588,
-    "heRef_2": "שבת כח:, ו",
-    "path_2": "שבת.txt",
-    "Conection Type": "quotation"
-  },
-  {
     "line_index_1": 482,
     "line_index_2": 561,
     "heRef_2": "תלמוד ירושלמי שבת י, א, א",
@@ -2301,5 +2294,12 @@
     "heRef_2": "תלמוד ירושלמי שבת ט, ז, ו",
     "path_2": "תלמוד ירושלמי שבת.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 588,
+    "heRef_2": "שבת כח:, ו",
+    "path_2": "שבת.txt",
+    "Conection Type": "quotation"
   }
 ]

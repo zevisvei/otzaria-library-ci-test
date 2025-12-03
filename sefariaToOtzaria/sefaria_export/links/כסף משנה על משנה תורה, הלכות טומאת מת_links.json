@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 52,
+    "line_index_2": 2323,
+    "heRef_2": "גיטין ע:, ח",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 425,
     "line_index_2": 135,
     "heRef_2": "משנה תורה, הלכות טומאת מת י, י",
@@ -5103,17 +5110,24 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 454,
-    "line_index_2": 1167,
-    "heRef_2": "עירובין ל:, טז",
-    "path_2": "עירובין.txt",
+    "line_index_1": 398,
+    "line_index_2": 1243,
+    "heRef_2": "עבודה זרה מב.,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 877,
-    "line_index_2": 1708,
-    "heRef_2": "עירובין מו:,  א",
-    "path_2": "עירובין.txt",
+    "line_index_1": 471,
+    "line_index_2": 1243,
+    "heRef_2": "עבודה זרה מב.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 1793,
+    "heRef_2": "עבודה זרה נח.,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
@@ -5180,31 +5194,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 52,
-    "line_index_2": 2323,
-    "heRef_2": "גיטין ע:, ח",
-    "path_2": "גיטין.txt",
+    "line_index_1": 454,
+    "line_index_2": 1167,
+    "heRef_2": "עירובין ל:, טז",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 398,
-    "line_index_2": 1243,
-    "heRef_2": "עבודה זרה מב.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 471,
-    "line_index_2": 1243,
-    "heRef_2": "עבודה זרה מב.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 271,
-    "line_index_2": 1793,
-    "heRef_2": "עבודה זרה נח.,  א",
-    "path_2": "עבודה זרה.txt",
+    "line_index_1": 877,
+    "line_index_2": 1708,
+    "heRef_2": "עירובין מו:,  א",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

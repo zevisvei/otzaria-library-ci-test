@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 140,
-    "line_index_2": 1987,
-    "heRef_2": "שבת פא., ד",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 1984,
-    "heRef_2": "שבת פא.,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 89,
     "line_index_2": 186,
     "heRef_2": "משנה תורה, הלכות מעשה הקרבנות י, יב",
@@ -523,5 +509,19 @@
     "heRef_2": "משנה תורה, הלכות מעשה הקרבנות ט, ח",
     "path_2": "משנה תורה, הלכות מעשה הקרבנות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 1987,
+    "heRef_2": "שבת פא., ד",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 1984,
+    "heRef_2": "שבת פא.,  א",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
   }
 ]

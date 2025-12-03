@@ -1,9 +1,415 @@
 [
   {
+    "line_index_1": 92,
+    "line_index_2": 2337,
+    "heRef_2": "פסחים עה:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 159,
+    "heRef_2": "פסחים ז., א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 174,
+    "heRef_2": "פסחים ז., טז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 188,
+    "heRef_2": "פסחים ז:, יג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 183,
+    "heRef_2": "פסחים ז:, ח",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 196,
+    "heRef_2": "פסחים ח., א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 201,
+    "heRef_2": "פסחים ח., ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 202,
+    "heRef_2": "פסחים ח., ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 230,
+    "heRef_2": "פסחים ח:, טז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 216,
+    "heRef_2": "פסחים ח:, ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 3044,
+    "heRef_2": "פסחים צד:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 3195,
+    "heRef_2": "פסחים צט:, א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 3196,
+    "heRef_2": "פסחים צט:, ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 233,
+    "heRef_2": "פסחים ט., א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 252,
+    "heRef_2": "פסחים ט:, ח",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 242,
-    "line_index_2": 137,
-    "heRef_2": "שמות ו, ז",
-    "path_2": "שמות.txt",
+    "line_index_2": 2440,
+    "heRef_2": "תהילים קלה, ד",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 2459,
+    "heRef_2": "תהילים קלו, א",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 2486,
+    "heRef_2": "תהילים קלז, א",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 334,
+    "heRef_2": "תהילים כג,  א",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 848,
+    "heRef_2": "ראש השנה כט.,  א",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 3894,
+    "heRef_2": "שבת קנ:, יב",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 21,
+    "heRef_2": " תפארת שמואל על פסחים יט",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 493,
+    "heRef_2": "שבת כג:, ג",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 22,
+    "heRef_2": " תפארת שמואל על פסחים כ",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 20,
+    "heRef_2": " תפארת שמואל על פסחים יח",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 5,
+    "heRef_2": " תפארת שמואל על פסחים ג",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 6,
+    "heRef_2": " תפארת שמואל על פסחים ד",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 3,
+    "heRef_2": " תפארת שמואל על פסחים א",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 4,
+    "heRef_2": " תפארת שמואל על פסחים ב",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 11,
+    "heRef_2": " תפארת שמואל על פסחים ט",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 1283,
+    "heRef_2": "יבמות מ., יא",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 12,
+    "heRef_2": " תפארת שמואל על פסחים י",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 13,
+    "heRef_2": " תפארת שמואל על פסחים יא",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 14,
+    "heRef_2": " תפארת שמואל על פסחים יב",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 796,
+    "heRef_2": "שבת לח., ח",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 7,
+    "heRef_2": " תפארת שמואל על פסחים ה",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 8,
+    "heRef_2": " תפארת שמואל על פסחים ו",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 9,
+    "heRef_2": " תפארת שמואל על פסחים ז",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 3130,
+    "heRef_2": "זבחים צו., א",
+    "path_2": "זבחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 10,
+    "heRef_2": " תפארת שמואל על פסחים ח",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 16,
+    "heRef_2": " תפארת שמואל על פסחים יד",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 15,
+    "heRef_2": " תפארת שמואל על פסחים יג",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 1987,
+    "heRef_2": "סנהדרין נב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 17,
+    "heRef_2": " תפארת שמואל על פסחים טו",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 18,
+    "heRef_2": " תפארת שמואל על פסחים טז",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 19,
+    "heRef_2": " תפארת שמואל על פסחים יז",
+    "path_2": "תפארת שמואל על פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 897,
+    "heRef_2": "בכורות כז., ט",
+    "path_2": "בכורות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 1221,
+    "heRef_2": "ברכות כו.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 1285,
+    "heRef_2": "ברכות כז:, ט",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 1767,
+    "heRef_2": "ברכות לו:, יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 1800,
+    "heRef_2": "ברכות לז:, יג",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 1793,
+    "heRef_2": "ברכות לז:, ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1802,
+    "heRef_2": "ברכות לח., א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 1819,
+    "heRef_2": "ברכות לח:,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 1934,
+    "heRef_2": "ברכות מב., ט",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 2094,
+    "heRef_2": "ברכות מו:,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 2113,
+    "heRef_2": "ברכות מז., ד",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 2131,
+    "heRef_2": "ברכות מז:, ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 2313,
+    "heRef_2": "ברכות נב., ח",
+    "path_2": "ברכות.txt",
     "Conection Type": ""
   },
   {
@@ -3206,97 +3612,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 123,
-    "line_index_2": 897,
-    "heRef_2": "בכורות כז., ט",
-    "path_2": "בכורות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 1221,
-    "heRef_2": "ברכות כו.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 1285,
-    "heRef_2": "ברכות כז:, ט",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 1767,
-    "heRef_2": "ברכות לו:, יז",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 1800,
-    "heRef_2": "ברכות לז:, יג",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 1793,
-    "heRef_2": "ברכות לז:, ו",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 1802,
-    "heRef_2": "ברכות לח., א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 1819,
-    "heRef_2": "ברכות לח:,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 1934,
-    "heRef_2": "ברכות מב., ט",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 2094,
-    "heRef_2": "ברכות מו:,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 2113,
-    "heRef_2": "ברכות מז., ד",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 138,
-    "line_index_2": 2131,
-    "heRef_2": "ברכות מז:, ה",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 204,
-    "line_index_2": 2313,
-    "heRef_2": "ברכות נב., ח",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 174,
     "line_index_2": 3307,
     "heRef_2": "חולין קז:, ו",
@@ -3311,227 +3626,31 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 202,
-    "line_index_2": 848,
-    "heRef_2": "ראש השנה כט.,  א",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 192,
-    "line_index_2": 3894,
-    "heRef_2": "שבת קנ:, יב",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 21,
-    "heRef_2": " תפארת שמואל על פסחים יט",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 204,
-    "line_index_2": 493,
-    "heRef_2": "שבת כג:, ג",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 22,
-    "heRef_2": " תפארת שמואל על פסחים כ",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 20,
-    "heRef_2": " תפארת שמואל על פסחים יח",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 5,
-    "heRef_2": " תפארת שמואל על פסחים ג",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 6,
-    "heRef_2": " תפארת שמואל על פסחים ד",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 3,
-    "heRef_2": " תפארת שמואל על פסחים א",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 4,
-    "heRef_2": " תפארת שמואל על פסחים ב",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 11,
-    "heRef_2": " תפארת שמואל על פסחים ט",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 1283,
-    "heRef_2": "יבמות מ., יא",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 12,
-    "heRef_2": " תפארת שמואל על פסחים י",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 13,
-    "heRef_2": " תפארת שמואל על פסחים יא",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 14,
-    "heRef_2": " תפארת שמואל על פסחים יב",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 796,
-    "heRef_2": "שבת לח., ח",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 7,
-    "heRef_2": " תפארת שמואל על פסחים ה",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
     "line_index_1": 52,
-    "line_index_2": 8,
-    "heRef_2": " תפארת שמואל על פסחים ו",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 9,
-    "heRef_2": " תפארת שמואל על פסחים ז",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 3130,
-    "heRef_2": "זבחים צו., א",
-    "path_2": "זבחים.txt",
+    "line_index_2": 1123,
+    "heRef_2": "עבודה זרה לח:,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 56,
-    "line_index_2": 10,
-    "heRef_2": " תפארת שמואל על פסחים ח",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 138,
-    "line_index_2": 16,
-    "heRef_2": " תפארת שמואל על פסחים יד",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 15,
-    "heRef_2": " תפארת שמואל על פסחים יג",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 1987,
-    "heRef_2": "סנהדרין נב:, א",
-    "path_2": "סנהדרין.txt",
+    "line_index_1": 40,
+    "line_index_2": 1497,
+    "heRef_2": "עבודה זרה מח:, יט",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 153,
-    "line_index_2": 17,
-    "heRef_2": " תפארת שמואל על פסחים טו",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 18,
-    "heRef_2": " תפארת שמואל על פסחים טז",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 19,
-    "heRef_2": " תפארת שמואל על פסחים יז",
-    "path_2": "תפארת שמואל על פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 800,
-    "heRef_2": "מנחות כג:,  יט",
-    "path_2": "מנחות.txt",
+    "line_index_1": 40,
+    "line_index_2": 1516,
+    "heRef_2": "עבודה זרה מט., יז",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 88,
-    "line_index_2": 801,
-    "heRef_2": "מנחות כג:,  כ",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 1989,
-    "heRef_2": "מנחות נז., טו",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 2441,
-    "heRef_2": "מנחות ע:, א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 3359,
-    "heRef_2": "מנחות צד., יב",
-    "path_2": "מנחות.txt",
+    "line_index_1": 150,
+    "line_index_2": 615,
+    "heRef_2": "מועד קטן יז., כא",
+    "path_2": "מועד קטן.txt",
     "Conection Type": ""
   },
   {
@@ -4809,146 +4928,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 92,
-    "line_index_2": 2337,
-    "heRef_2": "פסחים עה:, י",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 159,
-    "heRef_2": "פסחים ז., א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 174,
-    "heRef_2": "פסחים ז., טז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 188,
-    "heRef_2": "פסחים ז:, יג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 183,
-    "heRef_2": "פסחים ז:, ח",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 196,
-    "heRef_2": "פסחים ח., א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 201,
-    "heRef_2": "פסחים ח., ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 202,
-    "heRef_2": "פסחים ח., ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 230,
-    "heRef_2": "פסחים ח:, טז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 216,
-    "heRef_2": "פסחים ח:, ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 3044,
-    "heRef_2": "פסחים צד:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 3195,
-    "heRef_2": "פסחים צט:, א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 3196,
-    "heRef_2": "פסחים צט:, ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 233,
-    "heRef_2": "פסחים ט., א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 252,
-    "heRef_2": "פסחים ט:, ח",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 242,
-    "line_index_2": 2440,
-    "heRef_2": "תהילים קלה, ד",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 242,
-    "line_index_2": 2459,
-    "heRef_2": "תהילים קלו, א",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 242,
-    "line_index_2": 2486,
-    "heRef_2": "תהילים קלז, א",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 242,
-    "line_index_2": 334,
-    "heRef_2": "תהילים כג,  א",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 150,
-    "line_index_2": 615,
-    "heRef_2": "מועד קטן יז., כא",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 259,
     "line_index_2": 3850,
     "heRef_2": "בבא קמא קב., יג",
@@ -4963,24 +4942,45 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 52,
-    "line_index_2": 1123,
-    "heRef_2": "עבודה זרה לח:,  א",
-    "path_2": "עבודה זרה.txt",
+    "line_index_1": 242,
+    "line_index_2": 137,
+    "heRef_2": "שמות ו, ז",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 40,
-    "line_index_2": 1497,
-    "heRef_2": "עבודה זרה מח:, יט",
-    "path_2": "עבודה זרה.txt",
+    "line_index_1": 88,
+    "line_index_2": 800,
+    "heRef_2": "מנחות כג:,  יט",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 40,
-    "line_index_2": 1516,
-    "heRef_2": "עבודה זרה מט., יז",
-    "path_2": "עבודה זרה.txt",
+    "line_index_1": 88,
+    "line_index_2": 801,
+    "heRef_2": "מנחות כג:,  כ",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 1989,
+    "heRef_2": "מנחות נז., טו",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 2441,
+    "heRef_2": "מנחות ע:, א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 3359,
+    "heRef_2": "מנחות צד., יב",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   }
 ]

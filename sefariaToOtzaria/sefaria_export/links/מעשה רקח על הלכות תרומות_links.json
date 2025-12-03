@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 298,
+    "line_index_2": 1967,
+    "heRef_2": "גיטין סא.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 317,
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ב, ו",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "quotation"
+  },
+  {
     "line_index_1": 247,
     "line_index_2": 204,
     "heRef_2": "משנה תורה, הלכות תרומות י, י",
@@ -1468,19 +1482,5 @@
     "heRef_2": "בבא בתרא פז:, א",
     "path_2": "בבא בתרא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 298,
-    "line_index_2": 1967,
-    "heRef_2": "גיטין סא.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 281,
-    "line_index_2": 317,
-    "heRef_2": "תלמוד ירושלמי שביעית ח, ב, ו",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "quotation"
   }
 ]

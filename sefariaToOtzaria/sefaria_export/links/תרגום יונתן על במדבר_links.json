@@ -1,5 +1,47 @@
 [
   {
+    "line_index_1": 822,
+    "line_index_2": 86,
+    "heRef_2": "משנה אבות ה, ו",
+    "path_2": "משנה אבות.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 891,
+    "line_index_2": 164,
+    "heRef_2": "אבן עזרא על דניאל ב, לט, ג",
+    "path_2": "אבן עזרא על דניאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 799,
+    "line_index_2": 1587,
+    "heRef_2": "אבן עזרא על בראשית לו, לב, א",
+    "path_2": "אבן עזרא על בראשית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 899,
+    "line_index_2": 551,
+    "heRef_2": "דבש לפי, מערכת ק ג",
+    "path_2": "דבש לפי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 8631,
+    "heRef_2": "שם משמואל, קרח י, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 799,
+    "line_index_2": 1075,
+    "heRef_2": "ילקוט שמעוני על התורה קסח, א",
+    "path_2": "ילקוט שמעוני על התורה.txt",
+    "Conection Type": "related"
+  },
+  {
     "line_index_1": 396,
     "line_index_2": 396,
     "heRef_2": "במדבר י, א",
@@ -9007,33 +9049,5 @@
     "heRef_2": "במדבר ט, ט",
     "path_2": "במדבר.txt",
     "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 822,
-    "line_index_2": 86,
-    "heRef_2": "משנה אבות ה, ו",
-    "path_2": "משנה אבות.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 899,
-    "line_index_2": 551,
-    "heRef_2": "דבש לפי, מערכת ק ג",
-    "path_2": "דבש לפי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 799,
-    "line_index_2": 1587,
-    "heRef_2": "אבן עזרא על בראשית לו, לב, א",
-    "path_2": "אבן עזרא על בראשית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 799,
-    "line_index_2": 1077,
-    "heRef_2": "ילקוט שמעוני על התורה קסח, א",
-    "path_2": "ילקוט שמעוני על התורה.txt",
-    "Conection Type": "related"
   }
 ]

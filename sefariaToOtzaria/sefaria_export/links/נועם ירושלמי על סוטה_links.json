@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 103,
-    "line_index_2": 137,
-    "heRef_2": "סוטה ה.,  א",
-    "path_2": "סוטה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 19,
     "line_index_2": 13,
     "heRef_2": "תלמוד ירושלמי סוטה א, א, י",
@@ -768,5 +761,12 @@
     "heRef_2": "תלמוד ירושלמי סוטה ט, ו, ה",
     "path_2": "תלמוד ירושלמי סוטה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 137,
+    "heRef_2": "סוטה ה.,  א",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
   }
 ]

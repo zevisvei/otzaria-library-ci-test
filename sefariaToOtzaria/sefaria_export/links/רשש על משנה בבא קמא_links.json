@@ -1,30 +1,9 @@
 [
   {
-    "line_index_1": 88,
-    "line_index_2": 776,
-    "heRef_2": "כתובות ל:,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 806,
-    "heRef_2": "כתובות לב.,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 815,
-    "heRef_2": "כתובות לב:,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 879,
-    "heRef_2": "כתובות לה:, א",
-    "path_2": "כתובות.txt",
+    "line_index_1": 76,
+    "line_index_2": 152,
+    "heRef_2": "משלי ו, ה",
+    "path_2": "משלי.txt",
     "Conection Type": ""
   },
   {
@@ -231,6 +210,34 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 88,
+    "line_index_2": 776,
+    "heRef_2": "כתובות ל:,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 806,
+    "heRef_2": "כתובות לב.,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 815,
+    "heRef_2": "כתובות לב:,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 879,
+    "heRef_2": "כתובות לה:, א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 63,
     "line_index_2": 407,
     "heRef_2": "מכות יג:, יב",
@@ -238,17 +245,31 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 52,
-    "line_index_2": 2325,
-    "heRef_2": "מנחות סז.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
+    "line_index_1": 10,
+    "line_index_2": 17,
+    "heRef_2": "ברטנורא על משנה בבא קמא א, ב, ד",
+    "path_2": "ברטנורא על משנה בבא קמא.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 76,
-    "line_index_2": 152,
-    "heRef_2": "משלי ו, ה",
-    "path_2": "משלי.txt",
+    "line_index_1": 13,
+    "line_index_2": 23,
+    "heRef_2": "ברטנורא על משנה בבא קמא א, ג, א",
+    "path_2": "ברטנורא על משנה בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 116,
+    "heRef_2": "ברטנורא על משנה בבא קמא ג, יא, א",
+    "path_2": "ברטנורא על משנה בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 2635,
+    "heRef_2": "בבא מציעא פג.,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   },
   {
@@ -256,6 +277,13 @@
     "line_index_2": 1725,
     "heRef_2": "עירובין מז.,  א",
     "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 2325,
+    "heRef_2": "מנחות סז.,  א",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
@@ -705,33 +733,5 @@
     "heRef_2": "משנה בבא קמא ט, ט",
     "path_2": "משנה בבא קמא.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 17,
-    "heRef_2": "ברטנורא על משנה בבא קמא א, ב, ד",
-    "path_2": "ברטנורא על משנה בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 23,
-    "heRef_2": "ברטנורא על משנה בבא קמא א, ג, א",
-    "path_2": "ברטנורא על משנה בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 116,
-    "heRef_2": "ברטנורא על משנה בבא קמא ג, יא, א",
-    "path_2": "ברטנורא על משנה בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 2635,
-    "heRef_2": "בבא מציעא פג.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
   }
 ]

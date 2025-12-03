@@ -1,16 +1,9 @@
 [
   {
-    "line_index_1": 39,
-    "line_index_2": 586,
-    "heRef_2": "שמות כא, כב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 1091,
-    "heRef_2": "במדבר ל, יז",
-    "path_2": "במדבר.txt",
+    "line_index_1": 64,
+    "line_index_2": 527,
+    "heRef_2": "ישעיהו כז, ב",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
@@ -39,6 +32,20 @@
     "line_index_2": 773,
     "heRef_2": "דברים כח, כח",
     "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1091,
+    "heRef_2": "במדבר ל, יז",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 586,
+    "heRef_2": "שמות כא, כב",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -719,12 +726,5 @@
     "heRef_2": "משנה כתובות ט, ט",
     "path_2": "משנה כתובות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 527,
-    "heRef_2": "ישעיהו כז, ב",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

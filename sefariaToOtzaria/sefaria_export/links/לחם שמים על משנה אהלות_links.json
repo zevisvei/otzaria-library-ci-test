@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 25,
-    "line_index_2": 818,
-    "heRef_2": "יחזקאל לב,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 125,
     "line_index_2": 80,
     "heRef_2": "משנה אהלות י, ב",
@@ -1020,5 +1013,12 @@
     "heRef_2": "משנה אהלות ט, ג",
     "path_2": "משנה אהלות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 818,
+    "heRef_2": "יחזקאל לב,  א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

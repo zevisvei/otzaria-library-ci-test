@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 440,
+    "line_index_2": 1711,
+    "heRef_2": "גיטין נד:, ז",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 321,
     "line_index_2": 111,
     "heRef_2": "משנה תורה, הלכות מטמאי משכב ומושב י, י",
@@ -1323,13 +1330,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 105,
-    "line_index_2": 1558,
-    "heRef_2": "נדה מב.,  א",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 106,
     "line_index_2": 35,
     "heRef_2": "משנה תורה, הלכות מטמאי משכב ומושב ג, ד",
@@ -2527,13 +2527,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 230,
-    "line_index_2": 1020,
-    "heRef_2": "עירובין כז., ב",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 278,
     "line_index_2": 3466,
     "heRef_2": "בבא מציעא קה:,  א",
@@ -2541,10 +2534,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 440,
-    "line_index_2": 1711,
-    "heRef_2": "גיטין נד:, ז",
-    "path_2": "גיטין.txt",
+    "line_index_1": 230,
+    "line_index_2": 1020,
+    "heRef_2": "עירובין כז., ב",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

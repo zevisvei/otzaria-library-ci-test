@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 96,
-    "line_index_2": 29,
-    "heRef_2": "פסחים ג.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 25,
-    "heRef_2": "חולין ג.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 65,
-    "heRef_2": "משנה פרה ח, ו",
-    "path_2": "משנה פרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 42,
-    "heRef_2": "גיטין ד.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 275,
     "line_index_2": 570,
     "heRef_2": "תלמוד ירושלמי פסחים י, א, ג",
@@ -1419,5 +1391,33 @@
     "heRef_2": "תלמוד ירושלמי פסחים ט, ח, ב",
     "path_2": "תלמוד ירושלמי פסחים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 42,
+    "heRef_2": "גיטין ד.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 25,
+    "heRef_2": "חולין ג.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 29,
+    "heRef_2": "פסחים ג.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 65,
+    "heRef_2": "משנה פרה ח, ו",
+    "path_2": "משנה פרה.txt",
+    "Conection Type": ""
   }
 ]

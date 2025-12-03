@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 10,
-    "line_index_2": 94,
-    "heRef_2": "ראש השנה ה., ו",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 80,
-    "heRef_2": "שבת ה., ה",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 50,
     "heRef_2": "תלמוד ירושלמי כלאים א, ט, ב",
@@ -236,5 +222,19 @@
     "heRef_2": "תלמוד ירושלמי כלאים ה, ו, ד",
     "path_2": "תלמוד ירושלמי כלאים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 94,
+    "heRef_2": "ראש השנה ה., ו",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 80,
+    "heRef_2": "שבת ה., ה",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
   }
 ]

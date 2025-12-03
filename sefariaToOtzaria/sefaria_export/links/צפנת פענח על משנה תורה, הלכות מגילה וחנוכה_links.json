@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 6,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ב, ה",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 4,
     "heRef_2": "משנה תורה, הלכות מגילה וחנוכה א, א",
@@ -187,12 +194,5 @@
     "heRef_2": "משנה תורה, הלכות מגילה וחנוכה ד, יב",
     "path_2": "משנה תורה, הלכות מגילה וחנוכה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 20,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ב, ה",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "reference"
   }
 ]

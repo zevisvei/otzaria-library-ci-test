@@ -1,6 +1,510 @@
 [
   {
     "line_index_1": 256,
+    "line_index_2": 1064,
+    "heRef_2": "תוספות על עירובין ק., יז, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 5020,
+    "heRef_2": "רש\"י על עירובין קד., טו, ג",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 5052,
+    "heRef_2": "רש\"י על עירובין קד:, י, ב",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 524,
+    "heRef_2": "רש\"י על עירובין יב:, ט, ב",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 120,
+    "heRef_2": "תוספות על עירובין יב:, טז, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 117,
+    "heRef_2": "תוספות על עירובין יב:, ט, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 814,
+    "heRef_2": "רש\"י על עירובין יח., ז, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 184,
+    "heRef_2": "תוספות על עירובין יח:, טו, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 184,
+    "heRef_2": "תוספות על עירובין יח:, טו, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 879,
+    "heRef_2": "רש\"י על עירובין יט., י, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 888,
+    "heRef_2": "רש\"י על עירובין יט., יח, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 992,
+    "heRef_2": "רש\"י על עירובין כא., יח, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 217,
+    "heRef_2": "תוספות על עירובין כא:, ט, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 227,
+    "heRef_2": "תוספות על עירובין כב., כז, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 1353,
+    "heRef_2": "רש\"י על עירובין כט., ד, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 316,
+    "heRef_2": "תוספות על עירובין כט., יב, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 11,
+    "heRef_2": "רש\"י על עירובין ב., ד, ג",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 8,
+    "heRef_2": "תוספות על עירובין ב., יג, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 8,
+    "heRef_2": "תוספות על עירובין ב., יג, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 12,
+    "heRef_2": "תוספות על עירובין ב:, ז, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 332,
+    "heRef_2": "תוספות על עירובין ל:, ט, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 341,
+    "heRef_2": "תוספות על עירובין לא., יב, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 338,
+    "heRef_2": "תוספות על עירובין לא., א, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 348,
+    "heRef_2": "תוספות על עירובין לא:, טו, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 350,
+    "heRef_2": "תוספות על עירובין לא:, יט, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 355,
+    "heRef_2": "תוספות על עירובין לב., ט, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 362,
+    "heRef_2": "תוספות על עירובין לב:, י, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 405,
+    "heRef_2": "תוספות על עירובין לו., טו, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 403,
+    "heRef_2": "תוספות על עירובין לו., ח, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 402,
+    "heRef_2": "תוספות על עירובין לו., ו, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 402,
+    "heRef_2": "תוספות על עירובין לו., ו, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 1822,
+    "heRef_2": "רש\"י על עירובין לח:, טז, ב",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 76,
+    "heRef_2": "רש\"י על עירובין ג:, ז, ג",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 23,
+    "heRef_2": "תוספות על עירובין ג:, ט, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1915,
+    "heRef_2": "רש\"י על עירובין מ:, טו, ב",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 454,
+    "heRef_2": "תוספות על עירובין מא., ג, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 454,
+    "heRef_2": "תוספות על עירובין מא., ג, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 1958,
+    "heRef_2": "רש\"י על עירובין מא:, ח, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 486,
+    "heRef_2": "תוספות על עירובין מג:, יח, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 506,
+    "heRef_2": "תוספות על עירובין מה:, כא, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 542,
+    "heRef_2": "תוספות על עירובין מט:, יא, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 108,
+    "heRef_2": "רש\"י על עירובין ד., ט, ד",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 2395,
+    "heRef_2": "רש\"י על עירובין נ., ט, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 172,
+    "heRef_2": "רש\"י על עירובין ה., י, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 40,
+    "heRef_2": "תוספות על עירובין ה., יב, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 46,
+    "heRef_2": "תוספות על עירובין ה:, א, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 49,
+    "heRef_2": "תוספות על עירובין ה:, ה, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 656,
+    "heRef_2": "תוספות על עירובין סב:, יג, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 666,
+    "heRef_2": "תוספות על עירובין סג:, יב, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 670,
+    "heRef_2": "תוספות על עירובין סד., ט, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 3065,
+    "heRef_2": "רש\"י על עירובין סד:, ג, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 679,
+    "heRef_2": "תוספות על עירובין סה., י, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 686,
+    "heRef_2": "תוספות על עירובין סה:, טו, ג",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 3251,
+    "heRef_2": "רש\"י על עירובין סח., יג, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 714,
+    "heRef_2": "תוספות על עירובין סח., ו, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 57,
+    "heRef_2": "תוספות על עירובין ו., ה, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 57,
+    "heRef_2": "תוספות על עירובין ו., ה, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 63,
+    "heRef_2": "תוספות על עירובין ו:, ב, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 750,
+    "heRef_2": "תוספות על עירובין עא., יז, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 778,
+    "heRef_2": "תוספות על עירובין עג:, טו, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 3509,
+    "heRef_2": "רש\"י על עירובין עד., ו, ב",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 74,
+    "heRef_2": "תוספות על עירובין ז:, א, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 74,
+    "heRef_2": "תוספות על עירובין ז:, א, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 845,
+    "heRef_2": "תוספות על עירובין פ., ז, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 847,
+    "heRef_2": "תוספות על עירובין פ., כ, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 847,
+    "heRef_2": "תוספות על עירובין פ., כ, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 872,
+    "heRef_2": "תוספות על עירובין פב., טו, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 913,
+    "heRef_2": "תוספות על עירובין פו., טז, ב",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 305,
+    "heRef_2": "רש\"י על עירובין ח:, ד, א",
+    "path_2": "רשי על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 82,
+    "heRef_2": "תוספות על עירובין ח:, ז, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 82,
+    "heRef_2": "תוספות על עירובין ח:, ז, א",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 995,
+    "heRef_2": "תוספות על עירובין צד., כד, ג",
+    "path_2": "תוספות על עירובין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 256,
     "line_index_2": 3645,
     "heRef_2": "עירובין ק., יז",
     "path_2": "עירובין.txt",
@@ -1124,510 +1628,6 @@
     "line_index_2": 248,
     "heRef_2": "עירובין ט., ו",
     "path_2": "עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 1064,
-    "heRef_2": "תוספות על עירובין ק., יז, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 263,
-    "line_index_2": 5020,
-    "heRef_2": "רש\"י על עירובין קד., טו, ג",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 265,
-    "line_index_2": 5052,
-    "heRef_2": "רש\"י על עירובין קד:, י, ב",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 524,
-    "heRef_2": "רש\"י על עירובין יב:, ט, ב",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 120,
-    "heRef_2": "תוספות על עירובין יב:, טז, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 117,
-    "heRef_2": "תוספות על עירובין יב:, ט, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 814,
-    "heRef_2": "רש\"י על עירובין יח., ז, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 184,
-    "heRef_2": "תוספות על עירובין יח:, טו, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 184,
-    "heRef_2": "תוספות על עירובין יח:, טו, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 879,
-    "heRef_2": "רש\"י על עירובין יט., י, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 888,
-    "heRef_2": "רש\"י על עירובין יט., יח, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 992,
-    "heRef_2": "רש\"י על עירובין כא., יח, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 217,
-    "heRef_2": "תוספות על עירובין כא:, ט, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 227,
-    "heRef_2": "תוספות על עירובין כב., כז, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 1353,
-    "heRef_2": "רש\"י על עירובין כט., ד, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 316,
-    "heRef_2": "תוספות על עירובין כט., יב, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 11,
-    "heRef_2": "רש\"י על עירובין ב., ד, ג",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 8,
-    "heRef_2": "תוספות על עירובין ב., יג, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 8,
-    "heRef_2": "תוספות על עירובין ב., יג, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 12,
-    "heRef_2": "תוספות על עירובין ב:, ז, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 332,
-    "heRef_2": "תוספות על עירובין ל:, ט, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 341,
-    "heRef_2": "תוספות על עירובין לא., יב, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 338,
-    "heRef_2": "תוספות על עירובין לא., א, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 348,
-    "heRef_2": "תוספות על עירובין לא:, טו, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 350,
-    "heRef_2": "תוספות על עירובין לא:, יט, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 355,
-    "heRef_2": "תוספות על עירובין לב., ט, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 362,
-    "heRef_2": "תוספות על עירובין לב:, י, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 405,
-    "heRef_2": "תוספות על עירובין לו., טו, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 403,
-    "heRef_2": "תוספות על עירובין לו., ח, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 126,
-    "line_index_2": 402,
-    "heRef_2": "תוספות על עירובין לו., ו, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 402,
-    "heRef_2": "תוספות על עירובין לו., ו, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 1822,
-    "heRef_2": "רש\"י על עירובין לח:, טז, ב",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 76,
-    "heRef_2": "רש\"י על עירובין ג:, ז, ג",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 23,
-    "heRef_2": "תוספות על עירובין ג:, ט, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 1915,
-    "heRef_2": "רש\"י על עירובין מ:, טו, ב",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 454,
-    "heRef_2": "תוספות על עירובין מא., ג, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 454,
-    "heRef_2": "תוספות על עירובין מא., ג, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 1958,
-    "heRef_2": "רש\"י על עירובין מא:, ח, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 486,
-    "heRef_2": "תוספות על עירובין מג:, יח, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 150,
-    "line_index_2": 506,
-    "heRef_2": "תוספות על עירובין מה:, כא, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 542,
-    "heRef_2": "תוספות על עירובין מט:, יא, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 108,
-    "heRef_2": "רש\"י על עירובין ד., ט, ד",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 2395,
-    "heRef_2": "רש\"י על עירובין נ., ט, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 172,
-    "heRef_2": "רש\"י על עירובין ה., י, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 40,
-    "heRef_2": "תוספות על עירובין ה., יב, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 46,
-    "heRef_2": "תוספות על עירובין ה:, א, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 49,
-    "heRef_2": "תוספות על עירובין ה:, ה, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 169,
-    "line_index_2": 656,
-    "heRef_2": "תוספות על עירובין סב:, יג, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 666,
-    "heRef_2": "תוספות על עירובין סג:, יב, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 179,
-    "line_index_2": 670,
-    "heRef_2": "תוספות על עירובין סד., ט, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 3065,
-    "heRef_2": "רש\"י על עירובין סד:, ג, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 185,
-    "line_index_2": 679,
-    "heRef_2": "תוספות על עירובין סה., י, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 686,
-    "heRef_2": "תוספות על עירובין סה:, טו, ג",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 196,
-    "line_index_2": 3251,
-    "heRef_2": "רש\"י על עירובין סח., יג, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 197,
-    "line_index_2": 714,
-    "heRef_2": "תוספות על עירובין סח., ו, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 57,
-    "heRef_2": "תוספות על עירובין ו., ה, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 57,
-    "heRef_2": "תוספות על עירובין ו., ה, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 63,
-    "heRef_2": "תוספות על עירובין ו:, ב, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 750,
-    "heRef_2": "תוספות על עירובין עא., יז, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 212,
-    "line_index_2": 778,
-    "heRef_2": "תוספות על עירובין עג:, טו, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 3509,
-    "heRef_2": "רש\"י על עירובין עד., ו, ב",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 74,
-    "heRef_2": "תוספות על עירובין ז:, א, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 74,
-    "heRef_2": "תוספות על עירובין ז:, א, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 845,
-    "heRef_2": "תוספות על עירובין פ., ז, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 224,
-    "line_index_2": 847,
-    "heRef_2": "תוספות על עירובין פ., כ, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 225,
-    "line_index_2": 847,
-    "heRef_2": "תוספות על עירובין פ., כ, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 229,
-    "line_index_2": 872,
-    "heRef_2": "תוספות על עירובין פב., טו, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 238,
-    "line_index_2": 913,
-    "heRef_2": "תוספות על עירובין פו., טז, ב",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 305,
-    "heRef_2": "רש\"י על עירובין ח:, ד, א",
-    "path_2": "רשי על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 82,
-    "heRef_2": "תוספות על עירובין ח:, ז, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 82,
-    "heRef_2": "תוספות על עירובין ח:, ז, א",
-    "path_2": "תוספות על עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 995,
-    "heRef_2": "תוספות על עירובין צד., כד, ג",
-    "path_2": "תוספות על עירובין.txt",
     "Conection Type": "commentary"
   }
 ]

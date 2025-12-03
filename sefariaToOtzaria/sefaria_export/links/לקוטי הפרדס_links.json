@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 104,
-    "line_index_2": 485,
-    "heRef_2": "שמות יז, טז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 1023,
-    "heRef_2": "יחזקאל לח, כג",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1023,
-    "heRef_2": "יחזקאל לח, כג",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 103,
     "line_index_2": 1280,
     "heRef_2": "תהילים עו, ט",
@@ -46,6 +25,27 @@
     "line_index_2": 224,
     "heRef_2": "זכריה יד, יט",
     "path_2": "זכריה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 485,
+    "heRef_2": "שמות יז, טז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 1023,
+    "heRef_2": "יחזקאל לח, כג",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 1023,
+    "heRef_2": "יחזקאל לח, כג",
+    "path_2": "יחזקאל.txt",
     "Conection Type": ""
   }
 ]

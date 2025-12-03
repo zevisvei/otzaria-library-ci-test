@@ -1,6 +1,27 @@
 [
   {
     "line_index_1": 5,
+    "line_index_2": 2710,
+    "heRef_2": "יבמות פ:,  א",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 2750,
+    "heRef_2": "יבמות פב., י",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 2030,
+    "heRef_2": "שבת פג:, ג",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
     "line_index_2": 17,
     "heRef_2": "משנה תורה, הלכות עבודה זרה וחוקות הגויים ב, י",
     "path_2": "משנה תורה, הלכות עבודה זרה וחוקות הגויים.txt",
@@ -61,26 +82,5 @@
     "heRef_2": "משנה תורה, הלכות עבודה זרה וחוקות הגויים ח, ט",
     "path_2": "משנה תורה, הלכות עבודה זרה וחוקות הגויים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 2710,
-    "heRef_2": "יבמות פ:,  א",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 2750,
-    "heRef_2": "יבמות פב., י",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 2030,
-    "heRef_2": "שבת פג:, ג",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
   }
 ]

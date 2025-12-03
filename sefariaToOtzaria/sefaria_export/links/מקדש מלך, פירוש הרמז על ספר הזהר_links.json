@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 2103,
+    "line_index_2": 166,
+    "heRef_2": "לקוטי תורה, ויקרא א, ד",
+    "path_2": "לקוטי תורה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2288,
+    "line_index_2": 187,
+    "heRef_2": "עבודה זרה ז:,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3413,
+    "line_index_2": 4024,
+    "heRef_2": "באר היטב אורח חיים תמז, א",
+    "path_2": "באר היטב אורח חיים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 2585,
     "line_index_2": 1198,
     "heRef_2": "בראשית לט,  ח",
@@ -18,13 +39,6 @@
     "line_index_2": 1199,
     "heRef_2": "בראשית לט, ט",
     "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2103,
-    "line_index_2": 166,
-    "heRef_2": "לקוטי תורה, ויקרא א, ד",
-    "path_2": "לקוטי תורה.txt",
     "Conection Type": ""
   },
   {
@@ -2241,7 +2255,7 @@
   },
   {
     "line_index_1": 2585,
-    "line_index_2": 957,
+    "line_index_2": 956,
     "heRef_2": "ילקוט שמעוני על התורה קמה, יז",
     "path_2": "ילקוט שמעוני על התורה.txt",
     "Conection Type": ""
@@ -3162,19 +3176,5 @@
     "heRef_2": "ספר הזהר, אמור א, ד",
     "path_2": "ספר הזהר.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2288,
-    "line_index_2": 187,
-    "heRef_2": "עבודה זרה ז:,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3413,
-    "line_index_2": 4024,
-    "heRef_2": "באר היטב אורח חיים תמז, א",
-    "path_2": "באר היטב אורח חיים.txt",
-    "Conection Type": ""
   }
 ]

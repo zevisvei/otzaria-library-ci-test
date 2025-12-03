@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 34,
-    "line_index_2": 229,
-    "heRef_2": "דניאל ז, כה",
-    "path_2": "דניאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 274,
     "line_index_2": 263,
     "heRef_2": "נחמיה י, א",
@@ -1447,5 +1440,12 @@
     "heRef_2": "נחמיה ט, ו",
     "path_2": "נחמיה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 229,
+    "heRef_2": "דניאל ז, כה",
+    "path_2": "דניאל.txt",
+    "Conection Type": ""
   }
 ]

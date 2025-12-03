@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 7,
+    "line_index_2": 2113,
+    "heRef_2": "עבודה זרה עא.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 4,
     "heRef_2": "משנה תורה, הלכות תשובה א, א",
@@ -40,12 +47,5 @@
     "heRef_2": "משנה תורה, הלכות תשובה ז, ד",
     "path_2": "משנה תורה, הלכות תשובה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2113,
-    "heRef_2": "עבודה זרה עא.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

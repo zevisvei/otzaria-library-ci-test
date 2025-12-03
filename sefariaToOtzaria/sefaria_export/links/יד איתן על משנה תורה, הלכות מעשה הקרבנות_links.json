@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 30,
-    "line_index_2": 2829,
-    "heRef_2": "מנחות פא.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 2843,
-    "heRef_2": "מנחות פא:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 39,
     "line_index_2": 184,
     "heRef_2": "משנה תורה, הלכות מעשה הקרבנות י, י",
@@ -166,5 +152,19 @@
     "heRef_2": "משנה תורה, הלכות מעשה הקרבנות ט, ז",
     "path_2": "משנה תורה, הלכות מעשה הקרבנות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 2829,
+    "heRef_2": "מנחות פא.,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 2843,
+    "heRef_2": "מנחות פא:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
   }
 ]

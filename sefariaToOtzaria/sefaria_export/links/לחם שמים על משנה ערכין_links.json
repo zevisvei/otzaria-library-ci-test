@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 139,
+    "line_index_2": 137,
+    "heRef_2": "ישעיהו ז,  א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "משנה ערכין א, א",
@@ -656,12 +663,5 @@
     "heRef_2": "משנה ערכין ט, ח",
     "path_2": "משנה ערכין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 137,
-    "heRef_2": "ישעיהו ז,  א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

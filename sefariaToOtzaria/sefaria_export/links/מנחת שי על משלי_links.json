@@ -1,5 +1,40 @@
 [
   {
+    "line_index_1": 22,
+    "line_index_2": 173,
+    "heRef_2": "מלכים א ה, כ",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 358,
+    "heRef_2": "שמואל א יד, מז",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 365,
+    "heRef_2": "שמואל א טו,  א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 736,
+    "line_index_2": 781,
+    "heRef_2": "שמואל א כח, כא",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 742,
+    "line_index_2": 23,
+    "heRef_2": "שמואל ב א, כא",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 284,
     "line_index_2": 500,
     "heRef_2": "איוב כ, כב",
@@ -35,6 +70,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 361,
+    "line_index_2": 680,
+    "heRef_2": "דברים כה, ב",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 32,
     "line_index_2": 54,
     "heRef_2": "מיכה ד, ח",
@@ -46,13 +88,6 @@
     "line_index_2": 64,
     "heRef_2": "מיכה ה, ג",
     "path_2": "מיכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 361,
-    "line_index_2": 680,
-    "heRef_2": "דברים כה, ב",
-    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -3155,40 +3190,5 @@
     "heRef_2": "משלי ט, ח",
     "path_2": "משלי.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 173,
-    "heRef_2": "מלכים א ה, כ",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 312,
-    "line_index_2": 358,
-    "heRef_2": "שמואל א יד, מז",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 312,
-    "line_index_2": 365,
-    "heRef_2": "שמואל א טו,  א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 736,
-    "line_index_2": 781,
-    "heRef_2": "שמואל א כח, כא",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 742,
-    "line_index_2": 23,
-    "heRef_2": "שמואל ב א, כא",
-    "path_2": "שמואל ב.txt",
-    "Conection Type": ""
   }
 ]

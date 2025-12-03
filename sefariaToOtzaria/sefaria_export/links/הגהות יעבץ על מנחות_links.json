@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 124,
-    "line_index_2": 4065,
-    "heRef_2": "חולין קכז:,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 228,
-    "line_index_2": 3141,
-    "heRef_2": "בבא קמא פג.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 230,
     "line_index_2": 4787,
     "heRef_2": "רש\"י על מנחות ק:, ו, ב",
@@ -1027,5 +1013,19 @@
     "heRef_2": "מנחות ט:, א",
     "path_2": "מנחות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 4065,
+    "heRef_2": "חולין קכז:,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 3141,
+    "heRef_2": "בבא קמא פג.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
   }
 ]

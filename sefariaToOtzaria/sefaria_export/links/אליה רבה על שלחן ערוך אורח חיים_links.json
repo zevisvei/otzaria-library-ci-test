@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 3780,
+    "line_index_2": 1115,
+    "heRef_2": "ביצה לז.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 3139,
     "line_index_2": 1438,
     "heRef_2": "ברכות לא.,  א",
@@ -42351,7 +42358,7 @@
   },
   {
     "line_index_1": 6946,
-    "line_index_2": 2042,
+    "line_index_2": 2044,
     "heRef_2": "הדר זקנים על התורה, ויקרא כג, מ, ג",
     "path_2": "הדר זקנים על התורה.txt",
     "Conection Type": ""
@@ -42365,7 +42372,7 @@
   },
   {
     "line_index_1": 6946,
-    "line_index_2": 3555,
+    "line_index_2": 3538,
     "heRef_2": "ילקוט שמעוני על התורה תרנג, ד",
     "path_2": "ילקוט שמעוני על התורה.txt",
     "Conection Type": ""
@@ -52528,27 +52535,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 2698,
-    "line_index_2": 522,
-    "heRef_2": "בבא בתרא יט.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2937,
-    "line_index_2": 2271,
-    "heRef_2": "בבא בתרא צז.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3780,
-    "line_index_2": 1115,
-    "heRef_2": "ביצה לז.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 2404,
     "line_index_2": 64,
     "heRef_2": "עמוס ד, יג",
@@ -52560,6 +52546,20 @@
     "line_index_2": 494,
     "heRef_2": "עבודה זרה יח.,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2698,
+    "line_index_2": 522,
+    "heRef_2": "בבא בתרא יט.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2937,
+    "line_index_2": 2271,
+    "heRef_2": "בבא בתרא צז.,  א",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 39,
+    "line_index_2": 30,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שאר אבות הטומאות ח, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שאר אבות הטומאות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 1023,
+    "heRef_2": "חולין לה.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 43,
     "line_index_2": 3828,
     "heRef_2": "יבמות קיד., י",
@@ -12,13 +26,6 @@
     "heRef_2": "פסחים קטו., ט",
     "path_2": "פסחים.txt",
     "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 1023,
-    "heRef_2": "חולין לה.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
   },
   {
     "line_index_1": 49,
@@ -264,12 +271,5 @@
     "heRef_2": "משנה תורה, הלכות שאר אבות הטומאות ט, א",
     "path_2": "משנה תורה, הלכות שאר אבות הטומאות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 30,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שאר אבות הטומאות ח, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שאר אבות הטומאות.txt",
-    "Conection Type": "related"
   }
 ]

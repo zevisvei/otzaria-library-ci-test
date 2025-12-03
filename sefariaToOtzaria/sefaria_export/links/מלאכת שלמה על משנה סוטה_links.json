@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 51,
+    "line_index_2": 2291,
+    "heRef_2": "גיטין ע., ג",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 352,
     "line_index_2": 2883,
     "heRef_2": "כתובות קג.,  א",
@@ -46,6 +53,41 @@
     "line_index_2": 824,
     "heRef_2": "מגילה כא:,  א",
     "path_2": "מגילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 4240,
+    "heRef_2": "חולין קלא:, כב",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 290,
+    "line_index_2": 771,
+    "heRef_2": "חולין כח.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 2491,
+    "heRef_2": "חולין פב., יג",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 2657,
+    "heRef_2": "חולין פז.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 2163,
+    "heRef_2": "עירובין נח., יא",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   },
   {
@@ -2266,47 +2308,5 @@
     "heRef_2": "משנה סוטה ט, ט",
     "path_2": "משנה סוטה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 4240,
-    "heRef_2": "חולין קלא:, כב",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 290,
-    "line_index_2": 771,
-    "heRef_2": "חולין כח.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 310,
-    "line_index_2": 2491,
-    "heRef_2": "חולין פב., יג",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 228,
-    "line_index_2": 2657,
-    "heRef_2": "חולין פז.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 2163,
-    "heRef_2": "עירובין נח., יא",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 2291,
-    "heRef_2": "גיטין ע., ג",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

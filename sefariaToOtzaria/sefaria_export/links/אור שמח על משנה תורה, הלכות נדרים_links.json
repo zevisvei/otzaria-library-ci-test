@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 31,
-    "line_index_2": 2929,
-    "heRef_2": "יבמות פח.,  א",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 84,
     "line_index_2": 188,
     "heRef_2": "משנה תורה, הלכות נדרים י, יא",
@@ -383,5 +376,12 @@
     "heRef_2": "משנה תורה, הלכות נדרים ט, כא",
     "path_2": "משנה תורה, הלכות נדרים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 2929,
+    "heRef_2": "יבמות פח.,  א",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
   }
 ]

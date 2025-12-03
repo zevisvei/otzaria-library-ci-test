@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 5,
-    "line_index_2": 45,
-    "heRef_2": "משנה שביעית ה,  א",
-    "path_2": "משנה שביעית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 7,
     "line_index_2": 38,
     "heRef_2": "משנה תורה, הלכות שמיטה ויובל ב, יב",
@@ -68,5 +61,12 @@
     "heRef_2": "משנה תורה, הלכות שמיטה ויובל ט, ו",
     "path_2": "משנה תורה, הלכות שמיטה ויובל.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 45,
+    "heRef_2": "משנה שביעית ה,  א",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,5 +1,544 @@
 [
   {
+    "line_index_1": 65,
+    "line_index_2": 236,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה ג, ו, ד",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 261,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ז, ו, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 440,
+    "heRef_2": "תלמוד ירושלמי ברכות ה, ד, ז",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 106,
+    "heRef_2": "תלמוד ירושלמי חגיגה ב, ה, א",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 116,
+    "heRef_2": "תלמוד ירושלמי חגיגה ב, ז, א",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 118,
+    "heRef_2": "תלמוד ירושלמי חגיגה ב, ז, ג",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 132,
+    "heRef_2": "תלמוד ירושלמי חגיגה ג, ב, ג",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 151,
+    "heRef_2": "תלמוד ירושלמי חגיגה ג, ד, ו",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 362,
+    "heRef_2": "תלמוד ירושלמי עירובין ז, ח, ג",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 438,
+    "heRef_2": "תלמוד ירושלמי עירובין ט, ד, ו",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי גיטין ה, ט, ג",
+    "path_2": "תלמוד ירושלמי גיטין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 141,
+    "heRef_2": "תלמוד ירושלמי מגילה ב, ה, א",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 312,
+    "heRef_2": "תלמוד ירושלמי נזיר ח, א, י",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 132,
+    "heRef_2": "תלמוד ירושלמי ערלה ב, ז, ג",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 331,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 494,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ו, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 509,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ח, ט",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 1672,
+    "heRef_2": "גיטין נג:, ב",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 3006,
+    "heRef_2": "גיטין פו:, טז",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 70,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 60,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 62,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 64,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 66,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 68,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 73,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יא, ב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 76,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יב, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 79,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יג, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 81,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יג, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 84,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יד, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 86,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יד, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 89,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה טו, א, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 91,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה טו, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 5,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה א, א, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 7,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה א, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 9,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה א, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 11,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה א, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 14,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ג, ב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 21,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ד, יא, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 17,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ד, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 19,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ד, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 24,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ה, ה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 26,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ה, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 31,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ו, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 29,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ו, ב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 44,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, יא, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 45,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, יא, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 34,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 36,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 37,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ד, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 39,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 40,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ה, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 42,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 48,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ח, ה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 50,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ח, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 52,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ח, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 57,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ט, טו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 55,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ט, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 847,
+    "heRef_2": "תלמוד ירושלמי שבת יט, א, ט",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 181,
+    "heRef_2": "תלמוד ירושלמי שבת ב, ז, ב",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 519,
+    "heRef_2": "תלמוד ירושלמי שבת ח, ז, ב",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 525,
+    "heRef_2": "תלמוד ירושלמי שבת ט, א, ד",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 108,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ב, ב",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 199,
+    "heRef_2": "תלמוד ירושלמי שקלים ו, ב, ג",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 54,
+    "heRef_2": "תלמוד ירושלמי שבועות ב, א, ז",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 8,
+    "heRef_2": "תלמוד ירושלמי תרומות א, א, ה",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 227,
+    "heRef_2": "תלמוד ירושלמי תרומות ו, א, י",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 6,
+    "heRef_2": "תלמוד ירושלמי יומא א, א, ג",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 7,
+    "heRef_2": "תלמוד ירושלמי יומא א, א, ד",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 149,
+    "heRef_2": "תלמוד ירושלמי יומא ג, ז, ג",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 187,
+    "heRef_2": "תלמוד ירושלמי יומא ד, ב, ב",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 317,
+    "heRef_2": "תלמוד ירושלמי יומא ו, ה, א",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 321,
+    "heRef_2": "תלמוד ירושלמי יומא ו, ו, א",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 330,
+    "heRef_2": "תלמוד ירושלמי יומא ו, ו, י",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 324,
+    "heRef_2": "תלמוד ירושלמי יומא ו, ו, ד",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 325,
+    "heRef_2": "תלמוד ירושלמי יומא ו, ו, ה",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 327,
+    "heRef_2": "תלמוד ירושלמי יומא ו, ו, ז",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 127,
     "line_index_2": 404,
     "heRef_2": "כסף משנה על משנה תורה, הלכות פרה אדומה י, י, א",
@@ -3444,41 +3983,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 53,
-    "line_index_2": 452,
-    "heRef_2": "ויקרא טו, יג",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 498,
-    "heRef_2": "ויקרא טז, כה",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 499,
-    "heRef_2": "ויקרא טז, כו",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 501,
-    "heRef_2": "ויקרא טז, כח",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 501,
-    "heRef_2": "ויקרא טז, כח",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 177,
     "line_index_2": 764,
     "heRef_2": "בכורות כג., ג",
@@ -3631,6 +4135,41 @@
     "heRef_2": "חגיגה כה., ו",
     "path_2": "חגיגה.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 452,
+    "heRef_2": "ויקרא טו, יג",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 498,
+    "heRef_2": "ויקרא טז, כה",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 499,
+    "heRef_2": "ויקרא טז, כו",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 501,
+    "heRef_2": "ויקרא טז, כח",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 501,
+    "heRef_2": "ויקרא טז, כח",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 127,
@@ -4361,90 +4900,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 10,
-    "line_index_2": 5,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות פרה אדומה א, ז, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 8,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות פרה אדומה ט, א, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 3631,
-    "heRef_2": "מנחות קא:, יז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 3632,
-    "heRef_2": "מנחות קא:, יח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 933,
-    "heRef_2": "מנחות כז., יד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 953,
-    "heRef_2": "מנחות כז:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 953,
-    "heRef_2": "מנחות כז:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 1208,
-    "heRef_2": "מנחות לה:, ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 1284,
-    "heRef_2": "מנחות לח:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 189,
-    "heRef_2": "מנחות ו:, יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 238,
-    "heRef_2": "מנחות ז:, יט",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 226,
-    "heRef_2": "מנחות ז:, ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
     "line_index_1": 12,
     "line_index_2": 638,
     "heRef_2": "חולין כג:, יב",
@@ -4529,10 +4984,178 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 110,
+    "line_index_2": 5,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות פרה אדומה ט, יב, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 53,
+    "heRef_2": "ערכין ג., יד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 54,
+    "heRef_2": "ערכין ג., טו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 650,
+    "heRef_2": "עבודה זרה כג., ה",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 651,
+    "heRef_2": "עבודה זרה כג., ו",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 661,
+    "heRef_2": "עבודה זרה כג:, ה",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 662,
+    "heRef_2": "עבודה זרה כג:, ו",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 664,
+    "heRef_2": "עבודה זרה כג:, ח",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 1025,
+    "heRef_2": "בבא מציעא ל., יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 1020,
+    "heRef_2": "בבא מציעא ל., ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 1023,
+    "heRef_2": "בבא מציעא ל., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 2995,
+    "heRef_2": "בבא מציעא צג., י",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
     "line_index_1": 30,
     "line_index_2": 2163,
     "heRef_2": "עירובין נח., יא",
     "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 5,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות פרה אדומה א, ז, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 8,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות פרה אדומה ט, א, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות פרה אדומה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 3631,
+    "heRef_2": "מנחות קא:, יז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 3632,
+    "heRef_2": "מנחות קא:, יח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 933,
+    "heRef_2": "מנחות כז., יד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 953,
+    "heRef_2": "מנחות כז:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 953,
+    "heRef_2": "מנחות כז:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 1208,
+    "heRef_2": "מנחות לה:, ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 1284,
+    "heRef_2": "מנחות לח:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 189,
+    "heRef_2": "מנחות ו:, יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 238,
+    "heRef_2": "מנחות ז:, יט",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 226,
+    "heRef_2": "מנחות ז:, ז",
+    "path_2": "מנחות.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -4905,734 +5528,6 @@
     "heRef_2": "ספר החינוך שצז, ז",
     "path_2": "ספר החינוך.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 2155,
-    "heRef_2": "טור, יורה דעה, יורה דעה שסט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 2165,
-    "heRef_2": "טור, יורה דעה, יורה דעה שעד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 4,
@@ -6503,13 +6398,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 14,
-    "line_index_2": 374,
-    "heRef_2": "במדבר ט, ג",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 15,
     "line_index_2": 1074,
     "heRef_2": "יומא מג., ה",
@@ -6703,13 +6591,6 @@
     "line_index_2": 439,
     "heRef_2": "משנה תורה, הלכות שבת כ, יא",
     "path_2": "משנה תורה, הלכות שבת.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 622,
-    "heRef_2": "טור, אורח חיים, אורח חיים שה, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10721,377 +10602,6 @@
     "line_index_2": 2604,
     "heRef_2": "זבחים פ., ט",
     "path_2": "זבחים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 1025,
-    "heRef_2": "בבא מציעא ל., יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 1020,
-    "heRef_2": "בבא מציעא ל., ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 1023,
-    "heRef_2": "בבא מציעא ל., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 2995,
-    "heRef_2": "בבא מציעא צג., י",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 1672,
-    "heRef_2": "גיטין נג:, ב",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 3006,
-    "heRef_2": "גיטין פו:, טז",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 70,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 60,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 62,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 64,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 66,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 68,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה י, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 73,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יא, ב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 76,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יב, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 79,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יג, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 81,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יג, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 84,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יד, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 169,
-    "line_index_2": 86,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה יד, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 89,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה טו, א, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 91,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה טו, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 5,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה א, א, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 7,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה א, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 9,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה א, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 11,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה א, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 14,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ג, ב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 21,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ד, יא, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 17,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ד, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 19,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ד, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 24,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ה, ה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 26,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ה, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 31,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ו, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 29,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ו, ב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 44,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, יא, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 45,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, יא, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 34,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 36,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 37,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ד, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 39,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 40,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ה, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 42,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ז, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 48,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ח, ה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 50,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ח, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 52,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ח, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 57,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ט, טו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 55,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות פרה אדומה ט, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 5,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות פרה אדומה ט, יב, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות פרה אדומה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 53,
-    "heRef_2": "ערכין ג., יד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 54,
-    "heRef_2": "ערכין ג., טו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 650,
-    "heRef_2": "עבודה זרה כג., ה",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 651,
-    "heRef_2": "עבודה זרה כג., ו",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 661,
-    "heRef_2": "עבודה זרה כג:, ה",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 662,
-    "heRef_2": "עבודה זרה כג:, ו",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 664,
-    "heRef_2": "עבודה זרה כג:, ח",
-    "path_2": "עבודה זרה.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   }
 ]

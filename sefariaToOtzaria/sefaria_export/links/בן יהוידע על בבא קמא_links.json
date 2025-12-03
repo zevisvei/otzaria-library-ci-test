@@ -232,16 +232,16 @@
   },
   {
     "line_index_1": 4,
-    "line_index_2": 992,
-    "heRef_2": "שמות לג, כ",
-    "path_2": "שמות.txt",
+    "line_index_2": 24,
+    "heRef_2": "ירמיהו ב, ב",
+    "path_2": "ירמיהו.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 4,
-    "line_index_2": 24,
-    "heRef_2": "ירמיהו ב, ב",
-    "path_2": "ירמיהו.txt",
+    "line_index_2": 992,
+    "heRef_2": "שמות לג, כ",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -1687,6 +1687,27 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 72,
+    "line_index_2": 152,
+    "heRef_2": "עמוס ט, יא",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 537,
+    "heRef_2": "עבודה זרה יט., ח",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 581,
+    "heRef_2": "עבודה זרה כ:, ב",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 85,
     "line_index_2": 2743,
     "heRef_2": "בבא בתרא קכ:,  א",
@@ -1844,6 +1865,20 @@
     "line_index_1": 21,
     "line_index_2": 655,
     "heRef_2": "בבא קמא יז., ח",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 18,
+    "heRef_2": "בבא קמא ב:, ה",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 18,
+    "heRef_2": "בבא קמא ב:, ה",
     "path_2": "בבא קמא.txt",
     "Conection Type": "commentary"
   },
@@ -2408,6 +2443,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 7,
+    "line_index_2": 301,
+    "heRef_2": "בבא קמא ט:, ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 9,
     "line_index_2": 302,
     "heRef_2": "בבא קמא ט:, ג",
@@ -2426,27 +2468,6 @@
     "line_index_2": 3232,
     "heRef_2": "בבא מציעא צט:, ג",
     "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 152,
-    "heRef_2": "עמוס ט, יא",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 537,
-    "heRef_2": "עבודה זרה יט., ח",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 581,
-    "heRef_2": "עבודה זרה כ:, ב",
-    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   }
 ]

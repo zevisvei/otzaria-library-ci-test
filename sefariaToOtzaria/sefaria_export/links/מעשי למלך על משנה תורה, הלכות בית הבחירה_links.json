@@ -1,5 +1,33 @@
 [
   {
+    "line_index_1": 247,
+    "line_index_2": 1192,
+    "heRef_2": "גיטין מ., ה",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 278,
+    "heRef_2": "מלכים א ח,  א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 32,
+    "heRef_2": "שמואל א ב,  א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 167,
+    "heRef_2": "שמואל א ח,  א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 44,
     "line_index_2": 1040,
     "heRef_2": "כריתות כד.,  א",
@@ -67,6 +95,27 @@
     "line_index_2": 2154,
     "heRef_2": "קידושין ע.,  א",
     "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 656,
+    "heRef_2": "ביצה כב.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 847,
+    "heRef_2": "ביצה כח.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1180,
+    "heRef_2": "ביצה לט.,  א",
+    "path_2": "ביצה.txt",
     "Conection Type": ""
   },
   {
@@ -1708,6 +1757,55 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 37,
+    "line_index_2": 343,
+    "heRef_2": "עבודה זרה יג.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 899,
+    "heRef_2": "עבודה זרה לא.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 1618,
+    "heRef_2": "עבודה זרה נב.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 701,
+    "heRef_2": "בבא בתרא כה., ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 814,
+    "heRef_2": "בבא בתרא כט.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 4378,
+    "heRef_2": "בבא קמא קטז.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 330,
+    "heRef_2": "בבא מציעא יא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 265,
     "line_index_2": 3716,
     "heRef_2": "עירובין קב.,  א",
@@ -1747,104 +1845,6 @@
     "line_index_2": 2928,
     "heRef_2": "עירובין פ., כה",
     "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 701,
-    "heRef_2": "בבא בתרא כה., ב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 814,
-    "heRef_2": "בבא בתרא כט.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 4378,
-    "heRef_2": "בבא קמא קטז.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 330,
-    "heRef_2": "בבא מציעא יא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 656,
-    "heRef_2": "ביצה כב.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 847,
-    "heRef_2": "ביצה כח.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1180,
-    "heRef_2": "ביצה לט.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 247,
-    "line_index_2": 1192,
-    "heRef_2": "גיטין מ., ה",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 278,
-    "heRef_2": "מלכים א ח,  א",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 221,
-    "line_index_2": 32,
-    "heRef_2": "שמואל א ב,  א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 167,
-    "heRef_2": "שמואל א ח,  א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 343,
-    "heRef_2": "עבודה זרה יג.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 899,
-    "heRef_2": "עבודה זרה לא.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 1618,
-    "heRef_2": "עבודה זרה נב.,  א",
-    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   }
 ]

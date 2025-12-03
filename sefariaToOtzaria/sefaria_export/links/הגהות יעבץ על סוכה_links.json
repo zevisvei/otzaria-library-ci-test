@@ -1,23 +1,9 @@
 [
   {
-    "line_index_1": 56,
-    "line_index_2": 26,
-    "heRef_2": "שמות ב,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 107,
     "line_index_2": 146,
     "heRef_2": "בראשית ו,  א",
     "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 3036,
-    "heRef_2": "עירובין פג.,  א",
-    "path_2": "עירובין.txt",
     "Conection Type": ""
   },
   {
@@ -565,5 +551,19 @@
     "heRef_2": "סוכה ט:, ב",
     "path_2": "סוכה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 3036,
+    "heRef_2": "עירובין פג.,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 26,
+    "heRef_2": "שמות ב,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

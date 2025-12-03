@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 1106,
-    "line_index_2": 614,
-    "heRef_2": "יחזקאל כג, מז",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 933,
-    "line_index_2": 939,
-    "heRef_2": "איוב לז,  א",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 936,
-    "line_index_2": 2334,
-    "heRef_2": "כתובות פו.,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 749,
-    "line_index_2": 1912,
-    "heRef_2": "קידושין סב:,  א",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 969,
     "line_index_2": 3897,
     "heRef_2": "סנהדרין ק., ג",
@@ -567,9 +539,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 1065,
-    "line_index_2": 5952,
-    "heRef_2": "רש\"י על סנהדרין קו:, יב, א",
+    "line_index_1": 1064,
+    "line_index_2": 4131,
+    "heRef_2": "סנהדרין קו:, ב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1064,
+    "line_index_2": 5932,
+    "heRef_2": "רש\"י על סנהדרין קו:, ב, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
   },
@@ -578,6 +557,13 @@
     "line_index_2": 4141,
     "heRef_2": "סנהדרין קו:, יב",
     "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1065,
+    "line_index_2": 5951,
+    "heRef_2": "רש\"י על סנהדרין קו:, יא, ג",
+    "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
   },
   {
@@ -603,7 +589,7 @@
   },
   {
     "line_index_1": 1070,
-    "line_index_2": 5971,
+    "line_index_2": 5972,
     "heRef_2": "רש\"י על סנהדרין קז., ו, ג",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -617,7 +603,7 @@
   },
   {
     "line_index_1": 1071,
-    "line_index_2": 5972,
+    "line_index_2": 5973,
     "heRef_2": "רש\"י על סנהדרין קז., ו, ד",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -631,7 +617,7 @@
   },
   {
     "line_index_1": 1072,
-    "line_index_2": 5987,
+    "line_index_2": 5988,
     "heRef_2": "רש\"י על סנהדרין קז., טו, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -708,7 +694,7 @@
   },
   {
     "line_index_1": 1094,
-    "line_index_2": 6103,
+    "line_index_2": 6104,
     "heRef_2": "רש\"י על סנהדרין קט., יב, ד",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -721,23 +707,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 1097,
+    "line_index_1": 1098,
     "line_index_2": 4260,
     "heRef_2": "סנהדרין קט:, ד",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 1098,
+    "line_index_1": 1099,
     "line_index_2": 4270,
     "heRef_2": "סנהדרין קט:, יד",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1099,
-    "line_index_2": 4271,
-    "heRef_2": "סנהדרין קט:, טו",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
   },
@@ -749,14 +728,7 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 1102,
-    "line_index_2": 6153,
-    "heRef_2": "רש\"י על סנהדרין קט:, טו, א",
-    "path_2": "רשי על סנהדרין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1102,
+    "line_index_1": 1101,
     "line_index_2": 4271,
     "heRef_2": "סנהדרין קט:, טו",
     "path_2": "סנהדרין.txt",
@@ -827,7 +799,7 @@
   },
   {
     "line_index_1": 1106,
-    "line_index_2": 6190,
+    "line_index_2": 6191,
     "heRef_2": "רש\"י על סנהדרין קי., טז, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -841,7 +813,7 @@
   },
   {
     "line_index_1": 1109,
-    "line_index_2": 6213,
+    "line_index_2": 6214,
     "heRef_2": "רש\"י על סנהדרין קי:, ו, ד",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -855,7 +827,7 @@
   },
   {
     "line_index_1": 1110,
-    "line_index_2": 6214,
+    "line_index_2": 6215,
     "heRef_2": "רש\"י על סנהדרין קי:, ו, ה",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -869,7 +841,7 @@
   },
   {
     "line_index_1": 1111,
-    "line_index_2": 6216,
+    "line_index_2": 6217,
     "heRef_2": "רש\"י על סנהדרין קי:, ז, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -883,7 +855,7 @@
   },
   {
     "line_index_1": 1112,
-    "line_index_2": 6219,
+    "line_index_2": 6220,
     "heRef_2": "רש\"י על סנהדרין קי:, ח, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -897,7 +869,7 @@
   },
   {
     "line_index_1": 1113,
-    "line_index_2": 6224,
+    "line_index_2": 6225,
     "heRef_2": "רש\"י על סנהדרין קי:, ט, ד",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -932,7 +904,7 @@
   },
   {
     "line_index_1": 1118,
-    "line_index_2": 6242,
+    "line_index_2": 6243,
     "heRef_2": "רש\"י על סנהדרין קיא., ג, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -946,7 +918,7 @@
   },
   {
     "line_index_1": 1119,
-    "line_index_2": 6243,
+    "line_index_2": 6244,
     "heRef_2": "רש\"י על סנהדרין קיא., ג, ג",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -960,7 +932,7 @@
   },
   {
     "line_index_1": 1120,
-    "line_index_2": 6243,
+    "line_index_2": 6244,
     "heRef_2": "רש\"י על סנהדרין קיא., ג, ג",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -974,7 +946,7 @@
   },
   {
     "line_index_1": 1121,
-    "line_index_2": 6251,
+    "line_index_2": 6252,
     "heRef_2": "רש\"י על סנהדרין קיא., ו, ג",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -995,7 +967,7 @@
   },
   {
     "line_index_1": 1132,
-    "line_index_2": 6283,
+    "line_index_2": 6284,
     "heRef_2": "רש\"י על סנהדרין קיא:, ח, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1009,7 +981,7 @@
   },
   {
     "line_index_1": 1134,
-    "line_index_2": 6294,
+    "line_index_2": 6295,
     "heRef_2": "רש\"י על סנהדרין קיא:, יד, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1023,7 +995,7 @@
   },
   {
     "line_index_1": 1136,
-    "line_index_2": 6297,
+    "line_index_2": 6298,
     "heRef_2": "רש\"י על סנהדרין קיא:, טו, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1037,7 +1009,7 @@
   },
   {
     "line_index_1": 1137,
-    "line_index_2": 6299,
+    "line_index_2": 6300,
     "heRef_2": "רש\"י על סנהדרין קיא:, טז, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1065,7 +1037,7 @@
   },
   {
     "line_index_1": 1142,
-    "line_index_2": 6308,
+    "line_index_2": 6309,
     "heRef_2": "רש\"י על סנהדרין קיב., א, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1079,7 +1051,7 @@
   },
   {
     "line_index_1": 1143,
-    "line_index_2": 6314,
+    "line_index_2": 6315,
     "heRef_2": "רש\"י על סנהדרין קיב., ד, ג",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1093,7 +1065,7 @@
   },
   {
     "line_index_1": 1144,
-    "line_index_2": 6322,
+    "line_index_2": 6323,
     "heRef_2": "רש\"י על סנהדרין קיב., ח, ג",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1107,7 +1079,7 @@
   },
   {
     "line_index_1": 1145,
-    "line_index_2": 6327,
+    "line_index_2": 6328,
     "heRef_2": "רש\"י על סנהדרין קיב., יא, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1121,7 +1093,7 @@
   },
   {
     "line_index_1": 1146,
-    "line_index_2": 6327,
+    "line_index_2": 6328,
     "heRef_2": "רש\"י על סנהדרין קיב., יא, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1135,7 +1107,7 @@
   },
   {
     "line_index_1": 1147,
-    "line_index_2": 6335,
+    "line_index_2": 6336,
     "heRef_2": "רש\"י על סנהדרין קיב., טז, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1149,7 +1121,7 @@
   },
   {
     "line_index_1": 1150,
-    "line_index_2": 6345,
+    "line_index_2": 6346,
     "heRef_2": "רש\"י על סנהדרין קיב:, א, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1163,7 +1135,7 @@
   },
   {
     "line_index_1": 1151,
-    "line_index_2": 6349,
+    "line_index_2": 6350,
     "heRef_2": "רש\"י על סנהדרין קיב:, ג, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1177,7 +1149,7 @@
   },
   {
     "line_index_1": 1152,
-    "line_index_2": 6364,
+    "line_index_2": 6365,
     "heRef_2": "רש\"י על סנהדרין קיב:, ט, ג",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1191,7 +1163,7 @@
   },
   {
     "line_index_1": 1153,
-    "line_index_2": 6365,
+    "line_index_2": 6366,
     "heRef_2": "רש\"י על סנהדרין קיב:, י, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1205,7 +1177,7 @@
   },
   {
     "line_index_1": 1154,
-    "line_index_2": 6371,
+    "line_index_2": 6372,
     "heRef_2": "רש\"י על סנהדרין קיב:, יג, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1219,7 +1191,7 @@
   },
   {
     "line_index_1": 1155,
-    "line_index_2": 6372,
+    "line_index_2": 6373,
     "heRef_2": "רש\"י על סנהדרין קיב:, יד, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1233,7 +1205,7 @@
   },
   {
     "line_index_1": 1156,
-    "line_index_2": 6377,
+    "line_index_2": 6378,
     "heRef_2": "רש\"י על סנהדרין קיב:, טו, ב",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1261,7 +1233,7 @@
   },
   {
     "line_index_1": 1161,
-    "line_index_2": 6380,
+    "line_index_2": 6381,
     "heRef_2": "רש\"י על סנהדרין קיג., א, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1275,7 +1247,7 @@
   },
   {
     "line_index_1": 1162,
-    "line_index_2": 6384,
+    "line_index_2": 6385,
     "heRef_2": "רש\"י על סנהדרין קיג., ג, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1289,7 +1261,7 @@
   },
   {
     "line_index_1": 1163,
-    "line_index_2": 6387,
+    "line_index_2": 6388,
     "heRef_2": "רש\"י על סנהדרין קיג., ו, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1303,7 +1275,7 @@
   },
   {
     "line_index_1": 1164,
-    "line_index_2": 6392,
+    "line_index_2": 6393,
     "heRef_2": "רש\"י על סנהדרין קיג., ח, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -1317,7 +1289,7 @@
   },
   {
     "line_index_1": 1165,
-    "line_index_2": 6404,
+    "line_index_2": 6405,
     "heRef_2": "רש\"י על סנהדרין קיג., יד, א",
     "path_2": "רשי על סנהדרין.txt",
     "Conection Type": "commentary"
@@ -8365,6 +8337,41 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 351,
+    "line_index_2": 119,
+    "heRef_2": "ירמיהו ה,  א",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 908,
+    "line_index_2": 605,
+    "heRef_2": "מלכים ב כ, יט",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 933,
+    "line_index_2": 939,
+    "heRef_2": "איוב לז,  א",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 936,
+    "line_index_2": 2334,
+    "heRef_2": "כתובות פו.,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 749,
+    "line_index_2": 1912,
+    "heRef_2": "קידושין סב:,  א",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 244,
     "line_index_2": 751,
     "heRef_2": "ויקרא כה,  א",
@@ -8393,13 +8400,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 981,
-    "line_index_2": 98,
-    "heRef_2": "מיכה ז, ה",
-    "path_2": "מיכה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 245,
     "line_index_2": 535,
     "heRef_2": "דברים יט, ד",
@@ -8411,27 +8411,6 @@
     "line_index_2": 629,
     "heRef_2": "דברים כג, א",
     "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 619,
-    "line_index_2": 40,
-    "heRef_2": "משנה שקלים ו, ב",
-    "path_2": "משנה שקלים.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 936,
-    "line_index_2": 2667,
-    "heRef_2": "בבא מציעא פד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 908,
-    "line_index_2": 605,
-    "heRef_2": "מלכים ב כ, יט",
-    "path_2": "מלכים ב.txt",
     "Conection Type": ""
   },
   {
@@ -8449,10 +8428,31 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 351,
-    "line_index_2": 119,
-    "heRef_2": "ירמיהו ה,  א",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 936,
+    "line_index_2": 2667,
+    "heRef_2": "בבא מציעא פד.,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 1106,
+    "line_index_2": 614,
+    "heRef_2": "יחזקאל כג, מז",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 981,
+    "line_index_2": 98,
+    "heRef_2": "מיכה ז, ה",
+    "path_2": "מיכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 619,
+    "line_index_2": 40,
+    "heRef_2": "משנה שקלים ו, ב",
+    "path_2": "משנה שקלים.txt",
+    "Conection Type": "quotation"
   }
 ]

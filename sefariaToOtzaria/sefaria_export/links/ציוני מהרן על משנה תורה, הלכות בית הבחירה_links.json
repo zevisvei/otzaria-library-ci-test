@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 30,
+    "line_index_2": 3,
+    "heRef_2": "חגי א,  א",
+    "path_2": "חגי.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 14,
     "heRef_2": "משנה תורה, הלכות בית הבחירה א, יא",
@@ -96,12 +103,5 @@
     "heRef_2": "משנה תורה, הלכות בית הבחירה ז, כג",
     "path_2": "משנה תורה, הלכות בית הבחירה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 3,
-    "heRef_2": "חגי א,  א",
-    "path_2": "חגי.txt",
-    "Conection Type": ""
   }
 ]

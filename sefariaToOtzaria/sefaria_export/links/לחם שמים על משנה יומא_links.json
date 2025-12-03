@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 264,
+    "line_index_2": 217,
+    "heRef_2": "ירמיהו ח,  א",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 318,
+    "line_index_2": 312,
+    "heRef_2": "שמואל א יד,  א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "משנה יומא א, א",
@@ -2287,19 +2301,5 @@
     "heRef_2": "משנה יומא ח, ט",
     "path_2": "משנה יומא.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 318,
-    "line_index_2": 312,
-    "heRef_2": "שמואל א יד,  א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 217,
-    "heRef_2": "ירמיהו ח,  א",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
   }
 ]

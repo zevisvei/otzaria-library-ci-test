@@ -1,5 +1,159 @@
 [
   {
+    "line_index_1": 65,
+    "line_index_2": 555,
+    "heRef_2": "גיטין כ., ד",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 659,
+    "heRef_2": "גיטין כג., י",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 712,
+    "heRef_2": "גיטין כד:, ו",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 750,
+    "heRef_2": "גיטין כו., ד",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 774,
+    "heRef_2": "גיטין כו:, י",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 833,
+    "heRef_2": "גיטין כח:, יב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 1044,
+    "heRef_2": "גיטין לו.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 2149,
+    "heRef_2": "גיטין סו., ז",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 2149,
+    "heRef_2": "גיטין סו., ז",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 2161,
+    "heRef_2": "גיטין סו:, א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 2177,
+    "heRef_2": "גיטין סז.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 2193,
+    "heRef_2": "גיטין סז:, ב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 2200,
+    "heRef_2": "גיטין סז:, ט",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 2364,
+    "heRef_2": "גיטין עא:, ט",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 2378,
+    "heRef_2": "גיטין עב., ה",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 2411,
+    "heRef_2": "גיטין עב:, יח",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 2628,
+    "heRef_2": "גיטין עח., יב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 2698,
+    "heRef_2": "גיטין עט:, ט",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 2711,
+    "heRef_2": "גיטין פ., ג",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 2913,
+    "heRef_2": "גיטין פד:, יא",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 2971,
+    "heRef_2": "גיטין פו., ה",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 3062,
+    "heRef_2": "גיטין פז:, יב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 171,
     "line_index_2": 252,
     "heRef_2": "משנה תורה, הלכות גירושין י, יא",
@@ -1141,6 +1295,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 63,
+    "line_index_2": 1157,
+    "heRef_2": "ביצה לח.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 238,
     "line_index_2": 1705,
     "heRef_2": "חולין נז:, ז",
@@ -1166,181 +1327,6 @@
     "line_index_2": 1173,
     "heRef_2": "בבא בתרא מח., ה",
     "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 1157,
-    "heRef_2": "ביצה לח.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 555,
-    "heRef_2": "גיטין כ., ד",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 659,
-    "heRef_2": "גיטין כג., י",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 689,
-    "heRef_2": "גיטין כד.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 712,
-    "heRef_2": "גיטין כד:, ו",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 750,
-    "heRef_2": "גיטין כו., ד",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 774,
-    "heRef_2": "גיטין כו:, י",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 236,
-    "line_index_2": 833,
-    "heRef_2": "גיטין כח:, יב",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 1044,
-    "heRef_2": "גיטין לו.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 2149,
-    "heRef_2": "גיטין סו., ז",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 2149,
-    "heRef_2": "גיטין סו., ז",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 2161,
-    "heRef_2": "גיטין סו:, א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 2177,
-    "heRef_2": "גיטין סז.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 2177,
-    "heRef_2": "גיטין סז.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 2193,
-    "heRef_2": "גיטין סז:, ב",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 2200,
-    "heRef_2": "גיטין סז:, ט",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 2364,
-    "heRef_2": "גיטין עא:, ט",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 2378,
-    "heRef_2": "גיטין עב., ה",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 2411,
-    "heRef_2": "גיטין עב:, יח",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2628,
-    "heRef_2": "גיטין עח., יב",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 2698,
-    "heRef_2": "גיטין עט:, ט",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 2711,
-    "heRef_2": "גיטין פ., ג",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2913,
-    "heRef_2": "גיטין פד:, יא",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 2971,
-    "heRef_2": "גיטין פו., ה",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 3062,
-    "heRef_2": "גיטין פז:, יב",
-    "path_2": "גיטין.txt",
     "Conection Type": ""
   }
 ]

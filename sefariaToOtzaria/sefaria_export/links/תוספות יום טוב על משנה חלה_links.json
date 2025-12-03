@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 10,
-    "line_index_2": 695,
-    "heRef_2": "ויקרא כג, יד",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 26,
     "line_index_2": 10,
     "heRef_2": "רש״ש על משנה חלה א, ו, א",
@@ -35,6 +28,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 124,
+    "line_index_2": 1820,
+    "heRef_2": "גיטין נז., כב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 695,
+    "heRef_2": "ויקרא כג, יד",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 23,
     "line_index_2": 1892,
     "heRef_2": "שבת עו:,  א",
@@ -49,10 +56,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 11,
-    "line_index_2": 2458,
-    "heRef_2": "מנחות עא.,  א",
-    "path_2": "מנחות.txt",
+    "line_index_1": 35,
+    "line_index_2": 2434,
+    "heRef_2": "יבמות עג.,  א",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 2434,
+    "heRef_2": "יבמות עג.,  א",
+    "path_2": "יבמות.txt",
     "Conection Type": ""
   },
   {
@@ -81,6 +95,13 @@
     "line_index_2": 1497,
     "heRef_2": "פסחים מח:, ג",
     "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 2458,
+    "heRef_2": "מנחות עא.,  א",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
@@ -698,26 +719,5 @@
     "heRef_2": "משנה חלה ד, ח",
     "path_2": "משנה חלה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 1820,
-    "heRef_2": "גיטין נז., כב",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 2434,
-    "heRef_2": "יבמות עג.,  א",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 2434,
-    "heRef_2": "יבמות עג.,  א",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
   }
 ]

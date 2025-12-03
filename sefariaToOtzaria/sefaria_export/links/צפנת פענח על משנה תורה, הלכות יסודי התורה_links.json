@@ -1,16 +1,23 @@
 [
   {
     "line_index_1": 49,
-    "line_index_2": 75,
-    "heRef_2": "בכורות ד.,  א",
-    "path_2": "בכורות.txt",
+    "line_index_2": 69,
+    "heRef_2": "רות ד,  א",
+    "path_2": "רות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 42,
+    "heRef_2": "גיטין ד.,  א",
+    "path_2": "גיטין.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 49,
-    "line_index_2": 69,
-    "heRef_2": "רות ד,  א",
-    "path_2": "רות.txt",
+    "line_index_2": 75,
+    "heRef_2": "בכורות ד.,  א",
+    "path_2": "בכורות.txt",
     "Conection Type": ""
   },
   {
@@ -22,9 +29,16 @@
   },
   {
     "line_index_1": 56,
-    "line_index_2": 1881,
-    "heRef_2": "מנחות נד.,  א",
-    "path_2": "מנחות.txt",
+    "line_index_2": 1005,
+    "heRef_2": "חולין לד., ז",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 72,
+    "heRef_2": "זבחים ד.,  א",
+    "path_2": "זבחים.txt",
     "Conection Type": ""
   },
   {
@@ -42,10 +56,17 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 69,
+    "line_index_2": 1511,
+    "heRef_2": "בבא מציעא מה.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 56,
-    "line_index_2": 1005,
-    "heRef_2": "חולין לד., ז",
-    "path_2": "חולין.txt",
+    "line_index_2": 1881,
+    "heRef_2": "מנחות נד.,  א",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
@@ -537,26 +558,5 @@
     "heRef_2": "משנה תורה, הלכות יסודי התורה ט, ד",
     "path_2": "משנה תורה, הלכות יסודי התורה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 1511,
-    "heRef_2": "בבא מציעא מה.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 42,
-    "heRef_2": "גיטין ד.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 72,
-    "heRef_2": "זבחים ד.,  א",
-    "path_2": "זבחים.txt",
-    "Conection Type": ""
   }
 ]

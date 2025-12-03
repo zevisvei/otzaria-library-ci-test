@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 87,
-    "line_index_2": 2285,
-    "heRef_2": "קידושין עד.,  א",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 18,
     "line_index_2": 822,
     "heRef_2": "סוטה כד.,  א",
@@ -32,6 +25,34 @@
     "line_index_2": 2181,
     "heRef_2": "שולחן ערוך, חושן משפט רב,  א",
     "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 2285,
+    "heRef_2": "קידושין עד.,  א",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 3,
+    "heRef_2": "עבודה זרה ב.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 938,
+    "heRef_2": "עבודה זרה לב:,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 353,
+    "heRef_2": "בבא מציעא יא:,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   },
   {
@@ -502,26 +523,5 @@
     "heRef_2": "משנה תורה, הלכות אישות ט, ט",
     "path_2": "משנה תורה, הלכות אישות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 353,
-    "heRef_2": "בבא מציעא יא:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 3,
-    "heRef_2": "עבודה זרה ב.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 938,
-    "heRef_2": "עבודה זרה לב:,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

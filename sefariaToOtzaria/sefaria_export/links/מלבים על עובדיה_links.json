@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 42,
+    "line_index_2": 476,
+    "heRef_2": "שמואל ב יח,  א",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 458,
+    "heRef_2": "ישעיהו כג, יא",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 23,
     "line_index_2": 12,
     "heRef_2": "עובדיה א, י",
@@ -166,19 +180,5 @@
     "heRef_2": "עובדיה א, ט",
     "path_2": "עובדיה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 476,
-    "heRef_2": "שמואל ב יח,  א",
-    "path_2": "שמואל ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 458,
-    "heRef_2": "ישעיהו כג, יא",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

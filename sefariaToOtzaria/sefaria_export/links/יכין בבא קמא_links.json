@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 594,
+    "line_index_2": 1023,
+    "heRef_2": "ביצה לד.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 348,
     "line_index_2": 4,
     "heRef_2": "בועז על משנה בבא קמא ד, א",
@@ -39,6 +46,20 @@
     "line_index_2": 56,
     "heRef_2": "חגיגה ד.,  א",
     "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 3,
+    "heRef_2": "בבא מציעא ב.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 572,
+    "line_index_2": 3117,
+    "heRef_2": "בבא מציעא צו.,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   },
   {
@@ -3925,26 +3946,5 @@
     "heRef_2": "משנה בבא קמא ט, ט",
     "path_2": "משנה בבא קמא.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 415,
-    "line_index_2": 3,
-    "heRef_2": "בבא מציעא ב.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 572,
-    "line_index_2": 3117,
-    "heRef_2": "בבא מציעא צו.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 594,
-    "line_index_2": 1023,
-    "heRef_2": "ביצה לד.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
   }
 ]

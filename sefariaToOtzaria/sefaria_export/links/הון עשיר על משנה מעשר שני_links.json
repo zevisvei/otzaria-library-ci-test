@@ -1,61 +1,5 @@
 [
   {
-    "line_index_1": 109,
-    "line_index_2": 789,
-    "heRef_2": "בראשית כז, לג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 435,
-    "heRef_2": "דברים יד, כה",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 436,
-    "heRef_2": "דברים יד, כו",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 657,
-    "heRef_2": "דברים כד, ב",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 1012,
-    "heRef_2": "בבא קמא כז., טז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1012,
-    "heRef_2": "בבא קמא כז., טז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 2642,
-    "heRef_2": "בבא קמא סט.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 2667,
-    "heRef_2": "בבא מציעא פד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 4,
     "heRef_2": "משנה מעשר שני א, ב",
@@ -593,5 +537,61 @@
     "heRef_2": "משנה מעשר שני ה, ח",
     "path_2": "משנה מעשר שני.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 435,
+    "heRef_2": "דברים יד, כה",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 436,
+    "heRef_2": "דברים יד, כו",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 657,
+    "heRef_2": "דברים כד, ב",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 1012,
+    "heRef_2": "בבא קמא כז., טז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1012,
+    "heRef_2": "בבא קמא כז., טז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 2642,
+    "heRef_2": "בבא קמא סט.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 2667,
+    "heRef_2": "בבא מציעא פד.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 789,
+    "heRef_2": "בראשית כז, לג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

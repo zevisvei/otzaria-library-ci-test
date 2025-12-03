@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 18,
+    "line_index_2": 1619,
+    "heRef_2": "גיטין נב., יד",
+    "path_2": "גיטין.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 142,
     "line_index_2": 1457,
     "heRef_2": "כף החיים על שולחן ערוך אורח חיים כה, כה, ב",
@@ -15,30 +22,9 @@
   },
   {
     "line_index_1": 362,
-    "line_index_2": 195,
+    "line_index_2": 196,
     "heRef_2": "חידושי אגדות על תענית טז., ח",
     "path_2": "חידושי אגדות על תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 198,
-    "heRef_2": "מדבר קדמות, מערכת ז יב",
-    "path_2": "מדבר קדמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 491,
-    "line_index_2": 1481,
-    "heRef_2": "עירובין מא., א",
-    "path_2": "עירובין.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 501,
-    "line_index_2": 11928,
-    "heRef_2": "משנה ברורה תכו, יא",
-    "path_2": "משנה ברורה.txt",
     "Conection Type": ""
   },
   {
@@ -57,7 +43,7 @@
   },
   {
     "line_index_1": 409,
-    "line_index_2": 1637,
+    "line_index_2": 1645,
     "heRef_2": "פלא יועץ שי, ד",
     "path_2": "פלא יועץ.txt",
     "Conection Type": ""
@@ -133,10 +119,24 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 18,
-    "line_index_2": 1619,
-    "heRef_2": "גיטין נב., יד",
-    "path_2": "גיטין.txt",
+    "line_index_1": 491,
+    "line_index_2": 1481,
+    "heRef_2": "עירובין מא., א",
+    "path_2": "עירובין.txt",
     "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 198,
+    "heRef_2": "מדבר קדמות, מערכת ז יב",
+    "path_2": "מדבר קדמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 11928,
+    "heRef_2": "משנה ברורה תכו, יא",
+    "path_2": "משנה ברורה.txt",
+    "Conection Type": ""
   }
 ]

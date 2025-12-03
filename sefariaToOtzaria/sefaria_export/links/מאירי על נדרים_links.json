@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 404,
+    "line_index_2": 123,
+    "heRef_2": "תלמוד ירושלמי נדרים ד, ג, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "quotation"
+  },
+  {
     "line_index_1": 101,
     "line_index_2": 192,
     "heRef_2": "נדרים יא., ב",
@@ -2182,12 +2189,5 @@
     "heRef_2": "נדרים ט:,  ו",
     "path_2": "נדרים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 404,
-    "line_index_2": 123,
-    "heRef_2": "תלמוד ירושלמי נדרים ד, ג, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "quotation"
   }
 ]

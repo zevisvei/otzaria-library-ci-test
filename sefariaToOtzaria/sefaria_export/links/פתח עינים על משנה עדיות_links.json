@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 7,
+    "line_index_2": 2992,
+    "heRef_2": "בבא בתרא קל.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 6,
     "heRef_2": "משנה עדיות א, ד",
@@ -61,12 +68,5 @@
     "heRef_2": "משנה עדיות ח, ז",
     "path_2": "משנה עדיות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2992,
-    "heRef_2": "בבא בתרא קל.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
   }
 ]

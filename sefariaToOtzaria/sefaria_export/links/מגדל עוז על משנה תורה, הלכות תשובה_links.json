@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 101,
+    "line_index_2": 1713,
+    "heRef_2": "בבא בתרא עד.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 112,
     "line_index_2": 76,
     "heRef_2": "משנה תורה, הלכות תשובה י, א",
@@ -31,13 +38,6 @@
     "line_index_1": 117,
     "line_index_2": 81,
     "heRef_2": "משנה תורה, הלכות תשובה י, ו",
-    "path_2": "משנה תורה, הלכות תשובה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 4,
-    "heRef_2": "משנה תורה, הלכות תשובה א, א",
     "path_2": "משנה תורה, הלכות תשובה.txt",
     "Conection Type": "commentary"
   },
@@ -530,12 +530,5 @@
     "heRef_2": "משנה תורה, הלכות תשובה ט, א",
     "path_2": "משנה תורה, הלכות תשובה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 1713,
-    "heRef_2": "בבא בתרא עד.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
   }
 ]

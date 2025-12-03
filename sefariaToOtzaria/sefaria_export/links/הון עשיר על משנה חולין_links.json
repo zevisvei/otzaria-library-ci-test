@@ -1,34 +1,6 @@
 [
   {
     "line_index_1": 90,
-    "line_index_2": 511,
-    "heRef_2": "דברים יח, ג",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 911,
-    "heRef_2": "דברים לב, טו",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 1373,
-    "heRef_2": "בבא בתרא נח.,  ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 1374,
-    "heRef_2": "בבא בתרא נח.,  ז",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 90,
     "line_index_2": 75,
     "heRef_2": "משנה חולין י, א",
     "path_2": "משנה חולין.txt",
@@ -469,10 +441,38 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 90,
+    "line_index_2": 511,
+    "heRef_2": "דברים יח, ג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 911,
+    "heRef_2": "דברים לב, טו",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 28,
     "line_index_2": 1183,
     "heRef_2": "עבודה זרה מ.,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 1373,
+    "heRef_2": "בבא בתרא נח.,  ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 1374,
+    "heRef_2": "בבא בתרא נח.,  ז",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   }
 ]

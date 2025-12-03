@@ -1,87 +1,1802 @@
 [
   {
-    "line_index_1": 129,
-    "line_index_2": 307,
-    "heRef_2": "שמות יב, י",
-    "path_2": "שמות.txt",
+    "line_index_1": 97,
+    "line_index_2": 2265,
+    "heRef_2": "פסחים עג:,  א",
+    "path_2": "פסחים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 45,
-    "line_index_2": 316,
-    "heRef_2": "שמות יב, יט",
-    "path_2": "שמות.txt",
+    "line_index_1": 97,
+    "line_index_2": 2266,
+    "heRef_2": "פסחים עג:,  ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 2267,
+    "heRef_2": "פסחים עג:,  ג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 2268,
+    "heRef_2": "פסחים עג:,  ד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 2269,
+    "heRef_2": "פסחים עג:,  ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 2270,
+    "heRef_2": "פסחים עג:,  ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 2276,
+    "heRef_2": "פסחים עג:, יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 2276,
+    "heRef_2": "פסחים עג:, יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 2286,
+    "heRef_2": "פסחים עד., ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 2307,
+    "heRef_2": "פסחים עה.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 2358,
+    "heRef_2": "פסחים עו:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 2415,
+    "heRef_2": "פסחים עח.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 2437,
+    "heRef_2": "פסחים עח:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 2437,
+    "heRef_2": "פסחים עח:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 2449,
+    "heRef_2": "פסחים עח:,  יג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 2450,
+    "heRef_2": "פסחים עח:,  יד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2460,
+    "heRef_2": "פסחים עט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 2473,
+    "heRef_2": "פסחים עט., יד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 2464,
+    "heRef_2": "פסחים עט., ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 2501,
+    "heRef_2": "פסחים עט:, יח",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 176,
+    "heRef_2": "פסחים ז:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 2505,
+    "heRef_2": "פסחים פ.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2519,
+    "heRef_2": "פסחים פ.,  טו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2520,
+    "heRef_2": "פסחים פ.,  טז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2521,
+    "heRef_2": "פסחים פ.,  יז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2522,
+    "heRef_2": "פסחים פ.,  יח",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2523,
+    "heRef_2": "פסחים פ.,  יט",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2524,
+    "heRef_2": "פסחים פ.,  כ",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2525,
+    "heRef_2": "פסחים פ.,  כא",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2526,
+    "heRef_2": "פסחים פ.,  כב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 2588,
+    "heRef_2": "פסחים פב.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 2623,
+    "heRef_2": "פסחים פג.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 2653,
+    "heRef_2": "פסחים פד.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 2661,
+    "heRef_2": "פסחים פד., ט",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 2670,
+    "heRef_2": "פסחים פד:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 2675,
+    "heRef_2": "פסחים פד:,  ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 2676,
+    "heRef_2": "פסחים פד:,  ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 2692,
+    "heRef_2": "פסחים פה.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 2736,
+    "heRef_2": "פסחים פו.,  יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 2737,
+    "heRef_2": "פסחים פו.,  יג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 2738,
+    "heRef_2": "פסחים פו.,  יד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 2739,
+    "heRef_2": "פסחים פו.,  טו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 2740,
+    "heRef_2": "פסחים פו.,  טז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 2741,
+    "heRef_2": "פסחים פו.,  יז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 2810,
+    "heRef_2": "פסחים פח., טו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 2812,
+    "heRef_2": "פסחים פח., יז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 2803,
+    "heRef_2": "פסחים פח., ח",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 2831,
+    "heRef_2": "פסחים פח:, יז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 2819,
+    "heRef_2": "פסחים פח:,  ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 2820,
+    "heRef_2": "פסחים פח:,  ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 2840,
+    "heRef_2": "פסחים פט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 2865,
+    "heRef_2": "פסחים פט:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 2874,
+    "heRef_2": "פסחים פט:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 2878,
+    "heRef_2": "פסחים פט:, יד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 196,
+    "heRef_2": "פסחים ח.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 229,
+    "heRef_2": "פסחים ח:,  טו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 230,
+    "heRef_2": "פסחים ח:,  טז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 2905,
+    "heRef_2": "פסחים צ:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 2933,
+    "heRef_2": "פסחים צא.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 2933,
+    "heRef_2": "פסחים צא.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 2948,
+    "heRef_2": "פסחים צא., טז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 2950,
+    "heRef_2": "פסחים צא:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 2968,
+    "heRef_2": "פסחים צב.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 2979,
+    "heRef_2": "פסחים צב.,  יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 2980,
+    "heRef_2": "פסחים צב.,  יג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 2981,
+    "heRef_2": "פסחים צב.,  יד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 2982,
+    "heRef_2": "פסחים צב.,  טו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 2983,
+    "heRef_2": "פסחים צב.,  טז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 2984,
+    "heRef_2": "פסחים צב.,  יז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 2986,
+    "heRef_2": "פסחים צב:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 2998,
+    "heRef_2": "פסחים צג.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 2998,
+    "heRef_2": "פסחים צג.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 3009,
+    "heRef_2": "פסחים צג., יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 3004,
+    "heRef_2": "פסחים צג., ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 3044,
+    "heRef_2": "פסחים צד:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 3054,
+    "heRef_2": "פסחים צד:, יא",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 3052,
+    "heRef_2": "פסחים צד:,  ט",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 3053,
+    "heRef_2": "פסחים צד:,  י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 3054,
+    "heRef_2": "פסחים צד:,  יא",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 3055,
+    "heRef_2": "פסחים צד:,  יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 3056,
+    "heRef_2": "פסחים צד:,  יג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 3058,
+    "heRef_2": "פסחים צה.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 3074,
+    "heRef_2": "פסחים צה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 3074,
+    "heRef_2": "פסחים צה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 3074,
+    "heRef_2": "פסחים צה:,  א",
+    "path_2": "פסחים.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 135,
-    "line_index_2": 319,
-    "heRef_2": "שמות יב, כב",
-    "path_2": "שמות.txt",
+    "line_index_2": 3093,
+    "heRef_2": "פסחים צו.,  א",
+    "path_2": "פסחים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 136,
-    "line_index_2": 319,
-    "heRef_2": "שמות יב, כב",
-    "path_2": "שמות.txt",
+    "line_index_1": 142,
+    "line_index_2": 3119,
+    "heRef_2": "פסחים צו:,  א",
+    "path_2": "פסחים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 133,
-    "line_index_2": 301,
-    "heRef_2": "שמות יב, ד",
-    "path_2": "שמות.txt",
+    "line_index_1": 159,
+    "line_index_2": 3119,
+    "heRef_2": "פסחים צו:,  א",
+    "path_2": "פסחים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 102,
-    "line_index_2": 343,
-    "heRef_2": "שמות יב, מו",
-    "path_2": "שמות.txt",
+    "line_index_1": 160,
+    "line_index_2": 3162,
+    "heRef_2": "פסחים צח., ד",
+    "path_2": "פסחים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 129,
-    "line_index_2": 302,
-    "heRef_2": "שמות יב, ה",
-    "path_2": "שמות.txt",
+    "line_index_1": 110,
+    "line_index_2": 3189,
+    "heRef_2": "פסחים צט.,  א",
+    "path_2": "פסחים.txt",
     "Conection Type": "related"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 3189,
+    "heRef_2": "פסחים צט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 3189,
+    "heRef_2": "פסחים צט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 3190,
+    "heRef_2": "פסחים צט.,  ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 519,
+    "heRef_2": "משלי יז, כח",
+    "path_2": "משלי.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 602,
+    "heRef_2": "משלי כ, כז",
+    "path_2": "משלי.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 807,
+    "heRef_2": "משלי כז, י",
+    "path_2": "משלי.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 284,
+    "heRef_2": "סנהדרין יב.,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 298,
+    "heRef_2": "סנהדרין יב:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 548,
+    "heRef_2": "סנהדרין כ.,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 2736,
+    "heRef_2": "שבת קטז:,  א",
+    "path_2": "שבת.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 378,
+    "heRef_2": "שבת יח:,  א",
+    "path_2": "שבת.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 63,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ט, ג",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 64,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ט, ד",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 394,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה ה, יא, ד",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 79,
+    "heRef_2": "תלמוד ירושלמי ברכות א, ה, יח",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 183,
+    "heRef_2": "תלמוד ירושלמי ברכות ב, ז, ח",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 517,
+    "heRef_2": "תלמוד ירושלמי ברכות ז, א, ח",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 34,
+    "heRef_2": "תלמוד ירושלמי חגיגה א, ד, ב",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 19,
+    "heRef_2": "תלמוד ירושלמי חלה א, א, טז",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 29,
+    "heRef_2": "תלמוד ירושלמי חלה א, א, כו",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 7,
+    "heRef_2": "תלמוד ירושלמי חלה א, א, ד",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 51,
+    "heRef_2": "תלמוד ירושלמי חלה א, ג, טז",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 202,
+    "heRef_2": "תלמוד ירושלמי חלה ד, ה, ז",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 133,
+    "heRef_2": "תלמוד ירושלמי דמאי ג, ג, ב",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 35,
+    "heRef_2": "תלמוד ירושלמי הוריות א, ו, ב",
+    "path_2": "תלמוד ירושלמי הוריות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 140,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ז, יז",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 141,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ז, יח",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 106,
+    "heRef_2": "תלמוד ירושלמי מעשרות ג, א, ו",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 139,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ה, יח",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 388,
+    "heRef_2": "תלמוד ירושלמי נדרים י, ח, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 126,
+    "heRef_2": "תלמוד ירושלמי ערלה ב, ו, ג",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 126,
+    "heRef_2": "תלמוד ירושלמי ערלה ב, ו, ג",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 400,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ב",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 400,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ב",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 578,
+    "heRef_2": "תלמוד ירושלמי פסחים י, א, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 578,
+    "heRef_2": "תלמוד ירושלמי פסחים י, א, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 573,
+    "heRef_2": "תלמוד ירושלמי פסחים י, א, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 575,
+    "heRef_2": "תלמוד ירושלמי פסחים י, א, ח",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 584,
+    "heRef_2": "תלמוד ירושלמי פסחים י, ב, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 591,
+    "heRef_2": "תלמוד ירושלמי פסחים י, ג, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 599,
+    "heRef_2": "תלמוד ירושלמי פסחים י, ה, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 606,
+    "heRef_2": "תלמוד ירושלמי פסחים י, ו, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 13,
+    "heRef_2": "תלמוד ירושלמי פסחים א, א, י",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 14,
+    "heRef_2": "תלמוד ירושלמי פסחים א, א, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 16,
+    "heRef_2": "תלמוד ירושלמי פסחים א, א, יג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 17,
+    "heRef_2": "תלמוד ירושלמי פסחים א, א, יד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 18,
+    "heRef_2": "תלמוד ירושלמי פסחים א, א, טו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 7,
+    "heRef_2": "תלמוד ירושלמי פסחים א, א, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 9,
+    "heRef_2": "תלמוד ירושלמי פסחים א, א, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 26,
+    "heRef_2": "תלמוד ירושלמי פסחים א, ג, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 47,
+    "heRef_2": "תלמוד ירושלמי פסחים א, ו, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 59,
+    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 59,
+    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 59,
+    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 61,
+    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ח",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 62,
+    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ט",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 96,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 97,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, יב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 97,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, יב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 88,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 93,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, ח",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 93,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, ח",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 93,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, ח",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 105,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ג, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 121,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, י",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 122,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 122,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 123,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, יב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 115,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 126,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ה, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 132,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ו, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 137,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ז, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ז, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ז, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 152,
+    "heRef_2": "תלמוד ירושלמי פסחים ג, א, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 152,
+    "heRef_2": "תלמוד ירושלמי פסחים ג, א, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 177,
+    "heRef_2": "תלמוד ירושלמי פסחים ג, ד, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 228,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ד, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 228,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ד, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 238,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ז, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 243,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ח, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 246,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 247,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 248,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 253,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ט",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 264,
+    "heRef_2": "תלמוד ירושלמי פסחים ה, א, ט",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 280,
+    "heRef_2": "תלמוד ירושלמי פסחים ה, ג, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 299,
+    "heRef_2": "תלמוד ירושלמי פסחים ה, ד, יב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
   },
   {
     "line_index_1": 140,
     "line_index_2": 302,
-    "heRef_2": "שמות יב, ה",
-    "path_2": "שמות.txt",
-    "Conection Type": "related"
+    "heRef_2": "תלמוד ירושלמי פסחים ה, ה, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 311,
+    "heRef_2": "תלמוד ירושלמי פסחים ה, ז, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 314,
+    "heRef_2": "תלמוד ירושלמי פסחים ה, ח, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 315,
+    "heRef_2": "תלמוד ירושלמי פסחים ה, ח, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 336,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, א, יא",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 337,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, א, יב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 337,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, א, יב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 327,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 327,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 330,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 353,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, ג, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 355,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, ג, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 360,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, ד, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 361,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, ד, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 373,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, ו, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 440,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, י, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
   },
   {
     "line_index_1": 102,
-    "line_index_2": 304,
-    "heRef_2": "שמות יב, ז",
-    "path_2": "שמות.txt",
-    "Conection Type": "related"
+    "line_index_2": 456,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, יג, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
   },
   {
-    "line_index_1": 129,
-    "line_index_2": 306,
-    "heRef_2": "שמות יב, ט",
-    "path_2": "שמות.txt",
-    "Conection Type": "related"
+    "line_index_1": 102,
+    "line_index_2": 459,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, יג, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 461,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, יג, ז",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 378,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, א, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 408,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, ה, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 409,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, ה, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 413,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, ו, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 415,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, ו, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 423,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, ז, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 431,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, ח, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 436,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, ט, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 469,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, א, ו",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 470,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, א, ז",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 471,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, א, ח",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 476,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ב, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 476,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ב, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 483,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ג, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 487,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ד, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 487,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ד, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 494,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ו, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 495,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ו, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 498,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ז, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 499,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ז, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 509,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ח, ט",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 509,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, ח, ט",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 513,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, א, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 514,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, א, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 528,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, ג, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 530,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, ג, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 533,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, ד, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 537,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, ה, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 142,
+    "line_index_2": 539,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, ה, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 552,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, ו, יב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 555,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, ז, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 239,
+    "heRef_2": "גיטין י.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 682,
+    "heRef_2": "דברי הימים ב ל, יח",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 663,
+    "heRef_2": "תלמוד ירושלמי שבת יג, ג, ב",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 819,
+    "heRef_2": "תלמוד ירושלמי שבת יח, א, ג",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 819,
+    "heRef_2": "תלמוד ירושלמי שבת יח, א, ג",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 848,
+    "heRef_2": "תלמוד ירושלמי שבת יט, א, י",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 846,
+    "heRef_2": "תלמוד ירושלמי שבת יט, א, ח",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 108,
+    "heRef_2": "תלמוד ירושלמי שבת א, יא, ג",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 473,
+    "heRef_2": "תלמוד ירושלמי שבת ח, א, ג",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 475,
+    "heRef_2": "תלמוד ירושלמי שבת ח, א, ה",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 475,
+    "heRef_2": "תלמוד ירושלמי שבת ח, א, ה",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 85,
+    "heRef_2": "תלמוד ירושלמי שקלים ג, ב, ג",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 87,
+    "heRef_2": "תלמוד ירושלמי שקלים ג, ב, ה",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 87,
+    "heRef_2": "תלמוד ירושלמי שקלים ג, ב, ה",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 124,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, ו",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
     "line_index_2": 352,
-    "heRef_2": "שמות יג,  ג",
-    "path_2": "שמות.txt",
-    "Conection Type": "related"
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ח, ה",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "related passage"
   },
   {
-    "line_index_1": 142,
-    "line_index_2": 353,
-    "heRef_2": "שמות יג,  ד",
-    "path_2": "שמות.txt",
-    "Conection Type": "related"
+    "line_index_1": 36,
+    "line_index_2": 24,
+    "heRef_2": "תלמוד ירושלמי סוכה א, ב, ב",
+    "path_2": "תלמוד ירושלמי סוכה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 158,
+    "heRef_2": "תלמוד ירושלמי סוכה ג, י, ג",
+    "path_2": "תלמוד ירושלמי סוכה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 160,
+    "heRef_2": "תלמוד ירושלמי סוכה ג, י, ה",
+    "path_2": "תלמוד ירושלמי סוכה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 195,
+    "heRef_2": "תלמוד ירושלמי סוכה ד, ה, ג",
+    "path_2": "תלמוד ירושלמי סוכה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 397,
+    "heRef_2": "תלמוד ירושלמי תרומות י, ב, ו",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 40,
+    "heRef_2": "תלמוד ירושלמי תרומות א, ד, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 334,
+    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 334,
+    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 334,
+    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 336,
+    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ה",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 336,
+    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ה",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 337,
+    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ו",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי יומא ב, א, ט",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "related passage"
   },
   {
     "line_index_1": 114,
@@ -2294,216 +4009,6 @@
     "heRef_2": "פירוש קצר על פסחים ט, ט, ב",
     "path_2": "פירוש קצר על פסחים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 284,
-    "heRef_2": "סנהדרין יב.,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 298,
-    "heRef_2": "סנהדרין יב:,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 548,
-    "heRef_2": "סנהדרין כ.,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 2736,
-    "heRef_2": "שבת קטז:,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 378,
-    "heRef_2": "שבת יח:,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 232,
-    "heRef_2": "ספרי במדבר קמג, ג",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 90,
-    "heRef_2": "ספרי במדבר סה,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 90,
-    "heRef_2": "ספרי במדבר סה,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 94,
-    "heRef_2": "ספרי במדבר סט,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 94,
-    "heRef_2": "ספרי במדבר סט,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 94,
-    "heRef_2": "ספרי במדבר סט,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 94,
-    "heRef_2": "ספרי במדבר סט, א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 96,
-    "heRef_2": "ספרי במדבר ע,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 96,
-    "heRef_2": "ספרי במדבר ע,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 96,
-    "heRef_2": "ספרי במדבר ע, א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 97,
-    "heRef_2": "ספרי במדבר עא,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 874,
-    "heRef_2": "ספרי דברים קכט, ו",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 876,
-    "heRef_2": "ספרי דברים קל,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 883,
-    "heRef_2": "ספרי דברים קלא,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 883,
-    "heRef_2": "ספרי דברים קלא,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 883,
-    "heRef_2": "ספרי דברים קלא,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 888,
-    "heRef_2": "ספרי דברים קלב,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 894,
-    "heRef_2": "ספרי דברים קלד,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 894,
-    "heRef_2": "ספרי דברים קלד,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 897,
-    "heRef_2": "ספרי דברים קלד, ד",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 523,
-    "heRef_2": "ספרי דברים עח,  א",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 1021,
-    "heRef_2": "סוכה לט., ב",
-    "path_2": "סוכה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 1085,
-    "heRef_2": "סוכה מב.,  א",
-    "path_2": "סוכה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 1226,
-    "heRef_2": "סוכה מז:,  א",
-    "path_2": "סוכה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 1449,
-    "heRef_2": "סוכה נו., ו",
-    "path_2": "סוכה.txt",
-    "Conection Type": "related"
   },
   {
     "line_index_1": 130,
@@ -4977,1483 +6482,6 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 36,
-    "line_index_2": 782,
-    "heRef_2": "מנחות כג:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 1672,
-    "heRef_2": "מנחות מט.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1841,
-    "heRef_2": "מנחות נג.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 2088,
-    "heRef_2": "מנחות נט:,  כא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 2089,
-    "heRef_2": "מנחות נט:,  כב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 111,
-    "heRef_2": "מנחות ה.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 2211,
-    "heRef_2": "מנחות סג:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 2238,
-    "heRef_2": "מנחות סד., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 2471,
-    "heRef_2": "מנחות עא., יד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 2507,
-    "heRef_2": "מנחות עב:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 3373,
-    "heRef_2": "מנחות צה.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 293,
-    "heRef_2": "מנחות ט., יג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 1004,
-    "heRef_2": "במדבר כח, ב",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 1033,
-    "heRef_2": "במדבר כח, לא",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 196,
-    "heRef_2": "במדבר ה, ב",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 381,
-    "heRef_2": "במדבר ט, י",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 381,
-    "heRef_2": "במדבר ט, י",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 3355,
-    "heRef_2": "פסחים קז:,  ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 3356,
-    "heRef_2": "פסחים קז:,  ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 3359,
-    "heRef_2": "פסחים קח.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 3378,
-    "heRef_2": "פסחים קח:, ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 169,
-    "line_index_2": 3383,
-    "heRef_2": "פסחים קט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 3383,
-    "heRef_2": "פסחים קט., א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 277,
-    "heRef_2": "פסחים י:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 3530,
-    "heRef_2": "פסחים קיד., ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 3555,
-    "heRef_2": "פסחים קטו., ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 3571,
-    "heRef_2": "פסחים קטז.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 3574,
-    "heRef_2": "פסחים קטז., ד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 3705,
-    "heRef_2": "פסחים קיט:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 3714,
-    "heRef_2": "פסחים קיט:, י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 3707,
-    "heRef_2": "פסחים קיט:, ג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 3719,
-    "heRef_2": "פסחים קכ.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 369,
-    "heRef_2": "פסחים יג.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 374,
-    "heRef_2": "פסחים יג., ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 448,
-    "heRef_2": "פסחים טו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 449,
-    "heRef_2": "פסחים טו:,  ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 604,
-    "heRef_2": "פסחים כ:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 609,
-    "heRef_2": "פסחים כ:, ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 610,
-    "heRef_2": "פסחים כ:, ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 629,
-    "heRef_2": "פסחים כא.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 830,
-    "heRef_2": "פסחים כח.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 847,
-    "heRef_2": "פסחים כח:, ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 856,
-    "heRef_2": "פסחים כט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 17,
-    "heRef_2": "פסחים ב:, ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 927,
-    "heRef_2": "פסחים לא:, ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 939,
-    "heRef_2": "פסחים לב., ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 984,
-    "heRef_2": "פסחים לד.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 1018,
-    "heRef_2": "פסחים לה., יא",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1045,
-    "heRef_2": "פסחים לו.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 1048,
-    "heRef_2": "פסחים לו., ד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 1088,
-    "heRef_2": "פסחים לז., ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 1149,
-    "heRef_2": "פסחים לט., ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 1162,
-    "heRef_2": "פסחים לט:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 1168,
-    "heRef_2": "פסחים לט:, ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 1179,
-    "heRef_2": "פסחים מ.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 1226,
-    "heRef_2": "פסחים מא.,  י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 1227,
-    "heRef_2": "פסחים מא.,  יא",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 1228,
-    "heRef_2": "פסחים מא., יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 1240,
-    "heRef_2": "פסחים מא:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 1246,
-    "heRef_2": "פסחים מא:, ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 1266,
-    "heRef_2": "פסחים מב.,  ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 1267,
-    "heRef_2": "פסחים מב.,  ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1382,
-    "heRef_2": "פסחים מה.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1400,
-    "heRef_2": "פסחים מה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 1400,
-    "heRef_2": "פסחים מה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 1400,
-    "heRef_2": "פסחים מה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 1476,
-    "heRef_2": "פסחים מח.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 1490,
-    "heRef_2": "פסחים מח., טו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 1504,
-    "heRef_2": "פסחים מח:, י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 1512,
-    "heRef_2": "פסחים מט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1512,
-    "heRef_2": "פסחים מט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 1554,
-    "heRef_2": "פסחים נ.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 1651,
-    "heRef_2": "פסחים נג:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 1718,
-    "heRef_2": "פסחים נה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 1726,
-    "heRef_2": "פסחים נה:, ט",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 1734,
-    "heRef_2": "פסחים נו.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1743,
-    "heRef_2": "פסחים נו., י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 1748,
-    "heRef_2": "פסחים נו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 1748,
-    "heRef_2": "פסחים נו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 1759,
-    "heRef_2": "פסחים נז.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 1789,
-    "heRef_2": "פסחים נח:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 1798,
-    "heRef_2": "פסחים נח:,  י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 1799,
-    "heRef_2": "פסחים נח:,  יא",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 1800,
-    "heRef_2": "פסחים נח:,  יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 1801,
-    "heRef_2": "פסחים נח:,  יג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 1802,
-    "heRef_2": "פסחים נח:,  יד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 1804,
-    "heRef_2": "פסחים נט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 1813,
-    "heRef_2": "פסחים נט., י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 104,
-    "heRef_2": "פסחים ה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 105,
-    "heRef_2": "פסחים ה:,  ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 1875,
-    "heRef_2": "פסחים סא., ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 1881,
-    "heRef_2": "פסחים סא:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 1893,
-    "heRef_2": "פסחים סב.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 1911,
-    "heRef_2": "פסחים סב:, ד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 1948,
-    "heRef_2": "פסחים סג:, יג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 1950,
-    "heRef_2": "פסחים סג:, טו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 1969,
-    "heRef_2": "פסחים סד:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 1969,
-    "heRef_2": "פסחים סד:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 1996,
-    "heRef_2": "פסחים סה., ח",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 1997,
-    "heRef_2": "פסחים סה., ט",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 2002,
-    "heRef_2": "פסחים סה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 2002,
-    "heRef_2": "פסחים סה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 2016,
-    "heRef_2": "פסחים סו.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 2016,
-    "heRef_2": "פסחים סו.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 2030,
-    "heRef_2": "פסחים סו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 2061,
-    "heRef_2": "פסחים סז:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 2110,
-    "heRef_2": "פסחים סט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 2126,
-    "heRef_2": "פסחים סט:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 123,
-    "heRef_2": "פסחים ו.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 128,
-    "heRef_2": "פסחים ו., ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 2143,
-    "heRef_2": "פסחים ע., ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 2144,
-    "heRef_2": "פסחים ע.,  ג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 2145,
-    "heRef_2": "פסחים ע.,  ד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 2168,
-    "heRef_2": "פסחים ע:, ח",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 2222,
-    "heRef_2": "פסחים עב:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2265,
-    "heRef_2": "פסחים עג:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2266,
-    "heRef_2": "פסחים עג:,  ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2267,
-    "heRef_2": "פסחים עג:,  ג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2268,
-    "heRef_2": "פסחים עג:,  ד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2269,
-    "heRef_2": "פסחים עג:,  ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2270,
-    "heRef_2": "פסחים עג:,  ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 2276,
-    "heRef_2": "פסחים עג:, יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2276,
-    "heRef_2": "פסחים עג:, יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 2286,
-    "heRef_2": "פסחים עד., ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 2307,
-    "heRef_2": "פסחים עה.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 2358,
-    "heRef_2": "פסחים עו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 2415,
-    "heRef_2": "פסחים עח.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 2437,
-    "heRef_2": "פסחים עח:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 2437,
-    "heRef_2": "פסחים עח:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 2449,
-    "heRef_2": "פסחים עח:,  יג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 2450,
-    "heRef_2": "פסחים עח:,  יד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2460,
-    "heRef_2": "פסחים עט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 2473,
-    "heRef_2": "פסחים עט., יד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 2464,
-    "heRef_2": "פסחים עט., ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 2501,
-    "heRef_2": "פסחים עט:, יח",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 176,
-    "heRef_2": "פסחים ז:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 2505,
-    "heRef_2": "פסחים פ.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2519,
-    "heRef_2": "פסחים פ.,  טו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2520,
-    "heRef_2": "פסחים פ.,  טז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2521,
-    "heRef_2": "פסחים פ.,  יז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2522,
-    "heRef_2": "פסחים פ.,  יח",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2523,
-    "heRef_2": "פסחים פ.,  יט",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2524,
-    "heRef_2": "פסחים פ.,  כ",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2525,
-    "heRef_2": "פסחים פ.,  כא",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2526,
-    "heRef_2": "פסחים פ.,  כב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 2588,
-    "heRef_2": "פסחים פב.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 2623,
-    "heRef_2": "פסחים פג.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 2653,
-    "heRef_2": "פסחים פד.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 2661,
-    "heRef_2": "פסחים פד., ט",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 2670,
-    "heRef_2": "פסחים פד:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 2675,
-    "heRef_2": "פסחים פד:,  ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 2676,
-    "heRef_2": "פסחים פד:,  ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 2692,
-    "heRef_2": "פסחים פה.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 2736,
-    "heRef_2": "פסחים פו.,  יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 2737,
-    "heRef_2": "פסחים פו.,  יג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 2738,
-    "heRef_2": "פסחים פו.,  יד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 2739,
-    "heRef_2": "פסחים פו.,  טו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 2740,
-    "heRef_2": "פסחים פו.,  טז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 2741,
-    "heRef_2": "פסחים פו.,  יז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 2810,
-    "heRef_2": "פסחים פח., טו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 2812,
-    "heRef_2": "פסחים פח., יז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 2803,
-    "heRef_2": "פסחים פח., ח",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 2831,
-    "heRef_2": "פסחים פח:, יז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 2819,
-    "heRef_2": "פסחים פח:,  ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 2820,
-    "heRef_2": "פסחים פח:,  ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 2840,
-    "heRef_2": "פסחים פט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 2865,
-    "heRef_2": "פסחים פט:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 2874,
-    "heRef_2": "פסחים פט:, י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 2878,
-    "heRef_2": "פסחים פט:, יד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 196,
-    "heRef_2": "פסחים ח.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 229,
-    "heRef_2": "פסחים ח:,  טו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 230,
-    "heRef_2": "פסחים ח:,  טז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 2905,
-    "heRef_2": "פסחים צ:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 2933,
-    "heRef_2": "פסחים צא.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 2933,
-    "heRef_2": "פסחים צא.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 2948,
-    "heRef_2": "פסחים צא., טז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 2950,
-    "heRef_2": "פסחים צא:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 2968,
-    "heRef_2": "פסחים צב.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 2979,
-    "heRef_2": "פסחים צב.,  יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 2980,
-    "heRef_2": "פסחים צב.,  יג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 2981,
-    "heRef_2": "פסחים צב.,  יד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 2982,
-    "heRef_2": "פסחים צב.,  טו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 2983,
-    "heRef_2": "פסחים צב.,  טז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 2984,
-    "heRef_2": "פסחים צב.,  יז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 2986,
-    "heRef_2": "פסחים צב:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 2998,
-    "heRef_2": "פסחים צג.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 2998,
-    "heRef_2": "פסחים צג.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 3009,
-    "heRef_2": "פסחים צג., יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 3004,
-    "heRef_2": "פסחים צג., ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 3044,
-    "heRef_2": "פסחים צד:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 3054,
-    "heRef_2": "פסחים צד:, יא",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 3052,
-    "heRef_2": "פסחים צד:,  ט",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 3053,
-    "heRef_2": "פסחים צד:,  י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 3054,
-    "heRef_2": "פסחים צד:,  יא",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 3055,
-    "heRef_2": "פסחים צד:,  יב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 3056,
-    "heRef_2": "פסחים צד:,  יג",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 3058,
-    "heRef_2": "פסחים צה.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 3074,
-    "heRef_2": "פסחים צה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 3074,
-    "heRef_2": "פסחים צה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 3074,
-    "heRef_2": "פסחים צה:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 3093,
-    "heRef_2": "פסחים צו.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 3119,
-    "heRef_2": "פסחים צו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 3119,
-    "heRef_2": "פסחים צו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 3162,
-    "heRef_2": "פסחים צח., ד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 3189,
-    "heRef_2": "פסחים צט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 3189,
-    "heRef_2": "פסחים צט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 3189,
-    "heRef_2": "פסחים צט.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 3190,
-    "heRef_2": "פסחים צט.,  ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 519,
-    "heRef_2": "משלי יז, כח",
-    "path_2": "משלי.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 602,
-    "heRef_2": "משלי כ, כז",
-    "path_2": "משלי.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 807,
-    "heRef_2": "משלי כז, י",
-    "path_2": "משלי.txt",
-    "Conection Type": "related"
-  },
-  {
     "line_index_1": 98,
     "line_index_2": 273,
     "heRef_2": "חולין יא.,  א",
@@ -6482,745 +6510,178 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 30,
-    "line_index_2": 2371,
-    "heRef_2": "עירובין סד:,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 3016,
-    "heRef_2": "עירובין פב:, ו",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 54,
-    "heRef_2": "משנה ברכות ח, א",
-    "path_2": "משנה ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 8,
-    "heRef_2": "משנה חלה א, ו",
-    "path_2": "משנה חלה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 43,
-    "heRef_2": "משנה חלה ד, יא",
-    "path_2": "משנה חלה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 56,
-    "heRef_2": "משנה עדיות ה, ב",
-    "path_2": "משנה עדיות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 56,
-    "heRef_2": "משנה עדיות ה, ב",
-    "path_2": "משנה עדיות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 3,
-    "heRef_2": "משנה כריתות א, א",
-    "path_2": "משנה כריתות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 83,
-    "heRef_2": "משנה מנחות יא, ג",
-    "path_2": "משנה מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 29,
-    "heRef_2": "משנה מנחות ה, ב",
-    "path_2": "משנה מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 51,
-    "heRef_2": "משנה מנחות ז, ו",
-    "path_2": "משנה מנחות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 67,
-    "heRef_2": "משנה נזיר ט, ב",
-    "path_2": "משנה נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 92,
-    "heRef_2": "משנה פסחים י, א",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 93,
-    "heRef_2": "משנה פסחים י, ב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 94,
-    "heRef_2": "משנה פסחים י, ג",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 97,
-    "heRef_2": "משנה פסחים י, ו",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 99,
-    "heRef_2": "משנה פסחים י, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 3,
-    "heRef_2": "משנה פסחים א, א",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 3,
-    "heRef_2": "משנה פסחים א, א",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 7,
-    "heRef_2": "משנה פסחים א, ה",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 9,
-    "heRef_2": "משנה פסחים א, ז",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 12,
-    "heRef_2": "משנה פסחים ב, ב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 12,
-    "heRef_2": "משנה פסחים ב, ב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 13,
-    "heRef_2": "משנה פסחים ב, ג",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 13,
-    "heRef_2": "משנה פסחים ב, ג",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 15,
-    "heRef_2": "משנה פסחים ב, ה",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 16,
-    "heRef_2": "משנה פסחים ב, ו",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 18,
-    "heRef_2": "משנה פסחים ב, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 18,
-    "heRef_2": "משנה פסחים ב, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 18,
-    "heRef_2": "משנה פסחים ב, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 21,
-    "heRef_2": "משנה פסחים ג, ב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 22,
-    "heRef_2": "משנה פסחים ג, ג",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 23,
-    "heRef_2": "משנה פסחים ג, ד",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 25,
-    "heRef_2": "משנה פסחים ג, ו",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 26,
-    "heRef_2": "משנה פסחים ג, ז",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 27,
-    "heRef_2": "משנה פסחים ג, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 29,
-    "heRef_2": "משנה פסחים ד, א",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 32,
-    "heRef_2": "משנה פסחים ד, ד",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 34,
-    "heRef_2": "משנה פסחים ד, ו",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 36,
-    "heRef_2": "משנה פסחים ד, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 48,
-    "heRef_2": "משנה פסחים ה, י",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
     "line_index_1": 63,
-    "line_index_2": 40,
-    "heRef_2": "משנה פסחים ה, ב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 41,
-    "heRef_2": "משנה פסחים ה, ג",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 41,
-    "heRef_2": "משנה פסחים ה, ג",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 42,
-    "heRef_2": "משנה פסחים ה, ד",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 43,
-    "heRef_2": "משנה פסחים ה, ה",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 44,
-    "heRef_2": "משנה פסחים ה, ו",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 45,
-    "heRef_2": "משנה פסחים ה, ז",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 46,
-    "heRef_2": "משנה פסחים ה, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 50,
-    "heRef_2": "משנה פסחים ו, א",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 51,
-    "heRef_2": "משנה פסחים ו, ב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 53,
-    "heRef_2": "משנה פסחים ו, ד",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 54,
-    "heRef_2": "משנה פסחים ו, ה",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 55,
-    "heRef_2": "משנה פסחים ו, ו",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 67,
-    "heRef_2": "משנה פסחים ז, יא",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 67,
-    "heRef_2": "משנה פסחים ז, יא",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 68,
-    "heRef_2": "משנה פסחים ז, יב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 69,
-    "heRef_2": "משנה פסחים ז, יג",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 60,
-    "heRef_2": "משנה פסחים ז, ד",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 61,
-    "heRef_2": "משנה פסחים ז, ה",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 63,
-    "heRef_2": "משנה פסחים ז, ז",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 65,
-    "heRef_2": "משנה פסחים ז, ט",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 71,
-    "heRef_2": "משנה פסחים ח, א",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 71,
-    "heRef_2": "משנה פסחים ח, א",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 72,
-    "heRef_2": "משנה פסחים ח, ב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 73,
-    "heRef_2": "משנה פסחים ח, ג",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 75,
-    "heRef_2": "משנה פסחים ח, ה",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 77,
-    "heRef_2": "משנה פסחים ח, ז",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 78,
-    "heRef_2": "משנה פסחים ח, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 80,
-    "heRef_2": "משנה פסחים ט, א",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 90,
-    "heRef_2": "משנה פסחים ט, יא",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 81,
-    "heRef_2": "משנה פסחים ט, ב",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 81,
-    "heRef_2": "משנה פסחים ט, ב",
-    "path_2": "משנה פסחים.txt",
+    "line_index_2": 232,
+    "heRef_2": "ספרי במדבר קמג, ג",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 75,
-    "line_index_2": 82,
-    "heRef_2": "משנה פסחים ט, ג",
-    "path_2": "משנה פסחים.txt",
+    "line_index_2": 90,
+    "heRef_2": "ספרי במדבר סה,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 129,
-    "line_index_2": 82,
-    "heRef_2": "משנה פסחים ט, ג",
-    "path_2": "משנה פסחים.txt",
+    "line_index_2": 90,
+    "heRef_2": "ספרי במדבר סה,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 130,
-    "line_index_2": 83,
-    "heRef_2": "משנה פסחים ט, ד",
-    "path_2": "משנה פסחים.txt",
+    "line_index_1": 122,
+    "line_index_2": 94,
+    "heRef_2": "ספרי במדבר סט,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 135,
-    "line_index_2": 84,
-    "heRef_2": "משנה פסחים ט, ה",
-    "path_2": "משנה פסחים.txt",
+    "line_index_1": 124,
+    "line_index_2": 94,
+    "heRef_2": "ספרי במדבר סט,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 157,
-    "line_index_2": 85,
-    "heRef_2": "משנה פסחים ט, ו",
-    "path_2": "משנה פסחים.txt",
+    "line_index_1": 128,
+    "line_index_2": 94,
+    "heRef_2": "ספרי במדבר סט,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 162,
-    "line_index_2": 85,
-    "heRef_2": "משנה פסחים ט, ו",
-    "path_2": "משנה פסחים.txt",
+    "line_index_1": 123,
+    "line_index_2": 94,
+    "heRef_2": "ספרי במדבר סט, א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 160,
-    "line_index_2": 86,
-    "heRef_2": "משנה פסחים ט, ז",
-    "path_2": "משנה פסחים.txt",
+    "line_index_1": 128,
+    "line_index_2": 96,
+    "heRef_2": "ספרי במדבר ע,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 164,
-    "line_index_2": 86,
-    "heRef_2": "משנה פסחים ט, ז",
-    "path_2": "משנה פסחים.txt",
+    "line_index_1": 129,
+    "line_index_2": 96,
+    "heRef_2": "ספרי במדבר ע,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 142,
-    "line_index_2": 87,
-    "heRef_2": "משנה פסחים ט, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 87,
-    "heRef_2": "משנה פסחים ט, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 87,
-    "heRef_2": "משנה פסחים ט, ח",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 88,
-    "heRef_2": "משנה פסחים ט, ט",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 130,
-    "heRef_2": "משנה שבת יט, א",
-    "path_2": "משנה שבת.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 13,
-    "heRef_2": "משנה שבת א, יא",
-    "path_2": "משנה שבת.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 16,
-    "heRef_2": "משנה תמורה ג, ג",
-    "path_2": "משנה תמורה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 22,
-    "heRef_2": "משנה תמורה ד, ג",
-    "path_2": "משנה תמורה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 101,
-    "heRef_2": "משנה זבחים יג, ד",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 4,
-    "heRef_2": "משנה זבחים א, ב",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 5,
-    "heRef_2": "משנה זבחים א, ג",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 8,
-    "heRef_2": "משנה זבחים ב, א",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 35,
-    "heRef_2": "משנה זבחים ה, ח",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 52,
-    "heRef_2": "משנה זבחים ח, א",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 53,
-    "heRef_2": "משנה זבחים ח, ב",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 53,
-    "heRef_2": "משנה זבחים ח, ב",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 421,
-    "heRef_2": "מועד קטן יג.,  א",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 429,
-    "heRef_2": "מועד קטן יג., ט",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 1337,
-    "heRef_2": "נזיר סג.,  א",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 3362,
-    "heRef_2": "בבא בתרא קמד:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 3374,
-    "heRef_2": "בבא בתרא קמד:, יג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 4147,
-    "heRef_2": "בבא קמא קיא.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 768,
-    "heRef_2": "בבא מציעא כג., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 239,
-    "heRef_2": "גיטין י.,  א",
-    "path_2": "גיטין.txt",
+    "line_index_1": 131,
+    "line_index_2": 96,
+    "heRef_2": "ספרי במדבר ע, א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 125,
-    "line_index_2": 682,
-    "heRef_2": "דברי הימים ב ל, יח",
-    "path_2": "דברי הימים ב.txt",
+    "line_index_2": 97,
+    "heRef_2": "ספרי במדבר עא,  א",
+    "path_2": "ספרי במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 874,
+    "heRef_2": "ספרי דברים קכט, ו",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 876,
+    "heRef_2": "ספרי דברים קל,  א",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 883,
+    "heRef_2": "ספרי דברים קלא,  א",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 883,
+    "heRef_2": "ספרי דברים קלא,  א",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 883,
+    "heRef_2": "ספרי דברים קלא,  א",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 888,
+    "heRef_2": "ספרי דברים קלב,  א",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 894,
+    "heRef_2": "ספרי דברים קלד,  א",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 894,
+    "heRef_2": "ספרי דברים קלד,  א",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 897,
+    "heRef_2": "ספרי דברים קלד, ד",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 523,
+    "heRef_2": "ספרי דברים עח,  א",
+    "path_2": "ספרי דברים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 1021,
+    "heRef_2": "סוכה לט., ב",
+    "path_2": "סוכה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 1085,
+    "heRef_2": "סוכה מב.,  א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 1226,
+    "heRef_2": "סוכה מז:,  א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 1449,
+    "heRef_2": "סוכה נו., ו",
+    "path_2": "סוכה.txt",
     "Conection Type": "related"
   },
   {
@@ -34167,1081 +33628,1620 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 30,
-    "line_index_2": 63,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ט, ג",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 64,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ט, ד",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 394,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה ה, יא, ד",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 79,
-    "heRef_2": "תלמוד ירושלמי ברכות א, ה, יח",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 183,
-    "heRef_2": "תלמוד ירושלמי ברכות ב, ז, ח",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 517,
-    "heRef_2": "תלמוד ירושלמי ברכות ז, א, ח",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 34,
-    "heRef_2": "תלמוד ירושלמי חגיגה א, ד, ב",
-    "path_2": "תלמוד ירושלמי חגיגה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 19,
-    "heRef_2": "תלמוד ירושלמי חלה א, א, טז",
-    "path_2": "תלמוד ירושלמי חלה.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 56,
+    "line_index_2": 421,
+    "heRef_2": "מועד קטן יג.,  א",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 56,
-    "line_index_2": 29,
-    "heRef_2": "תלמוד ירושלמי חלה א, א, כו",
-    "path_2": "תלמוד ירושלמי חלה.txt",
-    "Conection Type": ""
+    "line_index_2": 429,
+    "heRef_2": "מועד קטן יג., ט",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 32,
-    "line_index_2": 7,
-    "heRef_2": "תלמוד ירושלמי חלה א, א, ד",
-    "path_2": "תלמוד ירושלמי חלה.txt",
-    "Conection Type": ""
+    "line_index_1": 96,
+    "line_index_2": 1337,
+    "heRef_2": "נזיר סג.,  א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 24,
-    "line_index_2": 51,
-    "heRef_2": "תלמוד ירושלמי חלה א, ג, טז",
-    "path_2": "תלמוד ירושלמי חלה.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 75,
+    "line_index_2": 1004,
+    "heRef_2": "במדבר כח, ב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 131,
-    "line_index_2": 202,
-    "heRef_2": "תלמוד ירושלמי חלה ד, ה, ז",
-    "path_2": "תלמוד ירושלמי חלה.txt",
-    "Conection Type": ""
+    "line_index_1": 82,
+    "line_index_2": 1033,
+    "heRef_2": "במדבר כח, לא",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 30,
-    "line_index_2": 133,
-    "heRef_2": "תלמוד ירושלמי דמאי ג, ג, ב",
-    "path_2": "תלמוד ירושלמי דמאי.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 130,
+    "line_index_2": 196,
+    "heRef_2": "במדבר ה, ב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 93,
-    "line_index_2": 35,
-    "heRef_2": "תלמוד ירושלמי הוריות א, ו, ב",
-    "path_2": "תלמוד ירושלמי הוריות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 122,
+    "line_index_2": 381,
+    "heRef_2": "במדבר ט, י",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 37,
-    "line_index_2": 140,
-    "heRef_2": "תלמוד ירושלמי קידושין א, ז, יז",
-    "path_2": "תלמוד ירושלמי קידושין.txt",
-    "Conection Type": ""
+    "line_index_1": 124,
+    "line_index_2": 381,
+    "heRef_2": "במדבר ט, י",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 131,
-    "line_index_2": 141,
-    "heRef_2": "תלמוד ירושלמי קידושין א, ז, יח",
-    "path_2": "תלמוד ירושלמי קידושין.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 170,
+    "line_index_2": 3355,
+    "heRef_2": "פסחים קז:,  ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 34,
-    "line_index_2": 106,
-    "heRef_2": "תלמוד ירושלמי מעשרות ג, א, ו",
-    "path_2": "תלמוד ירושלמי מעשרות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 170,
+    "line_index_2": 3356,
+    "heRef_2": "פסחים קז:,  ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 54,
-    "line_index_2": 139,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ה, יח",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 388,
-    "heRef_2": "תלמוד ירושלמי נדרים י, ח, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 126,
-    "heRef_2": "תלמוד ירושלמי ערלה ב, ו, ג",
-    "path_2": "תלמוד ירושלמי ערלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 126,
-    "heRef_2": "תלמוד ירושלמי ערלה ב, ו, ג",
-    "path_2": "תלמוד ירושלמי ערלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 400,
-    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ב",
-    "path_2": "תלמוד ירושלמי פאה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 400,
-    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ב",
-    "path_2": "תלמוד ירושלמי פאה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 578,
-    "heRef_2": "תלמוד ירושלמי פסחים י, א, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 70,
+    "line_index_2": 3359,
+    "heRef_2": "פסחים קח.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 166,
-    "line_index_2": 578,
-    "heRef_2": "תלמוד ירושלמי פסחים י, א, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 3378,
+    "heRef_2": "פסחים קח:, ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 169,
-    "line_index_2": 573,
-    "heRef_2": "תלמוד ירושלמי פסחים י, א, ו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 575,
-    "heRef_2": "תלמוד ירושלמי פסחים י, א, ח",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 584,
-    "heRef_2": "תלמוד ירושלמי פסחים י, ב, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 591,
-    "heRef_2": "תלמוד ירושלמי פסחים י, ג, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 3383,
+    "heRef_2": "פסחים קט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 174,
-    "line_index_2": 599,
-    "heRef_2": "תלמוד ירושלמי פסחים י, ה, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 606,
-    "heRef_2": "תלמוד ירושלמי פסחים י, ו, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 13,
-    "heRef_2": "תלמוד ירושלמי פסחים א, א, י",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 14,
-    "heRef_2": "תלמוד ירושלמי פסחים א, א, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 16,
-    "heRef_2": "תלמוד ירושלמי פסחים א, א, יג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 17,
-    "heRef_2": "תלמוד ירושלמי פסחים א, א, יד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 18,
-    "heRef_2": "תלמוד ירושלמי פסחים א, א, טו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 7,
-    "heRef_2": "תלמוד ירושלמי פסחים א, א, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 9,
-    "heRef_2": "תלמוד ירושלמי פסחים א, א, ו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 26,
-    "heRef_2": "תלמוד ירושלמי פסחים א, ג, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 47,
-    "heRef_2": "תלמוד ירושלמי פסחים א, ו, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 59,
-    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 59,
-    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 59,
-    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 61,
-    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ח",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 62,
-    "heRef_2": "תלמוד ירושלמי פסחים א, ח, ט",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 96,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 97,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, יב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 97,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, יב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 88,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 93,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, ח",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 93,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, ח",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 93,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ב, ח",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 105,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ג, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 121,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, י",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 122,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 122,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 123,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, יב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 115,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 126,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ה, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 132,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ו, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 137,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ז, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 138,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ז, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 3383,
+    "heRef_2": "פסחים קט., א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 42,
-    "line_index_2": 138,
-    "heRef_2": "תלמוד ירושלמי פסחים ב, ז, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 277,
+    "heRef_2": "פסחים י:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 36,
-    "line_index_2": 152,
-    "heRef_2": "תלמוד ירושלמי פסחים ג, א, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 167,
+    "line_index_2": 3530,
+    "heRef_2": "פסחים קיד., ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 3555,
+    "heRef_2": "פסחים קטו., ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 3571,
+    "heRef_2": "פסחים קטז.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 3574,
+    "heRef_2": "פסחים קטז., ד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 3705,
+    "heRef_2": "פסחים קיט:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 3714,
+    "heRef_2": "פסחים קיט:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 3707,
+    "heRef_2": "פסחים קיט:, ג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 3719,
+    "heRef_2": "פסחים קכ.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 369,
+    "heRef_2": "פסחים יג.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 374,
+    "heRef_2": "פסחים יג., ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 448,
+    "heRef_2": "פסחים טו:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 449,
+    "heRef_2": "פסחים טו:,  ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 604,
+    "heRef_2": "פסחים כ:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 609,
+    "heRef_2": "פסחים כ:, ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 610,
+    "heRef_2": "פסחים כ:, ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 629,
+    "heRef_2": "פסחים כא.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 830,
+    "heRef_2": "פסחים כח.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 847,
+    "heRef_2": "פסחים כח:, ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 856,
+    "heRef_2": "פסחים כט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 17,
+    "heRef_2": "פסחים ב:, ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 927,
+    "heRef_2": "פסחים לא:, ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 939,
+    "heRef_2": "פסחים לב., ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 984,
+    "heRef_2": "פסחים לד.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 1018,
+    "heRef_2": "פסחים לה., יא",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 1045,
+    "heRef_2": "פסחים לו.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 1048,
+    "heRef_2": "פסחים לו., ד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 34,
-    "line_index_2": 152,
-    "heRef_2": "תלמוד ירושלמי פסחים ג, א, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 1088,
+    "heRef_2": "פסחים לז., ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 23,
-    "line_index_2": 177,
-    "heRef_2": "תלמוד ירושלמי פסחים ג, ד, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 36,
+    "line_index_2": 1149,
+    "heRef_2": "פסחים לט., ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 1162,
+    "heRef_2": "פסחים לט:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 1168,
+    "heRef_2": "פסחים לט:, ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 1179,
+    "heRef_2": "פסחים מ.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 1226,
+    "heRef_2": "פסחים מא.,  י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 1227,
+    "heRef_2": "פסחים מא.,  יא",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 1228,
+    "heRef_2": "פסחים מא., יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 1240,
+    "heRef_2": "פסחים מא:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 1246,
+    "heRef_2": "פסחים מא:, ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 1266,
+    "heRef_2": "פסחים מב.,  ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 1267,
+    "heRef_2": "פסחים מב.,  ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 1382,
+    "heRef_2": "פסחים מה.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 1400,
+    "heRef_2": "פסחים מה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 1400,
+    "heRef_2": "פסחים מה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 1400,
+    "heRef_2": "פסחים מה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 1476,
+    "heRef_2": "פסחים מח.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 1490,
+    "heRef_2": "פסחים מח., טו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 1504,
+    "heRef_2": "פסחים מח:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 1512,
+    "heRef_2": "פסחים מט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1512,
+    "heRef_2": "פסחים מט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 1554,
+    "heRef_2": "פסחים נ.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 55,
-    "line_index_2": 228,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ד, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 228,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ד, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
+    "line_index_2": 1651,
+    "heRef_2": "פסחים נג:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 56,
-    "line_index_2": 238,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ז, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 1718,
+    "heRef_2": "פסחים נה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 56,
-    "line_index_2": 243,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ח, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 1726,
+    "heRef_2": "פסחים נה:, ט",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 1734,
+    "heRef_2": "פסחים נו.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 57,
-    "line_index_2": 246,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 247,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 248,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
+    "line_index_2": 1743,
+    "heRef_2": "פסחים נו., י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 58,
-    "line_index_2": 253,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ט",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
+    "line_index_2": 1748,
+    "heRef_2": "פסחים נו:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1748,
+    "heRef_2": "פסחים נו:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 1759,
+    "heRef_2": "פסחים נז.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 63,
-    "line_index_2": 264,
-    "heRef_2": "תלמוד ירושלמי פסחים ה, א, ט",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 1789,
+    "heRef_2": "פסחים נח:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 1798,
+    "heRef_2": "פסחים נח:,  י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 1799,
+    "heRef_2": "פסחים נח:,  יא",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 1800,
+    "heRef_2": "פסחים נח:,  יב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 1801,
+    "heRef_2": "פסחים נח:,  יג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 1802,
+    "heRef_2": "פסחים נח:,  יד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 63,
-    "line_index_2": 280,
-    "heRef_2": "תלמוד ירושלמי פסחים ה, ג, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
+    "line_index_2": 1804,
+    "heRef_2": "פסחים נט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 68,
-    "line_index_2": 299,
-    "heRef_2": "תלמוד ירושלמי פסחים ה, ד, יב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 63,
+    "line_index_2": 1813,
+    "heRef_2": "פסחים נט., י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 104,
+    "heRef_2": "פסחים ה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 105,
+    "heRef_2": "פסחים ה:,  ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 1875,
+    "heRef_2": "פסחים סא., ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 1881,
+    "heRef_2": "פסחים סא:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 1893,
+    "heRef_2": "פסחים סב.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 1911,
+    "heRef_2": "פסחים סב:, ד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 1948,
+    "heRef_2": "פסחים סג:, יג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 1950,
+    "heRef_2": "פסחים סג:, טו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 1969,
+    "heRef_2": "פסחים סד:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 1969,
+    "heRef_2": "פסחים סד:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 1996,
+    "heRef_2": "פסחים סה., ח",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 1997,
+    "heRef_2": "פסחים סה., ט",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 2002,
+    "heRef_2": "פסחים סה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 2002,
+    "heRef_2": "פסחים סה:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 2016,
+    "heRef_2": "פסחים סו.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 2016,
+    "heRef_2": "פסחים סו.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 2030,
+    "heRef_2": "פסחים סו:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 2061,
+    "heRef_2": "פסחים סז:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 2110,
+    "heRef_2": "פסחים סט.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 2126,
+    "heRef_2": "פסחים סט:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 123,
+    "heRef_2": "פסחים ו.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 128,
+    "heRef_2": "פסחים ו., ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 2143,
+    "heRef_2": "פסחים ע., ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 2144,
+    "heRef_2": "פסחים ע.,  ג",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 2145,
+    "heRef_2": "פסחים ע.,  ד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 2168,
+    "heRef_2": "פסחים ע:, ח",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 2222,
+    "heRef_2": "פסחים עב:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 3362,
+    "heRef_2": "בבא בתרא קמד:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 3374,
+    "heRef_2": "בבא בתרא קמד:, יג",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 4147,
+    "heRef_2": "בבא קמא קיא.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 768,
+    "heRef_2": "בבא מציעא כג., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 2371,
+    "heRef_2": "עירובין סד:,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 3016,
+    "heRef_2": "עירובין פב:, ו",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 307,
+    "heRef_2": "שמות יב, י",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 316,
+    "heRef_2": "שמות יב, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 319,
+    "heRef_2": "שמות יב, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 319,
+    "heRef_2": "שמות יב, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 301,
+    "heRef_2": "שמות יב, ד",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 343,
+    "heRef_2": "שמות יב, מו",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 302,
+    "heRef_2": "שמות יב, ה",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 140,
     "line_index_2": 302,
-    "heRef_2": "תלמוד ירושלמי פסחים ה, ה, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 311,
-    "heRef_2": "תלמוד ירושלמי פסחים ה, ז, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 314,
-    "heRef_2": "תלמוד ירושלמי פסחים ה, ח, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 315,
-    "heRef_2": "תלמוד ירושלמי פסחים ה, ח, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 336,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, א, יא",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 337,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, א, יב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 337,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, א, יב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 327,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 327,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 330,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 353,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, ג, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 355,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, ג, ו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 360,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, ד, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 361,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, ד, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 373,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, ו, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 440,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, י, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "heRef_2": "שמות יב, ה",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 102,
-    "line_index_2": 456,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, יג, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
+    "line_index_2": 304,
+    "heRef_2": "שמות יב, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 102,
-    "line_index_2": 459,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, יג, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 461,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, יג, ז",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 378,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, א, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 408,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, ה, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 409,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, ה, ו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 413,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, ו, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 415,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, ו, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 423,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, ז, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 431,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, ח, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 436,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, ט, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 469,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, א, ו",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 470,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, א, ז",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 471,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, א, ח",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 476,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ב, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 476,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ב, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 483,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ג, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 487,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ד, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 487,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ד, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 494,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ו, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 495,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ו, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 498,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ז, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 499,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ז, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 509,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ח, ט",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 509,
-    "heRef_2": "תלמוד ירושלמי פסחים ח, ח, ט",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 513,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, א, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 514,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, א, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 528,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, ג, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 530,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, ג, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 533,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, ד, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 537,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, ה, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
+    "line_index_1": 129,
+    "line_index_2": 306,
+    "heRef_2": "שמות יב, ט",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 142,
-    "line_index_2": 539,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, ה, ד",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 552,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, ו, יב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 555,
-    "heRef_2": "תלמוד ירושלמי פסחים ט, ז, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 663,
-    "heRef_2": "תלמוד ירושלמי שבת יג, ג, ב",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 819,
-    "heRef_2": "תלמוד ירושלמי שבת יח, א, ג",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 819,
-    "heRef_2": "תלמוד ירושלמי שבת יח, א, ג",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 848,
-    "heRef_2": "תלמוד ירושלמי שבת יט, א, י",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 846,
-    "heRef_2": "תלמוד ירושלמי שבת יט, א, ח",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 108,
-    "heRef_2": "תלמוד ירושלמי שבת א, יא, ג",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 473,
-    "heRef_2": "תלמוד ירושלמי שבת ח, א, ג",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 475,
-    "heRef_2": "תלמוד ירושלמי שבת ח, א, ה",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 475,
-    "heRef_2": "תלמוד ירושלמי שבת ח, א, ה",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 85,
-    "heRef_2": "תלמוד ירושלמי שקלים ג, ב, ג",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 87,
-    "heRef_2": "תלמוד ירושלמי שקלים ג, ב, ה",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 87,
-    "heRef_2": "תלמוד ירושלמי שקלים ג, ב, ה",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 124,
-    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, ו",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 16,
     "line_index_2": 352,
-    "heRef_2": "תלמוד ירושלמי שביעית ח, ח, ה",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "related passage"
+    "heRef_2": "שמות יג,  ג",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 353,
+    "heRef_2": "שמות יג,  ד",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 36,
-    "line_index_2": 24,
-    "heRef_2": "תלמוד ירושלמי סוכה א, ב, ב",
-    "path_2": "תלמוד ירושלמי סוכה.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 782,
+    "heRef_2": "מנחות כג:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 172,
-    "line_index_2": 158,
-    "heRef_2": "תלמוד ירושלמי סוכה ג, י, ג",
-    "path_2": "תלמוד ירושלמי סוכה.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 63,
+    "line_index_2": 1672,
+    "heRef_2": "מנחות מט.,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 174,
-    "line_index_2": 160,
-    "heRef_2": "תלמוד ירושלמי סוכה ג, י, ה",
-    "path_2": "תלמוד ירושלמי סוכה.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 43,
+    "line_index_2": 1841,
+    "heRef_2": "מנחות נג.,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 80,
-    "line_index_2": 195,
-    "heRef_2": "תלמוד ירושלמי סוכה ד, ה, ג",
-    "path_2": "תלמוד ירושלמי סוכה.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 73,
+    "line_index_2": 2088,
+    "heRef_2": "מנחות נט:,  כא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 88,
-    "line_index_2": 397,
-    "heRef_2": "תלמוד ירושלמי תרומות י, ב, ו",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 40,
-    "heRef_2": "תלמוד ירושלמי תרומות א, ד, ג",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 334,
-    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ג",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 334,
-    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ג",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 334,
-    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ג",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 336,
-    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ה",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 336,
-    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ה",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 337,
-    "heRef_2": "תלמוד ירושלמי תרומות ח, ד, ו",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": ""
+    "line_index_1": 73,
+    "line_index_2": 2089,
+    "heRef_2": "מנחות נט:,  כב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 62,
+    "line_index_2": 111,
+    "heRef_2": "מנחות ה.,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 2211,
+    "heRef_2": "מנחות סג:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 2238,
+    "heRef_2": "מנחות סד., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 2471,
+    "heRef_2": "מנחות עא., יד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 2507,
+    "heRef_2": "מנחות עב:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 3373,
+    "heRef_2": "מנחות צה.,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 293,
+    "heRef_2": "מנחות ט., יג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 54,
+    "heRef_2": "משנה ברכות ח, א",
+    "path_2": "משנה ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 8,
+    "heRef_2": "משנה חלה א, ו",
+    "path_2": "משנה חלה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 43,
+    "heRef_2": "משנה חלה ד, יא",
+    "path_2": "משנה חלה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 56,
+    "heRef_2": "משנה עדיות ה, ב",
+    "path_2": "משנה עדיות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 56,
+    "heRef_2": "משנה עדיות ה, ב",
+    "path_2": "משנה עדיות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 3,
+    "heRef_2": "משנה כריתות א, א",
+    "path_2": "משנה כריתות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 83,
+    "heRef_2": "משנה מנחות יא, ג",
+    "path_2": "משנה מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 29,
+    "heRef_2": "משנה מנחות ה, ב",
+    "path_2": "משנה מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 51,
+    "heRef_2": "משנה מנחות ז, ו",
+    "path_2": "משנה מנחות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 67,
+    "heRef_2": "משנה נזיר ט, ב",
+    "path_2": "משנה נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 92,
+    "heRef_2": "משנה פסחים י, א",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 93,
+    "heRef_2": "משנה פסחים י, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 94,
+    "heRef_2": "משנה פסחים י, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 97,
+    "heRef_2": "משנה פסחים י, ו",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 99,
+    "heRef_2": "משנה פסחים י, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "משנה פסחים א, א",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "heRef_2": "משנה פסחים א, א",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 7,
+    "heRef_2": "משנה פסחים א, ה",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 9,
+    "heRef_2": "משנה פסחים א, ז",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 12,
+    "heRef_2": "משנה פסחים ב, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 12,
+    "heRef_2": "משנה פסחים ב, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 13,
+    "heRef_2": "משנה פסחים ב, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 13,
+    "heRef_2": "משנה פסחים ב, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 15,
+    "heRef_2": "משנה פסחים ב, ה",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 16,
+    "heRef_2": "משנה פסחים ב, ו",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 18,
+    "heRef_2": "משנה פסחים ב, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 18,
+    "heRef_2": "משנה פסחים ב, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 18,
+    "heRef_2": "משנה פסחים ב, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 21,
+    "heRef_2": "משנה פסחים ג, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 22,
+    "heRef_2": "משנה פסחים ג, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 23,
+    "heRef_2": "משנה פסחים ג, ד",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 25,
+    "heRef_2": "משנה פסחים ג, ו",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 26,
+    "heRef_2": "משנה פסחים ג, ז",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 27,
+    "heRef_2": "משנה פסחים ג, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 29,
+    "heRef_2": "משנה פסחים ד, א",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 32,
+    "heRef_2": "משנה פסחים ד, ד",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 34,
+    "heRef_2": "משנה פסחים ד, ו",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 36,
+    "heRef_2": "משנה פסחים ד, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 48,
+    "heRef_2": "משנה פסחים ה, י",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 40,
+    "heRef_2": "משנה פסחים ה, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 41,
+    "heRef_2": "משנה פסחים ה, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 41,
+    "heRef_2": "משנה פסחים ה, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 42,
+    "heRef_2": "משנה פסחים ה, ד",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 43,
+    "heRef_2": "משנה פסחים ה, ה",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 44,
+    "heRef_2": "משנה פסחים ה, ו",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 45,
+    "heRef_2": "משנה פסחים ה, ז",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 46,
+    "heRef_2": "משנה פסחים ה, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 50,
+    "heRef_2": "משנה פסחים ו, א",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 51,
+    "heRef_2": "משנה פסחים ו, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 53,
+    "heRef_2": "משנה פסחים ו, ד",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 54,
+    "heRef_2": "משנה פסחים ו, ה",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 55,
+    "heRef_2": "משנה פסחים ו, ו",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 67,
+    "heRef_2": "משנה פסחים ז, יא",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 67,
+    "heRef_2": "משנה פסחים ז, יא",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 68,
+    "heRef_2": "משנה פסחים ז, יב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 69,
+    "heRef_2": "משנה פסחים ז, יג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 60,
+    "heRef_2": "משנה פסחים ז, ד",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 61,
+    "heRef_2": "משנה פסחים ז, ה",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 63,
+    "heRef_2": "משנה פסחים ז, ז",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 65,
+    "heRef_2": "משנה פסחים ז, ט",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 71,
+    "heRef_2": "משנה פסחים ח, א",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 71,
+    "heRef_2": "משנה פסחים ח, א",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 72,
+    "heRef_2": "משנה פסחים ח, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 73,
+    "heRef_2": "משנה פסחים ח, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 75,
+    "heRef_2": "משנה פסחים ח, ה",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 127,
     "line_index_2": 77,
-    "heRef_2": "תלמוד ירושלמי יומא ב, א, ט",
-    "path_2": "תלמוד ירושלמי יומא.txt",
-    "Conection Type": "related passage"
+    "heRef_2": "משנה פסחים ח, ז",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 78,
+    "heRef_2": "משנה פסחים ח, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 80,
+    "heRef_2": "משנה פסחים ט, א",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 90,
+    "heRef_2": "משנה פסחים ט, יא",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 81,
+    "heRef_2": "משנה פסחים ט, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 81,
+    "heRef_2": "משנה פסחים ט, ב",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 82,
+    "heRef_2": "משנה פסחים ט, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 82,
+    "heRef_2": "משנה פסחים ט, ג",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 83,
+    "heRef_2": "משנה פסחים ט, ד",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 84,
+    "heRef_2": "משנה פסחים ט, ה",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 85,
+    "heRef_2": "משנה פסחים ט, ו",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 85,
+    "heRef_2": "משנה פסחים ט, ו",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 86,
+    "heRef_2": "משנה פסחים ט, ז",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 86,
+    "heRef_2": "משנה פסחים ט, ז",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 87,
+    "heRef_2": "משנה פסחים ט, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 87,
+    "heRef_2": "משנה פסחים ט, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 87,
+    "heRef_2": "משנה פסחים ט, ח",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 88,
+    "heRef_2": "משנה פסחים ט, ט",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 130,
+    "heRef_2": "משנה שבת יט, א",
+    "path_2": "משנה שבת.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 13,
+    "heRef_2": "משנה שבת א, יא",
+    "path_2": "משנה שבת.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 16,
+    "heRef_2": "משנה תמורה ג, ג",
+    "path_2": "משנה תמורה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 22,
+    "heRef_2": "משנה תמורה ד, ג",
+    "path_2": "משנה תמורה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 101,
+    "heRef_2": "משנה זבחים יג, ד",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 4,
+    "heRef_2": "משנה זבחים א, ב",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 5,
+    "heRef_2": "משנה זבחים א, ג",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 8,
+    "heRef_2": "משנה זבחים ב, א",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 35,
+    "heRef_2": "משנה זבחים ה, ח",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 52,
+    "heRef_2": "משנה זבחים ח, א",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 53,
+    "heRef_2": "משנה זבחים ח, ב",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 53,
+    "heRef_2": "משנה זבחים ח, ב",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "related"
   }
 ]

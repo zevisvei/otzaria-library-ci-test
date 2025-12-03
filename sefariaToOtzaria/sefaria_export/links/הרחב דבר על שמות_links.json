@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 4,
-    "line_index_2": 1017,
-    "heRef_2": "בראשית לד, א",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 19,
     "line_index_2": 698,
     "heRef_2": "העמק דבר על שמות י, יב, ב",
@@ -586,5 +579,12 @@
     "heRef_2": "העמק דבר על שמות ז, ט, ב",
     "path_2": "העמק דבר על שמות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 1017,
+    "heRef_2": "בראשית לד, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

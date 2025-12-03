@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 55,
-    "line_index_2": 1131,
-    "heRef_2": "בראשית לז, ט",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 38,
     "line_index_2": 350,
     "heRef_2": "מגילה י., ז",
@@ -887,5 +880,12 @@
     "heRef_2": "מגילה ט:, ו",
     "path_2": "מגילה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 1131,
+    "heRef_2": "בראשית לז, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

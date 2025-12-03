@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 9,
+    "line_index_2": 2309,
+    "heRef_2": "פסחים עה., ג",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 10,
     "line_index_2": 1205,
     "heRef_2": "קידושין לח:,  י",
@@ -35,20 +42,6 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 9,
-    "line_index_2": 415,
-    "heRef_2": "ויקרא יד, לד",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 579,
-    "heRef_2": "ויקרא יט, כג",
-    "path_2": "ויקרא.txt",
-    "Conection Type": "related"
-  },
-  {
     "line_index_1": 8,
     "line_index_2": 338,
     "heRef_2": "בכורות י., ב",
@@ -70,6 +63,27 @@
     "Conection Type": "related"
   },
   {
+    "line_index_1": 9,
+    "line_index_2": 415,
+    "heRef_2": "ויקרא יד, לד",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 579,
+    "heRef_2": "ויקרא יט, כג",
+    "path_2": "ויקרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 3564,
+    "heRef_2": "חולין קטז., ז",
+    "path_2": "חולין.txt",
+    "Conection Type": "related"
+  },
+  {
     "line_index_1": 3,
     "line_index_2": 1459,
     "heRef_2": "סוטה מג:, ז",
@@ -77,11 +91,25 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 8,
-    "line_index_2": 3620,
-    "heRef_2": "מנחות קא:, ו",
-    "path_2": "מנחות.txt",
+    "line_index_1": 6,
+    "line_index_2": 53,
+    "heRef_2": "תוספתא פאה (ליברמן) ג, טו",
+    "path_2": "תוספתא פאה (ליברמן).txt",
     "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 1497,
+    "heRef_2": "עבודה זרה מח:, יט",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 1520,
+    "heRef_2": "עבודה זרה מט:, א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 9,
@@ -91,17 +119,17 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 9,
-    "line_index_2": 2309,
-    "heRef_2": "פסחים עה., ג",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
+    "line_index_1": 6,
+    "line_index_2": 3891,
+    "heRef_2": "בבא מציעא קיט., א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
   },
   {
     "line_index_1": 8,
-    "line_index_2": 3564,
-    "heRef_2": "חולין קטז., ז",
-    "path_2": "חולין.txt",
+    "line_index_2": 3620,
+    "heRef_2": "מנחות קא:, ו",
+    "path_2": "מנחות.txt",
     "Conection Type": "related"
   },
   {
@@ -179,34 +207,6 @@
     "line_index_2": 396,
     "heRef_2": "משנה תורה, הלכות מאכלות אסורות טז, כא",
     "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 3891,
-    "heRef_2": "בבא מציעא קיט., א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 53,
-    "heRef_2": "תוספתא פאה (ליברמן) ג, טו",
-    "path_2": "תוספתא פאה (ליברמן).txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 1497,
-    "heRef_2": "עבודה זרה מח:, יט",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 1520,
-    "heRef_2": "עבודה זרה מט:, א",
-    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   }
 ]

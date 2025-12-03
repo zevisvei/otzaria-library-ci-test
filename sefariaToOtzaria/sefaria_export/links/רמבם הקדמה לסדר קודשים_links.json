@@ -1,89 +1,5 @@
 [
   {
-    "line_index_1": 39,
-    "line_index_2": 345,
-    "heRef_2": "שמות יב, מח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 972,
-    "heRef_2": "יחזקאל לז, א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 389,
-    "heRef_2": "בראשית טו, יב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 476,
-    "heRef_2": "ויקרא טז, ג",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 699,
-    "heRef_2": "ויקרא כג, יח",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 700,
-    "heRef_2": "ויקרא כג, יט",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 633,
-    "heRef_2": "שבת ל:, ה",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 3189,
-    "heRef_2": "זבחים צח.,  א",
-    "path_2": "זבחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 69,
-    "heRef_2": "ויקרא ד, יד",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 76,
-    "heRef_2": "ויקרא ד, כא",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 579,
-    "heRef_2": "במדבר טו, יד",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 590,
-    "heRef_2": "במדבר טו, כה",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 7,
     "line_index_2": 22,
     "heRef_2": "משנה אבות ב,  א",
@@ -109,6 +25,62 @@
     "line_index_2": 2407,
     "heRef_2": "תהילים קלא, ב",
     "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 633,
+    "heRef_2": "שבת ל:, ה",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 3189,
+    "heRef_2": "זבחים צח.,  א",
+    "path_2": "זבחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 40,
+    "heRef_2": "דברי הימים ב ג,  א",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 476,
+    "heRef_2": "ויקרא טז, ג",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 699,
+    "heRef_2": "ויקרא כג, יח",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 700,
+    "heRef_2": "ויקרא כג, יט",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 69,
+    "heRef_2": "ויקרא ד, יד",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 76,
+    "heRef_2": "ויקרא ד, כא",
+    "path_2": "ויקרא.txt",
     "Conection Type": ""
   },
   {
@@ -140,10 +112,38 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 55,
-    "line_index_2": 40,
-    "heRef_2": "דברי הימים ב ג,  א",
-    "path_2": "דברי הימים ב.txt",
+    "line_index_1": 39,
+    "line_index_2": 579,
+    "heRef_2": "במדבר טו, יד",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 590,
+    "heRef_2": "במדבר טו, כה",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 345,
+    "heRef_2": "שמות יב, מח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 972,
+    "heRef_2": "יחזקאל לז, א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 389,
+    "heRef_2": "בראשית טו, יב",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   }
 ]

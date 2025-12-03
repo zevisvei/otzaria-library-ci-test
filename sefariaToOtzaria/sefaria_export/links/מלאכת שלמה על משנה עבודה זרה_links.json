@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 19,
+    "line_index_2": 24,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ב, ט",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 1434,
+    "heRef_2": "גיטין מז.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 1967,
+    "heRef_2": "גיטין סא.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 70,
     "line_index_2": 2491,
     "heRef_2": "קידושין פ.,  א",
@@ -1750,41 +1771,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 11,
-    "line_index_2": 3848,
-    "heRef_2": "בבא קמא קב., יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 2256,
-    "heRef_2": "בבא קמא נח:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 3754,
-    "heRef_2": "בבא קמא צט.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 1434,
-    "heRef_2": "גיטין מז.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 1967,
-    "heRef_2": "גיטין סא.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 262,
     "line_index_2": 899,
     "heRef_2": "עבודה זרה לא.,  א",
@@ -1820,10 +1806,24 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 19,
-    "line_index_2": 24,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, ב, ט",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "quotation"
+    "line_index_1": 11,
+    "line_index_2": 3848,
+    "heRef_2": "בבא קמא קב., יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 2256,
+    "heRef_2": "בבא קמא נח:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 3754,
+    "heRef_2": "בבא קמא צט.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
   }
 ]

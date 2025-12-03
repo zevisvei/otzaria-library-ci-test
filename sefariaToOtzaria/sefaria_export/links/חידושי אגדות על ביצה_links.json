@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 21,
-    "line_index_2": 777,
-    "heRef_2": "רמב\"ן על שמות לא, יג, א",
-    "path_2": "רמבן על שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 4,
     "line_index_2": 452,
     "heRef_2": "ביצה טו:, יא",
@@ -243,5 +236,12 @@
     "heRef_2": "ביצה לב:, ו",
     "path_2": "ביצה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 777,
+    "heRef_2": "רמב\"ן על שמות לא, יג, א",
+    "path_2": "רמבן על שמות.txt",
+    "Conection Type": ""
   }
 ]

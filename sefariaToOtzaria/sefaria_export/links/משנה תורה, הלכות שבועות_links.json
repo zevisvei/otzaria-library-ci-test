@@ -1,94 +1,1221 @@
 [
   {
-    "line_index_1": 197,
-    "line_index_2": 306,
-    "heRef_2": "שמות יב, ט",
-    "path_2": "שמות.txt",
+    "line_index_1": 23,
+    "line_index_2": 1268,
+    "heRef_2": "ישעיהו סב, ה",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 10,
-    "line_index_2": 547,
-    "heRef_2": "שמות כ, ז",
-    "path_2": "שמות.txt",
+    "line_index_1": 23,
+    "line_index_2": 1271,
+    "heRef_2": "ישעיהו סב, ח",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 244,
+    "heRef_2": "ירמיהו ט, ד",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 318,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ט, ו, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 318,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ט, ו, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 113,
+    "heRef_2": "תלמוד ירושלמי ברכות ב, א, טו",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 457,
+    "heRef_2": "תלמוד ירושלמי ברכות ו, א, י",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 54,
+    "heRef_2": "תלמוד ירושלמי חגיגה א, ח, ג",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 55,
+    "heRef_2": "תלמוד ירושלמי חגיגה א, ח, ד",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 412,
+    "heRef_2": "תלמוד ירושלמי גיטין ט, ו, ב",
+    "path_2": "תלמוד ירושלמי גיטין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 185,
+    "heRef_2": "תלמוד ירושלמי כתובות ג, י, ב",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 48,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, ד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 49,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, ה",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 114,
+    "heRef_2": "תלמוד ירושלמי נזיר ד, א, ב",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 156,
+    "heRef_2": "תלמוד ירושלמי נזיר ה, א, ג",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 305,
+    "heRef_2": "תלמוד ירושלמי נזיר ח, א, ג",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 305,
+    "heRef_2": "תלמוד ירושלמי נזיר ח, א, ג",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 305,
+    "heRef_2": "תלמוד ירושלמי נזיר ח, א, ג",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 336,
+    "heRef_2": "תלמוד ירושלמי נזיר ט, א, ו",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי נדרים א, א, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 19,
+    "heRef_2": "תלמוד ירושלמי נדרים א, ב, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 48,
+    "heRef_2": "תלמוד ירושלמי נדרים ב, ב, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 48,
+    "heRef_2": "תלמוד ירושלמי נדרים ב, ב, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 53,
+    "heRef_2": "תלמוד ירושלמי נדרים ב, ג, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 65,
+    "heRef_2": "תלמוד ירושלמי נדרים ג, א, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 71,
+    "heRef_2": "תלמוד ירושלמי נדרים ג, ב, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 71,
+    "heRef_2": "תלמוד ירושלמי נדרים ג, ב, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 71,
+    "heRef_2": "תלמוד ירושלמי נדרים ג, ב, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 82,
+    "heRef_2": "תלמוד ירושלמי נדרים ג, ג, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 85,
+    "heRef_2": "תלמוד ירושלמי נדרים ג, ד, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 331,
+    "heRef_2": "תלמוד ירושלמי נדרים ט, ב, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 339,
+    "heRef_2": "תלמוד ירושלמי נדרים ט, ד, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 347,
+    "heRef_2": "תלמוד ירושלמי נדרים ט, ו, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 350,
+    "heRef_2": "תלמוד ירושלמי נדרים ט, ז, א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 296,
+    "heRef_2": "תלמוד ירושלמי פסחים ה, ד, ט",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 1039,
+    "heRef_2": "גיטין לה:, ח",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 1044,
+    "heRef_2": "גיטין לו., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 1045,
+    "heRef_2": "גיטין לו., ב",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 1046,
+    "heRef_2": "גיטין לו., ג",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 1602,
+    "heRef_2": "גיטין נא:, ז",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 2868,
+    "heRef_2": "גיטין פג:, יג",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 44,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות י, יז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 47,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יא, יג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 49,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יא, כ, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 61,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, יב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 52,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, א, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 54,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 55,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, ג, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 57,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 59,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 5,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות א, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 10,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ב, יח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 8,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ב, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 15,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ג, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 13,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ג, ה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 20,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 22,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, טו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 24,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, טז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 26,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, יז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 27,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, יז, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 29,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, יח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 31,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, יט, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 18,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, ט, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 38,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ו, יב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 34,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ו, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 36,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ו, ט, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 41,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ט, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 2274,
+    "heRef_2": "חורב תקצה, ה",
+    "path_2": "חורב.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 202,
-    "line_index_2": 547,
-    "heRef_2": "שמות כ, ז",
-    "path_2": "שמות.txt",
+    "line_index_2": 46,
+    "heRef_2": "הושע ד, ב",
+    "path_2": "הושע.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 208,
-    "line_index_2": 547,
-    "heRef_2": "שמות כ, ז",
-    "path_2": "שמות.txt",
+    "line_index_1": 202,
+    "line_index_2": 47,
+    "heRef_2": "הושע ד, ג",
+    "path_2": "הושע.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 6,
-    "line_index_2": 547,
-    "heRef_2": "שמות כ, ז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 586,
-    "heRef_2": "שמות כא, כב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 590,
-    "heRef_2": "שמות כא,  כו",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 591,
-    "heRef_2": "שמות כא,  כז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 596,
-    "heRef_2": "שמות כא, לב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 601,
-    "heRef_2": "שמות כא, לז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 612,
-    "heRef_2": "שמות כב, י",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 617,
-    "heRef_2": "שמות כב, טו",
-    "path_2": "שמות.txt",
+    "line_index_1": 19,
+    "line_index_2": 335,
+    "heRef_2": "שמואל א יד, כד",
+    "path_2": "שמואל א.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 18,
-    "line_index_2": 392,
-    "heRef_2": "יחזקאל יז, יג",
-    "path_2": "יחזקאל.txt",
+    "line_index_2": 849,
+    "heRef_2": "דברי הימים ב לו, יג",
+    "path_2": "דברי הימים ב.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 25,
+    "heRef_2": "מלכים ב ב, ד",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 232,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ג, ט, יז",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 234,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ג, ט, יט",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 234,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ג, ט, יט",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 234,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ג, ט, יט",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 234,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ג, ט, יט",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, י, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, י, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 82,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 82,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 83,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ב, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 90,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 90,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 90,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 91,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ג, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 93,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 93,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 103,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ה, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 104,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ה, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 104,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ה, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 104,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ה, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 104,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ה, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 104,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ה, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 104,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ה, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 107,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 107,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 111,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ז, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 111,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ז, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 111,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ז, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ח, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ח, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ח, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ח, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 125,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ח, ז",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 129,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ט, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 199,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, י, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 199,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, י, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, א, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, א, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, א, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, א, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 160,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, א, יח",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 163,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, א, כא",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 163,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, א, כא",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 163,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, א, כא",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 167,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 167,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 167,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 167,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 174,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 174,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 174,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 176,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ג, ג",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 179,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 179,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 180,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ד, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 182,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ה, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 185,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 185,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 189,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ז, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 189,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ז, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 189,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ז, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 189,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ז, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ח, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 196,
+    "heRef_2": "תלמוד ירושלמי שבועות ד, ט, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 206,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, א, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 206,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, א, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 207,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, א, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 207,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, א, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, א, ג",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, א, ג",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, א, ג",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 211,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 211,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 218,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 224,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ג, ז",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 226,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 226,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 226,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 232,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ה, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי שבועות ה, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 288,
+    "heRef_2": "תלמוד ירושלמי שבועות ז, א, ז",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 288,
+    "heRef_2": "תלמוד ירושלמי שבועות ז, א, ז",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 346,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ב, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 347,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ב, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 347,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ב, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 350,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 350,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 357,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 357,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 357,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ד, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 265,
+    "heRef_2": "תלמוד ירושלמי סוטה ז, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 265,
+    "heRef_2": "תלמוד ירושלמי סוטה ז, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 221,
+    "heRef_2": "תלמוד ירושלמי סוכה ה, ב, ב",
+    "path_2": "תלמוד ירושלמי סוכה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 124,
+    "heRef_2": "תלמוד ירושלמי תרומות ג, ד, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 379,
+    "heRef_2": "תלמוד ירושלמי יומא ח, ג, ג",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 379,
+    "heRef_2": "תלמוד ירושלמי יומא ח, ג, ג",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 380,
+    "heRef_2": "תלמוד ירושלמי יומא ח, ג, ד",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 383,
+    "heRef_2": "תלמוד ירושלמי יומא ח, ג, ז",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 15,
@@ -2534,6 +3661,132 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 100,
+    "line_index_2": 1236,
+    "heRef_2": "בכורות לו:, כב",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 1599,
+    "heRef_2": "בכורות מה:, יח",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 1600,
+    "heRef_2": "בכורות מה:, יט",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 1603,
+    "heRef_2": "בכורות מו., ב",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 18,
+    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות יא, ח, א",
+    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 5,
+    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות א, ד, א",
+    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 8,
+    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות ה, כב, א",
+    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 11,
+    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות ו, ג, א",
+    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 13,
+    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות ו, ד, א",
+    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 15,
+    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות ו, ז, א",
+    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 267,
+    "heRef_2": "חגיגה י., יא",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 268,
+    "heRef_2": "חגיגה י., יב",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 5,
+    "heRef_2": "חשק שלמה על משנה תורה, הלכות שבועות יא, ה, א",
+    "path_2": "חשק שלמה על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 17,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות יב, ד, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 5,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות ב, י, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 8,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות ג, ט, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 11,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות ד, יד, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 14,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות ו, יז, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 177,
     "line_index_2": 156,
     "heRef_2": "לחם משנה על משנה תורה, הלכות שבועות י, יא, א",
@@ -3066,6 +4319,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 120,
+    "line_index_2": 124,
+    "heRef_2": "לחם משנה על משנה תורה, הלכות שבועות ז, ז, א",
+    "path_2": "לחם משנה על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 122,
     "line_index_2": 126,
     "heRef_2": "לחם משנה על משנה תורה, הלכות שבועות ז, ח, א",
@@ -3386,132 +4646,6 @@
     "heRef_2": "ויקרא יט, יג",
     "path_2": "ויקרא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 1236,
-    "heRef_2": "בכורות לו:, כב",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 1599,
-    "heRef_2": "בכורות מה:, יח",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1600,
-    "heRef_2": "בכורות מה:, יט",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1603,
-    "heRef_2": "בכורות מו., ב",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 194,
-    "line_index_2": 18,
-    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות יא, ח, א",
-    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 5,
-    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות א, ד, א",
-    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 8,
-    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות ה, כב, א",
-    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 11,
-    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות ו, ג, א",
-    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 13,
-    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות ו, ד, א",
-    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 15,
-    "heRef_2": "בן אריה על משנה תורה, הלכות שבועות ו, ז, א",
-    "path_2": "בן אריה על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 267,
-    "heRef_2": "חגיגה י., יא",
-    "path_2": "חגיגה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 268,
-    "heRef_2": "חגיגה י., יב",
-    "path_2": "חגיגה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 5,
-    "heRef_2": "חשק שלמה על משנה תורה, הלכות שבועות יא, ה, א",
-    "path_2": "חשק שלמה על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 17,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות יב, ד, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 5,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות ב, י, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 8,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות ג, ט, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 11,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות ד, יד, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 14,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות ו, יז, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
   },
   {
     "line_index_1": 106,
@@ -4592,6 +5726,573 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 187,
+    "line_index_2": 322,
+    "heRef_2": "דברים י, כ",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 433,
+    "heRef_2": "דברים יד, כג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 451,
+    "heRef_2": "דברים טו, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 448,
+    "heRef_2": "דברים טו, ח",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 744,
+    "heRef_2": "דברים כז, כו",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 803,
+    "heRef_2": "דברים כח, נח",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 178,
+    "heRef_2": "דברים ה, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 178,
+    "heRef_2": "דברים ה, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 178,
+    "heRef_2": "דברים ה, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 211,
+    "heRef_2": "דברים ו, יג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 211,
+    "heRef_2": "דברים ו, יג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 18,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות י, א, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 5,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות א, ג, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 7,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות א, ח, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 10,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות ב, יז, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 15,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות ז, יא, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 13,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות ז, ב, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 638,
+    "heRef_2": "ערכין יח., ג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 831,
+    "heRef_2": "ערכין כג., ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 14339,
+    "heRef_2": "ערוך השולחן, יורה דעה רנח, יט",
+    "path_2": "ערוך השולחן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 2750,
+    "heRef_2": "בבא בתרא קכ:, ח",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 2990,
+    "heRef_2": "בבא בתרא קכט:, יא",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 3889,
+    "heRef_2": "בבא קמא קג:, ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 3889,
+    "heRef_2": "בבא קמא קג:, ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 3936,
+    "heRef_2": "בבא קמא קה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 3936,
+    "heRef_2": "בבא קמא קה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 3962,
+    "heRef_2": "בבא קמא קה:, י",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 3962,
+    "heRef_2": "בבא קמא קה:, י",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 3963,
+    "heRef_2": "בבא קמא קה:, יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 3963,
+    "heRef_2": "בבא קמא קה:, יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 3965,
+    "heRef_2": "בבא קמא קה:, יג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 3965,
+    "heRef_2": "בבא קמא קה:, יג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 3969,
+    "heRef_2": "בבא קמא קה:, יז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 3954,
+    "heRef_2": "בבא קמא קה:, ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 3956,
+    "heRef_2": "בבא קמא קה:, ד",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 3957,
+    "heRef_2": "בבא קמא קה:, ה",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 3961,
+    "heRef_2": "בבא קמא קה:, ט",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 3961,
+    "heRef_2": "בבא קמא קה:, ט",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 3989,
+    "heRef_2": "בבא קמא קו., יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 4234,
+    "heRef_2": "בבא קמא קיג., יט",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 4234,
+    "heRef_2": "בבא קמא קיג., יט",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 4235,
+    "heRef_2": "בבא קמא קיג., כ",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 4235,
+    "heRef_2": "בבא קמא קיג., כ",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 4460,
+    "heRef_2": "בבא קמא קיז:, כ",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 569,
+    "heRef_2": "בבא קמא טו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 571,
+    "heRef_2": "בבא קמא טו:, ג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 2436,
+    "heRef_2": "בבא קמא סג:, ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 2436,
+    "heRef_2": "בבא קמא סג:, ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 2437,
+    "heRef_2": "בבא קמא סג:, ג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 2437,
+    "heRef_2": "בבא קמא סג:, ג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 2437,
+    "heRef_2": "בבא קמא סג:, ג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 2506,
+    "heRef_2": "בבא קמא סה., יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 2506,
+    "heRef_2": "בבא קמא סה., יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 2506,
+    "heRef_2": "בבא קמא סה., יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 2506,
+    "heRef_2": "בבא קמא סה., יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 2513,
+    "heRef_2": "בבא קמא סה:, ו",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 2799,
+    "heRef_2": "בבא קמא עג., יז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 2799,
+    "heRef_2": "בבא קמא עג., יז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 2809,
+    "heRef_2": "בבא קמא עג:, ו",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 3476,
+    "heRef_2": "בבא קמא צא:, ב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 3481,
+    "heRef_2": "בבא קמא צא:, ז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 1236,
+    "heRef_2": "בבא מציעא לו., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 1236,
+    "heRef_2": "בבא מציעא לו., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 1241,
+    "heRef_2": "בבא מציעא לו., ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 1241,
+    "heRef_2": "בבא מציעא לו., ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 1241,
+    "heRef_2": "בבא מציעא לו., ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 2381,
+    "heRef_2": "עירובין סד:, יא",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 2386,
+    "heRef_2": "עירובין סד:, טז",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 306,
+    "heRef_2": "שמות יב, ט",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 547,
+    "heRef_2": "שמות כ, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 547,
+    "heRef_2": "שמות כ, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 547,
+    "heRef_2": "שמות כ, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 547,
+    "heRef_2": "שמות כ, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 586,
+    "heRef_2": "שמות כא, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 590,
+    "heRef_2": "שמות כא,  כו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 591,
+    "heRef_2": "שמות כא,  כז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 596,
+    "heRef_2": "שמות כא, לב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 601,
+    "heRef_2": "שמות כא, לז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 612,
+    "heRef_2": "שמות כב, י",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 617,
+    "heRef_2": "שמות כב, טו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 392,
+    "heRef_2": "יחזקאל יז, יג",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 31,
     "line_index_2": 5,
     "heRef_2": "מלאכת שלמה על משנה תורה, הלכות שבועות ב, יד, א",
@@ -4763,13 +6464,6 @@
     "line_index_1": 15,
     "line_index_2": 18,
     "heRef_2": "מגדל עוז על משנה תורה, הלכות שבועות א, יב, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 5,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות שבועות א, א, א",
     "path_2": "מגדל עוז על משנה תורה, הלכות שבועות.txt",
     "Conection Type": "commentary"
   },
@@ -5201,97 +6895,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 187,
-    "line_index_2": 322,
-    "heRef_2": "דברים י, כ",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 433,
-    "heRef_2": "דברים יד, כג",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 451,
-    "heRef_2": "דברים טו, יא",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 448,
-    "heRef_2": "דברים טו, ח",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 744,
-    "heRef_2": "דברים כז, כו",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 218,
-    "line_index_2": 803,
-    "heRef_2": "דברים כח, נח",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 178,
-    "heRef_2": "דברים ה, יא",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 178,
-    "heRef_2": "דברים ה, יא",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 178,
-    "heRef_2": "דברים ה, יא",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 211,
-    "heRef_2": "דברים ו, יג",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 218,
-    "line_index_2": 211,
-    "heRef_2": "דברים ו, יג",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 2381,
-    "heRef_2": "עירובין סד:, יא",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 2386,
-    "heRef_2": "עירובין סד:, טז",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
     "line_index_1": 219,
     "line_index_2": 53,
     "heRef_2": "משנה למלך על משנה תורה, הלכות שבועות יב, יב, א",
@@ -5524,13 +7127,6 @@
   },
   {
     "line_index_1": 4,
-    "line_index_2": 442,
-    "heRef_2": "טור, אורח חיים, אורח חיים רטו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 4,
     "line_index_2": 154,
     "heRef_2": "ספר החינוך ל,  א",
     "path_2": "ספר החינוך.txt",
@@ -5643,7 +7239,7 @@
   },
   {
     "line_index_1": 4,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
@@ -7218,13 +8814,6 @@
   },
   {
     "line_index_1": 178,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 178,
     "line_index_2": 2189,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, יב",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -7435,13 +9024,6 @@
   },
   {
     "line_index_1": 187,
-    "line_index_2": 1891,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 187,
     "line_index_2": 2368,
     "heRef_2": "ספר החינוך תלה,  א",
     "path_2": "ספר החינוך.txt",
@@ -7491,7 +9073,7 @@
   },
   {
     "line_index_1": 197,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7554,7 +9136,7 @@
   },
   {
     "line_index_1": 198,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7582,7 +9164,7 @@
   },
   {
     "line_index_1": 200,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7624,7 +9206,7 @@
   },
   {
     "line_index_1": 202,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7673,7 +9255,7 @@
   },
   {
     "line_index_1": 204,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7722,13 +9304,6 @@
   },
   {
     "line_index_1": 189,
-    "line_index_2": 1823,
-    "heRef_2": "טור, יורה דעה, יורה דעה רג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 189,
     "line_index_2": 1995,
     "heRef_2": "שולחן ערוך, יורה דעה רג, ו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -7764,7 +9339,7 @@
   },
   {
     "line_index_1": 191,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7792,7 +9367,7 @@
   },
   {
     "line_index_1": 194,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7925,13 +9500,6 @@
   },
   {
     "line_index_1": 210,
-    "line_index_2": 1891,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 210,
     "line_index_2": 2361,
     "heRef_2": "שולחן ערוך, יורה דעה רלז, ו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -7963,13 +9531,6 @@
     "line_index_2": 30,
     "heRef_2": "משנה תורה, הלכות נדרים א, כז",
     "path_2": "משנה תורה, הלכות נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 212,
-    "line_index_2": 1841,
-    "heRef_2": "טור, יורה דעה, יורה דעה ריב, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8051,13 +9612,6 @@
   },
   {
     "line_index_1": 216,
-    "line_index_2": 2085,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 216,
     "line_index_2": 3650,
     "heRef_2": "שולחן ערוך, יורה דעה שלד, לז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -8082,13 +9636,6 @@
     "line_index_2": 30,
     "heRef_2": "שבועות ג., ו",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8198,13 +9745,6 @@
   },
   {
     "line_index_1": 5,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 5,
     "line_index_2": 2395,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, ג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -8215,13 +9755,6 @@
     "line_index_2": 30,
     "heRef_2": "שבועות ג., ו",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8271,13 +9804,6 @@
     "line_index_2": 303,
     "heRef_2": "נדרים טז., ה",
     "path_2": "נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8334,13 +9860,6 @@
     "line_index_2": 565,
     "heRef_2": "שבועות כא., ד",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8453,13 +9972,6 @@
     "line_index_2": 86,
     "heRef_2": "משנה תורה, הלכות נדרים ה, ב",
     "path_2": "משנה תורה, הלכות נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8667,13 +10179,6 @@
   },
   {
     "line_index_1": 18,
-    "line_index_2": 1891,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 18,
     "line_index_2": 2357,
     "heRef_2": "שולחן ערוך, יורה דעה רלז, ב",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -8684,13 +10189,6 @@
     "line_index_2": 1162,
     "heRef_2": "שבועות לו., ט",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8758,23 +10256,9 @@
   },
   {
     "line_index_1": 27,
-    "line_index_2": 1837,
-    "heRef_2": "טור, יורה דעה, יורה דעה רי, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 27,
     "line_index_2": 2022,
     "heRef_2": "שולחן ערוך, יורה דעה רי, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8807,13 +10291,6 @@
   },
   {
     "line_index_1": 27,
-    "line_index_2": 1885,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 27,
     "line_index_2": 2297,
     "heRef_2": "שולחן ערוך, יורה דעה רלד, לא",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -8831,13 +10308,6 @@
     "line_index_2": 2299,
     "heRef_2": "שולחן ערוך, יורה דעה רלד, לג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 2097,
-    "heRef_2": "טור, יורה דעה, יורה דעה שמ, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8870,7 +10340,7 @@
   },
   {
     "line_index_1": 27,
-    "line_index_2": 6565,
+    "line_index_2": 6562,
     "heRef_2": "טור, חושן משפט, חושן משפט רפא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8908,13 +10378,6 @@
     "line_index_2": 1929,
     "heRef_2": "פסחים סג., ד",
     "path_2": "פסחים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 1837,
-    "heRef_2": "טור, יורה דעה, יורה דעה רי, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -8968,7 +10431,7 @@
   },
   {
     "line_index_1": 33,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -9003,7 +10466,7 @@
   },
   {
     "line_index_1": 34,
-    "line_index_2": 6565,
+    "line_index_2": 6562,
     "heRef_2": "טור, חושן משפט, חושן משפט רפא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -9020,13 +10483,6 @@
     "line_index_2": 195,
     "heRef_2": "שולחן ערוך, חושן משפט כט, א",
     "path_2": "שולחן ערוך, חושן משפט.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 1885,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9048,13 +10504,6 @@
     "line_index_2": 2299,
     "heRef_2": "שולחן ערוך, יורה דעה רלד, לג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 2097,
-    "heRef_2": "טור, יורה דעה, יורה דעה שמ, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9087,7 +10536,7 @@
   },
   {
     "line_index_1": 34,
-    "line_index_2": 3662,
+    "line_index_2": 3659,
     "heRef_2": "טור, חושן משפט, חושן משפט עט, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -9129,13 +10578,6 @@
   },
   {
     "line_index_1": 35,
-    "line_index_2": 1885,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 35,
     "line_index_2": 2297,
     "heRef_2": "שולחן ערוך, יורה דעה רלד, לא",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -9153,13 +10595,6 @@
     "line_index_2": 2299,
     "heRef_2": "שולחן ערוך, יורה דעה רלד, לג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 2097,
-    "heRef_2": "טור, יורה דעה, יורה דעה שמ, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9192,7 +10627,7 @@
   },
   {
     "line_index_1": 35,
-    "line_index_2": 6565,
+    "line_index_2": 6562,
     "heRef_2": "טור, חושן משפט, חושן משפט רפא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -9276,13 +10711,6 @@
   },
   {
     "line_index_1": 19,
-    "line_index_2": 2085,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 19,
     "line_index_2": 2804,
     "heRef_2": "טור, חושן משפט, חושן משפט כז, א",
     "path_2": "טור.txt",
@@ -9346,13 +10774,6 @@
   },
   {
     "line_index_1": 22,
-    "line_index_2": 1891,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 22,
     "line_index_2": 2365,
     "heRef_2": "שולחן ערוך, יורה דעה רלז, י",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -9377,13 +10798,6 @@
     "line_index_2": 19,
     "heRef_2": "משנה תורה, הלכות נדרים א, טז",
     "path_2": "משנה תורה, הלכות נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 1831,
-    "heRef_2": "טור, יורה דעה, יורה דעה רז, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9423,13 +10837,6 @@
   },
   {
     "line_index_1": 23,
-    "line_index_2": 1891,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 23,
     "line_index_2": 2363,
     "heRef_2": "שולחן ערוך, יורה דעה רלז, ח",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -9447,13 +10854,6 @@
     "line_index_2": 1166,
     "heRef_2": "שבועות לו., יג",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9493,13 +10893,6 @@
   },
   {
     "line_index_1": 24,
-    "line_index_2": 1825,
-    "heRef_2": "טור, יורה דעה, יורה דעה רד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 24,
     "line_index_2": 1998,
     "heRef_2": "שולחן ערוך, יורה דעה רד, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -9521,13 +10914,6 @@
   },
   {
     "line_index_1": 25,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 25,
     "line_index_2": 2401,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, ט",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -9545,13 +10931,6 @@
     "line_index_2": 70,
     "heRef_2": "משנה תורה, הלכות נדרים ד, ג",
     "path_2": "משנה תורה, הלכות נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 1881,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלב, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9619,13 +10998,6 @@
   },
   {
     "line_index_1": 38,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 38,
     "line_index_2": 2408,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, טז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -9669,8 +11041,8 @@
   {
     "line_index_1": 38,
     "line_index_2": 176,
-    "heRef_2": "יערות דבש יג, ג",
-    "path_2": "יערות דבש.txt",
+    "heRef_2": "יערות דבש חלק א יג, ג",
+    "path_2": "יערות דבש חלק א.txt",
     "Conection Type": ""
   },
   {
@@ -9717,7 +11089,7 @@
   },
   {
     "line_index_1": 39,
-    "line_index_2": 7282,
+    "line_index_2": 7279,
     "heRef_2": "טור, חושן משפט, חושן משפט שסט, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -9727,13 +11099,6 @@
     "line_index_2": 3689,
     "heRef_2": "שולחן ערוך, חושן משפט שסט, ו",
     "path_2": "שולחן ערוך, חושן משפט.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1881,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלב, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9794,13 +11159,6 @@
   },
   {
     "line_index_1": 40,
-    "line_index_2": 1881,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 40,
     "line_index_2": 2257,
     "heRef_2": "שולחן ערוך, יורה דעה רלב, יד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -9822,13 +11180,6 @@
   },
   {
     "line_index_1": 42,
-    "line_index_2": 1881,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 42,
     "line_index_2": 2247,
     "heRef_2": "שולחן ערוך, יורה דעה רלב, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -9839,13 +11190,6 @@
     "line_index_2": 506,
     "heRef_2": "נדרים כה:, ג",
     "path_2": "נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9871,23 +11215,9 @@
   },
   {
     "line_index_1": 43,
-    "line_index_2": 1881,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 43,
     "line_index_2": 2255,
     "heRef_2": "שולחן ערוך, יורה דעה רלב, יב",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -9983,13 +11313,6 @@
   },
   {
     "line_index_1": 50,
-    "line_index_2": 1877,
-    "heRef_2": "טור, יורה דעה, יורה דעה רל, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 50,
     "line_index_2": 2240,
     "heRef_2": "שולחן ערוך, יורה דעה רל, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10000,13 +11323,6 @@
     "line_index_2": 601,
     "heRef_2": "שבועות כב., ז",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10074,23 +11390,9 @@
   },
   {
     "line_index_1": 59,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 59,
     "line_index_2": 2405,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, יג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10179,13 +11481,6 @@
   },
   {
     "line_index_1": 60,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 60,
     "line_index_2": 2374,
     "heRef_2": "שולחן ערוך, יורה דעה רלח, ו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10214,13 +11509,6 @@
   },
   {
     "line_index_1": 61,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 61,
     "line_index_2": 2190,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, יג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10235,13 +11523,6 @@
   },
   {
     "line_index_1": 61,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 61,
     "line_index_2": 2380,
     "heRef_2": "שולחן ערוך, יורה דעה רלח, יב",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10252,13 +11533,6 @@
     "line_index_2": 860,
     "heRef_2": "שבועות כח:, יא",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10298,13 +11572,6 @@
   },
   {
     "line_index_1": 65,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 65,
     "line_index_2": 2408,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, טז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10329,13 +11596,6 @@
     "line_index_2": 2408,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, טז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10368,13 +11628,6 @@
   },
   {
     "line_index_1": 68,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 68,
     "line_index_2": 2409,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, יז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10399,13 +11652,6 @@
     "line_index_2": 601,
     "heRef_2": "שבועות כב., ז",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10466,13 +11712,6 @@
   },
   {
     "line_index_1": 71,
-    "line_index_2": 1891,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 71,
     "line_index_2": 2366,
     "heRef_2": "שולחן ערוך, יורה דעה רלז, יא",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10511,13 +11750,6 @@
     "line_index_2": 627,
     "heRef_2": "שבועות כב:, יז",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10676,13 +11908,6 @@
   },
   {
     "line_index_1": 58,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 58,
     "line_index_2": 2405,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, יג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10693,13 +11918,6 @@
     "line_index_2": 829,
     "heRef_2": "שבועות כז:, יא",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10746,13 +11964,6 @@
   },
   {
     "line_index_1": 73,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 73,
     "line_index_2": 2349,
     "heRef_2": "שולחן ערוך, יורה דעה רלו, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10774,13 +11985,6 @@
   },
   {
     "line_index_1": 73,
-    "line_index_2": 1891,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 73,
     "line_index_2": 47,
     "heRef_2": "צפנת פענח על משנה תורה, הלכות שבועות ה, א, א",
     "path_2": "צפנת פענח על משנה תורה, הלכות שבועות.txt",
@@ -10791,13 +11995,6 @@
     "line_index_2": 664,
     "heRef_2": "שבועות כג:, יז",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10837,13 +12034,6 @@
   },
   {
     "line_index_1": 85,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
     "line_index_2": 2384,
     "heRef_2": "שולחן ערוך, יורה דעה רלח, טז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10879,13 +12069,6 @@
   },
   {
     "line_index_1": 86,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 86,
     "line_index_2": 2396,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10896,13 +12079,6 @@
     "line_index_2": 727,
     "heRef_2": "שבועות כה:, א",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10924,13 +12100,6 @@
     "line_index_2": 866,
     "heRef_2": "שבועות כט., ד",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -10963,13 +12132,6 @@
   },
   {
     "line_index_1": 87,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 87,
     "line_index_2": 2396,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -10980,13 +12142,6 @@
     "line_index_2": 727,
     "heRef_2": "שבועות כה:, א",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11008,13 +12163,6 @@
     "line_index_2": 866,
     "heRef_2": "שבועות כט., ד",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11054,13 +12202,6 @@
   },
   {
     "line_index_1": 88,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 88,
     "line_index_2": 2396,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -11078,13 +12219,6 @@
     "line_index_2": 727,
     "heRef_2": "שבועות כה:, א",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11173,23 +12307,9 @@
   },
   {
     "line_index_1": 90,
-    "line_index_2": 1847,
-    "heRef_2": "טור, יורה דעה, יורה דעה רטו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 90,
     "line_index_2": 2040,
     "heRef_2": "שולחן ערוך, יורה דעה רטו, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11292,13 +12412,6 @@
   },
   {
     "line_index_1": 92,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 92,
     "line_index_2": 2395,
     "heRef_2": "שולחן ערוך, יורה דעה רלט, ג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -11309,13 +12422,6 @@
     "line_index_2": 274,
     "heRef_2": "נדרים טו., ג",
     "path_2": "נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11348,13 +12454,6 @@
   },
   {
     "line_index_1": 92,
-    "line_index_2": 1843,
-    "heRef_2": "טור, יורה דעה, יורה דעה ריג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 92,
     "line_index_2": 43,
     "heRef_2": "אור שמח על משנה תורה, הלכות שבועות ה, כ, א",
     "path_2": "אור שמח על משנה תורה, הלכות שבועות.txt",
@@ -11372,13 +12471,6 @@
     "line_index_2": 865,
     "heRef_2": "שבועות כט., ג",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11407,13 +12499,6 @@
     "line_index_2": 869,
     "heRef_2": "שבועות כט., ז",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 1889,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלו, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11474,13 +12559,6 @@
   },
   {
     "line_index_1": 77,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 77,
     "line_index_2": 2371,
     "heRef_2": "שולחן ערוך, יורה דעה רלח, ג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -11516,13 +12594,6 @@
   },
   {
     "line_index_1": 79,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 79,
     "line_index_2": 2372,
     "heRef_2": "שולחן ערוך, יורה דעה רלח, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -11533,13 +12604,6 @@
     "line_index_2": 616,
     "heRef_2": "שבועות כב:, ו",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11568,13 +12632,6 @@
     "line_index_2": 616,
     "heRef_2": "שבועות כב:, ו",
     "path_2": "שבועות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11747,13 +12804,6 @@
   },
   {
     "line_index_1": 96,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 96,
     "line_index_2": 2184,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, ז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -11817,23 +12867,9 @@
   },
   {
     "line_index_1": 105,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 105,
     "line_index_2": 2178,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 1877,
-    "heRef_2": "טור, יורה דעה, יורה דעה רל, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11880,13 +12916,6 @@
   },
   {
     "line_index_1": 106,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 106,
     "line_index_2": 2187,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, י",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -11901,23 +12930,9 @@
   },
   {
     "line_index_1": 106,
-    "line_index_2": 1847,
-    "heRef_2": "טור, יורה דעה, יורה דעה רטו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 106,
     "line_index_2": 2041,
     "heRef_2": "שולחן ערוך, יורה דעה רטו, ב",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 1875,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -11946,13 +12961,6 @@
     "line_index_2": 457,
     "heRef_2": "נדרים כג., ה",
     "path_2": "נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -12013,23 +13021,9 @@
   },
   {
     "line_index_1": 109,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 109,
     "line_index_2": 2194,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, יז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 1885,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -12051,13 +13045,6 @@
     "line_index_2": 1659,
     "heRef_2": "נדרים צ., ד",
     "path_2": "נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 1875,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -12097,23 +13084,9 @@
   },
   {
     "line_index_1": 112,
-    "line_index_2": 1893,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 112,
     "line_index_2": 2389,
     "heRef_2": "שולחן ערוך, יורה דעה רלח, כא",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 1895,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -12195,13 +13168,6 @@
   },
   {
     "line_index_1": 98,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 98,
     "line_index_2": 2179,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, ב",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -12237,13 +13203,6 @@
   },
   {
     "line_index_1": 99,
-    "line_index_2": 1885,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 99,
     "line_index_2": 2322,
     "heRef_2": "שולחן ערוך, יורה דעה רלד, נו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -12258,23 +13217,9 @@
   },
   {
     "line_index_1": 100,
-    "line_index_2": 1885,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 100,
     "line_index_2": 2302,
     "heRef_2": "שולחן ערוך, יורה דעה רלד, לו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -12419,23 +13364,9 @@
   },
   {
     "line_index_1": 101,
-    "line_index_2": 694,
-    "heRef_2": "טור, אורח חיים, אורח חיים שמא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 101,
     "line_index_2": 2712,
     "heRef_2": "שולחן ערוך, אורח חיים שמא, א",
     "path_2": "שולחן ערוך, אורח חיים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -12457,13 +13388,6 @@
     "line_index_2": 248,
     "heRef_2": "משנה תורה, הלכות נדרים יג, ח",
     "path_2": "משנה תורה, הלכות נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 1885,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -12510,13 +13434,6 @@
   },
   {
     "line_index_1": 102,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 102,
     "line_index_2": 2197,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, כ",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -12538,23 +13455,9 @@
   },
   {
     "line_index_1": 103,
-    "line_index_2": 1873,
-    "heRef_2": "טור, יורה דעה, יורה דעה רכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
     "line_index_2": 2178,
     "heRef_2": "שולחן ערוך, יורה דעה רכח, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1877,
-    "heRef_2": "טור, יורה דעה, יורה דעה רל, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -12601,210 +13504,210 @@
   },
   {
     "line_index_1": 115,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 116,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 117,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 118,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 119,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 120,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 121,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 122,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 123,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 124,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 125,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 126,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 127,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 128,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 129,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 130,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 132,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 133,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 134,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 135,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 136,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 137,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 138,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 139,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 140,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 141,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 142,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 143,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 144,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
   },
   {
     "line_index_1": 145,
-    "line_index_2": 6734,
+    "line_index_2": 6731,
     "heRef_2": "טור, חושן משפט, חושן משפט רצד, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
@@ -13875,7 +14778,7 @@
   },
   {
     "line_index_1": 118,
-    "line_index_2": 3971,
+    "line_index_2": 3968,
     "heRef_2": "טור, חושן משפט, חושן משפט צה, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -14439,677 +15342,5 @@
     "heRef_2": "צפנת פענח על משנה תורה, הלכות שבועות ט, ט, א",
     "path_2": "צפנת פענח על משנה תורה, הלכות שבועות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 2750,
-    "heRef_2": "בבא בתרא קכ:, ח",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 2990,
-    "heRef_2": "בבא בתרא קכט:, יא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 3889,
-    "heRef_2": "בבא קמא קג:, ב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 3889,
-    "heRef_2": "בבא קמא קג:, ב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 3936,
-    "heRef_2": "בבא קמא קה., א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 3936,
-    "heRef_2": "בבא קמא קה., א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 3962,
-    "heRef_2": "בבא קמא קה:, י",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 3962,
-    "heRef_2": "בבא קמא קה:, י",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 3963,
-    "heRef_2": "בבא קמא קה:, יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 3963,
-    "heRef_2": "בבא קמא קה:, יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 3965,
-    "heRef_2": "בבא קמא קה:, יג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 3965,
-    "heRef_2": "בבא קמא קה:, יג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 3969,
-    "heRef_2": "בבא קמא קה:, יז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 3954,
-    "heRef_2": "בבא קמא קה:, ב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 3956,
-    "heRef_2": "בבא קמא קה:, ד",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 3957,
-    "heRef_2": "בבא קמא קה:, ה",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 3961,
-    "heRef_2": "בבא קמא קה:, ט",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 3961,
-    "heRef_2": "בבא קמא קה:, ט",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 3989,
-    "heRef_2": "בבא קמא קו., יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 4234,
-    "heRef_2": "בבא קמא קיג., יט",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 4234,
-    "heRef_2": "בבא קמא קיג., יט",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 4235,
-    "heRef_2": "בבא קמא קיג., כ",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 4235,
-    "heRef_2": "בבא קמא קיג., כ",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 4460,
-    "heRef_2": "בבא קמא קיז:, כ",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 569,
-    "heRef_2": "בבא קמא טו:, א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 571,
-    "heRef_2": "בבא קמא טו:, ג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 2436,
-    "heRef_2": "בבא קמא סג:, ב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 2436,
-    "heRef_2": "בבא קמא סג:, ב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 2437,
-    "heRef_2": "בבא קמא סג:, ג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 2437,
-    "heRef_2": "בבא קמא סג:, ג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 2437,
-    "heRef_2": "בבא קמא סג:, ג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 2506,
-    "heRef_2": "בבא קמא סה., יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 2506,
-    "heRef_2": "בבא קמא סה., יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 2506,
-    "heRef_2": "בבא קמא סה., יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 2506,
-    "heRef_2": "בבא קמא סה., יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 2513,
-    "heRef_2": "בבא קמא סה:, ו",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 2799,
-    "heRef_2": "בבא קמא עג., יז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 2799,
-    "heRef_2": "בבא קמא עג., יז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 2809,
-    "heRef_2": "בבא קמא עג:, ו",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 3476,
-    "heRef_2": "בבא קמא צא:, ב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 3481,
-    "heRef_2": "בבא קמא צא:, ז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 1236,
-    "heRef_2": "בבא מציעא לו., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 1236,
-    "heRef_2": "בבא מציעא לו., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 1241,
-    "heRef_2": "בבא מציעא לו., ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 1241,
-    "heRef_2": "בבא מציעא לו., ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 137,
-    "line_index_2": 1241,
-    "heRef_2": "בבא מציעא לו., ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 1039,
-    "heRef_2": "גיטין לה:, ח",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1044,
-    "heRef_2": "גיטין לו., א",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1045,
-    "heRef_2": "גיטין לו., ב",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1046,
-    "heRef_2": "גיטין לו., ג",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 1602,
-    "heRef_2": "גיטין נא:, ז",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 2868,
-    "heRef_2": "גיטין פג:, יג",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 183,
-    "line_index_2": 44,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות י, יז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 47,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יא, יג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 49,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יא, כ, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 61,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, יב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 52,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, א, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 210,
-    "line_index_2": 54,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 210,
-    "line_index_2": 55,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, ג, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 57,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 213,
-    "line_index_2": 59,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות יב, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 5,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות א, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 10,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ב, יח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 8,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ב, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 15,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ג, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 13,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ג, ה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 20,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 22,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, טו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 24,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, טז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 26,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, יז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 27,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, יז, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 29,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, יח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 31,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, יט, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 18,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ד, ט, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 38,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ו, יב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 34,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ו, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 36,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ו, ט, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 41,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות שבועות ט, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 2274,
-    "heRef_2": "חורב תקצה, ה",
-    "path_2": "חורב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 46,
-    "heRef_2": "הושע ד, ב",
-    "path_2": "הושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 47,
-    "heRef_2": "הושע ד, ג",
-    "path_2": "הושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 335,
-    "heRef_2": "שמואל א יד, כד",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 849,
-    "heRef_2": "דברי הימים ב לו, יג",
-    "path_2": "דברי הימים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 25,
-    "heRef_2": "מלכים ב ב, ד",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1268,
-    "heRef_2": "ישעיהו סב, ה",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1271,
-    "heRef_2": "ישעיהו סב, ח",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 18,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות י, א, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 5,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות א, ג, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 7,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות א, ח, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 10,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות ב, יז, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 15,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות ז, יא, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 13,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות ז, ב, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 638,
-    "heRef_2": "ערכין יח., ג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 831,
-    "heRef_2": "ערכין כג., ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 14290,
-    "heRef_2": "ערוך השולחן, יורה דעה רנח, יט",
-    "path_2": "ערוך השולחן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 216,
-    "line_index_2": 244,
-    "heRef_2": "ירמיהו ט, ד",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
   }
 ]

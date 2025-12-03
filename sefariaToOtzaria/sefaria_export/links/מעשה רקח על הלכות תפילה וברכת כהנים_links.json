@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 583,
+    "line_index_2": 1906,
+    "heRef_2": "גיטין נט., כא",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 1931,
+    "heRef_2": "גיטין ס.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 1953,
+    "heRef_2": "גיטין ס:, ה",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 522,
     "line_index_2": 621,
     "heRef_2": "ברכות יג.,  א",
@@ -207,13 +228,6 @@
     "line_index_2": 2667,
     "heRef_2": "ברכות ס.,  א",
     "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 3280,
-    "heRef_2": "חולין קו., יז",
-    "path_2": "חולין.txt",
     "Conection Type": ""
   },
   {
@@ -3899,6 +3913,27 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 119,
+    "line_index_2": 3280,
+    "heRef_2": "חולין קו., יז",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 510,
+    "line_index_2": 3104,
+    "heRef_2": "בבא קמא פב.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 516,
+    "line_index_2": 3104,
+    "heRef_2": "בבא קמא פב.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 160,
     "line_index_2": 2366,
     "heRef_2": "עירובין סד., ט",
@@ -3924,41 +3959,6 @@
     "line_index_2": 2409,
     "heRef_2": "עירובין סה., יז",
     "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 510,
-    "line_index_2": 3104,
-    "heRef_2": "בבא קמא פב.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 516,
-    "line_index_2": 3104,
-    "heRef_2": "בבא קמא פב.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 583,
-    "line_index_2": 1906,
-    "heRef_2": "גיטין נט., כא",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 537,
-    "line_index_2": 1931,
-    "heRef_2": "גיטין ס.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 537,
-    "line_index_2": 1953,
-    "heRef_2": "גיטין ס:, ה",
-    "path_2": "גיטין.txt",
     "Conection Type": ""
   }
 ]

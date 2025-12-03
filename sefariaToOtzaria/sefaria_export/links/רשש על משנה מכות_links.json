@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 37,
-    "line_index_2": 172,
-    "heRef_2": "שופטים ו, כ",
-    "path_2": "שופטים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 6,
     "line_index_2": 9,
     "heRef_2": "תוספות יום טוב על משנה מכות א, א, ג",
@@ -88,6 +81,41 @@
     "line_index_2": 154,
     "heRef_2": "תוספות יום טוב על משנה מכות ג, ה, ה",
     "path_2": "תוספות יום טוב על משנה מכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 57,
+    "heRef_2": "מלכים א ב,  א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 57,
+    "heRef_2": "מלכים א ב,  א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 657,
+    "heRef_2": "מלכים ב כג,  א",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 172,
+    "heRef_2": "שופטים ו, כ",
+    "path_2": "שופטים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 103,
+    "heRef_2": "ברטנורא על משנה מכות ג, ב, ה",
+    "path_2": "ברטנורא על משנה מכות.txt",
     "Conection Type": "commentary"
   },
   {
@@ -383,33 +411,5 @@
     "heRef_2": "משנה מכות ג, ט",
     "path_2": "משנה מכות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 103,
-    "heRef_2": "ברטנורא על משנה מכות ג, ב, ה",
-    "path_2": "ברטנורא על משנה מכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 57,
-    "heRef_2": "מלכים א ב,  א",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 57,
-    "heRef_2": "מלכים א ב,  א",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 657,
-    "heRef_2": "מלכים ב כג,  א",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
   }
 ]

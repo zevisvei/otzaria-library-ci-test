@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 714,
-    "line_index_2": 74,
-    "heRef_2": "תוספתא דמאי ד, יא",
-    "path_2": "תוספתא דמאי.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 6,
     "line_index_2": 4,
     "heRef_2": "תלמוד ירושלמי גיטין א, א, א",
@@ -13998,5 +13991,12 @@
     "heRef_2": "תלמוד ירושלמי גיטין ט, ט, ג",
     "path_2": "תלמוד ירושלמי גיטין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 714,
+    "line_index_2": 74,
+    "heRef_2": "תוספתא דמאי ד, יא",
+    "path_2": "תוספתא דמאי.txt",
+    "Conection Type": ""
   }
 ]

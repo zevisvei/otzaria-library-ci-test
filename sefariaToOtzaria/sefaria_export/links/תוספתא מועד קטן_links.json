@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 16,
-    "line_index_2": 55,
-    "heRef_2": "כתובות ד.,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 507,
-    "heRef_2": "בראשית רבה מז, י",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": "related"
-  },
-  {
     "line_index_1": 20,
     "line_index_2": 2492,
     "heRef_2": "שבת קה:, ד",
@@ -35,6 +21,69 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 7,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ו, ב",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 37,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ו, ג",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 117,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ד, ב",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 209,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, א, י",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, א, ט",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 650,
+    "heRef_2": "ישעיהו לב, יב",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 14,
+    "heRef_2": "תלמוד ירושלמי שקלים א, א, יא",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 55,
+    "heRef_2": "כתובות ד.,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 507,
+    "heRef_2": "בראשית רבה מז, י",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": "related"
+  },
+  {
     "line_index_1": 10,
     "line_index_2": 45,
     "heRef_2": "שלטי הגיבורים על מועד קטן ו:, ב",
@@ -49,115 +98,108 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 19,
-    "line_index_2": 1591,
-    "heRef_2": "פסחים נא.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
     "line_index_1": 10,
-    "line_index_2": 1725,
-    "heRef_2": "עירובין מז.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
+    "line_index_2": 5,
+    "heRef_2": "תוספתא עבודה זרה א, ג",
+    "path_2": "תוספתא עבודה זרה.txt",
+    "Conection Type": "mesorat hashas"
   },
   {
-    "line_index_1": 3,
-    "line_index_2": 3,
-    "heRef_2": "משנה מועד קטן א, א",
-    "path_2": "משנה מועד קטן.txt",
+    "line_index_1": 18,
+    "line_index_2": 15,
+    "heRef_2": "תוספתא כתובות ב, ג",
+    "path_2": "תוספתא כתובות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 9,
+    "heRef_2": "תוספתא מועד קטן א, ז",
+    "path_2": "תוספתא מועד קטן.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 4,
+    "heRef_2": "תוספתא מועד קטן א, ב",
+    "path_2": "תוספתא מועד קטן.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 9,
+    "heRef_2": "תוספתא שביעית (ליברמן) א, ז",
+    "path_2": "תוספתא שביעית (ליברמן).txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 4,
-    "line_index_2": 3,
-    "heRef_2": "משנה מועד קטן א, א",
-    "path_2": "משנה מועד קטן.txt",
+    "line_index_2": 9,
+    "heRef_2": "תוספתא שביעית א, ז",
+    "path_2": "תוספתא שביעית.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 7,
-    "heRef_2": "משנה מועד קטן א, ה",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": "related"
   },
   {
     "line_index_1": 5,
-    "line_index_2": 8,
-    "heRef_2": "משנה מועד קטן א, ו",
-    "path_2": "משנה מועד קטן.txt",
+    "line_index_2": 107,
+    "heRef_2": "תוספתא נגעים ט, ז",
+    "path_2": "תוספתא נגעים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 13,
+    "heRef_2": "תוספתא מועד קטן ב, ב",
+    "path_2": "תוספתא מועד קטן.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 12,
+    "heRef_2": "תוספתא מועד קטן ב, א",
+    "path_2": "תוספתא מועד קטן.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 117,
+    "heRef_2": "מסכת שמחות ז, ז",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 256,
+    "heRef_2": "תוספתא שבת (ליברמן) יב, יג",
+    "path_2": "תוספתא שבת (ליברמן).txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 26,
+    "heRef_2": "תוספתא שקלים ב, טו",
+    "path_2": "תוספתא שקלים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 86,
+    "heRef_2": "תוספתא שבת (ליברמן) ד, יג",
+    "path_2": "תוספתא שבת (ליברמן).txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 343,
+    "heRef_2": "עבודה זרה יג.,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 7,
-    "line_index_2": 8,
-    "heRef_2": "משנה מועד קטן א, ו",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 9,
-    "heRef_2": "משנה מועד קטן א, ז",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 20,
-    "heRef_2": "משנה מועד קטן ג, א",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 21,
-    "heRef_2": "משנה מועד קטן ג, ב",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 22,
-    "heRef_2": "משנה מועד קטן ג, ג",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 22,
-    "heRef_2": "משנה מועד קטן ג, ג",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 24,
-    "heRef_2": "משנה מועד קטן ג, ה",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 24,
-    "heRef_2": "משנה מועד קטן ג, ה",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 27,
-    "heRef_2": "משנה מועד קטן ג, ח",
-    "path_2": "משנה מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 141,
-    "heRef_2": "משנה שבת כ, ה",
-    "path_2": "משנה שבת.txt",
+    "line_index_2": 169,
+    "heRef_2": "עבודה זרה ו:, יד",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": "related"
   },
   {
@@ -553,157 +595,115 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 20,
-    "line_index_2": 650,
-    "heRef_2": "ישעיהו לב, יב",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
+    "line_index_1": 19,
+    "line_index_2": 1591,
+    "heRef_2": "פסחים נא.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 10,
-    "line_index_2": 5,
-    "heRef_2": "תוספתא עבודה זרה א, ג",
-    "path_2": "תוספתא עבודה זרה.txt",
-    "Conection Type": "mesorat hashas"
+    "line_index_2": 1725,
+    "heRef_2": "עירובין מז.,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 18,
-    "line_index_2": 15,
-    "heRef_2": "תוספתא כתובות ב, ג",
-    "path_2": "תוספתא כתובות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 9,
-    "heRef_2": "תוספתא מועד קטן א, ז",
-    "path_2": "תוספתא מועד קטן.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 4,
-    "heRef_2": "תוספתא מועד קטן א, ב",
-    "path_2": "תוספתא מועד קטן.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 9,
-    "heRef_2": "תוספתא שביעית (ליברמן) א, ז",
-    "path_2": "תוספתא שביעית (ליברמן).txt",
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "משנה מועד קטן א, א",
+    "path_2": "משנה מועד קטן.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 4,
-    "line_index_2": 9,
-    "heRef_2": "תוספתא שביעית א, ז",
-    "path_2": "תוספתא שביעית.txt",
+    "line_index_2": 3,
+    "heRef_2": "משנה מועד קטן א, א",
+    "path_2": "משנה מועד קטן.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 7,
+    "heRef_2": "משנה מועד קטן א, ה",
+    "path_2": "משנה מועד קטן.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 5,
-    "line_index_2": 107,
-    "heRef_2": "תוספתא נגעים ט, ז",
-    "path_2": "תוספתא נגעים.txt",
-    "Conection Type": "mesorat hashas"
+    "line_index_2": 8,
+    "heRef_2": "משנה מועד קטן א, ו",
+    "path_2": "משנה מועד קטן.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 8,
+    "heRef_2": "משנה מועד קטן א, ו",
+    "path_2": "משנה מועד קטן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 9,
+    "heRef_2": "משנה מועד קטן א, ז",
+    "path_2": "משנה מועד קטן.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 12,
-    "line_index_2": 13,
-    "heRef_2": "תוספתא מועד קטן ב, ב",
-    "path_2": "תוספתא מועד קטן.txt",
-    "Conection Type": "mesorat hashas"
+    "line_index_2": 20,
+    "heRef_2": "משנה מועד קטן ג, א",
+    "path_2": "משנה מועד קטן.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 13,
-    "line_index_2": 12,
-    "heRef_2": "תוספתא מועד קטן ב, א",
-    "path_2": "תוספתא מועד קטן.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 117,
-    "heRef_2": "מסכת שמחות ז, ז",
-    "path_2": "מסכת שמחות.txt",
+    "line_index_2": 21,
+    "heRef_2": "משנה מועד קטן ג, ב",
+    "path_2": "משנה מועד קטן.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 17,
-    "line_index_2": 256,
-    "heRef_2": "תוספתא שבת (ליברמן) יב, יג",
-    "path_2": "תוספתא שבת (ליברמן).txt",
+    "line_index_1": 8,
+    "line_index_2": 22,
+    "heRef_2": "משנה מועד קטן ג, ג",
+    "path_2": "משנה מועד קטן.txt",
     "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 26,
-    "heRef_2": "תוספתא שקלים ב, טו",
-    "path_2": "תוספתא שקלים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 86,
-    "heRef_2": "תוספתא שבת (ליברמן) ד, יג",
-    "path_2": "תוספתא שבת (ליברמן).txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 343,
-    "heRef_2": "עבודה זרה יג.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 169,
-    "heRef_2": "עבודה זרה ו:, יד",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 36,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ו, ב",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 37,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ו, ג",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": ""
   },
   {
     "line_index_1": 14,
-    "line_index_2": 117,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ד, ב",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "line_index_2": 22,
+    "heRef_2": "משנה מועד קטן ג, ג",
+    "path_2": "משנה מועד קטן.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 19,
-    "line_index_2": 209,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, א, י",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "line_index_1": 15,
+    "line_index_2": 24,
+    "heRef_2": "משנה מועד קטן ג, ה",
+    "path_2": "משנה מועד קטן.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 24,
+    "heRef_2": "משנה מועד קטן ג, ה",
+    "path_2": "משנה מועד קטן.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 19,
-    "line_index_2": 208,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, א, ט",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "line_index_1": 20,
+    "line_index_2": 27,
+    "heRef_2": "משנה מועד קטן ג, ח",
+    "path_2": "משנה מועד קטן.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 18,
-    "line_index_2": 14,
-    "heRef_2": "תלמוד ירושלמי שקלים א, א, יא",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": ""
+    "line_index_2": 141,
+    "heRef_2": "משנה שבת כ, ה",
+    "path_2": "משנה שבת.txt",
+    "Conection Type": "related"
   }
 ]

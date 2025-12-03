@@ -238,6 +238,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 566,
+    "line_index_2": 300,
+    "heRef_2": "דגל מחנה אפרים, וארא יב",
+    "path_2": "דגל מחנה אפרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 566,
+    "heRef_2": "דגל מחנה אפרים, בהר ה",
+    "path_2": "דגל מחנה אפרים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 567,
     "line_index_2": 799,
     "heRef_2": "ויקרא כה, מט",
@@ -3507,17 +3521,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 680,
-    "line_index_2": 725,
-    "heRef_2": "בית יעקב על התורה, חיי שרה ג, ד",
-    "path_2": "בית יעקב על התורה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 939,
     "line_index_2": 1460,
     "heRef_2": "בעל שם טוב, ואתחנן סט, א",
     "path_2": "בעל שם טוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 680,
+    "line_index_2": 725,
+    "heRef_2": "בית יעקב על התורה, חיי שרה ג, ד",
+    "path_2": "בית יעקב על התורה.txt",
     "Conection Type": ""
   }
 ]

@@ -1,5 +1,47 @@
 [
   {
+    "line_index_1": 41,
+    "line_index_2": 459,
+    "heRef_2": "גיטין יז.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 750,
+    "heRef_2": "גיטין כו., ד",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 3707,
+    "heRef_2": "בבא בתרא קס.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 3708,
+    "heRef_2": "בבא בתרא קס.,  ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 3910,
+    "heRef_2": "בבא בתרא קסח:, ג",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 3972,
+    "heRef_2": "בבא בתרא קעא.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 294,
     "line_index_2": 252,
     "heRef_2": "משנה תורה, הלכות גירושין י, יא",
@@ -640,13 +682,6 @@
     "line_index_1": 34,
     "line_index_2": 22,
     "heRef_2": "משנה תורה, הלכות גירושין א, יט",
-    "path_2": "משנה תורה, הלכות גירושין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 4,
-    "heRef_2": "משנה תורה, הלכות גירושין א, א",
     "path_2": "משנה תורה, הלכות גירושין.txt",
     "Conection Type": "commentary"
   },
@@ -1622,47 +1657,5 @@
     "heRef_2": "משנה תורה, הלכות גירושין ט, ט",
     "path_2": "משנה תורה, הלכות גירושין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 3707,
-    "heRef_2": "בבא בתרא קס.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 3708,
-    "heRef_2": "בבא בתרא קס.,  ב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 3910,
-    "heRef_2": "בבא בתרא קסח:, ג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 3972,
-    "heRef_2": "בבא בתרא קעא.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 459,
-    "heRef_2": "גיטין יז.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 750,
-    "heRef_2": "גיטין כו., ד",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 789,
+    "line_index_2": 999,
+    "heRef_2": "ביצה לג.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 1400,
     "line_index_2": 3076,
     "heRef_2": "חולין ק., ג",
@@ -7047,12 +7054,5 @@
     "heRef_2": "חולין ט:, ו",
     "path_2": "חולין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 789,
-    "line_index_2": 999,
-    "heRef_2": "ביצה לג.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
   }
 ]

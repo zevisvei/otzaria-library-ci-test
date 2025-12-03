@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 300,
+    "line_index_2": 1157,
+    "heRef_2": "ביצה לח.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 4,
     "line_index_2": 3215,
     "heRef_2": "שולחן ערוך, אורח חיים תכט, א",
@@ -6594,24 +6601,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 232,
-    "line_index_2": 784,
-    "heRef_2": "בבא קמא כ., יז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 300,
-    "line_index_2": 1157,
-    "heRef_2": "ביצה לח.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 29,
     "line_index_2": 2086,
     "heRef_2": "עבודה זרה ע.,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 784,
+    "heRef_2": "בבא קמא כ., יז",
+    "path_2": "בבא קמא.txt",
     "Conection Type": ""
   }
 ]

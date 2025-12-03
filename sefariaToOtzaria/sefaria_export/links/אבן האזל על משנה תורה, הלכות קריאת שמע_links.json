@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 24,
+    "line_index_2": 689,
+    "heRef_2": "ברכות יד.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 13,
     "line_index_2": 14,
     "heRef_2": "משנה תורה, הלכות קריאת שמע א, יא",
@@ -82,12 +89,5 @@
     "heRef_2": "משנה תורה, הלכות קריאת שמע ג, ה",
     "path_2": "משנה תורה, הלכות קריאת שמע.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 689,
-    "heRef_2": "ברכות יד.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
   }
 ]

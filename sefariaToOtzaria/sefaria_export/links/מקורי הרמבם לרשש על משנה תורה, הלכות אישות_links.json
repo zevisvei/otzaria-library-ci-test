@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 7,
+    "line_index_2": 22,
+    "heRef_2": "מלכים ב ב,  א",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 46,
     "line_index_2": 202,
     "heRef_2": "משנה תורה, הלכות אישות י, ב",
@@ -131,12 +138,5 @@
     "heRef_2": "משנה תורה, הלכות אישות ט, ו",
     "path_2": "משנה תורה, הלכות אישות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 22,
-    "heRef_2": "מלכים ב ב,  א",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
   }
 ]

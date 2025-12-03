@@ -1,5 +1,40 @@
 [
   {
+    "line_index_1": 727,
+    "line_index_2": 71,
+    "heRef_2": "ישעיהו ג, יד",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 729,
+    "line_index_2": 528,
+    "heRef_2": "ירמיהו כא, יב",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 727,
+    "line_index_2": 722,
+    "heRef_2": "דברי הימים א כא, יז",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 727,
+    "line_index_2": 712,
+    "heRef_2": "שמואל ב כד, יז",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 973,
+    "line_index_2": 390,
+    "heRef_2": "ביצה יג:, יב",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 1356,
     "line_index_2": 2359,
     "heRef_2": "שבת ק., ט",
@@ -6699,6 +6734,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 972,
+    "line_index_2": 1840,
+    "heRef_2": "שבת עג:, ח",
+    "path_2": "שבת.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 973,
+    "line_index_2": 1840,
+    "heRef_2": "שבת עג:, ח",
+    "path_2": "שבת.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 978,
     "line_index_2": 1850,
     "heRef_2": "שבת עד., ז",
@@ -7861,31 +7910,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 727,
-    "line_index_2": 722,
-    "heRef_2": "דברי הימים א כא, יז",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 727,
-    "line_index_2": 712,
-    "heRef_2": "שמואל ב כד, יז",
-    "path_2": "שמואל ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 727,
-    "line_index_2": 71,
-    "heRef_2": "ישעיהו ג, יד",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 729,
-    "line_index_2": 528,
-    "heRef_2": "ירמיהו כא, יב",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 722,
+    "line_index_2": 256,
+    "heRef_2": "ברטנורא על משנה שבת ה, ד, ט",
+    "path_2": "ברטנורא על משנה שבת.txt",
     "Conection Type": ""
   }
 ]

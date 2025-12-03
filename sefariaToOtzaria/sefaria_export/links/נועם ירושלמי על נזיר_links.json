@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 28,
-    "line_index_2": 70,
-    "heRef_2": "נדרים ה., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 31,
-    "heRef_2": "עבודה זרה ג.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 6,
     "heRef_2": "תלמוד ירושלמי נזיר א, א, ג",
@@ -726,5 +712,19 @@
     "heRef_2": "תלמוד ירושלמי נזיר ט, ה, א",
     "path_2": "תלמוד ירושלמי נזיר.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 31,
+    "heRef_2": "עבודה זרה ג.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 70,
+    "heRef_2": "נדרים ה., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": ""
   }
 ]

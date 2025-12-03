@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 10,
+    "line_index_2": 2464,
+    "heRef_2": "פסחים עט., ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 142,
+    "heRef_2": "תהילים יא, ג",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 18,
     "line_index_2": 59,
     "heRef_2": "תוספות יום טוב על משנה מעילה ב, ט, ב",
@@ -28,18 +42,18 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 10,
-    "line_index_2": 2464,
-    "heRef_2": "פסחים עט., ה",
-    "path_2": "פסחים.txt",
+    "line_index_1": 27,
+    "line_index_2": 380,
+    "heRef_2": "ישעיהו יט, י",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 27,
-    "line_index_2": 142,
-    "heRef_2": "תהילים יא, ג",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
+    "line_index_1": 7,
+    "line_index_2": 7,
+    "heRef_2": "ברטנורא על משנה מעילה א, א, ג",
+    "path_2": "ברטנורא על משנה מעילה.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 5,
@@ -278,19 +292,5 @@
     "heRef_2": "משנה מעילה ו, ו",
     "path_2": "משנה מעילה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 7,
-    "heRef_2": "ברטנורא על משנה מעילה א, א, ג",
-    "path_2": "ברטנורא על משנה מעילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 380,
-    "heRef_2": "ישעיהו יט, י",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

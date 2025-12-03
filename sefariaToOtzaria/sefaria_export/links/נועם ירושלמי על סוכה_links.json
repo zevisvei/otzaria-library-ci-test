@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 136,
-    "line_index_2": 148,
-    "heRef_2": "סוטה ה., יב",
-    "path_2": "סוטה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 8,
-    "heRef_2": "משנה דמאי ב,  א",
-    "path_2": "משנה דמאי.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 23,
     "line_index_2": 61,
     "heRef_2": "תלמוד ירושלמי סוכה א, יא, ב",
@@ -978,5 +964,19 @@
     "heRef_2": "תלמוד ירושלמי סוכה ד, ז, ג",
     "path_2": "תלמוד ירושלמי סוכה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 148,
+    "heRef_2": "סוטה ה., יב",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 8,
+    "heRef_2": "משנה דמאי ב,  א",
+    "path_2": "משנה דמאי.txt",
+    "Conection Type": ""
   }
 ]

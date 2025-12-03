@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 301,
-    "line_index_2": 2143,
-    "heRef_2": "כתובות עט:,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 539,
-    "line_index_2": 1802,
-    "heRef_2": "ברכות לח.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 232,
     "line_index_2": 221,
     "heRef_2": "פסקי הרא\"ש על בבא בתרא ג, כב, א",
@@ -4158,6 +4144,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 301,
+    "line_index_2": 2143,
+    "heRef_2": "כתובות עט:,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 1802,
+    "heRef_2": "ברכות לח.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 173,
     "line_index_2": 2949,
     "heRef_2": "חולין צה:,  א",
@@ -4165,10 +4165,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 320,
-    "line_index_2": 798,
-    "heRef_2": "עירובין כא:,  א",
-    "path_2": "עירובין.txt",
+    "line_index_1": 39,
+    "line_index_2": 812,
+    "heRef_2": "ערכין כב:,  א",
+    "path_2": "ערכין.txt",
     "Conection Type": ""
   },
   {
@@ -4221,10 +4221,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 39,
-    "line_index_2": 812,
-    "heRef_2": "ערכין כב:,  א",
-    "path_2": "ערכין.txt",
+    "line_index_1": 320,
+    "line_index_2": 798,
+    "heRef_2": "עירובין כא:,  א",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

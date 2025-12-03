@@ -1,5 +1,803 @@
 [
   {
+    "line_index_1": 156,
+    "line_index_2": 251,
+    "heRef_2": "פרקי דרבי אליעזר כג, א",
+    "path_2": "פרקי דרבי אליעזר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 265,
+    "heRef_2": "פתיל תכלת ח, כד",
+    "path_2": "פתיל תכלת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 713,
+    "heRef_2": "רש\"י על במדבר יג, לג, א",
+    "path_2": "רשי על במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 116,
+    "heRef_2": "בראשית ה, ד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 120,
+    "heRef_2": "בראשית ה, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 121,
+    "heRef_2": "בראשית ה, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 146,
+    "heRef_2": "בראשית ו, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 155,
+    "heRef_2": "בראשית ו, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 156,
+    "heRef_2": "בראשית ו, יא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 157,
+    "heRef_2": "בראשית ו, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 158,
+    "heRef_2": "בראשית ו, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 159,
+    "heRef_2": "בראשית ו, יד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 161,
+    "heRef_2": "בראשית ו, טז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 162,
+    "heRef_2": "בראשית ו, יז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 163,
+    "heRef_2": "בראשית ו, יח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 164,
+    "heRef_2": "בראשית ו, יט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 147,
+    "heRef_2": "בראשית ו, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 165,
+    "heRef_2": "בראשית ו, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 166,
+    "heRef_2": "בראשית ו, כא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 167,
+    "heRef_2": "בראשית ו, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 148,
+    "heRef_2": "בראשית ו, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 149,
+    "heRef_2": "בראשית ו, ד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 150,
+    "heRef_2": "בראשית ו, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 151,
+    "heRef_2": "בראשית ו, ו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 152,
+    "heRef_2": "בראשית ו, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 153,
+    "heRef_2": "בראשית ו, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 154,
+    "heRef_2": "בראשית ו, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 169,
+    "heRef_2": "בראשית ז, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 178,
+    "heRef_2": "בראשית ז, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 179,
+    "heRef_2": "בראשית ז, יא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 180,
+    "heRef_2": "בראשית ז, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 181,
+    "heRef_2": "בראשית ז, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 182,
+    "heRef_2": "בראשית ז, יד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 183,
+    "heRef_2": "בראשית ז, טו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 184,
+    "heRef_2": "בראשית ז, טז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 185,
+    "heRef_2": "בראשית ז, יז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 186,
+    "heRef_2": "בראשית ז, יח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 187,
+    "heRef_2": "בראשית ז, יט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 170,
+    "heRef_2": "בראשית ז, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 188,
+    "heRef_2": "בראשית ז, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 189,
+    "heRef_2": "בראשית ז, כא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 190,
+    "heRef_2": "בראשית ז, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 191,
+    "heRef_2": "בראשית ז, כג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 192,
+    "heRef_2": "בראשית ז, כד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 171,
+    "heRef_2": "בראשית ז, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 172,
+    "heRef_2": "בראשית ז, ד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 173,
+    "heRef_2": "בראשית ז, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 174,
+    "heRef_2": "בראשית ז, ו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 175,
+    "heRef_2": "בראשית ז, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 176,
+    "heRef_2": "בראשית ז, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 177,
+    "heRef_2": "בראשית ז, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 194,
+    "heRef_2": "בראשית ח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 203,
+    "heRef_2": "בראשית ח, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 204,
+    "heRef_2": "בראשית ח, יא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 205,
+    "heRef_2": "בראשית ח, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 206,
+    "heRef_2": "בראשית ח, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 207,
+    "heRef_2": "בראשית ח, יד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 208,
+    "heRef_2": "בראשית ח, טו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 209,
+    "heRef_2": "בראשית ח, טז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 210,
+    "heRef_2": "בראשית ח, יז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 211,
+    "heRef_2": "בראשית ח, יח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 212,
+    "heRef_2": "בראשית ח, יט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 195,
+    "heRef_2": "בראשית ח, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 213,
+    "heRef_2": "בראשית ח, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 214,
+    "heRef_2": "בראשית ח, כא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 215,
+    "heRef_2": "בראשית ח, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 196,
+    "heRef_2": "בראשית ח, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 197,
+    "heRef_2": "בראשית ח, ד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 198,
+    "heRef_2": "בראשית ח, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 199,
+    "heRef_2": "בראשית ח, ו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 200,
+    "heRef_2": "בראשית ח, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 201,
+    "heRef_2": "בראשית ח, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 202,
+    "heRef_2": "בראשית ח, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 217,
+    "heRef_2": "בראשית ט, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 226,
+    "heRef_2": "בראשית ט, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 227,
+    "heRef_2": "בראשית ט, יא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 228,
+    "heRef_2": "בראשית ט, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 229,
+    "heRef_2": "בראשית ט, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 230,
+    "heRef_2": "בראשית ט, יד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 231,
+    "heRef_2": "בראשית ט, טו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 232,
+    "heRef_2": "בראשית ט, טז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 233,
+    "heRef_2": "בראשית ט, יז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 234,
+    "heRef_2": "בראשית ט, יח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 235,
+    "heRef_2": "בראשית ט, יט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 218,
+    "heRef_2": "בראשית ט, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 236,
+    "heRef_2": "בראשית ט, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 237,
+    "heRef_2": "בראשית ט, כא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 238,
+    "heRef_2": "בראשית ט, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 239,
+    "heRef_2": "בראשית ט, כג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 240,
+    "heRef_2": "בראשית ט, כד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 241,
+    "heRef_2": "בראשית ט, כה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 242,
+    "heRef_2": "בראשית ט, כו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 243,
+    "heRef_2": "בראשית ט, כז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 244,
+    "heRef_2": "בראשית ט, כח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 245,
+    "heRef_2": "בראשית ט, כט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 219,
+    "heRef_2": "בראשית ט, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 220,
+    "heRef_2": "בראשית ט, ד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 221,
+    "heRef_2": "בראשית ט, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 222,
+    "heRef_2": "בראשית ט, ו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 223,
+    "heRef_2": "בראשית ט, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 224,
+    "heRef_2": "בראשית ט, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 225,
+    "heRef_2": "בראשית ט, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 195,
+    "heRef_2": "בראשית רבה יח, ו",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 499,
+    "line_index_2": 562,
+    "heRef_2": "בראשית רבה נא, ה",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 833,
+    "line_index_2": 797,
+    "heRef_2": "בראשית רבה ע, טז",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 836,
+    "line_index_2": 797,
+    "heRef_2": "בראשית רבה ע, טז",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 460,
+    "line_index_2": 2559,
+    "heRef_2": "מחוקקי יהודה יהל אור, בראשית יח, סח, א",
+    "path_2": "מחוקקי יהודה יהל אור.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 460,
+    "line_index_2": 2560,
+    "heRef_2": "מחוקקי יהודה יהל אור, בראשית יח, סט, א",
+    "path_2": "מחוקקי יהודה יהל אור.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 553,
+    "line_index_2": 2801,
+    "heRef_2": "מחוקקי יהודה יהל אור, בראשית כא, לב, א",
+    "path_2": "מחוקקי יהודה יהל אור.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 38,
+    "heRef_2": "שב שמעתתא, הקדמה לה",
+    "path_2": "שב שמעתתא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 836,
+    "line_index_2": 175,
+    "heRef_2": "תרגום ירושלמי, בראשית כט, יז",
+    "path_2": "תרגום ירושלמי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 699,
+    "line_index_2": 2133,
+    "heRef_2": "יבמות סד., ח",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 836,
+    "line_index_2": 2819,
+    "heRef_2": "בבא בתרא קכג.,  טו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 836,
+    "line_index_2": 2820,
+    "heRef_2": "בבא בתרא קכג.,  טז",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 243,
     "line_index_2": 247,
     "heRef_2": "בראשית י, א",
@@ -164,6 +962,13 @@
     "line_index_1": 272,
     "line_index_2": 277,
     "heRef_2": "בראשית י, לא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "targum"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 278,
+    "heRef_2": "בראשית י, לב",
     "path_2": "בראשית.txt",
     "Conection Type": "targum"
   },
@@ -9959,768 +10764,5 @@
     "heRef_2": "בראשית ה, לב",
     "path_2": "בראשית.txt",
     "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 116,
-    "heRef_2": "בראשית ה, ד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 120,
-    "heRef_2": "בראשית ה, ח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 121,
-    "heRef_2": "בראשית ה, ט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 143,
-    "line_index_2": 146,
-    "heRef_2": "בראשית ו, א",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 155,
-    "heRef_2": "בראשית ו, י",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 156,
-    "heRef_2": "בראשית ו, יא",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 154,
-    "line_index_2": 157,
-    "heRef_2": "בראשית ו, יב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 158,
-    "heRef_2": "בראשית ו, יג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 159,
-    "heRef_2": "בראשית ו, יד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 161,
-    "heRef_2": "בראשית ו, טז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 162,
-    "heRef_2": "בראשית ו, יז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 163,
-    "heRef_2": "בראשית ו, יח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 164,
-    "heRef_2": "בראשית ו, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 144,
-    "line_index_2": 147,
-    "heRef_2": "בראשית ו, ב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 165,
-    "heRef_2": "בראשית ו, כ",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 166,
-    "heRef_2": "בראשית ו, כא",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 167,
-    "heRef_2": "בראשית ו, כב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 148,
-    "heRef_2": "בראשית ו, ג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 149,
-    "heRef_2": "בראשית ו, ד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 150,
-    "heRef_2": "בראשית ו, ה",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 151,
-    "heRef_2": "בראשית ו, ו",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 152,
-    "heRef_2": "בראשית ו, ז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 150,
-    "line_index_2": 153,
-    "heRef_2": "בראשית ו, ח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 154,
-    "heRef_2": "בראשית ו, ט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 169,
-    "heRef_2": "בראשית ז, א",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 178,
-    "heRef_2": "בראשית ז, י",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 179,
-    "heRef_2": "בראשית ז, יא",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 180,
-    "heRef_2": "בראשית ז, יב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 177,
-    "line_index_2": 181,
-    "heRef_2": "בראשית ז, יג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 182,
-    "heRef_2": "בראשית ז, יד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 179,
-    "line_index_2": 183,
-    "heRef_2": "בראשית ז, טו",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 184,
-    "heRef_2": "בראשית ז, טז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 185,
-    "heRef_2": "בראשית ז, יז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 186,
-    "heRef_2": "בראשית ז, יח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 183,
-    "line_index_2": 187,
-    "heRef_2": "בראשית ז, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 170,
-    "heRef_2": "בראשית ז, ב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 188,
-    "heRef_2": "בראשית ז, כ",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 185,
-    "line_index_2": 189,
-    "heRef_2": "בראשית ז, כא",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 186,
-    "line_index_2": 190,
-    "heRef_2": "בראשית ז, כב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 191,
-    "heRef_2": "בראשית ז, כג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 192,
-    "heRef_2": "בראשית ז, כד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 171,
-    "heRef_2": "בראשית ז, ג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 172,
-    "heRef_2": "בראשית ז, ד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 169,
-    "line_index_2": 173,
-    "heRef_2": "בראשית ז, ה",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 174,
-    "heRef_2": "בראשית ז, ו",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 175,
-    "heRef_2": "בראשית ז, ז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 176,
-    "heRef_2": "בראשית ז, ח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 177,
-    "heRef_2": "בראשית ז, ט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 194,
-    "heRef_2": "בראשית ח, א",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 203,
-    "heRef_2": "בראשית ח, י",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 204,
-    "heRef_2": "בראשית ח, יא",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 201,
-    "line_index_2": 205,
-    "heRef_2": "בראשית ח, יב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 206,
-    "heRef_2": "בראשית ח, יג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 207,
-    "heRef_2": "בראשית ח, יד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 204,
-    "line_index_2": 208,
-    "heRef_2": "בראשית ח, טו",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 205,
-    "line_index_2": 209,
-    "heRef_2": "בראשית ח, טז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 210,
-    "heRef_2": "בראשית ח, יז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 211,
-    "heRef_2": "בראשית ח, יח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 212,
-    "heRef_2": "בראשית ח, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 195,
-    "heRef_2": "בראשית ח, ב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 209,
-    "line_index_2": 213,
-    "heRef_2": "בראשית ח, כ",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 210,
-    "line_index_2": 214,
-    "heRef_2": "בראשית ח, כא",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 215,
-    "heRef_2": "בראשית ח, כב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 192,
-    "line_index_2": 196,
-    "heRef_2": "בראשית ח, ג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 193,
-    "line_index_2": 197,
-    "heRef_2": "בראשית ח, ד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 194,
-    "line_index_2": 198,
-    "heRef_2": "בראשית ח, ה",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 195,
-    "line_index_2": 199,
-    "heRef_2": "בראשית ח, ו",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 196,
-    "line_index_2": 200,
-    "heRef_2": "בראשית ח, ז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 197,
-    "line_index_2": 201,
-    "heRef_2": "בראשית ח, ח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 198,
-    "line_index_2": 202,
-    "heRef_2": "בראשית ח, ט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 213,
-    "line_index_2": 217,
-    "heRef_2": "בראשית ט, א",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 226,
-    "heRef_2": "בראשית ט, י",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 227,
-    "heRef_2": "בראשית ט, יא",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 224,
-    "line_index_2": 228,
-    "heRef_2": "בראשית ט, יב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 225,
-    "line_index_2": 229,
-    "heRef_2": "בראשית ט, יג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 226,
-    "line_index_2": 230,
-    "heRef_2": "בראשית ט, יד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 227,
-    "line_index_2": 231,
-    "heRef_2": "בראשית ט, טו",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 228,
-    "line_index_2": 232,
-    "heRef_2": "בראשית ט, טז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 229,
-    "line_index_2": 233,
-    "heRef_2": "בראשית ט, יז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 234,
-    "heRef_2": "בראשית ט, יח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 235,
-    "heRef_2": "בראשית ט, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 214,
-    "line_index_2": 218,
-    "heRef_2": "בראשית ט, ב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 232,
-    "line_index_2": 236,
-    "heRef_2": "בראשית ט, כ",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 233,
-    "line_index_2": 237,
-    "heRef_2": "בראשית ט, כא",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 234,
-    "line_index_2": 238,
-    "heRef_2": "בראשית ט, כב",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 235,
-    "line_index_2": 239,
-    "heRef_2": "בראשית ט, כג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 236,
-    "line_index_2": 240,
-    "heRef_2": "בראשית ט, כד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 241,
-    "heRef_2": "בראשית ט, כה",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 238,
-    "line_index_2": 242,
-    "heRef_2": "בראשית ט, כו",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 239,
-    "line_index_2": 243,
-    "heRef_2": "בראשית ט, כז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 240,
-    "line_index_2": 244,
-    "heRef_2": "בראשית ט, כח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 241,
-    "line_index_2": 245,
-    "heRef_2": "בראשית ט, כט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 219,
-    "heRef_2": "בראשית ט, ג",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 216,
-    "line_index_2": 220,
-    "heRef_2": "בראשית ט, ד",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 217,
-    "line_index_2": 221,
-    "heRef_2": "בראשית ט, ה",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 218,
-    "line_index_2": 222,
-    "heRef_2": "בראשית ט, ו",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 223,
-    "heRef_2": "בראשית ט, ז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 220,
-    "line_index_2": 224,
-    "heRef_2": "בראשית ט, ח",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 221,
-    "line_index_2": 225,
-    "heRef_2": "בראשית ט, ט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "targum"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 195,
-    "heRef_2": "בראשית רבה יח, ו",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 499,
-    "line_index_2": 562,
-    "heRef_2": "בראשית רבה נא, ה",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 833,
-    "line_index_2": 797,
-    "heRef_2": "בראשית רבה ע, טז",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 836,
-    "line_index_2": 797,
-    "heRef_2": "בראשית רבה ע, טז",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 265,
-    "heRef_2": "פתיל תכלת ח, כד",
-    "path_2": "פתיל תכלת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 713,
-    "heRef_2": "רש\"י על במדבר יג, לג, א",
-    "path_2": "רשי על במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 38,
-    "heRef_2": "שב שמעתתא, הקדמה לה",
-    "path_2": "שב שמעתתא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 836,
-    "line_index_2": 2819,
-    "heRef_2": "בבא בתרא קכג.,  טו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 836,
-    "line_index_2": 2820,
-    "heRef_2": "בבא בתרא קכג.,  טז",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 836,
-    "line_index_2": 175,
-    "heRef_2": "תרגום ירושלמי, בראשית כט, יז",
-    "path_2": "תרגום ירושלמי.txt",
-    "Conection Type": ""
   }
 ]

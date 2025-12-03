@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 107,
-    "line_index_2": 684,
-    "heRef_2": "פסחים כג.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 6,
     "line_index_2": 4,
     "heRef_2": "תלמוד ירושלמי ערלה א, א, א",
@@ -5318,5 +5311,12 @@
     "heRef_2": "תלמוד ירושלמי ערלה ג, ז, ט",
     "path_2": "תלמוד ירושלמי ערלה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 684,
+    "heRef_2": "פסחים כג.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
   }
 ]

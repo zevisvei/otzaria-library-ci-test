@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 173,
+    "line_index_2": 2367,
+    "heRef_2": "פסחים עו:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 600,
+    "line_index_2": 1773,
+    "heRef_2": "סנהדרין מח.,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 2847,
     "line_index_2": 1242,
     "heRef_2": "כתובות מט.,  א",
@@ -28,10 +42,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 600,
-    "line_index_2": 1773,
-    "heRef_2": "סנהדרין מח.,  א",
-    "path_2": "סנהדרין.txt",
+    "line_index_1": 1775,
+    "line_index_2": 473,
+    "heRef_2": "מכות טז., ב",
+    "path_2": "מכות.txt",
     "Conection Type": ""
   },
   {
@@ -91,34 +105,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 1775,
-    "line_index_2": 473,
-    "heRef_2": "מכות טז., ב",
-    "path_2": "מכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 467,
-    "line_index_2": 2245,
-    "heRef_2": "מנחות סד., יח",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 2367,
-    "heRef_2": "פסחים עו:, י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 1308,
-    "line_index_2": 234,
-    "heRef_2": "בבא בתרא ט., יד",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 1370,
     "line_index_2": 633,
     "heRef_2": "עבודה זרה כב:,  א",
@@ -130,6 +116,20 @@
     "line_index_2": 636,
     "heRef_2": "עבודה זרה כב:, ד",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1308,
+    "line_index_2": 234,
+    "heRef_2": "בבא בתרא ט., יד",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 467,
+    "line_index_2": 2245,
+    "heRef_2": "מנחות סד., יח",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 28,
-    "line_index_2": 674,
-    "heRef_2": "מנחות כ.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 1181,
-    "heRef_2": "נדה לב.,  א",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 63,
     "line_index_2": 187,
     "heRef_2": "משנה תורה, הלכות מעשר שני ונטע רבעי י, יט",
@@ -222,5 +208,19 @@
     "heRef_2": "משנה תורה, הלכות מעשר שני ונטע רבעי ט, ב",
     "path_2": "משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 1181,
+    "heRef_2": "נדה לב.,  א",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 674,
+    "heRef_2": "מנחות כ.,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
   }
 ]

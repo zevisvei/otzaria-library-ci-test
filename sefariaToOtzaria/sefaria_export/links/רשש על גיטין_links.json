@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 720,
-    "line_index_2": 680,
-    "heRef_2": "איוב כח, טז",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 344,
-    "line_index_2": 2234,
-    "heRef_2": "קידושין עב:,  א",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 566,
-    "line_index_2": 260,
-    "heRef_2": "חגיגה י., ד",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 114,
     "line_index_2": 347,
     "heRef_2": "רש\"י על גיטין י., ג, א",
@@ -3605,59 +3584,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 237,
-    "line_index_2": 33,
-    "heRef_2": "מלאכי ב, טז",
-    "path_2": "מלאכי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 567,
-    "line_index_2": 954,
-    "heRef_2": "מגילה כד:, טו",
-    "path_2": "מגילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 364,
-    "line_index_2": 1897,
-    "heRef_2": "מנחות נד:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1026,
-    "line_index_2": 916,
-    "heRef_2": "נדרים מז.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 490,
-    "line_index_2": 17,
-    "heRef_2": "עובדיה א, טו",
-    "path_2": "עובדיה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 886,
-    "line_index_2": 532,
-    "heRef_2": "דברים יט,  א",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 380,
-    "line_index_2": 7,
-    "heRef_2": "משנה עדיות א, ה",
-    "path_2": "משנה עדיות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 633,
-    "line_index_2": 3457,
-    "heRef_2": "בבא בתרא קמח:,  א",
-    "path_2": "בבא בתרא.txt",
+    "line_index_1": 442,
+    "line_index_2": 943,
+    "heRef_2": "ישעיהו מד, יט",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
@@ -8442,10 +8372,80 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 442,
-    "line_index_2": 943,
-    "heRef_2": "ישעיהו מד, יט",
-    "path_2": "ישעיהו.txt",
+    "line_index_1": 720,
+    "line_index_2": 680,
+    "heRef_2": "איוב כח, טז",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 2234,
+    "heRef_2": "קידושין עב:,  א",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 566,
+    "line_index_2": 260,
+    "heRef_2": "חגיגה י., ד",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 33,
+    "heRef_2": "מלאכי ב, טז",
+    "path_2": "מלאכי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 567,
+    "line_index_2": 954,
+    "heRef_2": "מגילה כד:, טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 886,
+    "line_index_2": 532,
+    "heRef_2": "דברים יט,  א",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1026,
+    "line_index_2": 916,
+    "heRef_2": "נדרים מז.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 490,
+    "line_index_2": 17,
+    "heRef_2": "עובדיה א, טו",
+    "path_2": "עובדיה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 633,
+    "line_index_2": 3457,
+    "heRef_2": "בבא בתרא קמח:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 1897,
+    "heRef_2": "מנחות נד:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 7,
+    "heRef_2": "משנה עדיות א, ה",
+    "path_2": "משנה עדיות.txt",
     "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 45,
-    "line_index_2": 561,
-    "heRef_2": "שמות כ, כא",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 160,
     "line_index_2": 171,
     "heRef_2": "משנה תורה, הלכות תמידים ומוספין י, יא",
@@ -551,5 +544,12 @@
     "heRef_2": "משנה תורה, הלכות תמידים ומוספין ט, ז",
     "path_2": "משנה תורה, הלכות תמידים ומוספין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 561,
+    "heRef_2": "שמות כ, כא",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

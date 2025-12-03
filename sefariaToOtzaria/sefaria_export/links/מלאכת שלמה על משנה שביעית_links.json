@@ -1,5 +1,40 @@
 [
   {
+    "line_index_1": 39,
+    "line_index_2": 10,
+    "heRef_2": "ישעיהו א, ח",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 315,
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ב, ד",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 963,
+    "heRef_2": "בבא בתרא לז.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 2178,
+    "heRef_2": "בבא בתרא צג:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 3827,
+    "heRef_2": "בבא קמא קא., טו",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 352,
     "line_index_2": 92,
     "heRef_2": "משנה שביעית י, א",
@@ -89,6 +124,13 @@
     "heRef_2": "משנה שביעית י, ה",
     "path_2": "משנה שביעית.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 368,
+    "line_index_2": 15,
+    "heRef_2": "תוספתא חולין א, יג",
+    "path_2": "תוספתא חולין.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 369,
@@ -2118,41 +2160,6 @@
     "line_index_2": 90,
     "heRef_2": "משנה שביעית ט, ט",
     "path_2": "משנה שביעית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 963,
-    "heRef_2": "בבא בתרא לז.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 2178,
-    "heRef_2": "בבא בתרא צג:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 3827,
-    "heRef_2": "בבא קמא קא., טו",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 10,
-    "heRef_2": "ישעיהו א, ח",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 266,
-    "line_index_2": 315,
-    "heRef_2": "תלמוד ירושלמי שביעית ח, ב, ד",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
     "Conection Type": "commentary"
   }
 ]

@@ -1,82 +1,5 @@
 [
   {
-    "line_index_1": 922,
-    "line_index_2": 502,
-    "heRef_2": "שמות יח, טז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 952,
-    "line_index_2": 453,
-    "heRef_2": "יחזקאל כ,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1071,
-    "line_index_2": 331,
-    "heRef_2": "דברים יא, ו",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 339,
-    "line_index_2": 480,
-    "heRef_2": "דברים טז, טז",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 826,
-    "line_index_2": 816,
-    "heRef_2": "דברים כט, א",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1379,
-    "line_index_2": 76,
-    "heRef_2": "דברים ב, כז",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1299,
-    "line_index_2": 53,
-    "heRef_2": "דברים ב, ד",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1782,
-    "line_index_2": 945,
-    "heRef_2": "דברים לב, מט",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2052,
-    "line_index_2": 103,
-    "heRef_2": "דברים ג, טז",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1344,
-    "line_index_2": 1974,
-    "heRef_2": "עירובין נג:,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 981,
-    "line_index_2": 3091,
-    "heRef_2": "בבא בתרא קלד.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 530,
     "line_index_2": 405,
     "heRef_2": "במדבר י, י",
@@ -1748,6 +1671,13 @@
     "heRef_2": "במדבר יד, מג",
     "path_2": "במדבר.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 885,
+    "line_index_2": 68,
+    "heRef_2": "משנה אבות ד, יא",
+    "path_2": "משנה אבות.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 887,
@@ -10108,6 +10038,55 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 1071,
+    "line_index_2": 331,
+    "heRef_2": "דברים יא, ו",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 480,
+    "heRef_2": "דברים טז, טז",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 826,
+    "line_index_2": 816,
+    "heRef_2": "דברים כט, א",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1379,
+    "line_index_2": 76,
+    "heRef_2": "דברים ב, כז",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1299,
+    "line_index_2": 53,
+    "heRef_2": "דברים ב, ד",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1782,
+    "line_index_2": 945,
+    "heRef_2": "דברים לב, מט",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2052,
+    "line_index_2": 103,
+    "heRef_2": "דברים ג, טז",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 305,
     "line_index_2": 29,
     "heRef_2": "עמוס ב, יא",
@@ -10119,6 +10098,34 @@
     "line_index_2": 1386,
     "heRef_2": "עבודה זרה מו.,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 981,
+    "line_index_2": 3091,
+    "heRef_2": "בבא בתרא קלד.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1344,
+    "line_index_2": 1974,
+    "heRef_2": "עירובין נג:,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 922,
+    "line_index_2": 502,
+    "heRef_2": "שמות יח, טז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 952,
+    "line_index_2": 453,
+    "heRef_2": "יחזקאל כ,  א",
+    "path_2": "יחזקאל.txt",
     "Conection Type": ""
   }
 ]

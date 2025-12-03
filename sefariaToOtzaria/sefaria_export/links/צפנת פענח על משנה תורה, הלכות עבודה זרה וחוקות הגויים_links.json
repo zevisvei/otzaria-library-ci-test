@@ -1,16 +1,23 @@
 [
   {
-    "line_index_1": 151,
-    "line_index_2": 1862,
-    "heRef_2": "ברכות מ.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 152,
     "line_index_2": 2653,
     "heRef_2": "פסחים פד.,  א",
     "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 89,
+    "heRef_2": "הוריות ד.,  א",
+    "path_2": "הוריות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 1862,
+    "heRef_2": "ברכות מ.,  א",
+    "path_2": "ברכות.txt",
     "Conection Type": ""
   },
   {
@@ -19,6 +26,34 @@
     "heRef_2": "חולין ד.,  א",
     "path_2": "חולין.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 2333,
+    "heRef_2": "יומא פה.,  א",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 329,
+    "heRef_2": "צפנת פענח על התורה, בראשית מ, ט, א",
+    "path_2": "צפנת פענח על התורה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 251,
+    "heRef_2": "עבודה זרה ט., ז",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 2124,
+    "heRef_2": "בבא בתרא צא., טז",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "quotation"
   },
   {
     "line_index_1": 151,
@@ -1258,40 +1293,5 @@
     "heRef_2": "משנה תורה, הלכות עבודה זרה וחוקות הגויים ט, ט",
     "path_2": "משנה תורה, הלכות עבודה זרה וחוקות הגויים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2124,
-    "heRef_2": "בבא בתרא צא., טז",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 89,
-    "heRef_2": "הוריות ד.,  א",
-    "path_2": "הוריות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 233,
-    "line_index_2": 2333,
-    "heRef_2": "יומא פה.,  א",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 329,
-    "heRef_2": "צפנת פענח על התורה, בראשית מ, ט, א",
-    "path_2": "צפנת פענח על התורה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 251,
-    "heRef_2": "עבודה זרה ט., ז",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "mesorat hashas"
   }
 ]

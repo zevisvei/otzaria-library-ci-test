@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 173,
-    "line_index_2": 66,
-    "heRef_2": "אסתר ד,  א",
-    "path_2": "אסתר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 238,
-    "line_index_2": 431,
-    "heRef_2": "ברכות ט:, כח",
-    "path_2": "ברכות.txt",
-    "Conection Type": "reference"
-  },
-  {
     "line_index_1": 124,
     "line_index_2": 106,
     "heRef_2": "מסכת סופרים י, א",
@@ -1223,5 +1209,19 @@
     "heRef_2": "מסכת סופרים ט, ט",
     "path_2": "מסכת סופרים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 431,
+    "heRef_2": "ברכות ט:, כח",
+    "path_2": "ברכות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 66,
+    "heRef_2": "אסתר ד,  א",
+    "path_2": "אסתר.txt",
+    "Conection Type": ""
   }
 ]

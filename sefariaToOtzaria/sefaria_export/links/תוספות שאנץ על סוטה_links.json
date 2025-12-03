@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 45,
+    "line_index_2": 263,
+    "heRef_2": "מכות י.,  א",
+    "path_2": "מכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 291,
+    "heRef_2": "מכות י:, ד",
+    "path_2": "מכות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 54,
     "line_index_2": 325,
     "heRef_2": "סוטה י., א",
@@ -812,17 +826,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 45,
-    "line_index_2": 263,
-    "heRef_2": "מכות י.,  א",
-    "path_2": "מכות.txt",
+    "line_index_1": 41,
+    "line_index_2": 2401,
+    "heRef_2": "יומא פז.,  א",
+    "path_2": "יומא.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 45,
-    "line_index_2": 291,
-    "heRef_2": "מכות י:, ד",
-    "path_2": "מכות.txt",
+    "line_index_1": 41,
+    "line_index_2": 3959,
+    "heRef_2": "בבא בתרא קע., יג",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   },
   {
@@ -837,20 +851,6 @@
     "line_index_2": 3841,
     "heRef_2": "עירובין קד:, יז",
     "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 3959,
-    "heRef_2": "בבא בתרא קע., יג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 2401,
-    "heRef_2": "יומא פז.,  א",
-    "path_2": "יומא.txt",
     "Conection Type": ""
   }
 ]

@@ -1,31 +1,514 @@
 [
   {
+    "line_index_1": 53,
+    "line_index_2": 14,
+    "heRef_2": "תלמוד ירושלמי חלה א, א, יא",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 120,
+    "heRef_2": "תלמוד ירושלמי כתובות ב, ט, ו",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 380,
+    "heRef_2": "תלמוד ירושלמי כתובות ז, ו, ז",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 114,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ה, יג",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 124,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ז, א",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ז, כ",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 147,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ח, ג",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 149,
+    "heRef_2": "תלמוד ירושלמי מגילה ב, ו, א",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 28,
+    "line_index_2": 465,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, א, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 465,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, א, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 8,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות סוטה ב, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 4,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות סוטה ב, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 6,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות סוטה ב, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 11,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות סוטה ד, יז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 58,
+    "heRef_2": "הושע ד, יד",
+    "path_2": "הושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 310,
+    "heRef_2": "שמואל ב יג,  א",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי סוטה א, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי סוטה א, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 13,
+    "heRef_2": "תלמוד ירושלמי סוטה א, א, י",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
     "line_index_2": 5,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות סוטה ב, ד, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות סוטה.txt",
+    "heRef_2": "תלמוד ירושלמי סוטה א, א, ב",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 6,
+    "heRef_2": "תלמוד ירושלמי סוטה א, א, ג",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 15,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ב, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 17,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ב, ג",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 21,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ב, ז",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 28,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ג, ג",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 28,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ג, ג",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 32,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ה, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ה, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 44,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ו, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 46,
-    "line_index_2": 615,
-    "heRef_2": "יחזקאל כג, מח",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
+    "line_index_2": 44,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ו, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 43,
-    "line_index_2": 1070,
-    "heRef_2": "בראשית לה, כב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
+    "line_index_1": 47,
+    "line_index_2": 44,
+    "heRef_2": "תלמוד ירושלמי סוטה א, ו, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 43,
-    "line_index_2": 1160,
-    "heRef_2": "בראשית לח,  א",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
+    "line_index_1": 53,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 88,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, ב, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 88,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, ב, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 89,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, ב, ב",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 99,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, ג, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 108,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, ה, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי סוטה ב, ו, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 123,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 124,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, א, ב",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 129,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ב, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 133,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ג, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 133,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ג, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 152,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ה, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 156,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ו, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 184,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ב, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 184,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ב, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 184,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ב, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 187,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ג, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 187,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ג, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 197,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ה, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 197,
+    "heRef_2": "תלמוד ירושלמי סוטה ד, ה, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 203,
+    "heRef_2": "תלמוד ירושלמי סוטה ה, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 203,
+    "heRef_2": "תלמוד ירושלמי סוטה ה, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 245,
+    "heRef_2": "תלמוד ירושלמי סוטה ו, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 250,
+    "heRef_2": "תלמוד ירושלמי סוטה ו, ב, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 265,
+    "heRef_2": "תלמוד ירושלמי סוטה ז, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 417,
+    "heRef_2": "תלמוד ירושלמי סוטה ט, ט, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 209,
+    "heRef_2": "תלמוד ירושלמי סוכה ד, ז, ב",
+    "path_2": "תלמוד ירושלמי סוכה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 470,
+    "heRef_2": "תלמוד ירושלמי יבמות י, א, יב",
+    "path_2": "תלמוד ירושלמי יבמות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 85,
@@ -1400,6 +1883,34 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 68,
+    "line_index_2": 5,
+    "heRef_2": "בן אריה על משנה תורה, הלכות סוטה ד, ב, א",
+    "path_2": "בן אריה על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 922,
+    "heRef_2": "ברכות יט., ט",
+    "path_2": "ברכות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 1478,
+    "heRef_2": "ברכות לא:, יב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 5,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות סוטה ב, ח, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 17,
     "line_index_2": 13,
     "heRef_2": "קובץ על היד החזקה על משנה תורה, הלכות סוטה א, יד, א",
@@ -1559,34 +2070,6 @@
     "heRef_2": "ויקרא יח, ג",
     "path_2": "ויקרא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 5,
-    "heRef_2": "בן אריה על משנה תורה, הלכות סוטה ד, ב, א",
-    "path_2": "בן אריה על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 922,
-    "heRef_2": "ברכות יט., ט",
-    "path_2": "ברכות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 1478,
-    "heRef_2": "ברכות לא:, יב",
-    "path_2": "ברכות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 5,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות סוטה ב, ח, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
   },
   {
     "line_index_1": 81,
@@ -2086,683 +2569,39 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 30,
+    "line_index_1": 84,
     "line_index_2": 5,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות סוטה ב, ו, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות סוטה.txt",
+    "heRef_2": "חידושים ומקורים מהר\"ץ חיות על משנה תורה, הלכות סוטה ד, יח, א",
+    "path_2": "חידושים ומקורים מהרץ חיות על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 32,
-    "line_index_2": 7,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות סוטה ב, ח, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות סוטה.txt",
+    "line_index_1": 25,
+    "line_index_2": 5,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה ב, א, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 56,
-    "line_index_2": 2546,
-    "heRef_2": "מנחות עג., יא",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
+    "line_index_2": 8,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה ג, טו, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 49,
-    "line_index_2": 425,
-    "heRef_2": "עירובין יג., טז",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
+    "line_index_1": 78,
+    "line_index_2": 13,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה ד, יב, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 75,
-    "line_index_2": 425,
-    "heRef_2": "עירובין יג., טז",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 427,
-    "heRef_2": "עירובין יג., יח",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 427,
-    "heRef_2": "עירובין יג., יח",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 427,
-    "heRef_2": "עירובין יג., יח",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 2163,
-    "heRef_2": "עירובין נח., יא",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 19,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, י, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 21,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 23,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, יד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 25,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, טו, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 5,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 7,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 9,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
     "line_index_2": 11,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה ד, ט, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 13,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ה, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 15,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 17,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 40,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, יא, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 42,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 44,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, יג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 46,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, טז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 28,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 30,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 32,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ה, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 34,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ו, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 36,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 38,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 61,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יא, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 63,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 65,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 66,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יג, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 68,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, טו, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 70,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, טז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 72,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 49,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 74,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, כ, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 76,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, כא, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 78,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, כג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 80,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, כד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 51,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 52,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ז, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 53,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ז, ג",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 55,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 56,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ח, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 58,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 59,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ט, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 92,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 93,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יב, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 95,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 96,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יד, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 98,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, טז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 100,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 101,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יז, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 103,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 83,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 85,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, ב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 87,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 89,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 90,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, ז, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 11,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, יד, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 13,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, טו, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 5,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, ג, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 7,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, ו, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 9,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, ט, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 32,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, י, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 34,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, יא, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 36,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, יב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 16,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, א, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 18,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 20,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ד, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 22,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ה, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 24,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ו, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 26,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ז, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 28,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ח, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 30,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ט, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 43,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, יא, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 45,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, יב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 47,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, טז, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 49,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, יז, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 39,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, א, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 51,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, כא, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 53,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, כג, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 55,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, כד, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 41,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, ט, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 58,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ד, יז, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 312,
-    "heRef_2": "משנה תורה, הלכות גירושין יב, יח",
-    "path_2": "משנה תורה, הלכות גירושין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 312,
-    "heRef_2": "משנה תורה, הלכות גירושין יב, יח",
-    "path_2": "משנה תורה, הלכות גירושין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 314,
-    "heRef_2": "משנה תורה, הלכות גירושין יב, כ",
-    "path_2": "משנה תורה, הלכות גירושין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 538,
-    "heRef_2": "משנה תורה, הלכות אישות כד, טו",
-    "path_2": "משנה תורה, הלכות אישות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 138,
-    "heRef_2": "משנה תורה, הלכות רוצח ושמירת נפש ט, טו",
-    "path_2": "משנה תורה, הלכות רוצח ושמירת נפש.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 139,
-    "heRef_2": "משנה תורה, הלכות רוצח ושמירת נפש ט, טז",
-    "path_2": "משנה תורה, הלכות רוצח ושמירת נפש.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 140,
-    "heRef_2": "משנה תורה, הלכות רוצח ושמירת נפש ט, יז",
-    "path_2": "משנה תורה, הלכות רוצח ושמירת נפש.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 58,
-    "heRef_2": "משנה תורה, תוכן החיבור ד, ז",
-    "path_2": "משנה תורה, תוכן החיבור.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 59,
-    "heRef_2": "משנה תורה, תוכן החיבור ד, ח",
-    "path_2": "משנה תורה, תוכן החיבור.txt",
-    "Conection Type": ""
   },
   {
     "line_index_1": 81,
@@ -4467,13 +4306,6 @@
   },
   {
     "line_index_1": 61,
-    "line_index_2": 1909,
-    "heRef_2": "טור, יורה דעה, יורה דעה רמו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 61,
     "line_index_2": 2541,
     "heRef_2": "שולחן ערוך, יורה דעה רמו, ו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -4792,13 +4624,6 @@
     "line_index_2": 732,
     "heRef_2": "סוטה כ:, ד",
     "path_2": "סוטה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 1959,
-    "heRef_2": "טור, יורה דעה, יורה דעה רעא, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5461,13 +5286,6 @@
   },
   {
     "line_index_1": 75,
-    "line_index_2": 1959,
-    "heRef_2": "טור, יורה דעה, יורה דעה רעא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 75,
     "line_index_2": 2860,
     "heRef_2": "שולחן ערוך, יורה דעה רעא, ו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -5495,101 +5313,710 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 34,
-    "line_index_2": 8,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות סוטה ב, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
+    "line_index_1": 49,
+    "line_index_2": 425,
+    "heRef_2": "עירובין יג., טז",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 425,
+    "heRef_2": "עירובין יג., טז",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 427,
+    "heRef_2": "עירובין יג., יח",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 427,
+    "heRef_2": "עירובין יג., יח",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 427,
+    "heRef_2": "עירובין יג., יח",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 2163,
+    "heRef_2": "עירובין נח., יא",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 28,
-    "line_index_2": 4,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות סוטה ב, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות סוטה.txt",
+    "line_index_2": 5,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות סוטה ב, ד, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 32,
-    "line_index_2": 6,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות סוטה ב, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 11,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות סוטה ד, יז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות סוטה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 58,
-    "heRef_2": "הושע ד, יד",
-    "path_2": "הושע.txt",
+    "line_index_1": 46,
+    "line_index_2": 615,
+    "heRef_2": "יחזקאל כג, מח",
+    "path_2": "יחזקאל.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 43,
-    "line_index_2": 310,
-    "heRef_2": "שמואל ב יג,  א",
-    "path_2": "שמואל ב.txt",
+    "line_index_2": 1070,
+    "heRef_2": "בראשית לה, כב",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 84,
+    "line_index_1": 43,
+    "line_index_2": 1160,
+    "heRef_2": "בראשית לח,  א",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 30,
     "line_index_2": 5,
-    "heRef_2": "חידושים ומקורים מהר\"ץ חיות על משנה תורה, הלכות סוטה ד, יח, א",
-    "path_2": "חידושים ומקורים מהרץ חיות על משנה תורה, הלכות סוטה.txt",
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות סוטה ב, ו, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 7,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות סוטה ב, ח, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 2546,
+    "heRef_2": "מנחות עג., יא",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 19,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, י, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 21,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 23,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, יד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 25,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, טו, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 5,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 7,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 9,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 11,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 13,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ה, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 15,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 17,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה א, ט, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 40,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, יא, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 42,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 44,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, יג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 46,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, טז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 25,
-    "line_index_2": 5,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה ב, א, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה.txt",
+    "line_index_2": 28,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 30,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 32,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ה, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 34,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ו, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 36,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 38,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ב, ט, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 61,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יא, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 63,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 65,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 66,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יג, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 56,
-    "line_index_2": 8,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה ג, טו, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה.txt",
+    "line_index_2": 68,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, טו, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 70,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, טז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 72,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, יח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 49,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 74,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, כ, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 76,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, כא, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 78,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, כג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 80,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, כד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 51,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 52,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ז, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 53,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ז, ג",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 55,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 56,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ח, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 58,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ט, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 59,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ג, ט, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 78,
-    "line_index_2": 13,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה ד, יב, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה.txt",
+    "line_index_2": 92,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 75,
+    "line_index_1": 78,
+    "line_index_2": 93,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יב, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 95,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 96,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יד, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 98,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, טז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 100,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 101,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יז, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 103,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, יח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 83,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 85,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, ב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 87,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 89,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 90,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות סוטה ד, ז, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
     "line_index_2": 11,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה ד, ט, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות סוטה.txt",
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, יד, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 56,
-    "line_index_2": 143,
-    "heRef_2": "תלמוד ירושלמי קידושין א, ז, כ",
-    "path_2": "תלמוד ירושלמי קידושין.txt",
-    "Conection Type": "related"
+    "line_index_1": 18,
+    "line_index_2": 13,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, טו, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 56,
-    "line_index_2": 147,
-    "heRef_2": "תלמוד ירושלמי קידושין א, ח, ג",
-    "path_2": "תלמוד ירושלמי קידושין.txt",
-    "Conection Type": "reference"
+    "line_index_1": 6,
+    "line_index_2": 5,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, ג, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 56,
-    "line_index_2": 124,
-    "heRef_2": "תלמוד ירושלמי סוטה ג, א, ב",
-    "path_2": "תלמוד ירושלמי סוטה.txt",
-    "Conection Type": "mesorat hashas"
+    "line_index_1": 9,
+    "line_index_2": 7,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, ו, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 9,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה א, ט, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 32,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, י, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 34,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, יא, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 36,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, יב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 16,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, א, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 18,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 20,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ד, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 22,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ה, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 24,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ו, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 26,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ז, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 28,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ח, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 30,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ב, ט, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 43,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, יא, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 45,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, יב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 47,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, טז, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 49,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, יז, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 39,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, א, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 51,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, כא, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 53,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, כג, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 55,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, כד, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 41,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ג, ט, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 58,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות סוטה ד, יז, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 312,
+    "heRef_2": "משנה תורה, הלכות גירושין יב, יח",
+    "path_2": "משנה תורה, הלכות גירושין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 312,
+    "heRef_2": "משנה תורה, הלכות גירושין יב, יח",
+    "path_2": "משנה תורה, הלכות גירושין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 314,
+    "heRef_2": "משנה תורה, הלכות גירושין יב, כ",
+    "path_2": "משנה תורה, הלכות גירושין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 538,
+    "heRef_2": "משנה תורה, הלכות אישות כד, טו",
+    "path_2": "משנה תורה, הלכות אישות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 138,
+    "heRef_2": "משנה תורה, הלכות רוצח ושמירת נפש ט, טו",
+    "path_2": "משנה תורה, הלכות רוצח ושמירת נפש.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 139,
+    "heRef_2": "משנה תורה, הלכות רוצח ושמירת נפש ט, טז",
+    "path_2": "משנה תורה, הלכות רוצח ושמירת נפש.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 140,
+    "heRef_2": "משנה תורה, הלכות רוצח ושמירת נפש ט, יז",
+    "path_2": "משנה תורה, הלכות רוצח ושמירת נפש.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 58,
+    "heRef_2": "משנה תורה, תוכן החיבור ד, ז",
+    "path_2": "משנה תורה, תוכן החיבור.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 59,
+    "heRef_2": "משנה תורה, תוכן החיבור ד, ח",
+    "path_2": "משנה תורה, תוכן החיבור.txt",
+    "Conection Type": ""
   }
 ]

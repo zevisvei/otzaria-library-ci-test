@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 295,
-    "line_index_2": 82,
-    "heRef_2": "קידושין ה.,  א",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 45,
-    "heRef_2": "משנה שביעית ה,  א",
-    "path_2": "משנה שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 2281,
-    "heRef_2": "בבא מציעא עא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 3,
-    "heRef_2": "גיטין ב.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 5,
     "heRef_2": "תלמוד ירושלמי גיטין א, א, ב",
@@ -1475,5 +1447,33 @@
     "heRef_2": "תלמוד ירושלמי גיטין ט, ח, ב",
     "path_2": "תלמוד ירושלמי גיטין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 3,
+    "heRef_2": "גיטין ב.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 82,
+    "heRef_2": "קידושין ה.,  א",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 2281,
+    "heRef_2": "בבא מציעא עא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 45,
+    "heRef_2": "משנה שביעית ה,  א",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": ""
   }
 ]

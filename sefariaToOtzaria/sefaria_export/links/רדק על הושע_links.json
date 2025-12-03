@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 132,
-    "line_index_2": 991,
-    "heRef_2": "שמות לג, יט",
-    "path_2": "שמות.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 262,
-    "line_index_2": 935,
-    "heRef_2": "דברים לב, לט",
-    "path_2": "דברים.txt",
-    "Conection Type": "quotation"
-  },
-  {
     "line_index_1": 479,
     "line_index_2": 143,
     "heRef_2": "הושע י, א",
@@ -3862,5 +3848,26 @@
     "heRef_2": "הושע ט, ט",
     "path_2": "הושע.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 935,
+    "heRef_2": "דברים לב, לט",
+    "path_2": "דברים.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 328,
+    "heRef_2": "אוצר מדרשים, אלפא ביתא דבן סירא, אלפא ביתא דבן סירא א, ח",
+    "path_2": "אוצר מדרשים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 991,
+    "heRef_2": "שמות לג, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "quotation"
   }
 ]

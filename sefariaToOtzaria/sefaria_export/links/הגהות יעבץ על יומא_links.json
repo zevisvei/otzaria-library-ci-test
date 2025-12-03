@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 76,
-    "line_index_2": 195,
-    "heRef_2": "עזרא ח,  א",
-    "path_2": "עזרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 1191,
-    "heRef_2": "בראשית לט,  א",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 87,
-    "heRef_2": "ברכות ד.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 1497,
-    "heRef_2": "בבא בתרא סג.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 19,
     "line_index_2": 199,
     "heRef_2": "יומא י., ג",
@@ -43,7 +15,7 @@
   },
   {
     "line_index_1": 22,
-    "line_index_2": 296,
+    "line_index_2": 297,
     "heRef_2": "רש\"י על יומא יא., ו, א",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -71,7 +43,7 @@
   },
   {
     "line_index_1": 30,
-    "line_index_2": 618,
+    "line_index_2": 619,
     "heRef_2": "רש\"י על יומא יט., יג, ב",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -155,7 +127,7 @@
   },
   {
     "line_index_1": 48,
-    "line_index_2": 833,
+    "line_index_2": 834,
     "heRef_2": "רש\"י על יומא כד., ה, א",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -218,7 +190,7 @@
   },
   {
     "line_index_1": 59,
-    "line_index_2": 1019,
+    "line_index_2": 1020,
     "heRef_2": "רש\"י על יומא כח., יא, ב",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -239,7 +211,7 @@
   },
   {
     "line_index_1": 62,
-    "line_index_2": 1024,
+    "line_index_2": 1025,
     "heRef_2": "רש\"י על יומא כח:, ג, א",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -253,7 +225,7 @@
   },
   {
     "line_index_1": 64,
-    "line_index_2": 1058,
+    "line_index_2": 1059,
     "heRef_2": "רש\"י על יומא כט., ג, ב",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -547,7 +519,7 @@
   },
   {
     "line_index_1": 118,
-    "line_index_2": 2636,
+    "line_index_2": 2637,
     "heRef_2": "רש\"י על יומא ע., ח, ב",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -610,7 +582,7 @@
   },
   {
     "line_index_1": 126,
-    "line_index_2": 2746,
+    "line_index_2": 2747,
     "heRef_2": "רש\"י על יומא עב:, ה, ד",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -624,7 +596,7 @@
   },
   {
     "line_index_1": 127,
-    "line_index_2": 2756,
+    "line_index_2": 2757,
     "heRef_2": "רש\"י על יומא עב:, יג, א",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -659,7 +631,7 @@
   },
   {
     "line_index_1": 133,
-    "line_index_2": 2921,
+    "line_index_2": 2922,
     "heRef_2": "רש\"י על יומא עה:, יד, ב",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -694,7 +666,7 @@
   },
   {
     "line_index_1": 140,
-    "line_index_2": 3049,
+    "line_index_2": 3050,
     "heRef_2": "רש\"י על יומא עח:, ז, ו",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -750,7 +722,7 @@
   },
   {
     "line_index_1": 11,
-    "line_index_2": 185,
+    "line_index_2": 186,
     "heRef_2": "רש\"י על יומא ז., ז, א",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -806,7 +778,7 @@
   },
   {
     "line_index_1": 154,
-    "line_index_2": 3234,
+    "line_index_2": 3235,
     "heRef_2": "רש\"י על יומא פד., א, א",
     "path_2": "רשי על יומא.txt",
     "Conection Type": "commentary"
@@ -922,5 +894,33 @@
     "heRef_2": "יומא ט:, ט",
     "path_2": "יומא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 87,
+    "heRef_2": "ברכות ד.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 1497,
+    "heRef_2": "בבא בתרא סג.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 195,
+    "heRef_2": "עזרא ח,  א",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 1191,
+    "heRef_2": "בראשית לט,  א",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

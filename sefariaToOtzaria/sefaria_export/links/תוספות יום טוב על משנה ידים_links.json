@@ -1,40 +1,5 @@
 [
   {
-    "line_index_1": 96,
-    "line_index_2": 565,
-    "heRef_2": "שמות כא,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 897,
-    "heRef_2": "שמות ל, יט",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 2250,
-    "heRef_2": "קידושין עג.,  א",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 3287,
-    "heRef_2": "חולין קז.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 3294,
-    "heRef_2": "חולין קז., ח",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 34,
     "line_index_2": 10,
     "heRef_2": "רש״ש על משנה ידים ב, ב, א",
@@ -81,6 +46,48 @@
     "line_index_2": 302,
     "heRef_2": "שבת יד., ח",
     "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 163,
+    "heRef_2": "ישעיהו ח, א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 2250,
+    "heRef_2": "קידושין עג.,  א",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 3287,
+    "heRef_2": "חולין קז.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 3294,
+    "heRef_2": "חולין קז., ח",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 565,
+    "heRef_2": "שמות כא,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 897,
+    "heRef_2": "שמות ל, יט",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -621,12 +628,5 @@
     "heRef_2": "משנה ידים ד, ח",
     "path_2": "משנה ידים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 163,
-    "heRef_2": "ישעיהו ח, א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

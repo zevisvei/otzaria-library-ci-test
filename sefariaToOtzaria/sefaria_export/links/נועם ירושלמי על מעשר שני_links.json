@@ -1,47 +1,5 @@
 [
   {
-    "line_index_1": 95,
-    "line_index_2": 86,
-    "heRef_2": "קידושין ה., ה",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 71,
-    "heRef_2": "נדרים ה., ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 115,
-    "heRef_2": "סוכה ה:,  א",
-    "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 137,
-    "heRef_2": "ערכין ה., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 137,
-    "heRef_2": "ערכין ה., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 132,
-    "heRef_2": "ערכין ה., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 46,
     "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, ב",
@@ -719,5 +677,47 @@
     "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, יב",
     "path_2": "תלמוד ירושלמי מעשר שני.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 86,
+    "heRef_2": "קידושין ה., ה",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 137,
+    "heRef_2": "ערכין ה., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 137,
+    "heRef_2": "ערכין ה., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 132,
+    "heRef_2": "ערכין ה., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 71,
+    "heRef_2": "נדרים ה., ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 115,
+    "heRef_2": "סוכה ה:,  א",
+    "path_2": "סוכה.txt",
+    "Conection Type": ""
   }
 ]

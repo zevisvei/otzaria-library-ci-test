@@ -1,5 +1,117 @@
 [
   {
+    "line_index_1": 39,
+    "line_index_2": 417,
+    "heRef_2": "ראש השנה טז., טז",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 487,
+    "heRef_2": "ראש השנה יח., טו",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 769,
+    "heRef_2": "ראש השנה כז., ד",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 771,
+    "heRef_2": "ראש השנה כז., ו",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 785,
+    "heRef_2": "ראש השנה כז:, א",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 1039,
+    "heRef_2": "ראש השנה לד.,  א",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 1092,
+    "heRef_2": "ראש השנה לה., יב",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 120,
+    "heRef_2": "ראש השנה ו., ה",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 2774,
+    "heRef_2": "יבמות פג., ו",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 1020,
+    "heRef_2": "שבת מט., ו",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 821,
+    "heRef_2": "סוכה לא:, יא",
+    "path_2": "סוכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 4339,
+    "heRef_2": "שולחן ערוך, אורח חיים תרג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 53,
+    "heRef_2": "תלמוד ירושלמי שבת א, ג, י",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 1366,
+    "heRef_2": "ברכות כט., כב",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 1633,
+    "heRef_2": "ברכות לד., ג",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 497,
+    "heRef_2": "חגיגה טז:, טז",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 44,
     "line_index_2": 47,
     "heRef_2": " קרבן נתנאל על ראש השנה י, א",
@@ -1267,108 +1379,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 102,
-    "line_index_2": 1366,
-    "heRef_2": "ברכות כט., כב",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 1633,
-    "heRef_2": "ברכות לד., ג",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 497,
-    "heRef_2": "חגיגה טז:, טז",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 417,
-    "heRef_2": "ראש השנה טז., טז",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 487,
-    "heRef_2": "ראש השנה יח., טו",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 769,
-    "heRef_2": "ראש השנה כז., ד",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 771,
-    "heRef_2": "ראש השנה כז., ו",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 785,
-    "heRef_2": "ראש השנה כז:, א",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1039,
-    "heRef_2": "ראש השנה לד.,  א",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 1092,
-    "heRef_2": "ראש השנה לה., יב",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 120,
-    "heRef_2": "ראש השנה ו., ה",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 2774,
-    "heRef_2": "יבמות פג., ו",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 1020,
-    "heRef_2": "שבת מט., ו",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 57,
-    "line_index_2": 821,
-    "heRef_2": "סוכה לא:, יא",
-    "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 4339,
-    "heRef_2": "שולחן ערוך, אורח חיים תרג, א",
-    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "line_index_2": 1254,
+    "heRef_2": "עבודה זרה מב., יב",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
@@ -1390,20 +1404,6 @@
     "line_index_2": 3487,
     "heRef_2": "עירובין צו., יג",
     "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1254,
-    "heRef_2": "עבודה זרה מב., יב",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 53,
-    "heRef_2": "תלמוד ירושלמי שבת א, ג, י",
-    "path_2": "תלמוד ירושלמי שבת.txt",
     "Conection Type": ""
   }
 ]

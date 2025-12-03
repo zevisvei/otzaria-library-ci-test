@@ -1,6 +1,13 @@
 [
   {
     "line_index_1": 5,
+    "line_index_2": 57,
+    "heRef_2": "מלכים א ב,  א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
     "line_index_2": 44,
     "heRef_2": "משנה תורה, הלכות זכייה ומתנה ג, ו",
     "path_2": "משנה תורה, הלכות זכייה ומתנה.txt",
@@ -26,12 +33,5 @@
     "heRef_2": "משנה תורה, הלכות זכייה ומתנה ט, י",
     "path_2": "משנה תורה, הלכות זכייה ומתנה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 57,
-    "heRef_2": "מלכים א ב,  א",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
   }
 ]

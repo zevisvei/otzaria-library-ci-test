@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 32,
+    "line_index_2": 1995,
+    "heRef_2": "גיטין סב.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 168,
     "line_index_2": 2154,
     "heRef_2": "קידושין ע.,  א",
@@ -1034,12 +1041,5 @@
     "heRef_2": "משנה תורה, הלכות תלמוד תורה ז, ט",
     "path_2": "משנה תורה, הלכות תלמוד תורה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 1995,
-    "heRef_2": "גיטין סב.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

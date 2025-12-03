@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 130,
-    "line_index_2": 1239,
-    "heRef_2": "יחזקאל מו,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 48,
     "line_index_2": 484,
     "heRef_2": "איוב כ, ו",
@@ -613,6 +606,20 @@
     "line_index_2": 77,
     "heRef_2": "רות ד, ט",
     "path_2": "רות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 1239,
+    "heRef_2": "יחזקאל מו,  א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "heRef_2": "הערות",
+    "path_2": "הערות על מלבים על רות.txt",
+    "line_index_2": 1,
     "Conection Type": "commentary"
   }
 ]

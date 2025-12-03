@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 375,
-    "line_index_2": 932,
-    "heRef_2": "שמות לא, טו",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 154,
-    "line_index_2": 757,
-    "heRef_2": "בראשית כז,  א",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 40,
     "line_index_2": 740,
     "heRef_2": "משלי כה,  א",
@@ -5150,5 +5136,19 @@
     "heRef_2": "אבות דרבי נתן ט, ד",
     "path_2": "אבות דרבי נתן.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 932,
+    "heRef_2": "שמות לא, טו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 757,
+    "heRef_2": "בראשית כז,  א",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

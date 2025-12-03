@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 316,
-    "line_index_2": 875,
-    "heRef_2": "ברכות יז:, יג",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 322,
     "line_index_2": 183,
     "heRef_2": "מסכת שמחות י, י",
@@ -1825,5 +1818,12 @@
     "heRef_2": "מסכת שמחות ט, ח",
     "path_2": "מסכת שמחות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 875,
+    "heRef_2": "ברכות יז:, יג",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
   }
 ]

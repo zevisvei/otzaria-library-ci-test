@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 430,
+    "line_index_2": 2139,
+    "heRef_2": "עבודה זרה עב.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 308,
     "line_index_2": 231,
     "heRef_2": "משנה תורה, הלכות איסורי ביאה י, י",
@@ -1207,13 +1214,6 @@
     "line_index_1": 44,
     "line_index_2": 22,
     "heRef_2": "משנה תורה, הלכות איסורי ביאה א, יט",
-    "path_2": "משנה תורה, הלכות איסורי ביאה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 4,
-    "heRef_2": "משנה תורה, הלכות איסורי ביאה א, א",
     "path_2": "משנה תורה, הלכות איסורי ביאה.txt",
     "Conection Type": "commentary"
   },
@@ -2679,12 +2679,5 @@
     "heRef_2": "משנה תורה, הלכות איסורי ביאה ט, ח",
     "path_2": "משנה תורה, הלכות איסורי ביאה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 430,
-    "line_index_2": 2139,
-    "heRef_2": "עבודה זרה עב.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

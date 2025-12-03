@@ -1,16 +1,23 @@
 [
   {
-    "line_index_1": 1368,
-    "line_index_2": 26,
-    "heRef_2": "שמות ב,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_1": 731,
+    "line_index_2": 324,
+    "heRef_2": "ירמיהו יב, ח",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 741,
+    "line_index_2": 324,
+    "heRef_2": "ירמיהו יב, ח",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "quotation"
   },
   {
     "line_index_1": 1372,
-    "line_index_2": 3,
-    "heRef_2": "בראשית א,  א",
-    "path_2": "בראשית.txt",
+    "line_index_2": 2808,
+    "heRef_2": "ברכות סג.,  א",
+    "path_2": "ברכות.txt",
     "Conection Type": ""
   },
   {
@@ -3850,10 +3857,24 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 1372,
-    "line_index_2": 2808,
-    "heRef_2": "ברכות סג.,  א",
-    "path_2": "ברכות.txt",
+    "line_index_1": 1329,
+    "line_index_2": 240,
+    "heRef_2": "ויקרא ט, כב",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1330,
+    "line_index_2": 240,
+    "heRef_2": "ויקרא ט, כב",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 343,
+    "heRef_2": "דברים יא, יח",
+    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -3997,31 +4018,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 1329,
-    "line_index_2": 240,
-    "heRef_2": "ויקרא ט, כב",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1330,
-    "line_index_2": 240,
-    "heRef_2": "ויקרא ט, כב",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 408,
-    "line_index_2": 343,
-    "heRef_2": "דברים יא, יח",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1368,
-    "line_index_2": 1076,
-    "heRef_2": "מועד קטן כט.,  א",
-    "path_2": "מועד קטן.txt",
+    "line_index_1": 6630,
+    "line_index_2": 2561,
+    "heRef_2": "שולחן ערוך, חושן משפט רלה,  א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
     "Conection Type": ""
   },
   {
@@ -4039,17 +4039,24 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 731,
-    "line_index_2": 324,
-    "heRef_2": "ירמיהו יב, ח",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": "related"
+    "line_index_1": 1368,
+    "line_index_2": 1076,
+    "heRef_2": "מועד קטן כט.,  א",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": ""
   },
   {
-    "line_index_1": 741,
-    "line_index_2": 324,
-    "heRef_2": "ירמיהו יב, ח",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": "quotation"
+    "line_index_1": 1368,
+    "line_index_2": 26,
+    "heRef_2": "שמות ב,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1372,
+    "line_index_2": 3,
+    "heRef_2": "בראשית א,  א",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,5 +1,2371 @@
 [
   {
+    "line_index_1": 80,
+    "line_index_2": 145,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ה, א",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 145,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ה, א",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 145,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ה, א",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 147,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ה, ג",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 31,
+    "heRef_2": "תלמוד ירושלמי ביצה א, ה, ב",
+    "path_2": "תלמוד ירושלמי ביצה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 74,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, א, יד",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, א",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, א",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, א",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, א",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, א",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 87,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, יא",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 87,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, יא",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 83,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, ז",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 85,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ב, ט",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 89,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ג, א",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 100,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ד, א",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 103,
+    "heRef_2": "תלמוד ירושלמי בכורים ב, ד, ד",
+    "path_2": "תלמוד ירושלמי בכורים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 108,
+    "heRef_2": "תלמוד ירושלמי חגיגה ב, ה, ג",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 150,
+    "heRef_2": "תלמוד ירושלמי חגיגה ג, ד, ה",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 41,
+    "heRef_2": "תלמוד ירושלמי חלה א, ג, ו",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, א",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, א",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, א",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, א",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, א",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, א",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 21,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, ב",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 23,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, ד",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 25,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, ו",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 26,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ב, ז",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 57,
+    "heRef_2": "תלמוד ירושלמי דמאי א, ד, ד",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 117,
+    "heRef_2": "תלמוד ירושלמי דמאי ג, א, ד",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 326,
+    "heRef_2": "תלמוד ירושלמי דמאי ז, ד, ב",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 125,
+    "heRef_2": "תלמוד ירושלמי עירובין ג, א, א",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 128,
+    "heRef_2": "תלמוד ירושלמי עירובין ג, א, ד",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 129,
+    "heRef_2": "תלמוד ירושלמי עירובין ג, א, ה",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 355,
+    "heRef_2": "תלמוד ירושלמי עירובין ז, ו, ד",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 437,
+    "heRef_2": "תלמוד ירושלמי עירובין ט, ד, ה",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 29,
+    "heRef_2": "תלמוד ירושלמי קידושין א, א, כו",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 201,
+    "heRef_2": "תלמוד ירושלמי קידושין ב, ז, א",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 225,
+    "heRef_2": "תלמוד ירושלמי כלאים ה, ז, ה",
+    "path_2": "תלמוד ירושלמי כלאים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, יז",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 22,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, יט",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 23,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, כ",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 25,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, כב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 25,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, כב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 6,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 6,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 8,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ה",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 8,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ה",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 8,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ה",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 10,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ז",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 11,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 11,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 27,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 27,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 27,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 27,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 27,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 28,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 29,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 34,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 34,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ב, ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ג, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 41,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, ג, ו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 45,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 45,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 45,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 45,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 54,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, י",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 56,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, יב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 59,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, טו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 52,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 52,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א, ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 52,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א,  ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 53,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א,  ט",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 54,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א,  י",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 62,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 62,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 64,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ב, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 67,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ב, ו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 71,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 71,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 71,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 71,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 72,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ג, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ג, ז",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 79,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ג, ט",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 81,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 81,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 81,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 82,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ב, ד, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 89,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 95,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 95,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 97,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ב, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 97,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ב, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 97,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ב, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 98,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ב, ד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 99,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ב, ה",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 102,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 103,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 103,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 109,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 110,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ג, ט",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 112,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 112,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 112,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 113,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ד, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 117,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ה, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ה, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 120,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ה, ד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 125,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 125,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 125,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 125,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 125,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 125,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 134,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, י",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 129,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, ה",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 137,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 137,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 137,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 137,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 148,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, יב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 139,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 140,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, ד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 142,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, ו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 142,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, ו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 144,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, א, ח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 150,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 150,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 152,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ב, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 153,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ב, ד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 155,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ב, ו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 156,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ב, ז",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 158,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 158,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 158,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 160,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ג, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 160,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ג, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 167,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 167,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 167,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 169,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ד, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 175,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ה, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ה, ד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 180,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 180,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 180,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ו, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 185,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ו, ו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 196,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, א, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 206,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, א, יא",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 197,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, א, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 197,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, א, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 217,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, י",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 217,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, י",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 220,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, יג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 221,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, יד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 221,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, יד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 222,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, טו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 225,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, יח",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 226,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, יט",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 209,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ב, ב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ג, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 239,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ג, י",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 242,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 242,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ד, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, א",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 254,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 254,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 256,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ה, ה, ה",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 80,
+    "heRef_2": "תלמוד ירושלמי מעשרות ב, ג, ה",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 131,
+    "heRef_2": "תלמוד ירושלמי מעשרות ג, ד, א",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 171,
+    "heRef_2": "תלמוד ירושלמי מעשרות ד, ד, ב",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 176,
+    "heRef_2": "תלמוד ירושלמי מעשרות ד, ד, ז",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 202,
+    "heRef_2": "תלמוד ירושלמי מעשרות ה, ג, ב",
+    "path_2": "תלמוד ירושלמי מעשרות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 83,
+    "heRef_2": "תלמוד ירושלמי מכות ג, ג, א",
+    "path_2": "תלמוד ירושלמי מכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 149,
+    "heRef_2": "תלמוד ירושלמי מגילה ב, ו, א",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 201,
+    "heRef_2": "תלמוד ירושלמי נזיר ו, ב, ב",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 13,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, י",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 13,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, י",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 14,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, יא",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 14,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, יא",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 15,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, יב",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 16,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, יג",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 17,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, יד",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 18,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, טו",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי ערלה א, א, יז",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 27,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 27,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, י",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 30,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, ד",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 33,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, ז",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 34,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, ח",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 34,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, ח",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 34,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, ח",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 35,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ב, ט",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ג, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ג, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ג, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ג, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 40,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ג, ג",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 44,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ג, ז",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 62,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ד, ז",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 64,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ה, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 64,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ה, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 64,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ה, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 64,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ה, א",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 70,
+    "heRef_2": "תלמוד ירושלמי ערלה א, ה, ז",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 148,
+    "heRef_2": "תלמוד ירושלמי ערלה ג, א, ב",
+    "path_2": "תלמוד ירושלמי ערלה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 265,
+    "heRef_2": "תלמוד ירושלמי פאה ה, ד, ב",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 380,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, א",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 380,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, א",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 390,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, יא",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 381,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, ב",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 384,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, ה",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 385,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, ו",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 385,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, ו",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 386,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, ז",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 387,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ה, ח",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 400,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ב",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 400,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ב",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי פסחים ב, ד, ח",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 248,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ד",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 558,
+    "heRef_2": "תלמוד ירושלמי פסחים ט, ח, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 21,
+    "heRef_2": "תלמוד ירושלמי ראש השנה א, ב, א",
+    "path_2": "תלמוד ירושלמי ראש השנה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 21,
+    "heRef_2": "תלמוד ירושלמי ראש השנה א, ב, א",
+    "path_2": "תלמוד ירושלמי ראש השנה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 24,
+    "heRef_2": "תלמוד ירושלמי ראש השנה א, ב, ד",
+    "path_2": "תלמוד ירושלמי ראש השנה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 24,
+    "heRef_2": "תלמוד ירושלמי ראש השנה א, ב, ד",
+    "path_2": "תלמוד ירושלמי ראש השנה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 2110,
+    "heRef_2": "גיטין סה., ג",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 2112,
+    "heRef_2": "גיטין סה., ה",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 87,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי יא, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 13,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 14,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, י, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 15,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, י, ג",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 16,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, י, ד",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 18,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, יא, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 20,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, יד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 21,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, יד, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 5,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 7,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, ה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 9,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 11,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 26,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ב, יד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 27,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ב, יד, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 24,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ב, ב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 35,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, יד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 37,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, טו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 39,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, כ, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 30,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 32,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ט, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 33,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ט, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 49,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, יד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 51,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, כ, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 42,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, ב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 43,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, ב, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 45,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 47,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 54,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ה, טו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 57,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ו, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 60,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ז, יד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 62,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ז, יח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 64,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ז, כ, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 65,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ז, כ, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 75,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, יג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 77,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, יד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 79,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, טו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 68,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, ב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 69,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, ב, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 71,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 73,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 82,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ט, יא, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 84,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ט, יב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 37,
+    "heRef_2": "תלמוד ירושלמי סנהדרין א, ב, א",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 37,
+    "heRef_2": "תלמוד ירושלמי סנהדרין א, ב, א",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 219,
+    "heRef_2": "תלמוד ירושלמי שקלים ז, א, א",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 223,
+    "heRef_2": "תלמוד ירושלמי שקלים ז, ב, א",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 223,
+    "heRef_2": "תלמוד ירושלמי שקלים ז, ב, א",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי שביעית א, ו, ד",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 66,
+    "heRef_2": "תלמוד ירושלמי שביעית ב, ד, ה",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 67,
+    "heRef_2": "תלמוד ירושלמי שביעית ב, ד, ו",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 69,
+    "heRef_2": "תלמוד ירושלמי שביעית ב, ה, א",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 70,
+    "heRef_2": "תלמוד ירושלמי שביעית ב, ה, ב",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 75,
+    "heRef_2": "תלמוד ירושלמי שביעית ב, ה, ז",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 80,
+    "heRef_2": "תלמוד ירושלמי שביעית ב, ו, א",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי שביעית ד, ו, ו",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 196,
+    "heRef_2": "תלמוד ירושלמי שביעית ה, א, ג",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 196,
+    "heRef_2": "תלמוד ירושלמי שביעית ה, א, ג",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 198,
+    "heRef_2": "תלמוד ירושלמי שביעית ה, א, ה",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 198,
+    "heRef_2": "תלמוד ירושלמי שביעית ה, א, ה",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 312,
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ב, א",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 312,
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ב, א",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 326,
+    "heRef_2": "תלמוד ירושלמי שביעית ח, ד, ב",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 265,
+    "heRef_2": "תלמוד ירושלמי סוטה ז, א, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 390,
+    "heRef_2": "תלמוד ירושלמי תרומות י, א, ח",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 448,
+    "heRef_2": "תלמוד ירושלמי תרומות יא, ג, א",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 448,
+    "heRef_2": "תלמוד ירושלמי תרומות יא, ג, א",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 462,
+    "heRef_2": "תלמוד ירושלמי תרומות יא, ד, י",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 111,
+    "heRef_2": "תלמוד ירושלמי תרומות ג, ג, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 126,
+    "heRef_2": "תלמוד ירושלמי תרומות ג, ה, א",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 367,
+    "heRef_2": "תלמוד ירושלמי תרומות ט, ב, א",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 369,
+    "heRef_2": "תלמוד ירושלמי תרומות ט, ב, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 367,
+    "heRef_2": "תלמוד ירושלמי יבמות ח, א, ב",
+    "path_2": "תלמוד ירושלמי יבמות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 368,
+    "heRef_2": "תלמוד ירושלמי יבמות ח, א, ג",
+    "path_2": "תלמוד ירושלמי יבמות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 366,
+    "heRef_2": "תלמוד ירושלמי יומא ח, א, ח",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 384,
+    "heRef_2": "תלמוד ירושלמי יומא ח, ג, ח",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 23,
     "line_index_2": 168,
     "heRef_2": "כריתות ד:, כט",
@@ -2989,62 +5355,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 41,
-    "line_index_2": 262,
-    "heRef_2": "ויקרא י, יט",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 169,
-    "line_index_2": 579,
-    "heRef_2": "ויקרא יט, כג",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 579,
-    "heRef_2": "ויקרא יט, כג",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 177,
-    "line_index_2": 579,
-    "heRef_2": "ויקרא יט, כג",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 579,
-    "heRef_2": "ויקרא יט, כג",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 580,
-    "heRef_2": "ויקרא יט, כד",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 581,
-    "heRef_2": "ויקרא יט, כה",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 657,
-    "heRef_2": "ויקרא כב, י",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 159,
     "line_index_2": 108,
     "heRef_2": "ביצה ה., י",
@@ -3246,6 +5556,62 @@
     "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות מעשר שני ונטע רבעי ט, ו, א",
     "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 262,
+    "heRef_2": "ויקרא י, יט",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 579,
+    "heRef_2": "ויקרא יט, כג",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 579,
+    "heRef_2": "ויקרא יט, כג",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 579,
+    "heRef_2": "ויקרא יט, כג",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 579,
+    "heRef_2": "ויקרא יט, כג",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 580,
+    "heRef_2": "ויקרא יט, כד",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 581,
+    "heRef_2": "ויקרא יט, כה",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 657,
+    "heRef_2": "ויקרא כב, י",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 145,
@@ -4186,34 +6552,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 184,
-    "line_index_2": 2418,
-    "heRef_2": "מנחות סט:, ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 2863,
-    "heRef_2": "מנחות פב., ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 2865,
-    "heRef_2": "מנחות פב., ה",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 2867,
-    "heRef_2": "מנחות פב., ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
     "line_index_1": 123,
     "line_index_2": 696,
     "heRef_2": "חולין כה:, ט",
@@ -4480,403 +6818,46 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 121,
-    "line_index_2": 1031,
-    "heRef_2": "עירובין כז., יג",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 1035,
-    "heRef_2": "עירובין כז:, א",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 1049,
-    "heRef_2": "עירובין כז:, טו",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 1036,
-    "heRef_2": "עירובין כז:, ב",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 1037,
-    "heRef_2": "עירובין כז:, ג",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 1037,
-    "heRef_2": "עירובין כז:, ג",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 1037,
-    "heRef_2": "עירובין כז:, ג",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 1055,
-    "heRef_2": "עירובין כח., ב",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 1074,
-    "heRef_2": "עירובין כח:, ו",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 1358,
-    "heRef_2": "עירובין לז:, ד",
-    "path_2": "עירובין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 4,
-    "heRef_2": "משנה דמאי א, ב",
-    "path_2": "משנה דמאי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 193,
-    "line_index_2": 58,
-    "heRef_2": "משנה מעשר שני ה, י",
-    "path_2": "משנה מעשר שני.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 197,
-    "line_index_2": 54,
-    "heRef_2": "משנה מעשר שני ה, ו",
-    "path_2": "משנה מעשר שני.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 207,
-    "line_index_2": 30,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ד, ג, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 42,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי י, כא, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_2": 10,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי יא, יז, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 201,
-    "line_index_2": 45,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי יא, יא, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
+    "line_index_1": 164,
     "line_index_2": 7,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי א, יא, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי ט, י, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 15,
-    "line_index_2": 9,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי א, יב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
+    "line_index_1": 156,
     "line_index_2": 5,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי א, ג, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי ט, ב, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 16,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ב, טז, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 12,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ב, א, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 14,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ב, ט, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 25,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ג, כג, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 19,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ד, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 21,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ה, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 23,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ח, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 28,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ה, ד, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 31,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ו, יד, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 33,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ו, טז, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 36,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ז, טו, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 39,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ט, ב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 147,
-    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ז, א",
-    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 148,
-    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ז, ב",
-    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 148,
-    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ז, ב",
-    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 149,
-    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ז, ג",
-    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 172,
-    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ח, ה",
-    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 172,
-    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ח, ה",
-    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 237,
-    "heRef_2": "משנה תורה, הלכות טומאת אוכלים יג, יז",
-    "path_2": "משנה תורה, הלכות טומאת אוכלים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 273,
-    "heRef_2": "משנה תורה, הלכות טומאת אוכלים טז, ח",
-    "path_2": "משנה תורה, הלכות טומאת אוכלים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 27,
-    "heRef_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ב, ז",
-    "path_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 27,
-    "heRef_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ב, ז",
-    "path_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 191,
-    "line_index_2": 52,
-    "heRef_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ג, י",
-    "path_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 47,
-    "heRef_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ג, ה",
-    "path_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 225,
-    "heRef_2": "משנה תורה, הלכות מאכלות אסורות י, טז",
-    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 124,
-    "heRef_2": "משנה תורה, הלכות מתנות עניים ו, ד",
-    "path_2": "משנה תורה, הלכות מתנות עניים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 209,
-    "heRef_2": "משנה תורה, הלכות תרומות י, טו",
-    "path_2": "משנה תורה, הלכות תרומות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 220,
-    "heRef_2": "משנה תורה, הלכות תרומות י, כו",
-    "path_2": "משנה תורה, הלכות תרומות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 40,
-    "heRef_2": "משנה תורה, הלכות תרומות ב, י",
-    "path_2": "משנה תורה, הלכות תרומות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 40,
-    "heRef_2": "משנה תורה, הלכות תרומות ב, י",
-    "path_2": "משנה תורה, הלכות תרומות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 106,
-    "heRef_2": "משנה תורה, הלכות תרומות ה, יא",
-    "path_2": "משנה תורה, הלכות תרומות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 106,
-    "heRef_2": "משנה תורה, הלכות תרומות ה, יא",
-    "path_2": "משנה תורה, הלכות תרומות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 144,
-    "heRef_2": "משנה תורה, הלכות תרומות ז, ב",
-    "path_2": "משנה תורה, הלכות תרומות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 26,
-    "heRef_2": "משנה תורה, הלכות חמץ ומצה ב, יב",
-    "path_2": "משנה תורה, הלכות חמץ ומצה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 92,
-    "heRef_2": "משנה תורה, הלכות אישות ה, ד",
-    "path_2": "משנה תורה, הלכות אישות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 93,
-    "heRef_2": "משנה תורה, הלכות אישות ה, ה",
-    "path_2": "משנה תורה, הלכות אישות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 36,
-    "line_index_2": 179,
-    "heRef_2": "משנה תורה, הלכות שאר אבות הטומאות יב, טו",
-    "path_2": "משנה תורה, הלכות שאר אבות הטומאות.txt",
+    "line_index_2": 15942,
+    "heRef_2": "ערוך השולחן, יורה דעה של, ה",
+    "path_2": "ערוך השולחן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 1497,
+    "heRef_2": "עבודה זרה מח:, יט",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 82,
-    "heRef_2": "משנה תורה, תוכן החיבור ז, ז",
-    "path_2": "משנה תורה, תוכן החיבור.txt",
-    "Conection Type": ""
+    "line_index_1": 57,
+    "line_index_2": 1883,
+    "heRef_2": "עבודה זרה סב., ז",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 27,
@@ -5013,13 +6994,6 @@
   },
   {
     "line_index_1": 184,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 184,
     "line_index_2": 3055,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, כב",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -5037,13 +7011,6 @@
     "line_index_2": 1466,
     "heRef_2": "סוטה מג:, יד",
     "path_2": "סוטה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5076,23 +7043,9 @@
   },
   {
     "line_index_1": 170,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 170,
     "line_index_2": 3056,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, כג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5118,13 +7071,6 @@
   },
   {
     "line_index_1": 171,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 171,
     "line_index_2": 3036,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, ג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -5142,13 +7088,6 @@
     "line_index_2": 1461,
     "heRef_2": "סוטה מג:, ט",
     "path_2": "סוטה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5327,13 +7266,6 @@
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
     "line_index_1": 14,
     "line_index_2": 5,
     "heRef_2": "יד איתן על משנה תורה, הלכות מעשר שני ונטע רבעי א, יא, א",
@@ -5405,13 +7337,6 @@
   },
   {
     "line_index_1": 5,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 5,
     "line_index_2": 340,
     "heRef_2": "ראש השנה יג:, ד",
     "path_2": "ראש השנה.txt",
@@ -5450,13 +7375,6 @@
     "line_index_2": 3575,
     "heRef_2": "שולחן ערוך, יורה דעה שלא, קכו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5517,13 +7435,6 @@
   },
   {
     "line_index_1": 7,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
     "line_index_2": 340,
     "heRef_2": "ראש השנה יג:, ד",
     "path_2": "ראש השנה.txt",
@@ -5534,13 +7445,6 @@
     "line_index_2": 3037,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5587,13 +7491,6 @@
   },
   {
     "line_index_1": 8,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 8,
     "line_index_2": 7,
     "heRef_2": "אור שמח על משנה תורה, הלכות מעשר שני ונטע רבעי א, ה, א",
     "path_2": "אור שמח על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
@@ -5632,13 +7529,6 @@
     "line_index_2": 3575,
     "heRef_2": "שולחן ערוך, יורה דעה שלא, קכו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5744,13 +7634,6 @@
     "line_index_2": 20,
     "heRef_2": "משנה תורה, הלכות מעשר שני ונטע רבעי ב, ב",
     "path_2": "משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -6098,23 +7981,9 @@
   },
   {
     "line_index_1": 71,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 71,
     "line_index_2": 3587,
     "heRef_2": "שולחן ערוך, יורה דעה שלא, קלח",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -6150,13 +8019,6 @@
     "line_index_2": 9,
     "heRef_2": "סנהדרין ב., ז",
     "path_2": "סנהדרין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 2079,
-    "heRef_2": "טור, יורה דעה, יורה דעה שלא, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -6199,13 +8061,6 @@
     "line_index_2": 273,
     "heRef_2": "פסחים י., יג",
     "path_2": "פסחים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 890,
-    "heRef_2": "טור, אורח חיים, אורח חיים תלט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -6385,13 +8240,6 @@
   },
   {
     "line_index_1": 155,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 155,
     "line_index_2": 259,
     "heRef_2": "ראש השנה י:, ג",
     "path_2": "ראש השנה.txt",
@@ -6448,13 +8296,6 @@
   },
   {
     "line_index_1": 155,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 155,
     "line_index_2": 3038,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, ה",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -6497,23 +8338,9 @@
   },
   {
     "line_index_1": 167,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 167,
     "line_index_2": 3034,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -6553,13 +8380,6 @@
   },
   {
     "line_index_1": 158,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 158,
     "line_index_2": 3039,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, ו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -6591,13 +8411,6 @@
     "line_index_2": 3037,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -6640,13 +8453,6 @@
     "line_index_2": 3037,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -7119,381 +8925,430 @@
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 92,
-    "line_index_2": 2110,
-    "heRef_2": "גיטין סה., ג",
-    "path_2": "גיטין.txt",
+    "line_index_1": 121,
+    "line_index_2": 1031,
+    "heRef_2": "עירובין כז., יג",
+    "path_2": "עירובין.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 93,
-    "line_index_2": 2112,
-    "heRef_2": "גיטין סה., ה",
-    "path_2": "גיטין.txt",
+    "line_index_1": 127,
+    "line_index_2": 1035,
+    "heRef_2": "עירובין כז:, א",
+    "path_2": "עירובין.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 194,
-    "line_index_2": 87,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי יא, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 120,
+    "line_index_2": 1049,
+    "heRef_2": "עירובין כז:, טו",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 1036,
+    "heRef_2": "עירובין כז:, ב",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1037,
+    "heRef_2": "עירובין כז:, ג",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 1037,
+    "heRef_2": "עירובין כז:, ג",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1037,
+    "heRef_2": "עירובין כז:, ג",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 1055,
+    "heRef_2": "עירובין כח., ב",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 1074,
+    "heRef_2": "עירובין כח:, ו",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 1358,
+    "heRef_2": "עירובין לז:, ד",
+    "path_2": "עירובין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 2418,
+    "heRef_2": "מנחות סט:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 2863,
+    "heRef_2": "מנחות פב., ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 2865,
+    "heRef_2": "מנחות פב., ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 2867,
+    "heRef_2": "מנחות פב., ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 4,
+    "heRef_2": "משנה דמאי א, ב",
+    "path_2": "משנה דמאי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 58,
+    "heRef_2": "משנה מעשר שני ה, י",
+    "path_2": "משנה מעשר שני.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 54,
+    "heRef_2": "משנה מעשר שני ה, ו",
+    "path_2": "משנה מעשר שני.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 30,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ד, ג, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 42,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי י, כא, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 13,
-    "line_index_2": 13,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 14,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, י, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 15,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, י, ג",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 16,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, י, ד",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 201,
+    "line_index_2": 45,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי יא, יא, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 14,
-    "line_index_2": 18,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, יא, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_2": 7,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי א, יא, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 17,
-    "line_index_2": 20,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, יד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 21,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, יד, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 15,
+    "line_index_2": 9,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי א, יב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 6,
     "line_index_2": 5,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי א, ג, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 8,
-    "line_index_2": 7,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, ה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 34,
+    "line_index_2": 16,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ב, טז, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 10,
-    "line_index_2": 9,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 19,
+    "line_index_2": 12,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ב, א, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 11,
-    "line_index_2": 11,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי א, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 27,
+    "line_index_2": 14,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ב, ט, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 32,
-    "line_index_2": 26,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ב, יד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 58,
+    "line_index_2": 25,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ג, כג, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 32,
-    "line_index_2": 27,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ב, יד, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 39,
+    "line_index_2": 19,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ד, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 20,
-    "line_index_2": 24,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ב, ב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 35,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, יד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 37,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, טו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 39,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, כ, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 40,
+    "line_index_2": 21,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ה, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 43,
-    "line_index_2": 30,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_2": 23,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ח, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 44,
-    "line_index_2": 32,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ט, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 88,
+    "line_index_2": 28,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ה, ד, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 44,
+    "line_index_1": 114,
+    "line_index_2": 31,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ו, יד, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 116,
     "line_index_2": 33,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ג, ט, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ו, טז, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 75,
-    "line_index_2": 49,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, יד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 51,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, כ, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 42,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, ב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 43,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, ב, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 45,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 47,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ד, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 54,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ה, טו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 57,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ו, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 60,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ז, יד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 62,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ז, יח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 137,
-    "line_index_2": 64,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ז, כ, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 137,
-    "line_index_2": 65,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ז, כ, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 75,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, יג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 77,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, יד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 79,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, טו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 68,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, ב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 69,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, ב, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 71,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 73,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ח, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 82,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ט, יא, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 84,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות מעשר שני ונטע רבעי ט, יב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 10,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי יא, יז, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 7,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי ט, י, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_1": 132,
+    "line_index_2": 36,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ז, טו, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 156,
-    "line_index_2": 5,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי ט, ב, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
+    "line_index_2": 39,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי ט, ב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות מעשר שני ונטע רבעי.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 36,
-    "line_index_2": 15893,
-    "heRef_2": "ערוך השולחן, יורה דעה של, ה",
-    "path_2": "ערוך השולחן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 1497,
-    "heRef_2": "עבודה זרה מח:, יט",
-    "path_2": "עבודה זרה.txt",
+    "line_index_1": 70,
+    "line_index_2": 147,
+    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ז, א",
+    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 57,
-    "line_index_2": 1883,
-    "heRef_2": "עבודה זרה סב., ז",
-    "path_2": "עבודה זרה.txt",
+    "line_index_1": 70,
+    "line_index_2": 148,
+    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ז, ב",
+    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 137,
-    "line_index_2": 8,
-    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, ה",
-    "path_2": "תלמוד ירושלמי מעשר שני.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 85,
+    "line_index_2": 148,
+    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ז, ב",
+    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 46,
+    "line_index_1": 96,
+    "line_index_2": 149,
+    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ז, ג",
+    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 172,
+    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ח, ה",
+    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 172,
+    "heRef_2": "משנה תורה, הלכות ערכים וחרמין ח, ה",
+    "path_2": "משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 237,
+    "heRef_2": "משנה תורה, הלכות טומאת אוכלים יג, יז",
+    "path_2": "משנה תורה, הלכות טומאת אוכלים.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 273,
+    "heRef_2": "משנה תורה, הלכות טומאת אוכלים טז, ח",
+    "path_2": "משנה תורה, הלכות טומאת אוכלים.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 27,
+    "heRef_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ב, ז",
+    "path_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 27,
+    "heRef_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ב, ז",
+    "path_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 191,
     "line_index_2": 52,
-    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א,  ח",
-    "path_2": "תלמוד ירושלמי מעשר שני.txt",
-    "Conection Type": ""
+    "heRef_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ג, י",
+    "path_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 46,
-    "line_index_2": 53,
-    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א,  ט",
-    "path_2": "תלמוד ירושלמי מעשר שני.txt",
-    "Conection Type": ""
+    "line_index_1": 40,
+    "line_index_2": 47,
+    "heRef_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ג, ה",
+    "path_2": "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 46,
-    "line_index_2": 54,
-    "heRef_2": "תלמוד ירושלמי מעשר שני ב, א,  י",
-    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "line_index_1": 156,
+    "line_index_2": 225,
+    "heRef_2": "משנה תורה, הלכות מאכלות אסורות י, טז",
+    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 124,
+    "heRef_2": "משנה תורה, הלכות מתנות עניים ו, ד",
+    "path_2": "משנה תורה, הלכות מתנות עניים.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 209,
+    "heRef_2": "משנה תורה, הלכות תרומות י, טו",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 220,
+    "heRef_2": "משנה תורה, הלכות תרומות י, כו",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 40,
+    "heRef_2": "משנה תורה, הלכות תרומות ב, י",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 40,
+    "heRef_2": "משנה תורה, הלכות תרומות ב, י",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 106,
+    "heRef_2": "משנה תורה, הלכות תרומות ה, יא",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 106,
+    "heRef_2": "משנה תורה, הלכות תרומות ה, יא",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 144,
+    "heRef_2": "משנה תורה, הלכות תרומות ז, ב",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 26,
+    "heRef_2": "משנה תורה, הלכות חמץ ומצה ב, יב",
+    "path_2": "משנה תורה, הלכות חמץ ומצה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 92,
+    "heRef_2": "משנה תורה, הלכות אישות ה, ד",
+    "path_2": "משנה תורה, הלכות אישות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 93,
+    "heRef_2": "משנה תורה, הלכות אישות ה, ה",
+    "path_2": "משנה תורה, הלכות אישות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 179,
+    "heRef_2": "משנה תורה, הלכות שאר אבות הטומאות יב, טו",
+    "path_2": "משנה תורה, הלכות שאר אבות הטומאות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 82,
+    "heRef_2": "משנה תורה, תוכן החיבור ז, ז",
+    "path_2": "משנה תורה, תוכן החיבור.txt",
     "Conection Type": ""
   }
 ]

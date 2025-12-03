@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 324,
-    "line_index_2": 972,
-    "heRef_2": "יחזקאל לז, א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 800,
-    "line_index_2": 387,
-    "heRef_2": "איוב טז,  א",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 925,
-    "line_index_2": 1026,
-    "heRef_2": "קידושין לג., ג",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 330,
-    "line_index_2": 563,
-    "heRef_2": "ברכות יב.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 893,
     "line_index_2": 1147,
     "heRef_2": "תוספות על בבא מציעא ק., ז, א",
@@ -3052,10 +3024,31 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 751,
-    "line_index_2": 2423,
-    "heRef_2": "מנחות ע.,  א",
-    "path_2": "מנחות.txt",
+    "line_index_1": 800,
+    "line_index_2": 387,
+    "heRef_2": "איוב טז,  א",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 925,
+    "line_index_2": 1026,
+    "heRef_2": "קידושין לג., ג",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 524,
+    "line_index_2": 442,
+    "heRef_2": "ביצה טו:,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 563,
+    "heRef_2": "ברכות יב.,  א",
+    "path_2": "ברכות.txt",
     "Conection Type": ""
   },
   {
@@ -7938,10 +7931,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 524,
-    "line_index_2": 442,
-    "heRef_2": "ביצה טו:,  א",
-    "path_2": "ביצה.txt",
+    "line_index_1": 324,
+    "line_index_2": 972,
+    "heRef_2": "יחזקאל לז, א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 751,
+    "line_index_2": 2423,
+    "heRef_2": "מנחות ע.,  א",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   }
 ]

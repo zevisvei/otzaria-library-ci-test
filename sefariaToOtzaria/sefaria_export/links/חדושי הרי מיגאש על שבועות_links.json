@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 67,
-    "line_index_2": 960,
-    "heRef_2": "קידושין לא.,  א",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 54,
     "line_index_2": 238,
     "heRef_2": "שבועות י., ז",
@@ -1430,14 +1423,7 @@
   {
     "line_index_1": 288,
     "line_index_2": 847,
-    "heRef_2": "שבועות כח.,  ט",
-    "path_2": "שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 288,
-    "line_index_2": 848,
-    "heRef_2": "שבועות כח.,  י",
+    "heRef_2": "שבועות כח., ט",
     "path_2": "שבועות.txt",
     "Conection Type": "commentary"
   },
@@ -3946,6 +3932,13 @@
     "heRef_2": "שבועות ט.,  ג",
     "path_2": "שבועות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 960,
+    "heRef_2": "קידושין לא.,  א",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 67,

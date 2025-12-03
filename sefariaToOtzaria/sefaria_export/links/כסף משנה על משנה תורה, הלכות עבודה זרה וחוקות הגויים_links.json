@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 375,
+    "line_index_2": 1329,
+    "heRef_2": "גיטין מד., י",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 1981,
+    "heRef_2": "גיטין סא:,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 2217,
+    "heRef_2": "גיטין סח., ג",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 398,
     "line_index_2": 123,
     "heRef_2": "משנה תורה, הלכות עבודה זרה וחוקות הגויים י, א",
@@ -3129,48 +3150,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 61,
-    "line_index_2": 2990,
-    "heRef_2": "בבא בתרא קכט:, יא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 3104,
-    "heRef_2": "בבא קמא פב.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 429,
-    "line_index_2": 3143,
-    "heRef_2": "בבא קמא פג., ג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 375,
-    "line_index_2": 1329,
-    "heRef_2": "גיטין מד., י",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 413,
-    "line_index_2": 1981,
-    "heRef_2": "גיטין סא:,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 445,
-    "line_index_2": 2217,
-    "heRef_2": "גיטין סח., ג",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 420,
     "line_index_2": 1059,
     "heRef_2": "ערכין כט., יז",
@@ -3336,6 +3315,27 @@
     "line_index_2": 2201,
     "heRef_2": "עבודה זרה עד., א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 2990,
+    "heRef_2": "בבא בתרא קכט:, יא",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 3104,
+    "heRef_2": "בבא קמא פב.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 3143,
+    "heRef_2": "בבא קמא פג., ג",
+    "path_2": "בבא קמא.txt",
     "Conection Type": ""
   }
 ]

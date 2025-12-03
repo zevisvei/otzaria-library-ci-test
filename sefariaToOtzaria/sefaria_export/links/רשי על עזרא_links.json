@@ -1,5 +1,544 @@
 [
   {
+    "line_index_1": 117,
+    "line_index_2": 2677,
+    "heRef_2": "תהילים קנ, ה",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 288,
+    "heRef_2": "תהילים כא, ג",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 325,
+    "heRef_2": "תהילים כב, כה",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 33,
+    "heRef_2": "תהילים ד, א",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 90,
+    "heRef_2": "סדר עולם רבה כט, א",
+    "path_2": "סדר עולם רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 463,
+    "heRef_2": "יומא כא:,  א",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 90,
+    "heRef_2": "סדר עולם רבה כט, א",
+    "path_2": "סדר עולם רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 1151,
+    "heRef_2": "סוכה מד:,  א",
+    "path_2": "סוכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 90,
+    "heRef_2": "סדר עולם רבה כט, א",
+    "path_2": "סדר עולם רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 43,
+    "heRef_2": "ראש השנה ג:,  א",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 93,
+    "heRef_2": "סדר עולם רבה ל, א",
+    "path_2": "סדר עולם רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 952,
+    "heRef_2": "ישעיהו מד, כח",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 954,
+    "heRef_2": "ישעיהו מה, א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 435,
+    "heRef_2": "ירמיהו יז, ו",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 729,
+    "heRef_2": "ירמיהו כט, י",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 729,
+    "heRef_2": "ירמיהו כט, י",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 308,
+    "heRef_2": "תלמוד ירושלמי קידושין ד, א,  א",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 217,
+    "heRef_2": "בראשית ט,  א",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 45,
+    "heRef_2": "חבקוק ג, ד",
+    "path_2": "חבקוק.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 55,
+    "heRef_2": "הושע ד, יא",
+    "path_2": "הושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 133,
+    "heRef_2": "מלכים א ד,  א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 135,
+    "heRef_2": "מלכים א ד, ג",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 137,
+    "heRef_2": "מלכים א ד, ה",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 168,
+    "heRef_2": "מלכים א ה,  טו",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 169,
+    "heRef_2": "מלכים א ה,  טז",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 170,
+    "heRef_2": "מלכים א ה,  יז",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 171,
+    "heRef_2": "מלכים א ה,  יח",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 172,
+    "heRef_2": "מלכים א ה,  יט",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 173,
+    "heRef_2": "מלכים א ה,  כ",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 174,
+    "heRef_2": "מלכים א ה,  כא",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 175,
+    "heRef_2": "מלכים א ה,  כב",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 176,
+    "heRef_2": "מלכים א ה,  כג",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 177,
+    "heRef_2": "מלכים א ה,  כד",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 178,
+    "heRef_2": "מלכים א ה,  כה",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 179,
+    "heRef_2": "מלכים א ה,  כו",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 180,
+    "heRef_2": "מלכים א ה,  כז",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 181,
+    "heRef_2": "מלכים א ה,  כח",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 182,
+    "heRef_2": "מלכים א ה,  כט",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 183,
+    "heRef_2": "מלכים א ה,  ל",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 184,
+    "heRef_2": "מלכים א ה,  לא",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 185,
+    "heRef_2": "מלכים א ה,  לב",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 157,
+    "heRef_2": "מלכים א ה, ד",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 201,
+    "heRef_2": "מלכים א ו,  טו",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 202,
+    "heRef_2": "מלכים א ו,  טז",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 203,
+    "heRef_2": "מלכים א ו,  יז",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 204,
+    "heRef_2": "מלכים א ו,  יח",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 307,
+    "heRef_2": "דברי הימים ב יד, י",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 311,
+    "heRef_2": "דברי הימים ב יד, יד",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 492,
+    "heRef_2": "מלכים ב יז, כד",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 492,
+    "heRef_2": "מלכים ב יז, כד",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 523,
+    "heRef_2": "מלכים ב יח, יג",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 528,
+    "heRef_2": "מלכים ב יח, יח",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 585,
+    "heRef_2": "מלכים ב יט, לז",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 615,
+    "line_index_2": 368,
+    "heRef_2": "שמואל ב יד, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 422,
+    "heRef_2": "ישעיהו כב, א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 444,
+    "heRef_2": "ישעיהו כב, כג",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 714,
+    "heRef_2": "ישעיהו לו,  א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 735,
+    "heRef_2": "ישעיהו לו, כב",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 717,
+    "heRef_2": "ישעיהו לו, ד",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 774,
+    "heRef_2": "ישעיהו לז, לח",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 223,
+    "heRef_2": "יהושע ט, כז",
+    "path_2": "יהושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 33,
+    "heRef_2": "ויקרא ב, יג",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 387,
+    "heRef_2": "מגילה יא.,  א",
+    "path_2": "מגילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 412,
+    "heRef_2": "מגילה יא:,  א",
+    "path_2": "מגילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 553,
+    "heRef_2": "מגילה טו.,  א",
+    "path_2": "מגילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 175,
+    "heRef_2": "דניאל ו, א",
+    "path_2": "דניאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 263,
+    "heRef_2": "דניאל ט, ב",
+    "path_2": "דניאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 444,
+    "heRef_2": "דברים טו, ד",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 808,
+    "heRef_2": "דברים כח, סג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 808,
+    "heRef_2": "דברים כח, סג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 19,
+    "heRef_2": "קהלת א, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 99,
+    "heRef_2": "קהלת ה, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 214,
+    "heRef_2": "נחמיה ח, ט",
+    "path_2": "נחמיה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 1006,
+    "heRef_2": "במדבר כח, ד",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 391,
+    "heRef_2": "בבא בתרא טו.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 811,
+    "heRef_2": "בבא מציעא כד:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 430,
+    "line_index_2": 16,
+    "heRef_2": "אסתר א, יד",
+    "path_2": "אסתר.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 186,
     "line_index_2": 63,
     "heRef_2": "אסתר ג, יד",
@@ -21,30 +560,30 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 547,
+    "line_index_1": 105,
+    "line_index_2": 763,
+    "heRef_2": "יחזקאל כט, יד",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 548,
     "line_index_2": 57,
     "heRef_2": "יחזקאל ג, טו",
     "path_2": "יחזקאל.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 578,
+    "line_index_1": 579,
     "line_index_2": 248,
     "heRef_2": "עזרא י, א",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 597,
+    "line_index_1": 598,
     "line_index_2": 258,
     "heRef_2": "עזרא י, יא",
-    "path_2": "עזרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 599,
-    "line_index_2": 260,
-    "heRef_2": "עזרא י, יג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -56,9 +595,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 602,
-    "line_index_2": 261,
-    "heRef_2": "עזרא י, יד",
+    "line_index_1": 601,
+    "line_index_2": 260,
+    "heRef_2": "עזרא י, יג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -77,9 +616,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 606,
-    "line_index_2": 262,
-    "heRef_2": "עזרא י, טו",
+    "line_index_1": 605,
+    "line_index_2": 261,
+    "heRef_2": "עזרא י, יד",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -91,16 +630,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 609,
-    "line_index_2": 263,
-    "heRef_2": "עזרא י, טז",
+    "line_index_1": 608,
+    "line_index_2": 262,
+    "heRef_2": "עזרא י, טו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 611,
-    "line_index_2": 264,
-    "heRef_2": "עזרא י, יז",
+    "line_index_1": 610,
+    "line_index_2": 263,
+    "heRef_2": "עזרא י, טז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -112,9 +651,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 614,
-    "line_index_2": 266,
-    "heRef_2": "עזרא י, יט",
+    "line_index_1": 613,
+    "line_index_2": 264,
+    "heRef_2": "עזרא י, יז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -126,9 +665,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 580,
-    "line_index_2": 249,
-    "heRef_2": "עזרא י, ב",
+    "line_index_1": 616,
+    "line_index_2": 266,
+    "heRef_2": "עזרא י, יט",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -140,16 +679,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 617,
-    "line_index_2": 267,
-    "heRef_2": "עזרא י, כ",
+    "line_index_1": 582,
+    "line_index_2": 249,
+    "heRef_2": "עזרא י, ב",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 583,
-    "line_index_2": 250,
-    "heRef_2": "עזרא י, ג",
+    "line_index_1": 618,
+    "line_index_2": 267,
+    "heRef_2": "עזרא י, כ",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -168,37 +707,37 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 587,
+    "line_index_1": 586,
+    "line_index_2": 250,
+    "heRef_2": "עזרא י, ג",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 588,
     "line_index_2": 251,
     "heRef_2": "עזרא י, ד",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 619,
+    "line_index_1": 620,
     "line_index_2": 291,
     "heRef_2": "עזרא י, מד",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 589,
+    "line_index_1": 590,
     "line_index_2": 254,
     "heRef_2": "עזרא י, ז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 591,
+    "line_index_1": 592,
     "line_index_2": 255,
     "heRef_2": "עזרא י, ח",
-    "path_2": "עזרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 593,
-    "line_index_2": 256,
-    "heRef_2": "עזרא י, ט",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -211,6 +750,13 @@
   },
   {
     "line_index_1": 595,
+    "line_index_2": 256,
+    "heRef_2": "עזרא י, ט",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 596,
     "line_index_2": 256,
     "heRef_2": "עזרא י, ט",
     "path_2": "עזרא.txt",
@@ -348,6 +894,13 @@
     "heRef_2": "עזרא א, ה",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 7,
+    "heRef_2": "עזרא א, ה",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 25,
@@ -502,6 +1055,13 @@
     "heRef_2": "עזרא ב, נט",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 73,
+    "heRef_2": "עזרא ב, נט",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 66,
@@ -917,6 +1477,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 225,
+    "line_index_2": 110,
+    "heRef_2": "עזרא ד, יא",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 191,
     "line_index_2": 111,
     "heRef_2": "עזרא ד, יב",
@@ -957,6 +1524,20 @@
     "heRef_2": "עזרא ד, יב",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 111,
+    "heRef_2": "עזרא ד, יב",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 111,
+    "heRef_2": "עזרא ד, יב",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 198,
@@ -1006,6 +1587,13 @@
     "heRef_2": "עזרא ד, יג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 112,
+    "heRef_2": "עזרא ד, יג",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 206,
@@ -1953,9 +2541,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 379,
-    "line_index_2": 154,
-    "heRef_2": "עזרא ו, יב",
+    "line_index_1": 378,
+    "line_index_2": 153,
+    "heRef_2": "עזרא ו, יא",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -1974,9 +2562,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 383,
-    "line_index_2": 155,
-    "heRef_2": "עזרא ו, יג",
+    "line_index_1": 382,
+    "line_index_2": 154,
+    "heRef_2": "עזרא ו, יב",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -1988,9 +2576,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 386,
-    "line_index_2": 156,
-    "heRef_2": "עזרא ו, יד",
+    "line_index_1": 385,
+    "line_index_2": 155,
+    "heRef_2": "עזרא ו, יג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2002,28 +2590,35 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 389,
+    "line_index_1": 388,
+    "line_index_2": 156,
+    "heRef_2": "עזרא ו, יד",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 390,
     "line_index_2": 157,
     "heRef_2": "עזרא ו, טו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 391,
+    "line_index_1": 392,
     "line_index_2": 159,
     "heRef_2": "עזרא ו, יז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 393,
+    "line_index_1": 394,
     "line_index_2": 160,
     "heRef_2": "עזרא ו, יח",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 395,
+    "line_index_1": 396,
     "line_index_2": 161,
     "heRef_2": "עזרא ו, יט",
     "path_2": "עזרא.txt",
@@ -2051,21 +2646,21 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 397,
+    "line_index_1": 398,
     "line_index_2": 162,
     "heRef_2": "עזרא ו, כ",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 399,
+    "line_index_1": 400,
     "line_index_2": 163,
     "heRef_2": "עזרא ו, כא",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 401,
+    "line_index_1": 402,
     "line_index_2": 164,
     "heRef_2": "עזרא ו, כב",
     "path_2": "עזרא.txt",
@@ -2268,13 +2863,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 404,
-    "line_index_2": 166,
-    "heRef_2": "עזרא ז, א",
-    "path_2": "עזרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
     "line_index_1": 405,
     "line_index_2": 166,
     "heRef_2": "עזרא ז, א",
@@ -2282,16 +2870,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 418,
-    "line_index_2": 175,
-    "heRef_2": "עזרא ז, י",
+    "line_index_1": 406,
+    "line_index_2": 166,
+    "heRef_2": "עזרא ז, א",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 420,
-    "line_index_2": 176,
-    "heRef_2": "עזרא ז, יא",
+    "line_index_1": 419,
+    "line_index_2": 175,
+    "heRef_2": "עזרא ז, י",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2303,9 +2891,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 423,
-    "line_index_2": 177,
-    "heRef_2": "עזרא ז, יב",
+    "line_index_1": 422,
+    "line_index_2": 176,
+    "heRef_2": "עזרא ז, יא",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2317,16 +2905,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 426,
-    "line_index_2": 178,
-    "heRef_2": "עזרא ז, יג",
+    "line_index_1": 425,
+    "line_index_2": 177,
+    "heRef_2": "עזרא ז, יב",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 428,
-    "line_index_2": 179,
-    "heRef_2": "עזרא ז, יד",
+    "line_index_1": 427,
+    "line_index_2": 178,
+    "heRef_2": "עזרא ז, יג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2345,65 +2933,65 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 432,
+    "line_index_1": 431,
+    "line_index_2": 179,
+    "heRef_2": "עזרא ז, יד",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 433,
     "line_index_2": 180,
     "heRef_2": "עזרא ז, טו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 434,
+    "line_index_1": 435,
     "line_index_2": 181,
     "heRef_2": "עזרא ז, טז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 436,
+    "line_index_1": 437,
     "line_index_2": 182,
     "heRef_2": "עזרא ז, יז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 438,
+    "line_index_1": 439,
     "line_index_2": 183,
     "heRef_2": "עזרא ז, יח",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 440,
+    "line_index_1": 441,
     "line_index_2": 184,
     "heRef_2": "עזרא ז, יט",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 442,
+    "line_index_1": 443,
     "line_index_2": 185,
     "heRef_2": "עזרא ז, כ",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 444,
+    "line_index_1": 445,
     "line_index_2": 186,
     "heRef_2": "עזרא ז, כא",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 446,
+    "line_index_1": 447,
     "line_index_2": 187,
     "heRef_2": "עזרא ז, כב",
-    "path_2": "עזרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 448,
-    "line_index_2": 188,
-    "heRef_2": "עזרא ז, כג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2422,16 +3010,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 452,
-    "line_index_2": 189,
-    "heRef_2": "עזרא ז, כד",
+    "line_index_1": 451,
+    "line_index_2": 188,
+    "heRef_2": "עזרא ז, כג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 454,
-    "line_index_2": 190,
-    "heRef_2": "עזרא ז, כה",
+    "line_index_1": 453,
+    "line_index_2": 189,
+    "heRef_2": "עזרא ז, כד",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2443,9 +3031,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 457,
-    "line_index_2": 191,
-    "heRef_2": "עזרא ז, כו",
+    "line_index_1": 456,
+    "line_index_2": 190,
+    "heRef_2": "עזרא ז, כה",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2485,16 +3073,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 464,
-    "line_index_2": 192,
-    "heRef_2": "עזרא ז, כז",
+    "line_index_1": 463,
+    "line_index_2": 191,
+    "heRef_2": "עזרא ז, כו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 466,
-    "line_index_2": 193,
-    "heRef_2": "עזרא ז, כח",
+    "line_index_1": 465,
+    "line_index_2": 192,
+    "heRef_2": "עזרא ז, כז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2506,9 +3094,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 407,
-    "line_index_2": 171,
-    "heRef_2": "עזרא ז, ו",
+    "line_index_1": 468,
+    "line_index_2": 193,
+    "heRef_2": "עזרא ז, כח",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2520,9 +3108,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 410,
-    "line_index_2": 172,
-    "heRef_2": "עזרא ז, ז",
+    "line_index_1": 409,
+    "line_index_2": 171,
+    "heRef_2": "עזרא ז, ו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2534,16 +3122,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 413,
-    "line_index_2": 173,
-    "heRef_2": "עזרא ז, ח",
+    "line_index_1": 412,
+    "line_index_2": 172,
+    "heRef_2": "עזרא ז, ז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 415,
-    "line_index_2": 174,
-    "heRef_2": "עזרא ז, ט",
+    "line_index_1": 414,
+    "line_index_2": 173,
+    "heRef_2": "עזרא ז, ח",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2555,9 +3143,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 470,
-    "line_index_2": 195,
-    "heRef_2": "עזרא ח, א",
+    "line_index_1": 417,
+    "line_index_2": 174,
+    "heRef_2": "עזרא ז, ט",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2576,16 +3164,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 479,
-    "line_index_2": 207,
-    "heRef_2": "עזרא ח, יג",
+    "line_index_1": 473,
+    "line_index_2": 195,
+    "heRef_2": "עזרא ח, א",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 481,
-    "line_index_2": 209,
-    "heRef_2": "עזרא ח, טו",
+    "line_index_1": 480,
+    "line_index_2": 207,
+    "heRef_2": "עזרא ח, יג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2611,9 +3199,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 486,
-    "line_index_2": 210,
-    "heRef_2": "עזרא ח, טז",
+    "line_index_1": 485,
+    "line_index_2": 209,
+    "heRef_2": "עזרא ח, טו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2625,9 +3213,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 489,
-    "line_index_2": 211,
-    "heRef_2": "עזרא ח, יז",
+    "line_index_1": 488,
+    "line_index_2": 210,
+    "heRef_2": "עזרא ח, טז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2667,9 +3255,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 496,
-    "line_index_2": 212,
-    "heRef_2": "עזרא ח, יח",
+    "line_index_1": 495,
+    "line_index_2": 211,
+    "heRef_2": "עזרא ח, יז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2688,16 +3276,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 500,
-    "line_index_2": 214,
-    "heRef_2": "עזרא ח, כ",
+    "line_index_1": 499,
+    "line_index_2": 212,
+    "heRef_2": "עזרא ח, יח",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 502,
-    "line_index_2": 215,
-    "heRef_2": "עזרא ח, כא",
+    "line_index_1": 501,
+    "line_index_2": 214,
+    "heRef_2": "עזרא ח, כ",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2709,9 +3297,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 505,
-    "line_index_2": 216,
-    "heRef_2": "עזרא ח, כב",
+    "line_index_1": 504,
+    "line_index_2": 215,
+    "heRef_2": "עזרא ח, כא",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2723,37 +3311,37 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 508,
+    "line_index_1": 507,
+    "line_index_2": 216,
+    "heRef_2": "עזרא ח, כב",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 509,
     "line_index_2": 217,
     "heRef_2": "עזרא ח, כג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 510,
+    "line_index_1": 511,
     "line_index_2": 218,
     "heRef_2": "עזרא ח, כד",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 512,
+    "line_index_1": 513,
     "line_index_2": 219,
     "heRef_2": "עזרא ח, כה",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 514,
+    "line_index_1": 515,
     "line_index_2": 220,
     "heRef_2": "עזרא ח, כו",
-    "path_2": "עזרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 516,
-    "line_index_2": 221,
-    "heRef_2": "עזרא ח, כז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2793,23 +3381,23 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 523,
+    "line_index_1": 522,
+    "line_index_2": 221,
+    "heRef_2": "עזרא ח, כז",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 524,
     "line_index_2": 222,
     "heRef_2": "עזרא ח, כח",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 525,
+    "line_index_1": 526,
     "line_index_2": 223,
     "heRef_2": "עזרא ח, כט",
-    "path_2": "עזרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 474,
-    "line_index_2": 197,
-    "heRef_2": "עזרא ח, ג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2821,9 +3409,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 527,
-    "line_index_2": 225,
-    "heRef_2": "עזרא ח, לא",
+    "line_index_1": 476,
+    "line_index_2": 197,
+    "heRef_2": "עזרא ח, ג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2835,16 +3423,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 530,
-    "line_index_2": 228,
-    "heRef_2": "עזרא ח, לד",
+    "line_index_1": 529,
+    "line_index_2": 225,
+    "heRef_2": "עזרא ח, לא",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 532,
-    "line_index_2": 229,
-    "heRef_2": "עזרא ח, לה",
+    "line_index_1": 531,
+    "line_index_2": 228,
+    "heRef_2": "עזרא ח, לד",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2856,9 +3444,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 535,
-    "line_index_2": 230,
-    "heRef_2": "עזרא ח, לו",
+    "line_index_1": 534,
+    "line_index_2": 229,
+    "heRef_2": "עזרא ח, לה",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2884,16 +3472,16 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 477,
-    "line_index_2": 200,
-    "heRef_2": "עזרא ח, ו",
+    "line_index_1": 539,
+    "line_index_2": 230,
+    "heRef_2": "עזרא ח, לו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 541,
-    "line_index_2": 232,
-    "heRef_2": "עזרא ט, א",
+    "line_index_1": 478,
+    "line_index_2": 200,
+    "heRef_2": "עזרא ח, ו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2912,23 +3500,23 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 565,
+    "line_index_1": 544,
+    "line_index_2": 232,
+    "heRef_2": "עזרא ט, א",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 566,
     "line_index_2": 242,
     "heRef_2": "עזרא ט, יא",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 567,
+    "line_index_1": 568,
     "line_index_2": 243,
     "heRef_2": "עזרא ט, יב",
-    "path_2": "עזרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 569,
-    "line_index_2": 244,
-    "heRef_2": "עזרא ט, יג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2940,9 +3528,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 572,
-    "line_index_2": 245,
-    "heRef_2": "עזרא ט, יד",
+    "line_index_1": 571,
+    "line_index_2": 244,
+    "heRef_2": "עזרא ט, יג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2954,37 +3542,37 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 575,
+    "line_index_1": 574,
+    "line_index_2": 245,
+    "heRef_2": "עזרא ט, יד",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 576,
     "line_index_2": 246,
     "heRef_2": "עזרא ט, טו",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 545,
+    "line_index_1": 546,
     "line_index_2": 233,
     "heRef_2": "עזרא ט, ב",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 547,
+    "line_index_1": 548,
     "line_index_2": 234,
     "heRef_2": "עזרא ט, ג",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 549,
+    "line_index_1": 550,
     "line_index_2": 236,
     "heRef_2": "עזרא ט, ה",
-    "path_2": "עזרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 551,
-    "line_index_2": 238,
-    "heRef_2": "עזרא ט, ז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -2996,9 +3584,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 554,
-    "line_index_2": 239,
-    "heRef_2": "עזרא ט, ח",
+    "line_index_1": 553,
+    "line_index_2": 238,
+    "heRef_2": "עזרא ט, ז",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -3031,9 +3619,9 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 560,
-    "line_index_2": 240,
-    "heRef_2": "עזרא ט, ט",
+    "line_index_1": 559,
+    "line_index_2": 239,
+    "heRef_2": "עזרא ט, ח",
     "path_2": "עזרא.txt",
     "Conection Type": "commentary"
   },
@@ -3053,6 +3641,13 @@
   },
   {
     "line_index_1": 563,
+    "line_index_2": 240,
+    "heRef_2": "עזרא ט, ט",
+    "path_2": "עזרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 564,
     "line_index_2": 240,
     "heRef_2": "עזרא ט, ט",
     "path_2": "עזרא.txt",
@@ -3080,7 +3675,7 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 551,
+    "line_index_1": 552,
     "line_index_2": 1032,
     "heRef_2": "בראשית לד, טז",
     "path_2": "בראשית.txt",
@@ -3091,244 +3686,6 @@
     "line_index_2": 1287,
     "heRef_2": "בראשית מא, מט",
     "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 196,
-    "line_index_2": 217,
-    "heRef_2": "בראשית ט,  א",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 90,
-    "heRef_2": "סדר עולם רבה כט, א",
-    "path_2": "סדר עולם רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 90,
-    "heRef_2": "סדר עולם רבה כט, א",
-    "path_2": "סדר עולם רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 209,
-    "line_index_2": 1151,
-    "heRef_2": "סוכה מד:,  א",
-    "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 247,
-    "line_index_2": 90,
-    "heRef_2": "סדר עולם רבה כט, א",
-    "path_2": "סדר עולם רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 43,
-    "heRef_2": "ראש השנה ג:,  א",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 93,
-    "heRef_2": "סדר עולם רבה ל, א",
-    "path_2": "סדר עולם רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 444,
-    "line_index_2": 33,
-    "heRef_2": "ויקרא ב, יג",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 412,
-    "heRef_2": "מגילה יא:,  א",
-    "path_2": "מגילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 408,
-    "line_index_2": 553,
-    "heRef_2": "מגילה טו.,  א",
-    "path_2": "מגילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 214,
-    "heRef_2": "נחמיה ח, ט",
-    "path_2": "נחמיה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 288,
-    "heRef_2": "תהילים כא, ג",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 33,
-    "heRef_2": "תהילים ד, א",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 175,
-    "heRef_2": "דניאל ו, א",
-    "path_2": "דניאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 263,
-    "heRef_2": "דניאל ט, ב",
-    "path_2": "דניאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 374,
-    "line_index_2": 808,
-    "heRef_2": "דברים כח, סג",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 375,
-    "line_index_2": 808,
-    "heRef_2": "דברים כח, סג",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 391,
-    "heRef_2": "בבא בתרא טו.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 233,
-    "line_index_2": 133,
-    "heRef_2": "מלכים א ד,  א",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 135,
-    "heRef_2": "מלכים א ד, ג",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 233,
-    "line_index_2": 157,
-    "heRef_2": "מלכים א ה, ד",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 551,
-    "line_index_2": 307,
-    "heRef_2": "דברי הימים ב יד, י",
-    "path_2": "דברי הימים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 492,
-    "heRef_2": "מלכים ב יז, כד",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 585,
-    "heRef_2": "מלכים ב יט, לז",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 614,
-    "line_index_2": 368,
-    "heRef_2": "שמואל ב יד, יט",
-    "path_2": "שמואל ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 557,
-    "line_index_2": 444,
-    "heRef_2": "ישעיהו כב, כג",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 714,
-    "heRef_2": "ישעיהו לו,  א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 735,
-    "heRef_2": "ישעיהו לו, כב",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 179,
-    "line_index_2": 717,
-    "heRef_2": "ישעיהו לו, ד",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 774,
-    "heRef_2": "ישעיהו לז, לח",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 952,
-    "heRef_2": "ישעיהו מד, כח",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 435,
-    "heRef_2": "ירמיהו יז, ו",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 729,
-    "heRef_2": "ירמיהו כט, י",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 729,
-    "heRef_2": "ירמיהו כט, י",
-    "path_2": "ירמיהו.txt",
     "Conection Type": ""
   }
 ]

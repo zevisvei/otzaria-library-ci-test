@@ -1,16 +1,961 @@
 [
   {
-    "line_index_1": 50,
-    "line_index_2": 463,
-    "heRef_2": "שמות טז, לא",
-    "path_2": "שמות.txt",
+    "line_index_1": 36,
+    "line_index_2": 114,
+    "heRef_2": "תלמוד ירושלמי חגיגה ב, ו, ג",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 91,
+    "heRef_2": "תלמוד ירושלמי חלה ב, א, יב",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 8,
+    "heRef_2": "תלמוד ירושלמי דמאי א, א, ה",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 49,
-    "line_index_2": 715,
-    "heRef_2": "שמות כה, כט",
-    "path_2": "שמות.txt",
+    "line_index_1": 19,
+    "line_index_2": 147,
+    "heRef_2": "תלמוד ירושלמי דמאי ג, ד, ח",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 225,
+    "heRef_2": "תלמוד ירושלמי דמאי ה, ו, ב",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 421,
+    "heRef_2": "תלמוד ירושלמי עירובין ט, א, ד",
+    "path_2": "תלמוד ירושלמי עירובין.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 484,
+    "heRef_2": "גור אריה על ויקרא יא, לז, א",
+    "path_2": "גור אריה על ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 4323,
+    "heRef_2": "הכתב והקבלה, דברים ה, כו, א",
+    "path_2": "הכתב והקבלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 182,
+    "heRef_2": "הגהות שארית ציון סח, א",
+    "path_2": "הגהות שארית ציון.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 1730,
+    "heRef_2": "הלכות קטנות, חלק ב רמט, ב",
+    "path_2": "הלכות קטנות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 5,
+    "heRef_2": "הון עשיר על משנה מכשירין א, ב, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 7,
+    "heRef_2": "הון עשיר על משנה מכשירין א, ג, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 9,
+    "heRef_2": "הון עשיר על משנה מכשירין א, ה, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 17,
+    "heRef_2": "הון עשיר על משנה מכשירין ב, י, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 18,
+    "heRef_2": "הון עשיר על משנה מכשירין ב, י, ב",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 19,
+    "heRef_2": "הון עשיר על משנה מכשירין ב, י, ג",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 12,
+    "heRef_2": "הון עשיר על משנה מכשירין ב, א, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 14,
+    "heRef_2": "הון עשיר על משנה מכשירין ב, ג, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 15,
+    "heRef_2": "הון עשיר על משנה מכשירין ב, ג, ב",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 22,
+    "heRef_2": "הון עשיר על משנה מכשירין ג, א, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 25,
+    "heRef_2": "הון עשיר על משנה מכשירין ד, ד, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 27,
+    "heRef_2": "הון עשיר על משנה מכשירין ד, ה, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 30,
+    "heRef_2": "הון עשיר על משנה מכשירין ה, י, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 33,
+    "heRef_2": "הון עשיר על משנה מכשירין ו, ג, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 35,
+    "heRef_2": "הון עשיר על משנה מכשירין ו, ד, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 36,
+    "heRef_2": "הון עשיר על משנה מכשירין ו, ד, ב",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 38,
+    "heRef_2": "הון עשיר על משנה מכשירין ו, ה, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 40,
+    "heRef_2": "הון עשיר על משנה מכשירין ו, ו, א",
+    "path_2": "הון עשיר על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 201,
+    "heRef_2": "הושע יג, טו",
+    "path_2": "הושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 5,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, א, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 6,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, א, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 8,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ב, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 9,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ב, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 11,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 12,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ג, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 14,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ד, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 15,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ד, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 16,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ד, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 18,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ה, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 19,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ה, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 20,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ה, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 22,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ו, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 45,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 46,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 47,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 48,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 49,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 51,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, יא, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 25,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, א, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 26,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, א, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 28,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ב, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 30,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 32,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ו, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 33,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ו, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 34,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ו, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 36,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ז, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 37,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ז, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 38,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ז, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 39,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ז, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 41,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ח, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 43,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ט, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 54,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, א, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 56,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ב, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 58,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 59,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ג, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 61,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ד, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 63,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ה, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 64,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ה, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 66,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ז, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 67,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ז, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 68,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ז, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 69,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ז, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 71,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ח, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 91,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, י, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 92,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, י, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 74,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 75,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ג, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 77,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ה, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 79,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ו, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 80,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ו, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 81,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ו, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 83,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ז, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 84,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ז, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 86,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ח, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 87,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ח, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 89,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ט, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 115,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, י, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 117,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, יא, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 95,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ב, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 96,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ב, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 98,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 100,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ד, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 101,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ד, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 103,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ה, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 104,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ה, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 106,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ו, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 108,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ז, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 109,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ז, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 111,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ט, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 112,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ט, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 113,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ט, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 120,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, א, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 122,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ב, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 123,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ב, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 125,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 126,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 127,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 128,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 129,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 131,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ד, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 132,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ד, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 133,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ד, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 135,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 136,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 137,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 138,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 139,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 141,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ו, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 142,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ו, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 143,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ו, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 144,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ו, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 146,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ז, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 147,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ז, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 149,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ח, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 150,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ח, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 60,
+    "heRef_2": "תלמוד ירושלמי שבת א, ד, ה",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 181,
+    "heRef_2": "תלמוד ירושלמי שבת ב, ז, ב",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 479,
+    "heRef_2": "תלמוד ירושלמי שבת ח, א, ט",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 91,
+    "heRef_2": "תלמוד ירושלמי שקלים ג, ב, ט",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 250,
+    "heRef_2": "תלמוד ירושלמי שקלים ח, א, ג",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 250,
+    "heRef_2": "תלמוד ירושלמי שקלים ח, א, ג",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 393,
+    "heRef_2": "תלמוד ירושלמי תרומות י, ב, ב",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 443,
+    "heRef_2": "תלמוד ירושלמי תרומות יא, ב, ה",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 444,
+    "heRef_2": "תלמוד ירושלמי תרומות יא, ב, ו",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 6,
+    "heRef_2": "תלמוד ירושלמי תרומות א, א, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 6,
+    "heRef_2": "תלמוד ירושלמי תרומות א, א, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 375,
+    "heRef_2": "תלמוד ירושלמי יבמות ח, א, י",
+    "path_2": "תלמוד ירושלמי יבמות.txt",
     "Conection Type": ""
   },
   {
@@ -33,6 +978,69 @@
     "heRef_2": "כתובות טו:, א",
     "path_2": "כתובות.txt",
     "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 776,
+    "heRef_2": "בכורות כג:, ו",
+    "path_2": "בכורות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 303,
+    "heRef_2": "בראשית רבה ל, ח",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 5,
+    "heRef_2": "בועז על משנה מקואות א, ב",
+    "path_2": "בועז על משנה מקואות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 26,
+    "heRef_2": "בועז על משנה מקואות ג, ב",
+    "path_2": "בועז על משנה מקואות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 64,
+    "heRef_2": "בועז על משנה אהלות ה, ג",
+    "path_2": "בועז על משנה אהלות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 555,
+    "heRef_2": "חגיגה יט., ו",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 555,
+    "heRef_2": "חגיגה יט.,  ו",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 556,
+    "heRef_2": "חגיגה יט.,  ז",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 301,
+    "heRef_2": "חידושי רמב\"ן על שבת סה:, א",
+    "path_2": "חידושי רמבן על שבת.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 3,
@@ -602,66 +1610,2390 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 56,
-    "line_index_2": 776,
-    "heRef_2": "בכורות כג:, ו",
-    "path_2": "בכורות.txt",
+    "line_index_1": 58,
+    "line_index_2": 3493,
+    "heRef_2": "חולין קיד., ז",
+    "path_2": "חולין.txt",
     "Conection Type": "mesorat hashas"
   },
   {
-    "line_index_1": 60,
-    "line_index_2": 303,
-    "heRef_2": "בראשית רבה ל, ח",
-    "path_2": "בראשית רבה.txt",
+    "line_index_1": 54,
+    "line_index_2": 331,
+    "heRef_2": "חולין יג.,  ד",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 332,
+    "heRef_2": "חולין יג.,  ה",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 332,
+    "heRef_2": "חולין יג., ה",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 422,
+    "heRef_2": "חולין טז., ז",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 909,
+    "heRef_2": "חולין לא:, ה",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 909,
+    "heRef_2": "חולין לא:,  ה",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 910,
+    "heRef_2": "חולין לא:,  ו",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 1041,
+    "heRef_2": "חולין לה:, י",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 2943,
+    "heRef_2": "חולין צה., ח",
+    "path_2": "חולין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 5,
+    "heRef_2": "אליהו רבא על משנה מכשירין א, א, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 7,
+    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 8,
+    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 9,
+    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ג",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 10,
+    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ד",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 11,
+    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ה",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 12,
+    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ו",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 14,
+    "heRef_2": "אליהו רבא על משנה מכשירין א, ד, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 25,
+    "heRef_2": "אליהו רבא על משנה מכשירין ב, י, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 26,
+    "heRef_2": "אליהו רבא על משנה מכשירין ב, י, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 28,
+    "heRef_2": "אליהו רבא על משנה מכשירין ב, יא, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 17,
+    "heRef_2": "אליהו רבא על משנה מכשירין ב, א, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 19,
+    "heRef_2": "אליהו רבא על משנה מכשירין ב, ד, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 21,
+    "heRef_2": "אליהו רבא על משנה מכשירין ב, ה, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 23,
+    "heRef_2": "אליהו רבא על משנה מכשירין ב, ז, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 31,
+    "heRef_2": "אליהו רבא על משנה מכשירין ג, א, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 33,
+    "heRef_2": "אליהו רבא על משנה מכשירין ג, ב, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 35,
+    "heRef_2": "אליהו רבא על משנה מכשירין ג, ה, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 36,
+    "heRef_2": "אליהו רבא על משנה מכשירין ג, ה, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 38,
+    "heRef_2": "אליהו רבא על משנה מכשירין ג, ז, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 54,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, י, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 55,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, י, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 41,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, ב, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 42,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, ב, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 44,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, ד, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 45,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, ד, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 47,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, ה, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 48,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, ה, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 50,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, ו, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 52,
+    "heRef_2": "אליהו רבא על משנה מכשירין ד, ט, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 58,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, א, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 59,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, א, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 60,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, א, ג",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 62,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, ב, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 63,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, ב, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 65,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, ג, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 66,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, ג, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 68,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, ד, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 70,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, ה, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 72,
+    "heRef_2": "אליהו רבא על משנה מכשירין ה, ו, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 75,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, א, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 77,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ב, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 79,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ג, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 80,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ג, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 81,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ג, ג",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 82,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ג, ד",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 84,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ה, א",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 85,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ה, ב",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 86,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ה, ג",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 87,
+    "heRef_2": "אליהו רבא על משנה מכשירין ו, ה, ד",
+    "path_2": "אליהו רבא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 24,
+    "heRef_2": "אליהו רבא על משנה פרה ב, ד, א",
+    "path_2": "אליהו רבא על משנה פרה.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 12,
+    "line_index_1": 51,
+    "line_index_2": 11657,
+    "heRef_2": "ערוך השולחן, יורה דעה צב, נה",
+    "path_2": "ערוך השולחן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 462,
+    "heRef_2": "באר היטב יורה דעה לה, כב",
+    "path_2": "באר היטב יורה דעה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
     "line_index_2": 5,
-    "heRef_2": "בועז על משנה מקואות א, ב",
-    "path_2": "בועז על משנה מקואות.txt",
+    "heRef_2": "ברטנורא על משנה מכשירין א, א, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 6,
+    "heRef_2": "ברטנורא על משנה מכשירין א, א, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 7,
+    "heRef_2": "ברטנורא על משנה מכשירין א, א, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 7,
+    "heRef_2": "ברטנורא על משנה מכשירין א, א, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 8,
+    "heRef_2": "ברטנורא על משנה מכשירין א, א, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 10,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ב, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 11,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ב, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 12,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ב, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 13,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ב, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 14,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ב, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 16,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ג, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 17,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 18,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 19,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 20,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 21,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 22,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 24,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ד, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 25,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ד, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 26,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ד, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 27,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ד, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 29,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ה, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 30,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ה, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 31,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ה, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 32,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ה, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 33,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ה, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 35,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 36,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 37,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 38,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 39,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 40,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 41,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 42,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 43,
+    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ט",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 89,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, י, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 90,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, י, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 91,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, י, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 92,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, י, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 93,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, י, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 95,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, יא, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 96,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, יא, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 97,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, יא, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 46,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, א, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 47,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, א, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 49,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ב, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 50,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ב, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 51,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ב, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 52,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ב, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 54,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 55,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 56,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 57,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 58,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 59,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 60,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 61,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 62,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ט",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 64,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ד, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 65,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ד, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 66,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ד, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 67,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ד, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 69,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ה, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 70,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ה, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 72,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ו, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 73,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ו, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 74,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ו, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 75,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ו, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 77,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ז, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 78,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ז, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 79,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ז, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 80,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ז, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 82,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ח, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 83,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ח, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 84,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ח, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 85,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ח, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 87,
+    "heRef_2": "ברטנורא על משנה מכשירין ב, ט, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 100,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, א, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 101,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, א, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 102,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, א, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 104,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 105,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 106,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 106,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 107,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 109,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ג, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 110,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ג, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 111,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ג, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 113,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 114,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 115,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 116,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 117,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 119,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 120,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 121,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 122,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 123,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 124,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 125,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 127,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ו, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 128,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ו, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 130,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ז, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 131,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ז, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 132,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ז, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 134,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ח, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 135,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ח, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 136,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ח, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 137,
+    "heRef_2": "ברטנורא על משנה מכשירין ג, ח, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 188,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, י, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 189,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 190,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 191,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 192,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 193,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 194,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 195,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 140,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, א, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 141,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 142,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 143,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 144,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 145,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 147,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 147,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 148,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 149,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 150,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 151,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 152,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 153,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 154,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 156,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ד, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 157,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ד, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 158,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ד, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 159,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ד, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 161,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 162,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 163,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 164,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 165,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 166,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 167,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 168,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 169,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ט",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 171,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 172,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 173,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 174,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 175,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 176,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 178,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ז, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 179,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ז, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 180,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ז, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 182,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ח, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 183,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ח, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 185,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ט, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 186,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ט, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 186,
+    "heRef_2": "ברטנורא על משנה מכשירין ד, ט, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 244,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, י, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 245,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, י, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 246,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, י, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 248,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 249,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 250,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 251,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 252,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 198,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 199,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 200,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 201,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 202,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 203,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 204,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 205,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 206,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ט",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 208,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 209,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 210,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 211,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 212,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 214,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ג, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 215,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ג, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 217,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ד, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 219,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ה, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 220,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ה, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 222,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ו, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 223,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ו, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 224,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ו, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 226,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 227,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 228,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 229,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 230,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 232,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ח, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 233,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ח, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 234,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ח, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 236,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 237,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 238,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 239,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 240,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 241,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 242,
+    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 255,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, א, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 256,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, א, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 257,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, א, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 259,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 268,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, י",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 269,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, יא",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 270,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, יב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 260,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 261,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 262,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 263,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 264,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 265,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 266,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 267,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ט",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 272,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 281,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, י",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 282,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, יא",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 283,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, יב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 273,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 274,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 275,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 276,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 277,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 278,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 279,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 280,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ט",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 285,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ד, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 286,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ד, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 287,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ד, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 289,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 290,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 291,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 292,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 293,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 294,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 295,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 296,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 298,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 299,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 300,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 301,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 302,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 303,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 304,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 305,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 306,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ט",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 308,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 309,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 310,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 311,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 312,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 313,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 314,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 315,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ח",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 316,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ט",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 318,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, א",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 319,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ב",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 320,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ג",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 321,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ד",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 322,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ה",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 323,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ו",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 324,
+    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ז",
+    "path_2": "ברטנורא על משנה מכשירין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 90,
+    "heRef_2": "ברטנורא על משנה נדה ב, ו, יא",
+    "path_2": "ברטנורא על משנה נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 730,
+    "heRef_2": "ברטנורא על משנה אהלות יג, ה, י",
+    "path_2": "ברטנורא על משנה אהלות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 165,
+    "heRef_2": "ברטנורא על משנה טהרות ד, ה, ו",
+    "path_2": "ברטנורא על משנה טהרות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 405,
+    "heRef_2": "ברטנורא על משנה טהרות ט, ג, ג",
+    "path_2": "ברטנורא על משנה טהרות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 473,
+    "heRef_2": "ברטנורא על משנה תרומות יא, ב, ו",
+    "path_2": "ברטנורא על משנה תרומות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 206,
+    "heRef_2": "ברטנורא על משנה תרומות ה, א, ח",
+    "path_2": "ברטנורא על משנה תרומות.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 50,
-    "line_index_2": 26,
-    "heRef_2": "בועז על משנה מקואות ג, ב",
-    "path_2": "בועז על משנה מקואות.txt",
+    "line_index_2": 129,
+    "heRef_2": "ברטנורא על משנה ידים ד, ז, א",
+    "path_2": "ברטנורא על משנה ידים.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 56,
-    "line_index_2": 64,
-    "heRef_2": "בועז על משנה אהלות ה, ג",
-    "path_2": "בועז על משנה אהלות.txt",
+    "line_index_1": 54,
+    "line_index_2": 746,
+    "heRef_2": "בבא מציעא כב., יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 806,
+    "heRef_2": "בבא מציעא כד., יד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 463,
+    "heRef_2": "שמות טז, לא",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 37,
-    "line_index_2": 555,
-    "heRef_2": "חגיגה יט., ו",
-    "path_2": "חגיגה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 555,
-    "heRef_2": "חגיגה יט.,  ו",
-    "path_2": "חגיגה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 556,
-    "heRef_2": "חגיגה יט.,  ז",
-    "path_2": "חגיגה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 301,
-    "heRef_2": "חידושי רמב\"ן על שבת סה:, א",
-    "path_2": "חידושי רמבן על שבת.txt",
+    "line_index_1": 49,
+    "line_index_2": 715,
+    "heRef_2": "שמות כה, כט",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -1692,433 +5024,6 @@
     "heRef_2": "מלאכת שלמה על משנה מכשירין ו, ח, ה",
     "path_2": "מלאכת שלמה על משנה מכשירין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 3493,
-    "heRef_2": "חולין קיד., ז",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 331,
-    "heRef_2": "חולין יג.,  ד",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 332,
-    "heRef_2": "חולין יג.,  ה",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 332,
-    "heRef_2": "חולין יג., ה",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 422,
-    "heRef_2": "חולין טז., ז",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 909,
-    "heRef_2": "חולין לא:, ה",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 909,
-    "heRef_2": "חולין לא:,  ה",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 910,
-    "heRef_2": "חולין לא:,  ו",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 1041,
-    "heRef_2": "חולין לה:, י",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 2943,
-    "heRef_2": "חולין צה., ח",
-    "path_2": "חולין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 5,
-    "heRef_2": "אליהו רבא על משנה מכשירין א, א, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 7,
-    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 8,
-    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 9,
-    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ג",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 10,
-    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ד",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 11,
-    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ה",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 12,
-    "heRef_2": "אליהו רבא על משנה מכשירין א, ג, ו",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 14,
-    "heRef_2": "אליהו רבא על משנה מכשירין א, ד, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 25,
-    "heRef_2": "אליהו רבא על משנה מכשירין ב, י, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 26,
-    "heRef_2": "אליהו רבא על משנה מכשירין ב, י, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 28,
-    "heRef_2": "אליהו רבא על משנה מכשירין ב, יא, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 17,
-    "heRef_2": "אליהו רבא על משנה מכשירין ב, א, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 19,
-    "heRef_2": "אליהו רבא על משנה מכשירין ב, ד, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 21,
-    "heRef_2": "אליהו רבא על משנה מכשירין ב, ה, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 23,
-    "heRef_2": "אליהו רבא על משנה מכשירין ב, ז, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 31,
-    "heRef_2": "אליהו רבא על משנה מכשירין ג, א, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 33,
-    "heRef_2": "אליהו רבא על משנה מכשירין ג, ב, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 35,
-    "heRef_2": "אליהו רבא על משנה מכשירין ג, ה, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 36,
-    "heRef_2": "אליהו רבא על משנה מכשירין ג, ה, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 38,
-    "heRef_2": "אליהו רבא על משנה מכשירין ג, ז, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 54,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, י, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 55,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, י, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 41,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, ב, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 42,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, ב, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 44,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, ד, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 45,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, ד, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 47,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, ה, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 48,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, ה, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 50,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, ו, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 52,
-    "heRef_2": "אליהו רבא על משנה מכשירין ד, ט, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 58,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, א, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 59,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, א, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 60,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, א, ג",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 62,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, ב, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 63,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, ב, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 65,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, ג, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 66,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, ג, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 68,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, ד, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 70,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, ה, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 72,
-    "heRef_2": "אליהו רבא על משנה מכשירין ה, ו, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 75,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, א, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 77,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ב, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 79,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ג, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 80,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ג, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 81,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ג, ג",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 82,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ג, ד",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 84,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ה, א",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 85,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ה, ב",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 86,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ה, ג",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 87,
-    "heRef_2": "אליהו רבא על משנה מכשירין ו, ה, ד",
-    "path_2": "אליהו רבא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 24,
-    "heRef_2": "אליהו רבא על משנה פרה ב, ד, א",
-    "path_2": "אליהו רבא על משנה פרה.txt",
-    "Conection Type": ""
   },
   {
     "line_index_1": 57,
@@ -8376,7 +11281,7 @@
     "line_index_2": 109,
     "heRef_2": "ישע אלהים על אסתר ב, ז, ב",
     "path_2": "ישע אלהים על אסתר.txt",
-    "Conection Type": "commentary"
+    "Conection Type": "quotation"
   },
   {
     "line_index_1": 60,
@@ -8664,2910 +11569,5 @@
     "heRef_2": "יכין מכשירין ו, סב, א",
     "path_2": "יכין מכשירין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 5,
-    "heRef_2": "ברטנורא על משנה מכשירין א, א, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 6,
-    "heRef_2": "ברטנורא על משנה מכשירין א, א, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 7,
-    "heRef_2": "ברטנורא על משנה מכשירין א, א, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 7,
-    "heRef_2": "ברטנורא על משנה מכשירין א, א, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 8,
-    "heRef_2": "ברטנורא על משנה מכשירין א, א, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 10,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ב, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 11,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ב, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 12,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ב, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 13,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ב, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 14,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ב, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 16,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ג, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 17,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 18,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 19,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 20,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 21,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 22,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ג, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 24,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ד, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 25,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ד, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 26,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ד, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 27,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ד, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 29,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ה, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 30,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ה, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 31,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ה, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 32,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ה, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 33,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ה, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 35,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 36,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 37,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 38,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 39,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 40,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 41,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 42,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 43,
-    "heRef_2": "ברטנורא על משנה מכשירין א, ו, ט",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 89,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, י, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 90,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, י, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 91,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, י, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 92,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, י, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 93,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, י, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 95,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, יא, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 96,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, יא, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 97,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, יא, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 46,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, א, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 47,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, א, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 49,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ב, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 50,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ב, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 51,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ב, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 52,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ב, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 54,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 55,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 56,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 57,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 58,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 59,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 60,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 61,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 62,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ג, ט",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 64,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ד, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 65,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ד, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 66,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ד, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 67,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ד, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 69,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ה, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 70,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ה, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 72,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ו, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 73,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ו, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 74,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ו, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 75,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ו, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 77,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ז, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 78,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ז, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 79,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ז, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 80,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ז, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 82,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ח, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 83,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ח, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 84,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ח, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 85,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ח, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 87,
-    "heRef_2": "ברטנורא על משנה מכשירין ב, ט, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 100,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, א, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 101,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, א, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 102,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, א, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 104,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 105,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 106,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 106,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 107,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ב, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 109,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ג, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 110,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ג, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 111,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ג, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 113,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 114,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 115,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 116,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 117,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ד, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 119,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 120,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 121,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 122,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 123,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 124,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 125,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ה, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 127,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ו, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 128,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ו, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 130,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ז, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 131,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ז, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 132,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ז, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 134,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ח, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 135,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ח, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 136,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ח, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 137,
-    "heRef_2": "ברטנורא על משנה מכשירין ג, ח, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 188,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, י, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 189,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 190,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 191,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 192,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 193,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 194,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 195,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, י, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 140,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, א, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 141,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 142,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 143,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 144,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 145,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, א, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 147,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 147,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 148,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 149,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 150,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 151,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 152,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 153,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 154,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ב, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 156,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ד, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 157,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ד, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 158,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ד, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 159,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ד, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 161,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 162,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 163,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 164,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 165,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 166,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 167,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 168,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 169,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ה, ט",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 171,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 172,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 173,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 174,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 175,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 176,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ו, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 178,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ז, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 179,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ז, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 180,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ז, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 182,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ח, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 183,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ח, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 185,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ט, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 186,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ט, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 186,
-    "heRef_2": "ברטנורא על משנה מכשירין ד, ט, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 244,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, י, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 245,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, י, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 246,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, י, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 248,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 249,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 250,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 251,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 252,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, יא, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 198,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 199,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 200,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 201,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 202,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 203,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 204,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 205,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 206,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, א, ט",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 208,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 209,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 210,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 211,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 212,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ב, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 214,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ג, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 215,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ג, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 217,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ד, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 219,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ה, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 220,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ה, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 222,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ו, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 223,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ו, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 224,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ו, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 226,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 227,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 228,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 229,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 230,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ז, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 232,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ח, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 233,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ח, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 234,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ח, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 236,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 237,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 238,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 239,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 240,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 241,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 242,
-    "heRef_2": "ברטנורא על משנה מכשירין ה, ט, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 255,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, א, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 256,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, א, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 257,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, א, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 259,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 268,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, י",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 269,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, יא",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 270,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, יב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 260,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 261,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 262,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 263,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 264,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 265,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 266,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 267,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ב, ט",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 272,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 281,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, י",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 282,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, יא",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 283,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, יב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 273,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 274,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 275,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 276,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 277,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 278,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 279,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 280,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ג, ט",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 285,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ד, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 286,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ד, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 287,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ד, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 289,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 290,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 291,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 292,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 293,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 294,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 295,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 296,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ה, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 298,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 299,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 300,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 301,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 302,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 303,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 304,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 305,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 306,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ו, ט",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 308,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 309,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 310,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 311,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 312,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 313,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 314,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 315,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ח",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 316,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ז, ט",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 318,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, א",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 319,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ב",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 320,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ג",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 321,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ד",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 322,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ה",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 323,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ו",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 324,
-    "heRef_2": "ברטנורא על משנה מכשירין ו, ח, ז",
-    "path_2": "ברטנורא על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 90,
-    "heRef_2": "ברטנורא על משנה נדה ב, ו, יא",
-    "path_2": "ברטנורא על משנה נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 730,
-    "heRef_2": "ברטנורא על משנה אהלות יג, ה, י",
-    "path_2": "ברטנורא על משנה אהלות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 165,
-    "heRef_2": "ברטנורא על משנה טהרות ד, ה, ו",
-    "path_2": "ברטנורא על משנה טהרות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 405,
-    "heRef_2": "ברטנורא על משנה טהרות ט, ג, ג",
-    "path_2": "ברטנורא על משנה טהרות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 473,
-    "heRef_2": "ברטנורא על משנה תרומות יא, ב, ו",
-    "path_2": "ברטנורא על משנה תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 206,
-    "heRef_2": "ברטנורא על משנה תרומות ה, א, ח",
-    "path_2": "ברטנורא על משנה תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 129,
-    "heRef_2": "ברטנורא על משנה ידים ד, ז, א",
-    "path_2": "ברטנורא על משנה ידים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 746,
-    "heRef_2": "בבא מציעא כב., יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 806,
-    "heRef_2": "בבא מציעא כד., יד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 484,
-    "heRef_2": "גור אריה על ויקרא יא, לז, א",
-    "path_2": "גור אריה על ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 4323,
-    "heRef_2": "הכתב והקבלה, דברים ה, כו, א",
-    "path_2": "הכתב והקבלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 182,
-    "heRef_2": "הגהות שארית ציון סח, א",
-    "path_2": "הגהות שארית ציון.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 1730,
-    "heRef_2": "הלכות קטנות, חלק ב רמט, ב",
-    "path_2": "הלכות קטנות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 5,
-    "heRef_2": "הון עשיר על משנה מכשירין א, ב, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 7,
-    "heRef_2": "הון עשיר על משנה מכשירין א, ג, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 9,
-    "heRef_2": "הון עשיר על משנה מכשירין א, ה, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 17,
-    "heRef_2": "הון עשיר על משנה מכשירין ב, י, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 18,
-    "heRef_2": "הון עשיר על משנה מכשירין ב, י, ב",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 19,
-    "heRef_2": "הון עשיר על משנה מכשירין ב, י, ג",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 12,
-    "heRef_2": "הון עשיר על משנה מכשירין ב, א, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 14,
-    "heRef_2": "הון עשיר על משנה מכשירין ב, ג, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 15,
-    "heRef_2": "הון עשיר על משנה מכשירין ב, ג, ב",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 22,
-    "heRef_2": "הון עשיר על משנה מכשירין ג, א, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 25,
-    "heRef_2": "הון עשיר על משנה מכשירין ד, ד, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 27,
-    "heRef_2": "הון עשיר על משנה מכשירין ד, ה, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 30,
-    "heRef_2": "הון עשיר על משנה מכשירין ה, י, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 33,
-    "heRef_2": "הון עשיר על משנה מכשירין ו, ג, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 35,
-    "heRef_2": "הון עשיר על משנה מכשירין ו, ד, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 36,
-    "heRef_2": "הון עשיר על משנה מכשירין ו, ד, ב",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 38,
-    "heRef_2": "הון עשיר על משנה מכשירין ו, ה, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 40,
-    "heRef_2": "הון עשיר על משנה מכשירין ו, ו, א",
-    "path_2": "הון עשיר על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 201,
-    "heRef_2": "הושע יג, טו",
-    "path_2": "הושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 5,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, א, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 6,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, א, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 8,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ב, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 9,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ב, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 11,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 12,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ג, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 14,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ד, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 15,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ד, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 16,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ד, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 18,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ה, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 19,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ה, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 20,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ה, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 22,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין א, ו, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 45,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 46,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 47,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 48,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 49,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, י, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 51,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, יא, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 25,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, א, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 26,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, א, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 28,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ב, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 30,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 32,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ו, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 33,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ו, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 34,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ו, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 36,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ז, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 37,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ז, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 38,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ז, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 39,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ז, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 41,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ח, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 43,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ב, ט, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 54,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, א, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 56,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ב, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 58,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 59,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ג, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 61,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ד, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 63,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ה, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 64,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ה, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 66,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ז, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 67,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ז, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 68,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ז, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 69,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ז, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 71,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ג, ח, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 91,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, י, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 92,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, י, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 74,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 75,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ג, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 77,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ה, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 79,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ו, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 80,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ו, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 81,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ו, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 83,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ז, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 84,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ז, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 86,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ח, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 87,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ח, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 89,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ד, ט, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 115,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, י, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 117,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, יא, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 95,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ב, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 96,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ב, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 98,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 100,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ד, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 101,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ד, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 103,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ה, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 104,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ה, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 106,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ו, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 108,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ז, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 109,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ז, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 111,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ט, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 112,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ט, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 113,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ה, ט, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 120,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, א, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 122,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ב, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 123,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ב, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 125,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 126,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 127,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 128,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 129,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ג, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 131,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ד, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 132,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ד, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 133,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ד, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 135,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 136,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 137,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 138,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 139,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ה, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 141,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ו, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 142,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ו, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 143,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ו, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 144,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ו, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 146,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ז, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 147,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ז, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 149,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ח, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 150,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מכשירין ו, ח, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מכשירין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 11608,
-    "heRef_2": "ערוך השולחן, יורה דעה צב, נה",
-    "path_2": "ערוך השולחן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 462,
-    "heRef_2": "באר היטב יורה דעה לה, כב",
-    "path_2": "באר היטב יורה דעה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 114,
-    "heRef_2": "תלמוד ירושלמי חגיגה ב, ו, ג",
-    "path_2": "תלמוד ירושלמי חגיגה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 91,
-    "heRef_2": "תלמוד ירושלמי חלה ב, א, יב",
-    "path_2": "תלמוד ירושלמי חלה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 8,
-    "heRef_2": "תלמוד ירושלמי דמאי א, א, ה",
-    "path_2": "תלמוד ירושלמי דמאי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 147,
-    "heRef_2": "תלמוד ירושלמי דמאי ג, ד, ח",
-    "path_2": "תלמוד ירושלמי דמאי.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 225,
-    "heRef_2": "תלמוד ירושלמי דמאי ה, ו, ב",
-    "path_2": "תלמוד ירושלמי דמאי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 421,
-    "heRef_2": "תלמוד ירושלמי עירובין ט, א, ד",
-    "path_2": "תלמוד ירושלמי עירובין.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 60,
-    "heRef_2": "תלמוד ירושלמי שבת א, ד, ה",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 181,
-    "heRef_2": "תלמוד ירושלמי שבת ב, ז, ב",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 479,
-    "heRef_2": "תלמוד ירושלמי שבת ח, א, ט",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 91,
-    "heRef_2": "תלמוד ירושלמי שקלים ג, ב, ט",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 250,
-    "heRef_2": "תלמוד ירושלמי שקלים ח, א, ג",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 250,
-    "heRef_2": "תלמוד ירושלמי שקלים ח, א, ג",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 393,
-    "heRef_2": "תלמוד ירושלמי תרומות י, ב, ב",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 443,
-    "heRef_2": "תלמוד ירושלמי תרומות יא, ב, ה",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 444,
-    "heRef_2": "תלמוד ירושלמי תרומות יא, ב, ו",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 6,
-    "heRef_2": "תלמוד ירושלמי תרומות א, א, ג",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 6,
-    "heRef_2": "תלמוד ירושלמי תרומות א, א, ג",
-    "path_2": "תלמוד ירושלמי תרומות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 375,
-    "heRef_2": "תלמוד ירושלמי יבמות ח, א, י",
-    "path_2": "תלמוד ירושלמי יבמות.txt",
-    "Conection Type": ""
   }
 ]

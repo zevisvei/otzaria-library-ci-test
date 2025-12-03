@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 44,
+    "line_index_2": 2496,
+    "heRef_2": "גיטין עה.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 2496,
+    "heRef_2": "גיטין עה.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 140,
     "line_index_2": 182,
     "heRef_2": "משנה תורה, הלכות שבועות י, טז",
@@ -150,13 +164,6 @@
     "line_index_1": 18,
     "line_index_2": 15,
     "heRef_2": "משנה תורה, הלכות שבועות א, יב",
-    "path_2": "משנה תורה, הלכות שבועות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 4,
-    "heRef_2": "משנה תורה, הלכות שבועות א, א",
     "path_2": "משנה תורה, הלכות שבועות.txt",
     "Conection Type": "commentary"
   },
@@ -586,19 +593,5 @@
     "heRef_2": "משנה תורה, הלכות שבועות ט, ט",
     "path_2": "משנה תורה, הלכות שבועות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 2496,
-    "heRef_2": "גיטין עה.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 2496,
-    "heRef_2": "גיטין עה.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

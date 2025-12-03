@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 78,
+    "line_index_2": 878,
+    "heRef_2": "גיטין ל.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 30,
     "line_index_2": 1904,
     "heRef_2": "ברכות מא.,  א",
@@ -11,6 +18,27 @@
     "line_index_2": 540,
     "heRef_2": "מכות יח.,  א",
     "path_2": "מכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2381,
+    "heRef_2": "חולין עט.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2411,
+    "heRef_2": "חולין עט:, יז",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 2418,
+    "heRef_2": "חולין פ., ה",
+    "path_2": "חולין.txt",
     "Conection Type": ""
   },
   {
@@ -999,33 +1027,5 @@
     "heRef_2": "משנה ביכורים ד, ה",
     "path_2": "משנה ביכורים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2381,
-    "heRef_2": "חולין עט.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 2411,
-    "heRef_2": "חולין עט:, יז",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 2418,
-    "heRef_2": "חולין פ., ה",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 878,
-    "heRef_2": "גיטין ל.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

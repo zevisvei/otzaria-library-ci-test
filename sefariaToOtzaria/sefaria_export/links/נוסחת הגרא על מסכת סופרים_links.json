@@ -1,40 +1,5 @@
 [
   {
-    "line_index_1": 84,
-    "line_index_2": 415,
-    "heRef_2": "שמות טו, יא",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 75,
-    "heRef_2": "שמות ד,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 125,
-    "heRef_2": "עזרא ה,  א",
-    "path_2": "עזרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 757,
-    "heRef_2": "בראשית כז,  א",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 2362,
-    "heRef_2": "בבא בתרא ק:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 194,
     "line_index_2": 110,
     "heRef_2": "מסכת סופרים י, ה",
@@ -2406,5 +2371,40 @@
     "heRef_2": "מסכת סופרים ט, ט",
     "path_2": "מסכת סופרים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 2362,
+    "heRef_2": "בבא בתרא ק:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 415,
+    "heRef_2": "שמות טו, יא",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 75,
+    "heRef_2": "שמות ד,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 125,
+    "heRef_2": "עזרא ה,  א",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 757,
+    "heRef_2": "בראשית כז,  א",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

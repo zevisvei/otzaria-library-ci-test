@@ -1,82 +1,5 @@
 [
   {
-    "line_index_1": 225,
-    "line_index_2": 1886,
-    "heRef_2": "בכורות נה:, א",
-    "path_2": "בכורות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 287,
-    "line_index_2": 1096,
-    "heRef_2": "ברכות כג:,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 201,
-    "line_index_2": 1484,
-    "heRef_2": "ברכות לא:, יח",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 2483,
-    "heRef_2": "ברכות נה., יג",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 2654,
-    "heRef_2": "ברכות נט:, ו",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 193,
-    "heRef_2": "ברכות ו., ה",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 1727,
-    "heRef_2": "בבא בתרא עד:, ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 287,
-    "line_index_2": 3258,
-    "heRef_2": "בבא קמא פה:, יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 288,
-    "line_index_2": 3539,
-    "heRef_2": "בבא מציעא קז:, ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 299,
-    "line_index_2": 1138,
-    "heRef_2": "בבא מציעא לג.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 2713,
-    "heRef_2": "בבא מציעא פה., ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 231,
     "line_index_2": 2582,
     "heRef_2": "גיטין עז., ז",
@@ -1876,10 +1799,129 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 225,
+    "line_index_2": 1886,
+    "heRef_2": "בכורות נה:, א",
+    "path_2": "בכורות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 435,
+    "heRef_2": "בן סירא טו, ט",
+    "path_2": "בן סירא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 436,
+    "heRef_2": "בן סירא טו, י",
+    "path_2": "בן סירא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 437,
+    "heRef_2": "בן סירא טו, יא",
+    "path_2": "בן סירא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 438,
+    "heRef_2": "בן סירא טו, יב",
+    "path_2": "בן סירא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 439,
+    "heRef_2": "בן סירא טו, יג",
+    "path_2": "בן סירא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 440,
+    "heRef_2": "בן סירא טו, יד",
+    "path_2": "בן סירא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 1096,
+    "heRef_2": "ברכות כג:,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 1484,
+    "heRef_2": "ברכות לא:, יח",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 2483,
+    "heRef_2": "ברכות נה., יג",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 2654,
+    "heRef_2": "ברכות נט:, ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 193,
+    "heRef_2": "ברכות ו., ה",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 287,
     "line_index_2": 536,
     "heRef_2": "עבודה זרה יט., ז",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 1727,
+    "heRef_2": "בבא בתרא עד:, ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 3258,
+    "heRef_2": "בבא קמא פה:, יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 3539,
+    "heRef_2": "בבא מציעא קז:, ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 1138,
+    "heRef_2": "בבא מציעא לג.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 2713,
+    "heRef_2": "בבא מציעא פה., ח",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

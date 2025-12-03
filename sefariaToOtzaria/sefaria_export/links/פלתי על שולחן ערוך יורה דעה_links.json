@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 35,
+    "line_index_2": 1725,
+    "heRef_2": "גיטין נה.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 713,
+    "heRef_2": "מלכים א כ,  א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 62,
     "line_index_2": 2159,
     "heRef_2": "כתובות פ.,  א",
@@ -11,6 +25,20 @@
     "line_index_2": 46,
     "heRef_2": "קידושין ד.,  א",
     "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 476,
+    "line_index_2": 2016,
+    "heRef_2": "חולין סט.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 2660,
+    "heRef_2": "חולין פז., ד",
+    "path_2": "חולין.txt",
     "Conection Type": ""
   },
   {
@@ -4508,27 +4536,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 476,
-    "line_index_2": 2016,
-    "heRef_2": "חולין סט.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 2660,
-    "heRef_2": "חולין פז., ד",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 702,
-    "line_index_2": 3,
-    "heRef_2": "משנה פרה א,  א",
-    "path_2": "משנה פרה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 35,
     "line_index_2": 1418,
     "heRef_2": "בבא בתרא ס.,  א",
@@ -4543,17 +4550,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 35,
-    "line_index_2": 1725,
-    "heRef_2": "גיטין נה.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 332,
-    "line_index_2": 713,
-    "heRef_2": "מלכים א כ,  א",
-    "path_2": "מלכים א.txt",
+    "line_index_1": 702,
+    "line_index_2": 3,
+    "heRef_2": "משנה פרה א,  א",
+    "path_2": "משנה פרה.txt",
     "Conection Type": ""
   }
 ]

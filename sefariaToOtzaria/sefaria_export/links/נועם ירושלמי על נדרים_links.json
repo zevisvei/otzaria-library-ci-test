@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 12,
-    "line_index_2": 114,
-    "heRef_2": "נזיר ה:,  א",
-    "path_2": "נזיר.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 163,
     "line_index_2": 361,
     "heRef_2": "תלמוד ירושלמי נדרים י, א, ב",
@@ -1328,5 +1321,12 @@
     "heRef_2": "תלמוד ירושלמי נדרים ח, ב, ב",
     "path_2": "תלמוד ירושלמי נדרים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 114,
+    "heRef_2": "נזיר ה:,  א",
+    "path_2": "נזיר.txt",
+    "Conection Type": ""
   }
 ]

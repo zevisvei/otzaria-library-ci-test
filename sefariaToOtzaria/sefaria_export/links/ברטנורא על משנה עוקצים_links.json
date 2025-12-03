@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 104,
+    "line_index_2": 104,
+    "heRef_2": "עמוס ו, יא",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "משנה עוקצים א, א",
@@ -1141,6 +1148,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 216,
+    "line_index_2": 267,
+    "heRef_2": "ירמיהו י,  א",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 217,
     "line_index_2": 31,
     "heRef_2": "משנה עוקצים ג, יא",
@@ -1636,12 +1650,5 @@
     "heRef_2": "משנה עוקצים ג, ט",
     "path_2": "משנה עוקצים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 104,
-    "heRef_2": "עמוס ו, יא",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
   }
 ]

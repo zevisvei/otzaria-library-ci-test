@@ -1,82 +1,5 @@
 [
   {
-    "line_index_1": 589,
-    "line_index_2": 428,
-    "heRef_2": "שמות טו, כד",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 731,
-    "line_index_2": 625,
-    "heRef_2": "שמות כב, כג",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 617,
-    "line_index_2": 708,
-    "heRef_2": "שמות כה, כב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 932,
-    "heRef_2": "שמות לא,  טו",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 933,
-    "heRef_2": "שמות לא,  טז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 806,
-    "line_index_2": 997,
-    "heRef_2": "שמות לד,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 628,
-    "line_index_2": 359,
-    "heRef_2": "דניאל יב, ב",
-    "path_2": "דניאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 191,
-    "heRef_2": "דניאל ו, יז",
-    "path_2": "דניאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 303,
-    "heRef_2": "דברים י,  א",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 448,
-    "line_index_2": 343,
-    "heRef_2": "דברים יא, יח",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 736,
-    "line_index_2": 144,
-    "heRef_2": "דברים ד, כז",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 293,
     "line_index_2": 619,
     "heRef_2": "איוב כה,  א",
@@ -263,6 +186,41 @@
     "line_index_2": 839,
     "heRef_2": "משלי כח, יד",
     "path_2": "משלי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 628,
+    "line_index_2": 359,
+    "heRef_2": "דניאל יב, ב",
+    "path_2": "דניאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 191,
+    "heRef_2": "דניאל ו, יז",
+    "path_2": "דניאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 303,
+    "heRef_2": "דברים י,  א",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 448,
+    "line_index_2": 343,
+    "heRef_2": "דברים יא, יח",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 736,
+    "line_index_2": 144,
+    "heRef_2": "דברים ד, כז",
+    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -4429,5 +4387,47 @@
     "heRef_2": "אבות דרבי נתן ט, ה",
     "path_2": "אבות דרבי נתן.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 428,
+    "heRef_2": "שמות טו, כד",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 731,
+    "line_index_2": 625,
+    "heRef_2": "שמות כב, כג",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 617,
+    "line_index_2": 708,
+    "heRef_2": "שמות כה, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 932,
+    "heRef_2": "שמות לא,  טו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 933,
+    "heRef_2": "שמות לא,  טז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 806,
+    "line_index_2": 997,
+    "heRef_2": "שמות לד,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

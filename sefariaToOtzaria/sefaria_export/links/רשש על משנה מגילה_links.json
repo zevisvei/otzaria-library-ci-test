@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 22,
-    "line_index_2": 1259,
-    "heRef_2": "ברכות כז.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 9,
     "line_index_2": 18,
     "heRef_2": "תוספות יום טוב על משנה מגילה א, ב, ד",
@@ -46,6 +39,20 @@
     "line_index_2": 196,
     "heRef_2": "תוספות יום טוב על משנה מגילה ד, ט, ג",
     "path_2": "תוספות יום טוב על משנה מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 1259,
+    "heRef_2": "ברכות כז.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 13,
+    "heRef_2": "ברטנורא על משנה מגילה א, ג, ב",
+    "path_2": "ברטנורא על משנה מגילה.txt",
     "Conection Type": "commentary"
   },
   {
@@ -186,13 +193,6 @@
     "line_index_2": 37,
     "heRef_2": "משנה מגילה ד, ט",
     "path_2": "משנה מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 13,
-    "heRef_2": "ברטנורא על משנה מגילה א, ג, ב",
-    "path_2": "ברטנורא על משנה מגילה.txt",
     "Conection Type": "commentary"
   }
 ]

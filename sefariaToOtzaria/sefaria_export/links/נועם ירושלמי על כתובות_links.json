@@ -1,47 +1,5 @@
 [
   {
-    "line_index_1": 325,
-    "line_index_2": 81,
-    "heRef_2": "כתובות ה., ג",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 232,
-    "line_index_2": 1913,
-    "heRef_2": "כתובות עא.,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 3,
-    "heRef_2": "מכות ב.,  א",
-    "path_2": "מכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 284,
-    "line_index_2": 699,
-    "heRef_2": "דברים כו,  א",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 49,
-    "heRef_2": "משנה שביעית ה, ה",
-    "path_2": "משנה שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 417,
-    "line_index_2": 31,
-    "heRef_2": "עבודה זרה ג.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 336,
     "line_index_2": 498,
     "heRef_2": "תלמוד ירושלמי כתובות י, א, ב",
@@ -2007,5 +1965,47 @@
     "heRef_2": "תלמוד ירושלמי כתובות ט, ט, ד",
     "path_2": "תלמוד ירושלמי כתובות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 81,
+    "heRef_2": "כתובות ה., ג",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 1913,
+    "heRef_2": "כתובות עא.,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 3,
+    "heRef_2": "מכות ב.,  א",
+    "path_2": "מכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 699,
+    "heRef_2": "דברים כו,  א",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 31,
+    "heRef_2": "עבודה זרה ג.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 49,
+    "heRef_2": "משנה שביעית ה, ה",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": ""
   }
 ]

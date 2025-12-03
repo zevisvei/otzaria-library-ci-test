@@ -3752,6 +3752,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 548,
+    "line_index_2": 1975,
+    "heRef_2": "ברכות מג:, ד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 549,
     "line_index_2": 1192,
     "heRef_2": "תהילים עב, ז",
@@ -8106,27 +8113,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 311,
-    "line_index_2": 1146,
-    "heRef_2": "בבא מציעא לג., ט",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 761,
-    "line_index_2": 1427,
-    "heRef_2": "בבא מציעא מב., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 2008,
-    "heRef_2": "בבא מציעא סא:, ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 19,
     "line_index_2": 43,
     "heRef_2": "עמוס ג, ח",
@@ -8152,6 +8138,27 @@
     "line_index_2": 152,
     "heRef_2": "עמוס ט, יא",
     "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 1146,
+    "heRef_2": "בבא מציעא לג., ט",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 761,
+    "line_index_2": 1427,
+    "heRef_2": "בבא מציעא מב., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 2008,
+    "heRef_2": "בבא מציעא סא:, ו",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

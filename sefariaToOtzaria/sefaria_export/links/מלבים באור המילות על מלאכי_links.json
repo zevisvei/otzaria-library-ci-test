@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 41,
+    "line_index_2": 3,
+    "heRef_2": "ישעיהו א,  א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 11,
     "line_index_2": 12,
     "heRef_2": "מלאכי א, י",
@@ -215,12 +222,5 @@
     "heRef_2": "מלאכי ג, ט",
     "path_2": "מלאכי.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 3,
-    "heRef_2": "ישעיהו א,  א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

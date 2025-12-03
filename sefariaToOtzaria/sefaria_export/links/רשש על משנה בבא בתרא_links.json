@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 57,
+    "line_index_2": 85,
+    "heRef_2": "משנה אבות ה, ה",
+    "path_2": "משנה אבות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 123,
     "line_index_2": 548,
     "heRef_2": "תוספות יום טוב על משנה בבא בתרא י, ג, ד",
@@ -140,6 +147,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 52,
+    "line_index_2": 31,
+    "heRef_2": "עמוס ב, יג",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 55,
     "line_index_2": 43,
     "heRef_2": "נדרים ד.,  א",
@@ -154,11 +168,32 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 57,
-    "line_index_2": 85,
-    "heRef_2": "משנה אבות ה, ה",
-    "path_2": "משנה אבות.txt",
-    "Conection Type": ""
+    "line_index_1": 16,
+    "line_index_2": 48,
+    "heRef_2": "ברטנורא על משנה בבא בתרא ב, א, ג",
+    "path_2": "ברטנורא על משנה בבא בתרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 65,
+    "heRef_2": "ברטנורא על משנה בבא בתרא ב, ב, ד",
+    "path_2": "ברטנורא על משנה בבא בתרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 229,
+    "heRef_2": "ברטנורא על משנה בבא בתרא ד, ג, ב",
+    "path_2": "ברטנורא על משנה בבא בתרא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 300,
+    "heRef_2": "ברטנורא על משנה בבא בתרא ה, ג, י",
+    "path_2": "ברטנורא על משנה בבא בתרא.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 120,
@@ -656,40 +691,5 @@
     "heRef_2": "משנה בבא בתרא ט, ט",
     "path_2": "משנה בבא בתרא.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 48,
-    "heRef_2": "ברטנורא על משנה בבא בתרא ב, א, ג",
-    "path_2": "ברטנורא על משנה בבא בתרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 65,
-    "heRef_2": "ברטנורא על משנה בבא בתרא ב, ב, ד",
-    "path_2": "ברטנורא על משנה בבא בתרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 229,
-    "heRef_2": "ברטנורא על משנה בבא בתרא ד, ג, ב",
-    "path_2": "ברטנורא על משנה בבא בתרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 300,
-    "heRef_2": "ברטנורא על משנה בבא בתרא ה, ג, י",
-    "path_2": "ברטנורא על משנה בבא בתרא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 31,
-    "heRef_2": "עמוס ב, יג",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
   }
 ]

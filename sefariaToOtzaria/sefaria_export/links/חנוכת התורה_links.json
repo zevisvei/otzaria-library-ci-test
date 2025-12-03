@@ -456,7 +456,7 @@
   },
   {
     "line_index_1": 311,
-    "line_index_2": 2762,
+    "line_index_2": 2760,
     "heRef_2": "מדרש תנחומא, ואתחנן ד, א",
     "path_2": "מדרש תנחומא.txt",
     "Conection Type": ""
@@ -1785,6 +1785,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 234,
+    "line_index_2": 535,
+    "heRef_2": "ערכין טו:, טז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 126,
+    "heRef_2": "אבות דרבי נתן יח, ד",
+    "path_2": "אבות דרבי נתן.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 301,
     "line_index_2": 2721,
     "heRef_2": "בבא בתרא קיט:, ה",
@@ -1803,20 +1817,6 @@
     "line_index_2": 2751,
     "heRef_2": "בבא מציעא פו., ו",
     "path_2": "בבא מציעא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 234,
-    "line_index_2": 535,
-    "heRef_2": "ערכין טו:, טז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 409,
-    "line_index_2": 126,
-    "heRef_2": "אבות דרבי נתן יח, ד",
-    "path_2": "אבות דרבי נתן.txt",
     "Conection Type": "commentary"
   }
 ]

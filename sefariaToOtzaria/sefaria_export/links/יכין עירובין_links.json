@@ -1,5 +1,47 @@
 [
   {
+    "line_index_1": 221,
+    "line_index_2": 814,
+    "heRef_2": "ראש השנה כח., יב",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 1769,
+    "heRef_2": "סנהדרין מז:, יז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 255,
+    "heRef_2": "שבת יב., ו",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 739,
+    "heRef_2": "גיטין כה., טו",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 944,
+    "heRef_2": "ביצה לא.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 961,
+    "heRef_2": "ביצה לא:, ט",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 1124,
     "line_index_2": 1345,
     "heRef_2": "ברכות כט.,  א",
@@ -91,31 +133,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 221,
-    "line_index_2": 814,
-    "heRef_2": "ראש השנה כח., יב",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 221,
-    "line_index_2": 1769,
-    "heRef_2": "סנהדרין מז:, יז",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 255,
-    "heRef_2": "שבת יב., ו",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 999,
     "line_index_2": 508,
     "heRef_2": "סוכה יט., י",
     "path_2": "סוכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 1417,
+    "heRef_2": "יומא נד:,  א",
+    "path_2": "יומא.txt",
     "Conection Type": ""
   },
   {
@@ -4470,34 +4498,6 @@
     "line_index_2": 12,
     "heRef_2": "משנה שקלים ב, ב",
     "path_2": "משנה שקלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 944,
-    "heRef_2": "ביצה לא.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 961,
-    "heRef_2": "ביצה לא:, ט",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 739,
-    "heRef_2": "גיטין כה., טו",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 259,
-    "line_index_2": 1417,
-    "heRef_2": "יומא נד:,  א",
-    "path_2": "יומא.txt",
     "Conection Type": ""
   }
 ]

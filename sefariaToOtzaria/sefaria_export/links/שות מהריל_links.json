@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 633,
+    "line_index_2": 2676,
+    "heRef_2": "מגן אברהם רסג, יג",
+    "path_2": "מגן אברהם.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 368,
     "line_index_2": 947,
     "heRef_2": "שולחן ערוך, אורח חיים קלב, ב",
@@ -12,13 +19,6 @@
     "heRef_2": "שולחן ערוך, יורה דעה שעד, יא",
     "path_2": "שולחן ערוך, יורה דעה.txt",
     "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 633,
-    "line_index_2": 2676,
-    "heRef_2": "מגן אברהם רסג, יג",
-    "path_2": "מגן אברהם.txt",
-    "Conection Type": ""
   },
   {
     "line_index_1": 449,
@@ -1559,13 +1559,6 @@
     "heRef_2": "שו\"ת מהרי\"ל יד, א",
     "path_2": "שות מהריל.txt",
     "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 236,
-    "line_index_2": 952,
-    "heRef_2": "טור, אורח חיים, אורח חיים תע, א",
-    "path_2": "טור.txt",
-    "Conection Type": ""
   },
   {
     "line_index_1": 648,
@@ -5559,7 +5552,7 @@
   },
   {
     "line_index_1": 236,
-    "line_index_2": 6481,
+    "line_index_2": 6528,
     "heRef_2": "ערוך השולחן, אורח חיים תע, ג",
     "path_2": "ערוך השולחן.txt",
     "Conection Type": ""

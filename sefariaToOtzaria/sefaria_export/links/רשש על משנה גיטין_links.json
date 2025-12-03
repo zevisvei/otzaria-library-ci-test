@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 32,
-    "line_index_2": 260,
-    "heRef_2": "חגיגה י., ד",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 51,
     "heRef_2": "תוספות יום טוב על משנה גיטין ב, א, ב",
@@ -63,11 +56,25 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 32,
+    "line_index_2": 260,
+    "heRef_2": "חגיגה י., ד",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 62,
     "line_index_2": 916,
     "heRef_2": "נדרים מז.,  א",
     "path_2": "נדרים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 161,
+    "heRef_2": "ברטנורא על משנה גיטין ד, ז, ד",
+    "path_2": "ברטנורא על משנה גיטין.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 5,
@@ -319,13 +326,6 @@
     "line_index_2": 81,
     "heRef_2": "משנה גיטין ט, ו",
     "path_2": "משנה גיטין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 161,
-    "heRef_2": "ברטנורא על משנה גיטין ד, ז, ד",
-    "path_2": "ברטנורא על משנה גיטין.txt",
     "Conection Type": "commentary"
   }
 ]

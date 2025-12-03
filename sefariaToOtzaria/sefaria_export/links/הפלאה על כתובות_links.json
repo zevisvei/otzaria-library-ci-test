@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 169,
-    "line_index_2": 322,
-    "heRef_2": "יחזקאל טז, ז",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 1865,
     "line_index_2": 2771,
     "heRef_2": "כתובות ק., ו",
@@ -43,7 +36,7 @@
   },
   {
     "line_index_1": 1868,
-    "line_index_2": 4608,
+    "line_index_2": 4607,
     "heRef_2": "רש\"י על כתובות ק., יג, ב",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
@@ -78,7 +71,7 @@
   },
   {
     "line_index_1": 1876,
-    "line_index_2": 4631,
+    "line_index_2": 4630,
     "heRef_2": "רש\"י על כתובות ק:, כג, א",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
@@ -505,7 +498,7 @@
   },
   {
     "line_index_1": 1934,
-    "line_index_2": 4801,
+    "line_index_2": 4800,
     "heRef_2": "רש\"י על כתובות קד., ט, ב",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
@@ -596,7 +589,7 @@
   },
   {
     "line_index_1": 1943,
-    "line_index_2": 4828,
+    "line_index_2": 4827,
     "heRef_2": "רש\"י על כתובות קד:, ח, א",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
@@ -820,14 +813,14 @@
   },
   {
     "line_index_1": 1980,
-    "line_index_2": 4938,
+    "line_index_2": 4937,
     "heRef_2": "רש\"י על כתובות קז., ג, ב",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 1981,
-    "line_index_2": 4938,
+    "line_index_2": 4937,
     "heRef_2": "רש\"י על כתובות קז., ג, ב",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
@@ -1037,7 +1030,7 @@
   },
   {
     "line_index_1": 2006,
-    "line_index_2": 4978,
+    "line_index_2": 4977,
     "heRef_2": "רש\"י על כתובות קח:, ב, א",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
@@ -1345,14 +1338,14 @@
   },
   {
     "line_index_1": 2034,
-    "line_index_2": 5041,
+    "line_index_2": 5040,
     "heRef_2": "רש\"י על כתובות קי., ד, ג",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 2035,
-    "line_index_2": 5041,
+    "line_index_2": 5040,
     "heRef_2": "רש\"י על כתובות קי., ד, ג",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
@@ -1401,7 +1394,7 @@
   },
   {
     "line_index_1": 2050,
-    "line_index_2": 5071,
+    "line_index_2": 5070,
     "heRef_2": "רש\"י על כתובות קי:, ט, א",
     "path_2": "רשי על כתובות.txt",
     "Conection Type": "commentary"
@@ -13165,5 +13158,12 @@
     "heRef_2": "כתובות ט:, ה",
     "path_2": "כתובות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 322,
+    "heRef_2": "יחזקאל טז, ז",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

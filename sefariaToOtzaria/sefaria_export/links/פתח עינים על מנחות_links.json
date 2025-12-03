@@ -1,10 +1,31 @@
 [
   {
+    "line_index_1": 23,
+    "line_index_2": 2453,
+    "heRef_2": "שבת קד.,  ז",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 2454,
+    "heRef_2": "שבת קד.,  ח",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 94,
     "line_index_2": 1680,
     "heRef_2": "ברכות לה., א",
     "path_2": "ברכות.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 714,
+    "heRef_2": "בבא מציעא כא., יח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 96,
@@ -3035,27 +3056,6 @@
     "line_index_2": 3560,
     "heRef_2": "מנחות צט:,  כא",
     "path_2": "מנחות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 2453,
-    "heRef_2": "שבת קד.,  ז",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 2454,
-    "heRef_2": "שבת קד.,  ח",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 714,
-    "heRef_2": "בבא מציעא כא., יח",
-    "path_2": "בבא מציעא.txt",
     "Conection Type": "commentary"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 21,
+    "line_index_2": 284,
+    "heRef_2": "ירמיהו י, יח",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 446,
+    "heRef_2": "שמואל ב יז,  א",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 358,
+    "heRef_2": "ישעיהו יז, יא",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 17,
     "line_index_2": 14,
     "heRef_2": "צפניה א, יב",
@@ -215,26 +236,5 @@
     "heRef_2": "צפניה ג, ט",
     "path_2": "צפניה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 446,
-    "heRef_2": "שמואל ב יז,  א",
-    "path_2": "שמואל ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 358,
-    "heRef_2": "ישעיהו יז, יא",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 284,
-    "heRef_2": "ירמיהו י, יח",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
   }
 ]

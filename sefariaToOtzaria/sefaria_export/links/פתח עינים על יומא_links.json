@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 31,
-    "line_index_2": 2079,
-    "heRef_2": "ברכות מו.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 1097,
-    "heRef_2": "מגילה כח., ח",
-    "path_2": "מגילה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 14,
     "line_index_2": 225,
     "heRef_2": "יומא יא., ג",
@@ -656,6 +642,20 @@
     "heRef_2": "יומא כד:, ח",
     "path_2": "יומא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 239,
+    "heRef_2": "תוספות ישנים על יומא כד:, ה",
+    "path_2": "תוספות ישנים על יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 327,
+    "heRef_2": "ריטב\"א על יומא כד:, ו",
+    "path_2": "ריטבא על יומא.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 79,
@@ -2518,6 +2518,34 @@
     "heRef_2": "יומא ט:, יג",
     "path_2": "יומא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 180,
+    "heRef_2": "תלמוד ירושלמי יומא ד, א, ו",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 134,
+    "heRef_2": "שופטים ה, יד",
+    "path_2": "שופטים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 2079,
+    "heRef_2": "ברכות מו.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1097,
+    "heRef_2": "מגילה כח., ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 117,

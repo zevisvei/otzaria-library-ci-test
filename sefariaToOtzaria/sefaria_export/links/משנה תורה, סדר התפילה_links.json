@@ -1,9 +1,23 @@
 [
   {
     "line_index_1": 43,
-    "line_index_2": 43,
-    "heRef_2": "יחזקאל ג,  א",
-    "path_2": "יחזקאל.txt",
+    "line_index_2": 123,
+    "heRef_2": "ישעיהו ו,  א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 1331,
+    "heRef_2": "ישעיהו סה, כג",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 953,
+    "heRef_2": "דברי הימים א כט, י",
+    "path_2": "דברי הימים א.txt",
     "Conection Type": ""
   },
   {
@@ -56,24 +70,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 7,
-    "line_index_2": 953,
-    "heRef_2": "דברי הימים א כט, י",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 43,
-    "line_index_2": 123,
-    "heRef_2": "ישעיהו ו,  א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1331,
-    "heRef_2": "ישעיהו סה, כג",
-    "path_2": "ישעיהו.txt",
+    "line_index_2": 43,
+    "heRef_2": "יחזקאל ג,  א",
+    "path_2": "יחזקאל.txt",
     "Conection Type": ""
   }
 ]

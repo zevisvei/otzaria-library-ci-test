@@ -1,535 +1,668 @@
 [
   {
-    "line_index_1": 14,
-    "line_index_2": 9,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, יא, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 126,
+    "line_index_2": 172,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא ה, ה, א",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 172,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא ה, ה, א",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 172,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא ה, ה, א",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 172,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא ה, ה, א",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 173,
+    "heRef_2": "תלמוד ירושלמי בבא בתרא ה, ה, ב",
+    "path_2": "תלמוד ירושלמי בבא בתרא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 367,
+    "heRef_2": "תלמוד ירושלמי בבא קמא י, י, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 370,
+    "heRef_2": "תלמוד ירושלמי בבא קמא י, יא, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 370,
+    "heRef_2": "תלמוד ירושלמי בבא קמא י, יא, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 346,
+    "heRef_2": "תלמוד ירושלמי בבא קמא י, ג, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 364,
+    "heRef_2": "תלמוד ירושלמי בבא קמא י, ט, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 14,
+    "heRef_2": "תלמוד ירושלמי בבא קמא א, א, יא",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 25,
+    "heRef_2": "תלמוד ירושלמי בבא קמא א, ג, ב",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 86,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ג, ד, ד",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, א, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, א, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 231,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, א, ב",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ב, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ב, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ב, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ב, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 235,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ב, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 242,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ד, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 242,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ד, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 242,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ד, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 245,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ד, ד",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 246,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ד, ה",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 248,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ה, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 248,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ה, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 248,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ה, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 248,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ה, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 249,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ה, ב",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 251,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ז, ו, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 321,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ט, ז, א",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 143,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 149,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ו, א",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 149,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ו, א",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי גיטין ה, ה, ד",
+    "path_2": "תלמוד ירושלמי גיטין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 184,
+    "heRef_2": "תלמוד ירושלמי כתובות ג, י, א",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 17,
-    "line_index_2": 11,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, יד, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 49,
+    "line_index_2": 185,
+    "heRef_2": "תלמוד ירושלמי כתובות ג, י, ב",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 139,
+    "heRef_2": "תלמוד ירושלמי כתובות ג, א, ח",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי כתובות ד, א, ו",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 207,
+    "heRef_2": "תלמוד ירושלמי כתובות ד, ד, ו",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 207,
+    "heRef_2": "תלמוד ירושלמי כתובות ד, ד, ו",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 18,
-    "line_index_2": 13,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, טו, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 100,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ד, יד",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 113,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ה, יב",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 212,
+    "heRef_2": "תלמוד ירושלמי קידושין ב, ח, ב",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 473,
+    "heRef_2": "תלמוד ירושלמי פסחים ח, א, י",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 1738,
+    "heRef_2": "גיטין נה., יד",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 1747,
+    "heRef_2": "גיטין נה:, ו",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 7,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה א, יא, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 9,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה א, טו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 6,
     "line_index_2": 5,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, ג, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 7,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, ז, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 26,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, יא, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה א, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 34,
-    "line_index_2": 28,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, יב, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 18,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, יב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 38,
-    "line_index_2": 30,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, טז, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 20,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, טז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 23,
-    "line_index_2": 16,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, א, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 18,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, ג, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 12,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, א, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 26,
-    "line_index_2": 20,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, ד, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 14,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 28,
-    "line_index_2": 22,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, ו, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 24,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, ז, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 41,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יא, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 43,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יג, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 45,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יד, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 46,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יד, ב",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 47,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יד, ג",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 48,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יד, ד",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 50,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טו, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 51,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טו, ב",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 52,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טו, ג",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 53,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טו, ד",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 55,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טז, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 56,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טז, ב",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 57,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טז, ג",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 58,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טז, ד",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 33,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, ב, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 35,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, ד, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 37,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, ח, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 39,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, ט, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 16,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 69,
-    "line_index_2": 71,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, י, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 25,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ד, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 60,
-    "line_index_2": 61,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, א, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 69,
+    "line_index_2": 26,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ד, י, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 61,
-    "line_index_2": 63,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, ב, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 65,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, ג, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 67,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, ה, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 69,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, ז, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 23,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ד, ב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 82,
-    "line_index_2": 80,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ה, י, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 35,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, י, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 74,
-    "line_index_2": 74,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ה, ב, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 84,
+    "line_index_2": 37,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, יב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 75,
-    "line_index_2": 76,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ה, ג, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 29,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, ג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 78,
-    "line_index_2": 78,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ה, ו, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 31,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 86,
-    "line_index_2": 83,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ו, א, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 81,
+    "line_index_2": 33,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, ט, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 92,
-    "line_index_2": 85,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ו, ז, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 100,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, י, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 88,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, א, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 90,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ב, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 92,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ג, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 94,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ד, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 40,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ו, ז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 100,
-    "line_index_2": 96,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ה, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 43,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ז, ה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 101,
-    "line_index_2": 98,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ו, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 103,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ח, ז, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 114,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, י, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 100,
+    "line_index_2": 44,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ז, ה, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 140,
-    "line_index_2": 116,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, יא, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 49,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ט, יא, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 142,
-    "line_index_2": 118,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, יג, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 106,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, ג, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 108,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, ז, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 140,
+    "line_index_2": 50,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ט, יא, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 137,
-    "line_index_2": 110,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, ח, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 47,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ט, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 653,
+    "heRef_2": "תלמוד ירושלמי סנהדרין יא, א, א",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 657,
+    "heRef_2": "תלמוד ירושלמי סנהדרין יא, ב, א",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 657,
+    "heRef_2": "תלמוד ירושלמי סנהדרין יא, ב, א",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 658,
+    "heRef_2": "תלמוד ירושלמי סנהדרין יא, ב, ב",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 658,
+    "heRef_2": "תלמוד ירושלמי סנהדרין יא, ב, ב",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 485,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ח, ג, ב",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 485,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ח, ג, ב",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 487,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ח, ג, ד",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 138,
-    "line_index_2": 112,
-    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, ט, א",
-    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 513,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ח, ח, א",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 553,
-    "heRef_2": "שמות כ, יג",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_1": 142,
+    "line_index_2": 513,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ח, ח, א",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 130,
-    "line_index_2": 553,
-    "heRef_2": "שמות כ, יג",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_1": 140,
+    "line_index_2": 515,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ח, ח, ג",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 555,
-    "heRef_2": "שמות כ, טו",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_1": 43,
+    "line_index_2": 161,
+    "heRef_2": "תלמוד ירושלמי שבת ב, ה, ה",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 134,
-    "line_index_2": 580,
-    "heRef_2": "שמות כא, טז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 601,
-    "heRef_2": "שמות כא, לז",
-    "path_2": "שמות.txt",
-    "Conection Type": "sifrei mitzvot"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 603,
-    "heRef_2": "שמות כב, א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 137,
-    "line_index_2": 603,
-    "heRef_2": "שמות כב, א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 604,
-    "heRef_2": "שמות כב, ב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 604,
-    "heRef_2": "שמות כב, ב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 604,
-    "heRef_2": "שמות כב, ב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 606,
-    "heRef_2": "שמות כב, ד",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 608,
-    "heRef_2": "שמות כב, ו",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_1": 42,
+    "line_index_2": 161,
+    "heRef_2": "תלמוד ירושלמי שבת ב, ה, ה",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 68,
-    "line_index_2": 608,
-    "heRef_2": "שמות כב, ו",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 610,
-    "heRef_2": "שמות כב, ח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 610,
-    "heRef_2": "שמות כב, ח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_2": 263,
+    "heRef_2": "תלמוד ירושלמי שבועות ו, ה, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 23,
-    "line_index_2": 610,
-    "heRef_2": "שמות כב, ח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_2": 266,
+    "heRef_2": "תלמוד ירושלמי שבועות ו, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 24,
-    "line_index_2": 610,
-    "heRef_2": "שמות כב, ח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_2": 266,
+    "heRef_2": "תלמוד ירושלמי שבועות ו, ו, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 63,
-    "line_index_2": 610,
-    "heRef_2": "שמות כב, ח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_1": 38,
+    "line_index_2": 333,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, א, ב",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 350,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 350,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 350,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 350,
+    "heRef_2": "תלמוד ירושלמי שבועות ח, ג, א",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 169,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ח, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 246,
+    "heRef_2": "תלמוד ירושלמי תרומות ז, א, ד",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 11,
@@ -1113,6 +1246,48 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 25,
+    "line_index_2": 397,
+    "heRef_2": "בכורות יא., יד",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 399,
+    "heRef_2": "בכורות יא., טז",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 136,
+    "heRef_2": "בכורות ה:, ב",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 5,
+    "heRef_2": "בן אריה על משנה תורה, הלכות גניבה ב, א, א",
+    "path_2": "בן אריה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 8,
+    "heRef_2": "בן אריה על משנה תורה, הלכות גניבה ט, ז, א",
+    "path_2": "בן אריה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 157,
+    "heRef_2": "בן יהוידע על גיטין סז:, ג",
+    "path_2": "בן יהוידע על גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 14,
     "line_index_2": 11,
     "heRef_2": "לחם משנה על משנה תורה, הלכות גניבה א, יא, א",
@@ -1292,48 +1467,6 @@
     "line_index_2": 592,
     "heRef_2": "ויקרא יט, לו",
     "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 397,
-    "heRef_2": "בכורות יא., יד",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 399,
-    "heRef_2": "בכורות יא., טז",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 136,
-    "heRef_2": "בכורות ה:, ב",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 5,
-    "heRef_2": "בן אריה על משנה תורה, הלכות גניבה ב, א, א",
-    "path_2": "בן אריה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 8,
-    "heRef_2": "בן אריה על משנה תורה, הלכות גניבה ט, ז, א",
-    "path_2": "בן אריה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 157,
-    "heRef_2": "בן יהוידע על גיטין סז:, ג",
-    "path_2": "בן יהוידע על גיטין.txt",
     "Conection Type": ""
   },
   {
@@ -3395,76 +3528,6 @@
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 8,
-    "line_index_2": 5,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה א, ה, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 7,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה א, ח, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 12,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ב, יב, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 10,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ב, א, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 15,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ד, י, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 15,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ד, י, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 20,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ה, י, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 18,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ה, ג, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 126,
-    "line_index_2": 23,
-    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ח, יח, א",
-    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 2686,
-    "heRef_2": "מנחות עז., ו",
-    "path_2": "מנחות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
     "line_index_1": 42,
     "line_index_2": 2474,
     "heRef_2": "חולין פא:, י",
@@ -3540,790 +3603,6 @@
     "heRef_2": "דברים ה, טז",
     "path_2": "דברים.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 22,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, י, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 24,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יא, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 25,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יא, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 26,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יא, ג",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 27,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יא, ד",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 29,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 31,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, טו, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 33,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, טז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 5,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 7,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 9,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 11,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 13,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ה, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 15,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ו, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 17,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 18,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ז, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 20,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 48,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 50,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, יג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 52,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, יז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 36,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 37,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, א, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 39,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 41,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ה, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 43,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ו, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 44,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ו, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 46,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 68,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, יא, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 70,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 72,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, יד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 74,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, טז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 76,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, יז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 55,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 56,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, א, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 58,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 60,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 62,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 64,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 66,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 90,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, י, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 91,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, י, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 92,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, י, ג",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 94,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 79,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 81,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 83,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 85,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 87,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ה, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 88,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ה, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 109,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, י, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 111,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 97,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 99,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 101,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 103,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ו, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 105,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 107,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 114,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ו, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 137,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, יא, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 139,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 117,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 119,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 120,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ב, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 122,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 123,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ג, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 125,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ה, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 126,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ה, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 128,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ו, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 130,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 132,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 133,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ח, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 135,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 142,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 143,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, א, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 145,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 147,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ג, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 149,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ד, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 151,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 153,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 166,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, יא, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 167,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, יא, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 169,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, יב, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 156,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, א, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 157,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, א, ב",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 158,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, א, ג",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 160,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, ז, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 137,
-    "line_index_2": 162,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, ח, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 138,
-    "line_index_2": 164,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, ט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 9,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ב, יב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 11,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ב, טז, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 5,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ב, א, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 7,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ב, ח, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 18,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ג, יב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 14,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ג, ו, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 16,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ג, ח, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 23,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ד, יב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 21,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ד, ב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 26,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ה, ב, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 28,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ה, ו, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 33,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ז, יא, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 31,
-    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ז, ט, א",
-    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 23,
-    "heRef_2": "משנה תורה, הלכות נזקי ממון ב, ח",
-    "path_2": "משנה תורה, הלכות נזקי ממון.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 128,
-    "heRef_2": "משנה תורה, הלכות תרומות ו, ו",
-    "path_2": "משנה תורה, הלכות תרומות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 17,
-    "heRef_2": "משנה תורה, הלכות שכירות ב, ז",
-    "path_2": "משנה תורה, הלכות שכירות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 61,
-    "heRef_2": "משנה תורה, הלכות חובל ומזיק ד, ה",
-    "path_2": "משנה תורה, הלכות חובל ומזיק.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 65,
-    "heRef_2": "משנה תורה, הלכות חובל ומזיק ד, ט",
-    "path_2": "משנה תורה, הלכות חובל ומזיק.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 125,
-    "heRef_2": "משנה תורה, תוכן החיבור יא, ד",
-    "path_2": "משנה תורה, תוכן החיבור.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 19,
-    "heRef_2": "משנה תורה, הלכות טוען ונטען א, טז",
-    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 19,
-    "heRef_2": "משנה תורה, הלכות טוען ונטען א, טז",
-    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 20,
-    "heRef_2": "משנה תורה, הלכות טוען ונטען א, יז",
-    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 20,
-    "heRef_2": "משנה תורה, הלכות טוען ונטען א, יז",
-    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 71,
-    "heRef_2": "משנה תורה, הלכות טוען ונטען ה, י",
-    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 30,
@@ -5671,7 +4950,7 @@
   },
   {
     "line_index_1": 4,
-    "line_index_2": 7102,
+    "line_index_2": 7099,
     "heRef_2": "טור, חושן משפט, חושן משפט שמח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5685,7 +4964,7 @@
   },
   {
     "line_index_1": 4,
-    "line_index_2": 7197,
+    "line_index_2": 7194,
     "heRef_2": "טור, חושן משפט, חושן משפט שנט, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5713,7 +4992,7 @@
   },
   {
     "line_index_1": 14,
-    "line_index_2": 7102,
+    "line_index_2": 7099,
     "heRef_2": "טור, חושן משפט, חושן משפט שמח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5727,7 +5006,7 @@
   },
   {
     "line_index_1": 14,
-    "line_index_2": 7197,
+    "line_index_2": 7194,
     "heRef_2": "טור, חושן משפט, חושן משפט שנט, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5755,7 +5034,7 @@
   },
   {
     "line_index_1": 15,
-    "line_index_2": 7160,
+    "line_index_2": 7157,
     "heRef_2": "טור, חושן משפט, חושן משפט שנג, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5769,7 +5048,7 @@
   },
   {
     "line_index_1": 15,
-    "line_index_2": 7208,
+    "line_index_2": 7205,
     "heRef_2": "טור, חושן משפט, חושן משפט שס, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5790,7 +5069,7 @@
   },
   {
     "line_index_1": 15,
-    "line_index_2": 7213,
+    "line_index_2": 7210,
     "heRef_2": "טור, חושן משפט, חושן משפט שסא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5804,7 +5083,7 @@
   },
   {
     "line_index_1": 15,
-    "line_index_2": 7224,
+    "line_index_2": 7221,
     "heRef_2": "טור, חושן משפט, חושן משפט שסב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5832,7 +5111,7 @@
   },
   {
     "line_index_1": 16,
-    "line_index_2": 7169,
+    "line_index_2": 7166,
     "heRef_2": "טור, חושן משפט, חושן משפט שנד, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5846,7 +5125,7 @@
   },
   {
     "line_index_1": 16,
-    "line_index_2": 7160,
+    "line_index_2": 7157,
     "heRef_2": "טור, חושן משפט, חושן משפט שנג, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5860,7 +5139,7 @@
   },
   {
     "line_index_1": 16,
-    "line_index_2": 7208,
+    "line_index_2": 7205,
     "heRef_2": "טור, חושן משפט, חושן משפט שס, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5888,7 +5167,7 @@
   },
   {
     "line_index_1": 17,
-    "line_index_2": 7169,
+    "line_index_2": 7166,
     "heRef_2": "טור, חושן משפט, חושן משפט שנד, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5902,7 +5181,7 @@
   },
   {
     "line_index_1": 17,
-    "line_index_2": 7224,
+    "line_index_2": 7221,
     "heRef_2": "טור, חושן משפט, חושן משפט שסב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5930,7 +5209,7 @@
   },
   {
     "line_index_1": 18,
-    "line_index_2": 7169,
+    "line_index_2": 7166,
     "heRef_2": "טור, חושן משפט, חושן משפט שנד, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5958,21 +5237,21 @@
   },
   {
     "line_index_1": 19,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 20,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 20,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5993,7 +5272,7 @@
   },
   {
     "line_index_1": 21,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6014,7 +5293,7 @@
   },
   {
     "line_index_1": 21,
-    "line_index_2": 7160,
+    "line_index_2": 7157,
     "heRef_2": "טור, חושן משפט, חושן משפט שנג, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6028,7 +5307,7 @@
   },
   {
     "line_index_1": 21,
-    "line_index_2": 7213,
+    "line_index_2": 7210,
     "heRef_2": "טור, חושן משפט, חושן משפט שסא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6042,7 +5321,7 @@
   },
   {
     "line_index_1": 21,
-    "line_index_2": 7224,
+    "line_index_2": 7221,
     "heRef_2": "טור, חושן משפט, חושן משפט שסב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6056,7 +5335,7 @@
   },
   {
     "line_index_1": 21,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6070,7 +5349,7 @@
   },
   {
     "line_index_1": 5,
-    "line_index_2": 7102,
+    "line_index_2": 7099,
     "heRef_2": "טור, חושן משפט, חושן משפט שמח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6091,14 +5370,14 @@
   },
   {
     "line_index_1": 6,
-    "line_index_2": 7149,
+    "line_index_2": 7146,
     "heRef_2": "טור, חושן משפט, חושן משפט שנב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 6,
-    "line_index_2": 7197,
+    "line_index_2": 7194,
     "heRef_2": "טור, חושן משפט, חושן משפט שנט, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6133,7 +5412,7 @@
   },
   {
     "line_index_1": 8,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6168,7 +5447,7 @@
   },
   {
     "line_index_1": 9,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6196,7 +5475,7 @@
   },
   {
     "line_index_1": 12,
-    "line_index_2": 7116,
+    "line_index_2": 7113,
     "heRef_2": "טור, חושן משפט, חושן משפט שמט, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6210,7 +5489,7 @@
   },
   {
     "line_index_1": 23,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6245,14 +5524,14 @@
   },
   {
     "line_index_1": 32,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 33,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6280,7 +5559,7 @@
   },
   {
     "line_index_1": 36,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6294,7 +5573,7 @@
   },
   {
     "line_index_1": 38,
-    "line_index_2": 7102,
+    "line_index_2": 7099,
     "heRef_2": "טור, חושן משפט, חושן משפט שמח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6329,7 +5608,7 @@
   },
   {
     "line_index_1": 24,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6350,7 +5629,7 @@
   },
   {
     "line_index_1": 26,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6364,7 +5643,7 @@
   },
   {
     "line_index_1": 28,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6399,23 +5678,9 @@
   },
   {
     "line_index_1": 30,
-    "line_index_2": 1449,
-    "heRef_2": "טור, יורה דעה, יורה דעה טז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 30,
     "line_index_2": 94,
     "heRef_2": "שולחן ערוך, יורה דעה טז, ט",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 1473,
-    "heRef_2": "טור, יורה דעה, יורה דעה כח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -6427,21 +5692,21 @@
   },
   {
     "line_index_1": 30,
-    "line_index_2": 6832,
+    "line_index_2": 6829,
     "heRef_2": "טור, חושן משפט, חושן משפט שז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 30,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 30,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6462,7 +5727,7 @@
   },
   {
     "line_index_1": 31,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6476,7 +5741,7 @@
   },
   {
     "line_index_1": 42,
-    "line_index_2": 7146,
+    "line_index_2": 7143,
     "heRef_2": "טור, חושן משפט, חושן משפט שנא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6504,7 +5769,7 @@
   },
   {
     "line_index_1": 42,
-    "line_index_2": 7689,
+    "line_index_2": 7686,
     "heRef_2": "טור, חושן משפט, חושן משפט תכג, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6518,14 +5783,14 @@
   },
   {
     "line_index_1": 42,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 42,
-    "line_index_2": 7627,
+    "line_index_2": 7624,
     "heRef_2": "טור, חושן משפט, חושן משפט תכ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6546,7 +5811,7 @@
   },
   {
     "line_index_1": 51,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6609,7 +5874,7 @@
   },
   {
     "line_index_1": 43,
-    "line_index_2": 7146,
+    "line_index_2": 7143,
     "heRef_2": "טור, חושן משפט, חושן משפט שנא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6651,7 +5916,7 @@
   },
   {
     "line_index_1": 43,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6679,14 +5944,14 @@
   },
   {
     "line_index_1": 44,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 44,
-    "line_index_2": 7146,
+    "line_index_2": 7143,
     "heRef_2": "טור, חושן משפט, חושן משפט שנא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6700,7 +5965,7 @@
   },
   {
     "line_index_1": 44,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6721,14 +5986,14 @@
   },
   {
     "line_index_1": 46,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 47,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6749,7 +6014,7 @@
   },
   {
     "line_index_1": 48,
-    "line_index_2": 3771,
+    "line_index_2": 3768,
     "heRef_2": "טור, חושן משפט, חושן משפט פז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6763,7 +6028,7 @@
   },
   {
     "line_index_1": 48,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6777,14 +6042,14 @@
   },
   {
     "line_index_1": 49,
-    "line_index_2": 7102,
+    "line_index_2": 7099,
     "heRef_2": "טור, חושן משפט, חושן משפט שמח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 49,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6798,7 +6063,7 @@
   },
   {
     "line_index_1": 50,
-    "line_index_2": 7102,
+    "line_index_2": 7099,
     "heRef_2": "טור, חושן משפט, חושן משפט שמח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6819,7 +6084,7 @@
   },
   {
     "line_index_1": 60,
-    "line_index_2": 7149,
+    "line_index_2": 7146,
     "heRef_2": "טור, חושן משפט, חושן משפט שנב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6840,7 +6105,7 @@
   },
   {
     "line_index_1": 60,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6861,7 +6126,7 @@
   },
   {
     "line_index_1": 69,
-    "line_index_2": 7176,
+    "line_index_2": 7173,
     "heRef_2": "טור, חושן משפט, חושן משפט שנה, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6882,7 +6147,7 @@
   },
   {
     "line_index_1": 69,
-    "line_index_2": 7261,
+    "line_index_2": 7258,
     "heRef_2": "טור, חושן משפט, חושן משפט שסו, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6924,7 +6189,7 @@
   },
   {
     "line_index_1": 71,
-    "line_index_2": 7176,
+    "line_index_2": 7173,
     "heRef_2": "טור, חושן משפט, חושן משפט שנה, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6945,28 +6210,28 @@
   },
   {
     "line_index_1": 62,
-    "line_index_2": 7149,
+    "line_index_2": 7146,
     "heRef_2": "טור, חושן משפט, חושן משפט שנב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 62,
-    "line_index_2": 6775,
+    "line_index_2": 6772,
     "heRef_2": "טור, חושן משפט, חושן משפט ש, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 62,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 63,
-    "line_index_2": 7149,
+    "line_index_2": 7146,
     "heRef_2": "טור, חושן משפט, חושן משפט שנב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6987,14 +6252,14 @@
   },
   {
     "line_index_1": 67,
-    "line_index_2": 7149,
+    "line_index_2": 7146,
     "heRef_2": "טור, חושן משפט, חושן משפט שנב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 68,
-    "line_index_2": 3987,
+    "line_index_2": 3984,
     "heRef_2": "טור, חושן משפט, חושן משפט צו, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7008,7 +6273,7 @@
   },
   {
     "line_index_1": 68,
-    "line_index_2": 7149,
+    "line_index_2": 7146,
     "heRef_2": "טור, חושן משפט, חושן משפט שנב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7029,7 +6294,7 @@
   },
   {
     "line_index_1": 82,
-    "line_index_2": 7191,
+    "line_index_2": 7188,
     "heRef_2": "טור, חושן משפט, חושן משפט שנז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7057,7 +6322,7 @@
   },
   {
     "line_index_1": 83,
-    "line_index_2": 7191,
+    "line_index_2": 7188,
     "heRef_2": "טור, חושן משפט, חושן משפט שנז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7078,7 +6343,7 @@
   },
   {
     "line_index_1": 74,
-    "line_index_2": 7180,
+    "line_index_2": 7177,
     "heRef_2": "טור, חושן משפט, חושן משפט שנו, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7099,7 +6364,7 @@
   },
   {
     "line_index_1": 75,
-    "line_index_2": 7160,
+    "line_index_2": 7157,
     "heRef_2": "טור, חושן משפט, חושן משפט שנג, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7120,7 +6385,7 @@
   },
   {
     "line_index_1": 75,
-    "line_index_2": 7213,
+    "line_index_2": 7210,
     "heRef_2": "טור, חושן משפט, חושן משפט שסא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7141,7 +6406,7 @@
   },
   {
     "line_index_1": 75,
-    "line_index_2": 7224,
+    "line_index_2": 7221,
     "heRef_2": "טור, חושן משפט, חושן משפט שסב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7155,14 +6420,14 @@
   },
   {
     "line_index_1": 75,
-    "line_index_2": 7121,
+    "line_index_2": 7118,
     "heRef_2": "טור, חושן משפט, חושן משפט שנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
     "line_index_1": 75,
-    "line_index_2": 7180,
+    "line_index_2": 7177,
     "heRef_2": "טור, חושן משפט, חושן משפט שנו, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7197,7 +6462,7 @@
   },
   {
     "line_index_1": 79,
-    "line_index_2": 7180,
+    "line_index_2": 7177,
     "heRef_2": "טור, חושן משפט, חושן משפט שנו, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7211,7 +6476,7 @@
   },
   {
     "line_index_1": 80,
-    "line_index_2": 7180,
+    "line_index_2": 7177,
     "heRef_2": "טור, חושן משפט, חושן משפט שנו, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7225,7 +6490,7 @@
   },
   {
     "line_index_1": 81,
-    "line_index_2": 7180,
+    "line_index_2": 7177,
     "heRef_2": "טור, חושן משפט, חושן משפט שנו, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7246,7 +6511,7 @@
   },
   {
     "line_index_1": 86,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7260,7 +6525,7 @@
   },
   {
     "line_index_1": 87,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7274,7 +6539,7 @@
   },
   {
     "line_index_1": 88,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7295,7 +6560,7 @@
   },
   {
     "line_index_1": 89,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7316,7 +6581,7 @@
   },
   {
     "line_index_1": 90,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7330,7 +6595,7 @@
   },
   {
     "line_index_1": 91,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7351,7 +6616,7 @@
   },
   {
     "line_index_1": 92,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7365,7 +6630,7 @@
   },
   {
     "line_index_1": 93,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7379,7 +6644,7 @@
   },
   {
     "line_index_1": 94,
-    "line_index_2": 7194,
+    "line_index_2": 7191,
     "heRef_2": "טור, חושן משפט, חושן משפט שנח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8359,7 +7624,7 @@
   },
   {
     "line_index_1": 106,
-    "line_index_2": 7345,
+    "line_index_2": 7342,
     "heRef_2": "טור, חושן משפט, חושן משפט שעו, א",
     "path_2": "טור.txt",
     "Conection Type": "sifrei mitzvot"
@@ -8394,7 +7659,7 @@
   },
   {
     "line_index_1": 107,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8429,7 +7694,7 @@
   },
   {
     "line_index_1": 98,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8464,7 +7729,7 @@
   },
   {
     "line_index_1": 99,
-    "line_index_2": 5798,
+    "line_index_2": 5795,
     "heRef_2": "טור, חושן משפט, חושן משפט רכז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8478,7 +7743,7 @@
   },
   {
     "line_index_1": 102,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8583,7 +7848,7 @@
   },
   {
     "line_index_1": 109,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8604,7 +7869,7 @@
   },
   {
     "line_index_1": 118,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8618,7 +7883,7 @@
   },
   {
     "line_index_1": 121,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8646,7 +7911,7 @@
   },
   {
     "line_index_1": 122,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8674,7 +7939,7 @@
   },
   {
     "line_index_1": 123,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8688,7 +7953,7 @@
   },
   {
     "line_index_1": 124,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8709,7 +7974,7 @@
   },
   {
     "line_index_1": 125,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8730,7 +7995,7 @@
   },
   {
     "line_index_1": 126,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8765,7 +8030,7 @@
   },
   {
     "line_index_1": 127,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8779,7 +8044,7 @@
   },
   {
     "line_index_1": 110,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8800,7 +8065,7 @@
   },
   {
     "line_index_1": 128,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8828,7 +8093,7 @@
   },
   {
     "line_index_1": 111,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8856,7 +8121,7 @@
   },
   {
     "line_index_1": 112,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8870,7 +8135,7 @@
   },
   {
     "line_index_1": 113,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8884,7 +8149,7 @@
   },
   {
     "line_index_1": 114,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8898,7 +8163,7 @@
   },
   {
     "line_index_1": 115,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8933,7 +8198,7 @@
   },
   {
     "line_index_1": 116,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -8947,7 +8212,7 @@
   },
   {
     "line_index_1": 117,
-    "line_index_2": 5882,
+    "line_index_2": 5879,
     "heRef_2": "טור, חושן משפט, חושן משפט רלא, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -9150,7 +8415,7 @@
   },
   {
     "line_index_1": 136,
-    "line_index_2": 7712,
+    "line_index_2": 7709,
     "heRef_2": "טור, חושן משפט, חושן משפט תכה, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -9206,7 +8471,7 @@
   },
   {
     "line_index_1": 138,
-    "line_index_2": 7712,
+    "line_index_2": 7709,
     "heRef_2": "טור, חושן משפט, חושן משפט תכה, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -10752,171 +10017,1389 @@
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 75,
-    "line_index_2": 1738,
-    "heRef_2": "גיטין נה., יד",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 1747,
-    "heRef_2": "גיטין נה:, ו",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
     "line_index_1": 14,
-    "line_index_2": 7,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה א, יא, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 9,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, יא, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 11,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, יד, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 18,
-    "line_index_2": 9,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה א, טו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 13,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, טו, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 6,
     "line_index_2": 5,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה א, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, ג, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 7,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה א, ז, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 26,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, יא, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 34,
-    "line_index_2": 18,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, יב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 28,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, יב, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 38,
-    "line_index_2": 20,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, טז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 30,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, טז, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 23,
-    "line_index_2": 12,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, א, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 16,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, א, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 18,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, ג, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 26,
-    "line_index_2": 14,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 20,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, ד, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 28,
-    "line_index_2": 16,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ב, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 22,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, ו, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 24,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ב, ז, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 41,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יא, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 43,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יג, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 45,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יד, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 46,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יד, ב",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 47,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יד, ג",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 48,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, יד, ד",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 50,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טו, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 51,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טו, ב",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 52,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טו, ג",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 53,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טו, ד",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 55,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טז, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 56,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טז, ב",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 57,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טז, ג",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 58,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, טז, ד",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 33,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, ב, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 35,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, ד, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 37,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, ח, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 39,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ג, ט, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 69,
-    "line_index_2": 25,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ד, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 71,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, י, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 69,
-    "line_index_2": 26,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ד, י, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 60,
+    "line_index_2": 61,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, א, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 61,
-    "line_index_2": 23,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ד, ב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 63,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, ב, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 65,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, ג, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 67,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, ה, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 69,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ד, ז, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 82,
-    "line_index_2": 35,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, י, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 80,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ה, י, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 84,
-    "line_index_2": 37,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, יב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 74,
+    "line_index_2": 74,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ה, ב, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 75,
-    "line_index_2": 29,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, ג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 76,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ה, ג, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 78,
-    "line_index_2": 31,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 78,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ה, ו, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 81,
-    "line_index_2": 33,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ה, ט, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 86,
+    "line_index_2": 83,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ו, א, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 92,
-    "line_index_2": 40,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ו, ז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 85,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ו, ז, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 100,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, י, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 88,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, א, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 90,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ב, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 92,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ג, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 94,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ד, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 100,
-    "line_index_2": 43,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ז, ה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 96,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ה, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 100,
-    "line_index_2": 44,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ז, ה, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 101,
+    "line_index_2": 98,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ז, ו, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 103,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ח, ז, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 114,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, י, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 140,
-    "line_index_2": 49,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ט, יא, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 116,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, יא, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 140,
-    "line_index_2": 50,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ט, יא, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_1": 142,
+    "line_index_2": 118,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, יג, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 106,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, ג, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 108,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, ז, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 137,
-    "line_index_2": 47,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות גניבה ט, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות גניבה.txt",
+    "line_index_2": 110,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, ח, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 112,
+    "heRef_2": "אבן האזל על משנה תורה, הלכות גניבה ט, ט, א",
+    "path_2": "אבן האזל על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 553,
+    "heRef_2": "שמות כ, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 553,
+    "heRef_2": "שמות כ, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 555,
+    "heRef_2": "שמות כ, טו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 580,
+    "heRef_2": "שמות כא, טז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 601,
+    "heRef_2": "שמות כא, לז",
+    "path_2": "שמות.txt",
+    "Conection Type": "sifrei mitzvot"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 603,
+    "heRef_2": "שמות כב, א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 603,
+    "heRef_2": "שמות כב, א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 604,
+    "heRef_2": "שמות כב, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 604,
+    "heRef_2": "שמות כב, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 604,
+    "heRef_2": "שמות כב, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 606,
+    "heRef_2": "שמות כב, ד",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 608,
+    "heRef_2": "שמות כב, ו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 608,
+    "heRef_2": "שמות כב, ו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 610,
+    "heRef_2": "שמות כב, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 610,
+    "heRef_2": "שמות כב, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 610,
+    "heRef_2": "שמות כב, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 610,
+    "heRef_2": "שמות כב, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 610,
+    "heRef_2": "שמות כב, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 5,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה א, ה, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 7,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה א, ח, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 12,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ב, יב, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 10,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ב, א, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 15,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ד, י, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 15,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ד, י, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 20,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ה, י, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 18,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ה, ג, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 23,
+    "heRef_2": "מלאכת שלמה על משנה תורה, הלכות גניבה ח, יח, א",
+    "path_2": "מלאכת שלמה על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 2686,
+    "heRef_2": "מנחות עז., ו",
+    "path_2": "מנחות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 22,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, י, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 24,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יא, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 25,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יא, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 26,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יא, ג",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 27,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יא, ד",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 29,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, יד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 31,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, טו, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 33,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, טז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 5,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 7,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 9,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 11,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 13,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ה, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 15,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ו, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 17,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 18,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ז, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 20,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה א, ט, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 48,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 50,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, יג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 52,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, יז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 36,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 37,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, א, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 39,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 41,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ה, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 43,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ו, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 44,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ו, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 46,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ב, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 68,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, יא, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 70,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 72,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, יד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 74,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, טז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 76,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, יז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 55,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 56,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, א, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 58,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 60,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 62,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 64,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 66,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ג, ט, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 90,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, י, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 91,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, י, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 92,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, י, ג",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 94,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 79,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 81,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 83,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 85,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 87,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ה, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 88,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ד, ה, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 109,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, י, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 111,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 97,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 99,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 101,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 103,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ו, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 105,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 107,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ה, ט, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 114,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ו, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 137,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, יא, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 139,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 117,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 119,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 120,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ב, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 122,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 123,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ג, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 125,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ה, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 126,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ה, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 128,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ו, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 130,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 132,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 133,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ח, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 135,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ז, ט, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 142,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 143,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, א, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 145,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 147,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ג, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 149,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ד, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 151,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 153,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ח, ח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 166,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, יא, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 167,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, יא, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 169,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, יב, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 156,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, א, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 157,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, א, ב",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 158,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, א, ג",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 160,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, ז, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 162,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, ח, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 164,
+    "heRef_2": "מגדל עוז על משנה תורה, הלכות גניבה ט, ט, א",
+    "path_2": "מגדל עוז על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 9,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ב, יב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 11,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ב, טז, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 5,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ב, א, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 7,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ב, ח, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 18,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ג, יב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 14,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ג, ו, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 16,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ג, ח, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 23,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ד, יב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 21,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ד, ב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 26,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ה, ב, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 28,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ה, ו, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 33,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ז, יא, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 31,
+    "heRef_2": "משנה למלך על משנה תורה, הלכות גניבה ז, ט, א",
+    "path_2": "משנה למלך על משנה תורה, הלכות גניבה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 23,
+    "heRef_2": "משנה תורה, הלכות נזקי ממון ב, ח",
+    "path_2": "משנה תורה, הלכות נזקי ממון.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 128,
+    "heRef_2": "משנה תורה, הלכות תרומות ו, ו",
+    "path_2": "משנה תורה, הלכות תרומות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 17,
+    "heRef_2": "משנה תורה, הלכות שכירות ב, ז",
+    "path_2": "משנה תורה, הלכות שכירות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 61,
+    "heRef_2": "משנה תורה, הלכות חובל ומזיק ד, ה",
+    "path_2": "משנה תורה, הלכות חובל ומזיק.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 65,
+    "heRef_2": "משנה תורה, הלכות חובל ומזיק ד, ט",
+    "path_2": "משנה תורה, הלכות חובל ומזיק.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 125,
+    "heRef_2": "משנה תורה, תוכן החיבור יא, ד",
+    "path_2": "משנה תורה, תוכן החיבור.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 19,
+    "heRef_2": "משנה תורה, הלכות טוען ונטען א, טז",
+    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 19,
+    "heRef_2": "משנה תורה, הלכות טוען ונטען א, טז",
+    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 20,
+    "heRef_2": "משנה תורה, הלכות טוען ונטען א, יז",
+    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 20,
+    "heRef_2": "משנה תורה, הלכות טוען ונטען א, יז",
+    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 71,
+    "heRef_2": "משנה תורה, הלכות טוען ונטען ה, י",
+    "path_2": "משנה תורה, הלכות טוען ונטען.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
   }
 ]

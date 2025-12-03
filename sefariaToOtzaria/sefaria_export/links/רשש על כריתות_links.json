@@ -1,5 +1,845 @@
 [
   {
+    "line_index_1": 110,
+    "line_index_2": 516,
+    "heRef_2": "רש\"י על כריתות י., ב, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 516,
+    "heRef_2": "רש\"י על כריתות י., ב, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 535,
+    "heRef_2": "רש\"י על כריתות י., טו, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 544,
+    "heRef_2": "רש\"י על כריתות י:, א, ג",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 557,
+    "heRef_2": "רש\"י על כריתות י:, י, ג",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 17,
+    "heRef_2": "תוספות על כריתות י:, י, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 20,
+    "heRef_2": "תוספות על כריתות יא., יז, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 25,
+    "heRef_2": "תוספות על כריתות יא:, ד, ב",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 25,
+    "heRef_2": "תוספות על כריתות יא:, ד, ב",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 27,
+    "heRef_2": "תוספות על כריתות יא:, ו, ב",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 615,
+    "heRef_2": "רש\"י על כריתות יב., יב, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 633,
+    "heRef_2": "רש\"י על כריתות יב:, יג, ג",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 645,
+    "heRef_2": "רש\"י על כריתות יב:, כג, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 45,
+    "heRef_2": "תוספות על כריתות יג., טז, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 45,
+    "heRef_2": "תוספות על כריתות יג., טז, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 657,
+    "heRef_2": "רש\"י על כריתות יג., יד, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 663,
+    "heRef_2": "רש\"י על כריתות יג., יז, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 667,
+    "heRef_2": "רש\"י על כריתות יג., יט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 50,
+    "heRef_2": "תוספות על כריתות יג:, כא, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 711,
+    "heRef_2": "רש\"י על כריתות יד., יב, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 711,
+    "heRef_2": "רש\"י על כריתות יד., יב, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 713,
+    "heRef_2": "רש\"י על כריתות יד., יב, ג",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 52,
+    "heRef_2": "תוספות על כריתות יד., ז, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 53,
+    "heRef_2": "תוספות על כריתות יד., ז, ב",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 53,
+    "heRef_2": "תוספות על כריתות יד., ז, ב",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 726,
+    "heRef_2": "רש\"י על כריתות יד:, ג, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 61,
+    "heRef_2": "תוספות על כריתות יד:, ד, ב",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 726,
+    "heRef_2": "רש\"י על כריתות יד:, ג, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 59,
+    "heRef_2": "תוספות על כריתות יד:, ב, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 3480,
+    "heRef_2": "שולחן ערוך, חושן משפט שמ,  א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 61,
+    "heRef_2": "תוספות על כריתות יד:, ד, ב",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 65,
+    "heRef_2": "תוספות על כריתות טו., יג, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 788,
+    "heRef_2": "רש\"י על כריתות טו:, ז, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 808,
+    "heRef_2": "רש\"י על כריתות טז., ד, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 72,
+    "heRef_2": "תוספות על כריתות טז., ב, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 72,
+    "heRef_2": "תוספות על כריתות טז., ב, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 839,
+    "heRef_2": "רש\"י על כריתות טז:, ח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 79,
+    "heRef_2": "תוספות על כריתות טז:, יא, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 80,
+    "heRef_2": "תוספות על כריתות טז:, יד, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 870,
+    "heRef_2": "רש\"י על כריתות יז., כו, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 870,
+    "heRef_2": "רש\"י על כריתות יז., כו, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 855,
+    "heRef_2": "רש\"י על כריתות יז., ח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 856,
+    "heRef_2": "רש\"י על כריתות יז., ט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 872,
+    "heRef_2": "רש\"י על כריתות יז:, ב, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 1751,
+    "heRef_2": "שבת סח:, ב",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 94,
+    "heRef_2": "תוספות על כריתות יח., יג, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 94,
+    "heRef_2": "תוספות על כריתות יח., יג, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 96,
+    "heRef_2": "תוספות על כריתות יח:, ז, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 97,
+    "heRef_2": "תוספות על כריתות יח:, ח, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 915,
+    "heRef_2": "רש\"י על כריתות יח:, א, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 922,
+    "heRef_2": "רש\"י על כריתות יח:, ח, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 923,
+    "heRef_2": "רש\"י על כריתות יח:, ט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 927,
+    "heRef_2": "רש\"י על כריתות יח:, יב, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 937,
+    "heRef_2": "רש\"י על כריתות יח:, כג, ג",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 957,
+    "heRef_2": "רש\"י על כריתות יט., טו, ד",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 964,
+    "heRef_2": "רש\"י על כריתות יט:, א, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 972,
+    "heRef_2": "רש\"י על כריתות יט:, ח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 973,
+    "heRef_2": "רש\"י על כריתות יט:, ט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 980,
+    "heRef_2": "רש\"י על כריתות יט:, יט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 985,
+    "heRef_2": "רש\"י על כריתות כ., ג, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 989,
+    "heRef_2": "רש\"י על כריתות כ., ו, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 994,
+    "heRef_2": "רש\"י על כריתות כ., ז, ה",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 1005,
+    "heRef_2": "רש\"י על כריתות כ:, ג, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 114,
+    "heRef_2": "תוספות על כריתות כ:, ז, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 116,
+    "heRef_2": "תוספות על כריתות כ:, ז, ג",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 1032,
+    "heRef_2": "רש\"י על כריתות כא., כא, ג",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 285,
+    "line_index_2": 128,
+    "heRef_2": "תוספות על כריתות כא:, טז, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 1142,
+    "heRef_2": "רש\"י על כריתות כג:, ג, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 140,
+    "heRef_2": "תוספות על כריתות כג:, א, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 1164,
+    "heRef_2": "רש\"י על כריתות כג:, יח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 305,
+    "line_index_2": 1170,
+    "heRef_2": "רש\"י על כריתות כד., ו, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 148,
+    "heRef_2": "תוספות על כריתות כד., יב, א",
+    "path_2": "תוספות על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 1192,
+    "heRef_2": "רש\"י על כריתות כד:, ב, ג",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 314,
+    "line_index_2": 1222,
+    "heRef_2": "רש\"י על כריתות כה., יב, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 1226,
+    "heRef_2": "רש\"י על כריתות כה., יט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 861,
+    "heRef_2": "יומא לו:,  א",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 1237,
+    "heRef_2": "רש\"י על כריתות כה:, ח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 1238,
+    "heRef_2": "רש\"י על כריתות כה:, ט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 1241,
+    "heRef_2": "רש\"י על כריתות כה:, יא, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 1242,
+    "heRef_2": "רש\"י על כריתות כה:, יב, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 342,
+    "line_index_2": 1290,
+    "heRef_2": "רש\"י על כריתות כו:, ט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 1304,
+    "heRef_2": "רש\"י על כריתות כו:, יט, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 1306,
+    "heRef_2": "רש\"י על כריתות כו:, כא, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 348,
+    "line_index_2": 1310,
+    "heRef_2": "רש\"י על כריתות כז., ג, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 1327,
+    "heRef_2": "רש\"י על כריתות כז., יט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 1335,
+    "heRef_2": "רש\"י על כריתות כז:, ג, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 1354,
+    "heRef_2": "רש\"י על כריתות כז:, כב, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 1372,
+    "heRef_2": "רש\"י על כריתות כח., י, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 1379,
+    "heRef_2": "רש\"י על כריתות כח., כא, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 1383,
+    "heRef_2": "רש\"י על כריתות כח., כד, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 6,
+    "heRef_2": "רש\"י על כריתות ב., ב, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 10,
+    "heRef_2": "רש\"י על כריתות ב., ג, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 13,
+    "heRef_2": "רש\"י על כריתות ב., ד, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 13,
+    "heRef_2": "רש\"י על כריתות ב., ד, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 64,
+    "heRef_2": "רש\"י על כריתות ג., יח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 63,
+    "heRef_2": "רש\"י על כריתות ג., יד, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 101,
+    "heRef_2": "רש\"י על כריתות ג:, יד, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 109,
+    "heRef_2": "רש\"י על כריתות ג:, כו, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 125,
+    "heRef_2": "רש\"י על כריתות ד., ד, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 168,
+    "heRef_2": "רש\"י על כריתות ד:, יב, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 188,
+    "heRef_2": "רש\"י על כריתות ד:, כח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 188,
+    "heRef_2": "רש\"י על כריתות ד:, כח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 213,
+    "heRef_2": "רש\"י על כריתות ה., כא, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 239,
+    "heRef_2": "רש\"י על כריתות ה:, יז, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 273,
+    "heRef_2": "רש\"י על כריתות ו., טו, ה",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 296,
+    "heRef_2": "רש\"י על כריתות ו., כ, ג",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 297,
+    "heRef_2": "רש\"י על כריתות ו., כ, ד",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 317,
+    "heRef_2": "רש\"י על כריתות ו:, טו, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 338,
+    "heRef_2": "רש\"י על כריתות ז., ו, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 340,
+    "heRef_2": "רש\"י על כריתות ז., י, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 362,
+    "heRef_2": "רש\"י על כריתות ז., כד, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 363,
+    "heRef_2": "רש\"י על כריתות ז., כה, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 393,
+    "heRef_2": "רש\"י על כריתות ז:, כא, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 430,
+    "heRef_2": "רש\"י על כריתות ח., יח, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 432,
+    "heRef_2": "רש\"י על כריתות ח., יח, ד",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 442,
+    "heRef_2": "רש\"י על כריתות ח:, ח, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 485,
+    "heRef_2": "רש\"י על כריתות ט., כט, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 501,
+    "heRef_2": "רש\"י על כריתות ט:, יז, א",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 504,
+    "heRef_2": "רש\"י על כריתות ט:, יט, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 510,
+    "heRef_2": "רש\"י על כריתות ט:, כג, ב",
+    "path_2": "רשי על כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 108,
     "line_index_2": 454,
     "heRef_2": "כריתות י., יג",
@@ -1545,846 +2385,6 @@
     "heRef_2": "ויקרא טו, טז",
     "path_2": "ויקרא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 516,
-    "heRef_2": "רש\"י על כריתות י., ב, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 516,
-    "heRef_2": "רש\"י על כריתות י., ב, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 535,
-    "heRef_2": "רש\"י על כריתות י., טו, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 544,
-    "heRef_2": "רש\"י על כריתות י:, א, ג",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 557,
-    "heRef_2": "רש\"י על כריתות י:, י, ג",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 17,
-    "heRef_2": "תוספות על כריתות י:, י, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 20,
-    "heRef_2": "תוספות על כריתות יא., יז, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 25,
-    "heRef_2": "תוספות על כריתות יא:, ד, ב",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 25,
-    "heRef_2": "תוספות על כריתות יא:, ד, ב",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 27,
-    "heRef_2": "תוספות על כריתות יא:, ו, ב",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 615,
-    "heRef_2": "רש\"י על כריתות יב., יב, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 633,
-    "heRef_2": "רש\"י על כריתות יב:, יג, ג",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 645,
-    "heRef_2": "רש\"י על כריתות יב:, כג, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 45,
-    "heRef_2": "תוספות על כריתות יג., טז, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 45,
-    "heRef_2": "תוספות על כריתות יג., טז, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 657,
-    "heRef_2": "רש\"י על כריתות יג., יד, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 150,
-    "line_index_2": 663,
-    "heRef_2": "רש\"י על כריתות יג., יז, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 667,
-    "heRef_2": "רש\"י על כריתות יג., יט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 50,
-    "heRef_2": "תוספות על כריתות יג:, כא, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 711,
-    "heRef_2": "רש\"י על כריתות יד., יב, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 711,
-    "heRef_2": "רש\"י על כריתות יד., יב, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 713,
-    "heRef_2": "רש\"י על כריתות יד., יב, ג",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 52,
-    "heRef_2": "תוספות על כריתות יד., ז, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 53,
-    "heRef_2": "תוספות על כריתות יד., ז, ב",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 169,
-    "line_index_2": 53,
-    "heRef_2": "תוספות על כריתות יד., ז, ב",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 726,
-    "heRef_2": "רש\"י על כריתות יד:, ג, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 61,
-    "heRef_2": "תוספות על כריתות יד:, ד, ב",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 726,
-    "heRef_2": "רש\"י על כריתות יד:, ג, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 59,
-    "heRef_2": "תוספות על כריתות יד:, ב, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 3480,
-    "heRef_2": "שולחן ערוך, חושן משפט שמ,  א",
-    "path_2": "שולחן ערוך, חושן משפט.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 61,
-    "heRef_2": "תוספות על כריתות יד:, ד, ב",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 65,
-    "heRef_2": "תוספות על כריתות טו., יג, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 194,
-    "line_index_2": 788,
-    "heRef_2": "רש\"י על כריתות טו:, ז, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 808,
-    "heRef_2": "רש\"י על כריתות טז., ד, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 72,
-    "heRef_2": "תוספות על כריתות טז., ב, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 72,
-    "heRef_2": "תוספות על כריתות טז., ב, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 213,
-    "line_index_2": 839,
-    "heRef_2": "רש\"י על כריתות טז:, ח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 79,
-    "heRef_2": "תוספות על כריתות טז:, יא, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 216,
-    "line_index_2": 80,
-    "heRef_2": "תוספות על כריתות טז:, יד, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 228,
-    "line_index_2": 870,
-    "heRef_2": "רש\"י על כריתות יז., כו, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 229,
-    "line_index_2": 870,
-    "heRef_2": "רש\"י על כריתות יז., כו, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 225,
-    "line_index_2": 855,
-    "heRef_2": "רש\"י על כריתות יז., ח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 226,
-    "line_index_2": 856,
-    "heRef_2": "רש\"י על כריתות יז., ט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 872,
-    "heRef_2": "רש\"י על כריתות יז:, ב, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 1751,
-    "heRef_2": "שבת סח:, ב",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 241,
-    "line_index_2": 94,
-    "heRef_2": "תוספות על כריתות יח., יג, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 242,
-    "line_index_2": 94,
-    "heRef_2": "תוספות על כריתות יח., יג, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 96,
-    "heRef_2": "תוספות על כריתות יח:, ז, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 254,
-    "line_index_2": 97,
-    "heRef_2": "תוספות על כריתות יח:, ח, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 248,
-    "line_index_2": 915,
-    "heRef_2": "רש\"י על כריתות יח:, א, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 922,
-    "heRef_2": "רש\"י על כריתות יח:, ח, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 250,
-    "line_index_2": 923,
-    "heRef_2": "רש\"י על כריתות יח:, ט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 251,
-    "line_index_2": 927,
-    "heRef_2": "רש\"י על כריתות יח:, יב, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 937,
-    "heRef_2": "רש\"י על כריתות יח:, כג, ג",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 260,
-    "line_index_2": 957,
-    "heRef_2": "רש\"י על כריתות יט., טו, ד",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 263,
-    "line_index_2": 964,
-    "heRef_2": "רש\"י על כריתות יט:, א, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 972,
-    "heRef_2": "רש\"י על כריתות יט:, ח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 265,
-    "line_index_2": 973,
-    "heRef_2": "רש\"י על כריתות יט:, ט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 266,
-    "line_index_2": 980,
-    "heRef_2": "רש\"י על כריתות יט:, יט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 268,
-    "line_index_2": 985,
-    "heRef_2": "רש\"י על כריתות כ., ג, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 269,
-    "line_index_2": 989,
-    "heRef_2": "רש\"י על כריתות כ., ו, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 270,
-    "line_index_2": 994,
-    "heRef_2": "רש\"י על כריתות כ., ז, ה",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 273,
-    "line_index_2": 1005,
-    "heRef_2": "רש\"י על כריתות כ:, ג, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 274,
-    "line_index_2": 114,
-    "heRef_2": "תוספות על כריתות כ:, ז, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 277,
-    "line_index_2": 116,
-    "heRef_2": "תוספות על כריתות כ:, ז, ג",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 281,
-    "line_index_2": 1032,
-    "heRef_2": "רש\"י על כריתות כא., כא, ג",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 285,
-    "line_index_2": 128,
-    "heRef_2": "תוספות על כריתות כא:, טז, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 299,
-    "line_index_2": 1142,
-    "heRef_2": "רש\"י על כריתות כג:, ג, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 301,
-    "line_index_2": 140,
-    "heRef_2": "תוספות על כריתות כג:, א, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 303,
-    "line_index_2": 1164,
-    "heRef_2": "רש\"י על כריתות כג:, יח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 305,
-    "line_index_2": 1170,
-    "heRef_2": "רש\"י על כריתות כד., ו, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 309,
-    "line_index_2": 148,
-    "heRef_2": "תוספות על כריתות כד., יב, א",
-    "path_2": "תוספות על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 312,
-    "line_index_2": 1192,
-    "heRef_2": "רש\"י על כריתות כד:, ב, ג",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 314,
-    "line_index_2": 1222,
-    "heRef_2": "רש\"י על כריתות כה., יב, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 320,
-    "line_index_2": 1226,
-    "heRef_2": "רש\"י על כריתות כה., יט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 324,
-    "line_index_2": 861,
-    "heRef_2": "יומא לו:,  א",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 326,
-    "line_index_2": 1237,
-    "heRef_2": "רש\"י על כריתות כה:, ח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 327,
-    "line_index_2": 1238,
-    "heRef_2": "רש\"י על כריתות כה:, ט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 328,
-    "line_index_2": 1241,
-    "heRef_2": "רש\"י על כריתות כה:, יא, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 329,
-    "line_index_2": 1242,
-    "heRef_2": "רש\"י על כריתות כה:, יב, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 342,
-    "line_index_2": 1290,
-    "heRef_2": "רש\"י על כריתות כו:, ט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 343,
-    "line_index_2": 1304,
-    "heRef_2": "רש\"י על כריתות כו:, יט, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 344,
-    "line_index_2": 1306,
-    "heRef_2": "רש\"י על כריתות כו:, כא, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 348,
-    "line_index_2": 1310,
-    "heRef_2": "רש\"י על כריתות כז., ג, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 350,
-    "line_index_2": 1327,
-    "heRef_2": "רש\"י על כריתות כז., יט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 356,
-    "line_index_2": 1335,
-    "heRef_2": "רש\"י על כריתות כז:, ג, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 359,
-    "line_index_2": 1354,
-    "heRef_2": "רש\"י על כריתות כז:, כב, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 363,
-    "line_index_2": 1372,
-    "heRef_2": "רש\"י על כריתות כח., י, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 364,
-    "line_index_2": 1379,
-    "heRef_2": "רש\"י על כריתות כח., כא, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 365,
-    "line_index_2": 1383,
-    "heRef_2": "רש\"י על כריתות כח., כד, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 6,
-    "heRef_2": "רש\"י על כריתות ב., ב, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 10,
-    "heRef_2": "רש\"י על כריתות ב., ג, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 13,
-    "heRef_2": "רש\"י על כריתות ב., ד, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 13,
-    "heRef_2": "רש\"י על כריתות ב., ד, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 64,
-    "heRef_2": "רש\"י על כריתות ג., יח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 63,
-    "heRef_2": "רש\"י על כריתות ג., יד, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 101,
-    "heRef_2": "רש\"י על כריתות ג:, יד, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 109,
-    "heRef_2": "רש\"י על כריתות ג:, כו, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 125,
-    "heRef_2": "רש\"י על כריתות ד., ד, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 168,
-    "heRef_2": "רש\"י על כריתות ד:, יב, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 188,
-    "heRef_2": "רש\"י על כריתות ד:, כח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 188,
-    "heRef_2": "רש\"י על כריתות ד:, כח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 213,
-    "heRef_2": "רש\"י על כריתות ה., כא, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 239,
-    "heRef_2": "רש\"י על כריתות ה:, יז, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 273,
-    "heRef_2": "רש\"י על כריתות ו., טו, ה",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 296,
-    "heRef_2": "רש\"י על כריתות ו., כ, ג",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 297,
-    "heRef_2": "רש\"י על כריתות ו., כ, ד",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 317,
-    "heRef_2": "רש\"י על כריתות ו:, טו, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 338,
-    "heRef_2": "רש\"י על כריתות ז., ו, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 340,
-    "heRef_2": "רש\"י על כריתות ז., י, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 362,
-    "heRef_2": "רש\"י על כריתות ז., כד, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 363,
-    "heRef_2": "רש\"י על כריתות ז., כה, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 393,
-    "heRef_2": "רש\"י על כריתות ז:, כא, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 430,
-    "heRef_2": "רש\"י על כריתות ח., יח, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 432,
-    "heRef_2": "רש\"י על כריתות ח., יח, ד",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 442,
-    "heRef_2": "רש\"י על כריתות ח:, ח, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 485,
-    "heRef_2": "רש\"י על כריתות ט., כט, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 501,
-    "heRef_2": "רש\"י על כריתות ט:, יז, א",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 504,
-    "heRef_2": "רש\"י על כריתות ט:, יט, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 510,
-    "heRef_2": "רש\"י על כריתות ט:, כג, ב",
-    "path_2": "רשי על כריתות.txt",
-    "Conection Type": "commentary"
   },
   {
     "line_index_1": 86,

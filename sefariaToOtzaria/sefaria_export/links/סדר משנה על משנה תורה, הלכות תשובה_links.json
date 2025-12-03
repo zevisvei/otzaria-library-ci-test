@@ -1,13 +1,6 @@
 [
   {
     "line_index_1": 7,
-    "line_index_2": 1944,
-    "heRef_2": "בכורות נז., יג",
-    "path_2": "בכורות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
     "line_index_2": 339,
     "heRef_2": "סנהדרין יד.,  א",
     "path_2": "סנהדרין.txt",
@@ -43,16 +36,9 @@
   },
   {
     "line_index_1": 7,
-    "line_index_2": 1779,
-    "heRef_2": "מנחות נא:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 1806,
-    "heRef_2": "מנחות נב., ה",
-    "path_2": "מנחות.txt",
+    "line_index_2": 1944,
+    "heRef_2": "בכורות נז., יג",
+    "path_2": "בכורות.txt",
     "Conection Type": ""
   },
   {
@@ -61,27 +47,6 @@
     "heRef_2": "חולין כג., ב",
     "path_2": "חולין.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 78,
-    "heRef_2": "משנה תורה, הלכות תשובה י, ג",
-    "path_2": "משנה תורה, הלכות תשובה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 79,
-    "heRef_2": "משנה תורה, הלכות תשובה י, ד",
-    "path_2": "משנה תורה, הלכות תשובה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 80,
-    "heRef_2": "משנה תורה, הלכות תשובה י, ה",
-    "path_2": "משנה תורה, הלכות תשובה.txt",
-    "Conection Type": "commentary"
   },
   {
     "line_index_1": 83,
@@ -327,5 +292,40 @@
     "heRef_2": "בבא קמא מ.,  א",
     "path_2": "בבא קמא.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 1779,
+    "heRef_2": "מנחות נא:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 1806,
+    "heRef_2": "מנחות נב., ה",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 78,
+    "heRef_2": "משנה תורה, הלכות תשובה י, ג",
+    "path_2": "משנה תורה, הלכות תשובה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 79,
+    "heRef_2": "משנה תורה, הלכות תשובה י, ד",
+    "path_2": "משנה תורה, הלכות תשובה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 80,
+    "heRef_2": "משנה תורה, הלכות תשובה י, ה",
+    "path_2": "משנה תורה, הלכות תשובה.txt",
+    "Conection Type": "commentary"
   }
 ]

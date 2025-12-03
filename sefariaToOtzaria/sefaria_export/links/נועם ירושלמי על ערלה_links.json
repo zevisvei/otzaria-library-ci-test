@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 18,
-    "line_index_2": 102,
-    "heRef_2": "תענית ה., ג",
-    "path_2": "תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 86,
-    "heRef_2": "פסחים ה., ד",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 80,
-    "heRef_2": "שבת ה., ה",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 20,
     "heRef_2": "תלמוד ירושלמי ערלה א, א, יז",
@@ -992,5 +971,26 @@
     "heRef_2": "תלמוד ירושלמי ערלה ג, ד, ג",
     "path_2": "תלמוד ירושלמי ערלה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 102,
+    "heRef_2": "תענית ה., ג",
+    "path_2": "תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 86,
+    "heRef_2": "פסחים ה., ד",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 80,
+    "heRef_2": "שבת ה., ה",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
   }
 ]

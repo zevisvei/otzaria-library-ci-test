@@ -1,9 +1,23 @@
 [
   {
+    "line_index_1": 16,
+    "line_index_2": 2896,
+    "heRef_2": "גיטין פד., טז",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 7,
     "line_index_2": 2307,
     "heRef_2": "כתובות פה., ד",
     "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 3354,
+    "heRef_2": "בבא בתרא קמד., ג",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   },
   {
@@ -96,19 +110,5 @@
     "heRef_2": "משנה תורה, הלכות אישות ט, ו",
     "path_2": "משנה תורה, הלכות אישות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 3354,
-    "heRef_2": "בבא בתרא קמד., ג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 2896,
-    "heRef_2": "גיטין פד., טז",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

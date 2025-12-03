@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 8,
-    "line_index_2": 26,
-    "heRef_2": "רות ב,  א",
-    "path_2": "רות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 12,
     "heRef_2": "תלמוד ירושלמי מגילה א, א, ט",
@@ -782,5 +775,12 @@
     "heRef_2": "תלמוד ירושלמי מגילה ד, ד, ז",
     "path_2": "תלמוד ירושלמי מגילה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 26,
+    "heRef_2": "רות ב,  א",
+    "path_2": "רות.txt",
+    "Conection Type": ""
   }
 ]

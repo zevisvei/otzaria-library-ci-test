@@ -1,6 +1,13 @@
 [
   {
     "line_index_1": 5,
+    "line_index_2": 2000,
+    "heRef_2": "ברכות מד., ח",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
     "line_index_2": 5,
     "heRef_2": "משנה תורה, הלכות ברכות א, ב",
     "path_2": "משנה תורה, הלכות ברכות.txt",
@@ -33,12 +40,5 @@
     "heRef_2": "משנה תורה, הלכות ברכות ז, ג",
     "path_2": "משנה תורה, הלכות ברכות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 2000,
-    "heRef_2": "ברכות מד., ח",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
   }
 ]

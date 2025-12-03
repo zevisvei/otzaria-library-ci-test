@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 16,
+    "line_index_2": 1044,
+    "heRef_2": "גיטין לו.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 1067,
+    "heRef_2": "גיטין לו:, ט",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 36,
     "line_index_2": 82,
     "heRef_2": "כסף משנה על משנה תורה, הלכות מאכלות אסורות ט, ד, א",
@@ -1505,55 +1519,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 17,
-    "line_index_2": 3096,
-    "heRef_2": "בבא בתרא קלד., ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 3483,
-    "heRef_2": "בבא בתרא קמט:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 3265,
-    "heRef_2": "בבא קמא פו.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 3286,
-    "heRef_2": "בבא קמא פו:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 1099,
-    "heRef_2": "בבא מציעא לב., ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 1044,
-    "heRef_2": "גיטין לו.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 1067,
-    "heRef_2": "גיטין לו:, ט",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 41,
     "line_index_2": 742,
     "heRef_2": "עבודה זרה כו.,  א",
@@ -1593,6 +1558,41 @@
     "line_index_2": 1076,
     "heRef_2": "עבודה זרה לז., ג",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 3096,
+    "heRef_2": "בבא בתרא קלד., ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 3483,
+    "heRef_2": "בבא בתרא קמט:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 3265,
+    "heRef_2": "בבא קמא פו.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 3286,
+    "heRef_2": "בבא קמא פו:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 1099,
+    "heRef_2": "בבא מציעא לב., ה",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

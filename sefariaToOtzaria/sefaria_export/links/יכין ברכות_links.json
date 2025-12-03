@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 114,
+    "line_index_2": 963,
+    "heRef_2": "ראש השנה לב.,  א",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 2947,
+    "heRef_2": "סנהדרין עד., יט",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 2614,
+    "heRef_2": "שבת קיא., ג",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 53,
     "line_index_2": 621,
     "heRef_2": "ברכות יג.,  א",
@@ -273,52 +294,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 114,
-    "line_index_2": 963,
-    "heRef_2": "ראש השנה לב.,  א",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 2947,
-    "heRef_2": "סנהדרין עד., יט",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 2614,
-    "heRef_2": "שבת קיא., ג",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 754,
-    "heRef_2": "סוטה כא., י",
-    "path_2": "סוטה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 77,
     "line_index_2": 264,
     "heRef_2": "מגילה ח.,  א",
     "path_2": "מגילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 1451,
-    "heRef_2": "מנחות מג:, ה",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2585,
-    "heRef_2": "נדה סז:,  א",
-    "path_2": "נדה.txt",
     "Conection Type": ""
   },
   {
@@ -330,9 +309,37 @@
   },
   {
     "line_index_1": 53,
+    "line_index_2": 754,
+    "heRef_2": "סוטה כא., י",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 2824,
+    "heRef_2": "זבחים פז.,  א",
+    "path_2": "זבחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 2585,
+    "heRef_2": "נדה סז:,  א",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 53,
     "line_index_2": 809,
     "heRef_2": "עירובין כא:, יב",
     "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 1451,
+    "heRef_2": "מנחות מג:, ה",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
@@ -2419,13 +2426,6 @@
     "line_index_2": 61,
     "heRef_2": "משנה מקואות ח, א",
     "path_2": "משנה מקואות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 2824,
-    "heRef_2": "זבחים פז.,  א",
-    "path_2": "זבחים.txt",
     "Conection Type": ""
   }
 ]

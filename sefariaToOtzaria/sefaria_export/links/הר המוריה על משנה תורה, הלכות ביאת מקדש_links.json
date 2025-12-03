@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 111,
-    "line_index_2": 679,
-    "heRef_2": "חגיגה כג:,  א",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 1023,
-    "heRef_2": "חולין לה.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 3497,
-    "heRef_2": "עירובין צו:, ח",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 930,
-    "heRef_2": "בבא קמא כה.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 36,
     "line_index_2": 13,
     "heRef_2": "משנה תורה, הלכות ביאת מקדש א, י",
@@ -2982,10 +2954,38 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 111,
+    "line_index_2": 679,
+    "heRef_2": "חגיגה כג:,  א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 1023,
+    "heRef_2": "חולין לה.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 241,
     "line_index_2": 980,
     "heRef_2": "עבודה זרה לד., ד",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 930,
+    "heRef_2": "בבא קמא כה.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 3497,
+    "heRef_2": "עירובין צו:, ח",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

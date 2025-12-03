@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 25,
-    "line_index_2": 565,
-    "heRef_2": "שמות כא,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 653,
-    "heRef_2": "שמואל א כד,  א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 148,
     "line_index_2": 1335,
     "heRef_2": "ישעיהו סו,  א",
@@ -14194,5 +14180,19 @@
     "heRef_2": "תלמוד ירושלמי ברכות ט, ה, ט",
     "path_2": "תלמוד ירושלמי ברכות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 653,
+    "heRef_2": "שמואל א כד,  א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 565,
+    "heRef_2": "שמות כא,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

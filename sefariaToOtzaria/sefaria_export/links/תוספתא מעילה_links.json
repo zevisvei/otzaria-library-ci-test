@@ -1,5 +1,33 @@
 [
   {
+    "line_index_1": 4,
+    "line_index_2": 3145,
+    "heRef_2": "פסחים צז., ז",
+    "path_2": "פסחים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 93,
+    "heRef_2": "ישעיהו ה, ב",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 328,
+    "heRef_2": "תלמוד ירושלמי דמאי ז, ד, ד",
+    "path_2": "תלמוד ירושלמי דמאי.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 136,
+    "heRef_2": "תלמוד ירושלמי נזיר ד, ד, ו",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "related passage"
+  },
+  {
     "line_index_1": 13,
     "line_index_2": 253,
     "heRef_2": "כריתות ו., כ",
@@ -25,27 +53,6 @@
     "line_index_2": 294,
     "heRef_2": "חגיגה יא., ב",
     "path_2": "חגיגה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 262,
-    "heRef_2": "שבועות י:, ט",
-    "path_2": "שבועות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 270,
-    "heRef_2": "שבועות יא., ה",
-    "path_2": "שבועות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 1263,
-    "heRef_2": "סוכה מט., ג",
-    "path_2": "סוכה.txt",
     "Conection Type": "mesorat hashas"
   },
   {
@@ -329,354 +336,25 @@
     "Conection Type": "mesorat hashas"
   },
   {
-    "line_index_1": 3,
-    "line_index_2": 3646,
-    "heRef_2": "מנחות קב., ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 402,
-    "heRef_2": "מנחות יב:, ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 728,
-    "heRef_2": "מנחות כא:, ד",
-    "path_2": "מנחות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 911,
-    "heRef_2": "מנחות כו:, יג",
-    "path_2": "מנחות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 1613,
-    "heRef_2": "מנחות מז:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 1614,
-    "heRef_2": "מנחות מז:,  ב",
-    "path_2": "מנחות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 106,
-    "heRef_2": "מנחות ד:, י",
-    "path_2": "מנחות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 2805,
-    "heRef_2": "מנחות פ., ז",
-    "path_2": "מנחות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 1035,
-    "heRef_2": "במדבר כט,  א",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 3145,
-    "heRef_2": "פסחים צז., ז",
-    "path_2": "פסחים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 34,
-    "heRef_2": "משנה בבא מציעא ג, יא",
-    "path_2": "משנה בבא מציעא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 3,
-    "heRef_2": "משנה מעילה א, א",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 4,
-    "heRef_2": "משנה מעילה א, ב",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 5,
-    "heRef_2": "משנה מעילה א, ג",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 6,
-    "heRef_2": "משנה מעילה א, ד",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 6,
-    "heRef_2": "משנה מעילה א, ד",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 16,
-    "heRef_2": "משנה מעילה ב, ט",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 19,
-    "heRef_2": "משנה מעילה ג, ב",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 23,
-    "heRef_2": "משנה מעילה ג, ו",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 25,
-    "heRef_2": "משנה מעילה ג, ח",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 29,
-    "heRef_2": "משנה מעילה ד, ג",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 34,
-    "heRef_2": "משנה מעילה ה, א",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 37,
-    "heRef_2": "משנה מעילה ה, ד",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 40,
-    "heRef_2": "משנה מעילה ו, א",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 41,
-    "heRef_2": "משנה מעילה ו, ב",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 42,
-    "heRef_2": "משנה מעילה ו, ג",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 43,
-    "heRef_2": "משנה מעילה ו, ד",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 44,
-    "heRef_2": "משנה מעילה ו, ה",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 44,
-    "heRef_2": "משנה מעילה ו,  ה",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 45,
-    "heRef_2": "משנה מעילה ו,  ו",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 44,
-    "heRef_2": "משנה מעילה ו,  ה",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 45,
-    "heRef_2": "משנה מעילה ו,  ו",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 45,
-    "heRef_2": "משנה מעילה ו, ו",
-    "path_2": "משנה מעילה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 52,
-    "heRef_2": "משנה שבת ז, ד",
-    "path_2": "משנה שבת.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
     "line_index_1": 13,
-    "line_index_2": 26,
-    "heRef_2": "משנה שקלים ד, ה",
-    "path_2": "משנה שקלים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 27,
-    "heRef_2": "משנה שקלים ד, ו",
-    "path_2": "משנה שקלים.txt",
+    "line_index_2": 262,
+    "heRef_2": "שבועות י:, ט",
+    "path_2": "שבועות.txt",
     "Conection Type": "mesorat hashas"
   },
   {
     "line_index_1": 26,
-    "line_index_2": 101,
-    "heRef_2": "משנה זבחים יג, ד",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 15,
-    "heRef_2": "משנה זבחים ג, ב",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 19,
-    "heRef_2": "משנה זבחים ג, ו",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 23,
-    "heRef_2": "משנה זבחים ד, ג",
-    "path_2": "משנה זבחים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 512,
-    "heRef_2": "נזיר כד:, ו",
-    "path_2": "נזיר.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 534,
-    "heRef_2": "נזיר כה:,  ח",
-    "path_2": "נזיר.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 536,
-    "heRef_2": "נזיר כו.,  א",
-    "path_2": "נזיר.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 537,
-    "heRef_2": "נזיר כו.,  ב",
-    "path_2": "נזיר.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 538,
-    "heRef_2": "נזיר כו.,  ג",
-    "path_2": "נזיר.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 1843,
-    "heRef_2": "בבא בתרא עט., יא",
-    "path_2": "בבא בתרא.txt",
+    "line_index_2": 270,
+    "heRef_2": "שבועות יא., ה",
+    "path_2": "שבועות.txt",
     "Conection Type": "mesorat hashas"
   },
   {
     "line_index_1": 10,
-    "line_index_2": 1836,
-    "heRef_2": "בבא בתרא עט., ד",
-    "path_2": "בבא בתרא.txt",
+    "line_index_2": 1263,
+    "heRef_2": "סוכה מט., ג",
+    "path_2": "סוכה.txt",
     "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 802,
-    "heRef_2": "בבא קמא כ:, טו",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 1454,
-    "heRef_2": "בבא מציעא מג., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 93,
-    "heRef_2": "ישעיהו ה, ב",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   },
   {
     "line_index_1": 4,
@@ -1008,17 +686,339 @@
     "Conection Type": "mesorat hashas"
   },
   {
-    "line_index_1": 26,
-    "line_index_2": 328,
-    "heRef_2": "תלמוד ירושלמי דמאי ז, ד, ד",
-    "path_2": "תלמוד ירושלמי דמאי.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 6,
+    "line_index_2": 512,
+    "heRef_2": "נזיר כד:, ו",
+    "path_2": "נזיר.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 534,
+    "heRef_2": "נזיר כה:,  ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 536,
+    "heRef_2": "נזיר כו.,  א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "mesorat hashas"
   },
   {
     "line_index_1": 7,
-    "line_index_2": 136,
-    "heRef_2": "תלמוד ירושלמי נזיר ד, ד, ו",
-    "path_2": "תלמוד ירושלמי נזיר.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 537,
+    "heRef_2": "נזיר כו.,  ב",
+    "path_2": "נזיר.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 538,
+    "heRef_2": "נזיר כו.,  ג",
+    "path_2": "נזיר.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 1035,
+    "heRef_2": "במדבר כט,  א",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 1843,
+    "heRef_2": "בבא בתרא עט., יא",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 1836,
+    "heRef_2": "בבא בתרא עט., ד",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 802,
+    "heRef_2": "בבא קמא כ:, טו",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 1454,
+    "heRef_2": "בבא מציעא מג., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 3646,
+    "heRef_2": "מנחות קב., ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 402,
+    "heRef_2": "מנחות יב:, ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 728,
+    "heRef_2": "מנחות כא:, ד",
+    "path_2": "מנחות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 911,
+    "heRef_2": "מנחות כו:, יג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 1613,
+    "heRef_2": "מנחות מז:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 1614,
+    "heRef_2": "מנחות מז:,  ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 106,
+    "heRef_2": "מנחות ד:, י",
+    "path_2": "מנחות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 2805,
+    "heRef_2": "מנחות פ., ז",
+    "path_2": "מנחות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 34,
+    "heRef_2": "משנה בבא מציעא ג, יא",
+    "path_2": "משנה בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "משנה מעילה א, א",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 4,
+    "heRef_2": "משנה מעילה א, ב",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 5,
+    "heRef_2": "משנה מעילה א, ג",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 6,
+    "heRef_2": "משנה מעילה א, ד",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 6,
+    "heRef_2": "משנה מעילה א, ד",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 16,
+    "heRef_2": "משנה מעילה ב, ט",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 19,
+    "heRef_2": "משנה מעילה ג, ב",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 23,
+    "heRef_2": "משנה מעילה ג, ו",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 25,
+    "heRef_2": "משנה מעילה ג, ח",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 29,
+    "heRef_2": "משנה מעילה ד, ג",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 34,
+    "heRef_2": "משנה מעילה ה, א",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 37,
+    "heRef_2": "משנה מעילה ה, ד",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 40,
+    "heRef_2": "משנה מעילה ו, א",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 41,
+    "heRef_2": "משנה מעילה ו, ב",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 42,
+    "heRef_2": "משנה מעילה ו, ג",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 43,
+    "heRef_2": "משנה מעילה ו, ד",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 44,
+    "heRef_2": "משנה מעילה ו, ה",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 44,
+    "heRef_2": "משנה מעילה ו,  ה",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 45,
+    "heRef_2": "משנה מעילה ו,  ו",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 44,
+    "heRef_2": "משנה מעילה ו,  ה",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 45,
+    "heRef_2": "משנה מעילה ו,  ו",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 45,
+    "heRef_2": "משנה מעילה ו, ו",
+    "path_2": "משנה מעילה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 52,
+    "heRef_2": "משנה שבת ז, ד",
+    "path_2": "משנה שבת.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 26,
+    "heRef_2": "משנה שקלים ד, ה",
+    "path_2": "משנה שקלים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 27,
+    "heRef_2": "משנה שקלים ד, ו",
+    "path_2": "משנה שקלים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 101,
+    "heRef_2": "משנה זבחים יג, ד",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 15,
+    "heRef_2": "משנה זבחים ג, ב",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 19,
+    "heRef_2": "משנה זבחים ג, ו",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 23,
+    "heRef_2": "משנה זבחים ד, ג",
+    "path_2": "משנה זבחים.txt",
+    "Conection Type": "mesorat hashas"
   }
 ]

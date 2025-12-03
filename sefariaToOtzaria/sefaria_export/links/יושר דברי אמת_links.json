@@ -1,89 +1,5 @@
 [
   {
-    "line_index_1": 170,
-    "line_index_2": 752,
-    "heRef_2": "איוב לא,  א",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 3,
-    "heRef_2": "יהושע א,  א",
-    "path_2": "יהושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 335,
-    "heRef_2": "חגיגה יב.,  א",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 387,
-    "heRef_2": "חגיגה יג:,  א",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 3673,
-    "heRef_2": "סנהדרין צד.,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 224,
-    "heRef_2": "שבת יא.,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 1678,
-    "heRef_2": "שבת סו:,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 273,
-    "heRef_2": "שמות רבה כג, יג",
-    "path_2": "שמות רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 3,
-    "heRef_2": "שיר השירים א,  א",
-    "path_2": "שיר השירים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 1713,
-    "heRef_2": "סוטה מט:,  א",
-    "path_2": "סוטה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1554,
-    "heRef_2": "פסחים נ.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 1578,
-    "heRef_2": "פסחים נ:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 71,
     "line_index_2": 39,
     "heRef_2": "משנה אבות ג, א",
@@ -224,24 +140,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 172,
-    "line_index_2": 1118,
-    "heRef_2": "בבא מציעא לב:,  א",
-    "path_2": "בבא מציעא.txt",
+    "line_index_1": 66,
+    "line_index_2": 3673,
+    "heRef_2": "סנהדרין צד.,  א",
+    "path_2": "סנהדרין.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 67,
-    "line_index_2": 930,
-    "heRef_2": "דברי הימים א כח, ט",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 365,
-    "heRef_2": "שמואל א טו,  א",
-    "path_2": "שמואל א.txt",
+    "line_index_1": 10,
+    "line_index_2": 224,
+    "heRef_2": "שבת יא.,  א",
+    "path_2": "שבת.txt",
     "Conection Type": ""
   },
   {
@@ -266,6 +175,76 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 67,
+    "line_index_2": 930,
+    "heRef_2": "דברי הימים א כח, ט",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 365,
+    "heRef_2": "שמואל א טו,  א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 752,
+    "heRef_2": "איוב לא,  א",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 3,
+    "heRef_2": "יהושע א,  א",
+    "path_2": "יהושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 335,
+    "heRef_2": "חגיגה יב.,  א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 387,
+    "heRef_2": "חגיגה יג:,  א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 1678,
+    "heRef_2": "שבת סו:,  א",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 273,
+    "heRef_2": "שמות רבה כג, יג",
+    "path_2": "שמות רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 3,
+    "heRef_2": "שיר השירים א,  א",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 1713,
+    "heRef_2": "סוטה מט:,  א",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 10,
     "line_index_2": 548,
     "heRef_2": "ערכין טז.,  א",
@@ -284,6 +263,27 @@
     "line_index_2": 187,
     "heRef_2": "עבודה זרה ז:,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1554,
+    "heRef_2": "פסחים נ.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 1578,
+    "heRef_2": "פסחים נ:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1118,
+    "heRef_2": "בבא מציעא לב:,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

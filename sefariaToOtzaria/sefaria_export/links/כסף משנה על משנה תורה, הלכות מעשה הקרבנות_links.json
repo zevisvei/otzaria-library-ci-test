@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 123,
+    "line_index_2": 825,
+    "heRef_2": "גיטין כח:, ד",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 911,
+    "line_index_2": 1747,
+    "heRef_2": "גיטין נה:, ו",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 9,
     "line_index_2": 341,
     "heRef_2": "כריתות ח.,  א",
@@ -397,13 +411,6 @@
     "heRef_2": "משנה תורה, הלכות מעשה הקרבנות י, ט",
     "path_2": "משנה תורה, הלכות מעשה הקרבנות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 501,
-    "line_index_2": 2315,
-    "heRef_2": "יבמות ע.,  א",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
   },
   {
     "line_index_1": 502,
@@ -6160,6 +6167,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 716,
+    "line_index_2": 606,
+    "heRef_2": "ערכין יז., י",
+    "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 258,
     "line_index_2": 4104,
     "heRef_2": "בבא קמא קי.,  א",
@@ -6171,27 +6185,6 @@
     "line_index_2": 2972,
     "heRef_2": "בבא קמא עח:, ב",
     "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 825,
-    "heRef_2": "גיטין כח:, ד",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 911,
-    "line_index_2": 1747,
-    "heRef_2": "גיטין נה:, ו",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 716,
-    "line_index_2": 606,
-    "heRef_2": "ערכין יז., י",
-    "path_2": "ערכין.txt",
     "Conection Type": ""
   }
 ]

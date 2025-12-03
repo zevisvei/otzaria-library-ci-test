@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 388,
-    "line_index_2": 38,
-    "heRef_2": "שבועות ג:,  א",
-    "path_2": "שבועות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 277,
-    "line_index_2": 43,
-    "heRef_2": "משנה כלאים ה,  א",
-    "path_2": "משנה כלאים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 134,
-    "heRef_2": "בבא קמא ה:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 455,
     "line_index_2": 335,
     "heRef_2": "תלמוד ירושלמי בבא קמא י, א, ב",
@@ -2784,5 +2763,26 @@
     "heRef_2": "תלמוד ירושלמי בבא קמא ט, ט, ב",
     "path_2": "תלמוד ירושלמי בבא קמא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 38,
+    "heRef_2": "שבועות ג:,  א",
+    "path_2": "שבועות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 134,
+    "heRef_2": "בבא קמא ה:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 43,
+    "heRef_2": "משנה כלאים ה,  א",
+    "path_2": "משנה כלאים.txt",
+    "Conection Type": ""
   }
 ]

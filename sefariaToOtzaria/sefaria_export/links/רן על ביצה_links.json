@@ -1,47 +1,5 @@
 [
   {
-    "line_index_1": 385,
-    "line_index_2": 190,
-    "heRef_2": "כתובות ט.,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 420,
-    "line_index_2": 1169,
-    "heRef_2": "בכורות לה., יז",
-    "path_2": "בכורות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 457,
-    "line_index_2": 9,
-    "heRef_2": "חידושי אנשי שם על ביצה טו., א",
-    "path_2": "חידושי אנשי שם על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 488,
-    "line_index_2": 11,
-    "heRef_2": "חידושי אנשי שם על ביצה טז., א",
-    "path_2": "חידושי אנשי שם על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 536,
-    "line_index_2": 13,
-    "heRef_2": "חידושי אנשי שם על ביצה יז., א",
-    "path_2": "חידושי אנשי שם על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 4,
-    "heRef_2": "חידושי אנשי שם על ביצה ד:, א",
-    "path_2": "חידושי אנשי שם על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
     "line_index_1": 286,
     "line_index_2": 114,
     "heRef_2": "רי\"ף ביצה י., א",
@@ -4193,34 +4151,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 143,
-    "line_index_2": 5,
-    "heRef_2": "משנה דמאי א, ג",
-    "path_2": "משנה דמאי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 143,
-    "line_index_2": 22,
-    "heRef_2": "משנה ידים ד, ג",
-    "path_2": "משנה ידים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 249,
-    "heRef_2": "מועד קטן ח:,  א",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 410,
-    "line_index_2": 2391,
-    "heRef_2": "בבא בתרא קב.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 298,
     "line_index_2": 132,
     "heRef_2": "הגהות הב\"ח על רי\"ף ביצה י:, א",
@@ -4590,5 +4520,75 @@
     "heRef_2": "הגהות מאלפס ישן על ביצה יח., ב",
     "path_2": "הגהות מאלפס ישן על ביצה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 190,
+    "heRef_2": "כתובות ט.,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 1169,
+    "heRef_2": "בכורות לה., יז",
+    "path_2": "בכורות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 9,
+    "heRef_2": "חידושי אנשי שם על ביצה טו., א",
+    "path_2": "חידושי אנשי שם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 488,
+    "line_index_2": 11,
+    "heRef_2": "חידושי אנשי שם על ביצה טז., א",
+    "path_2": "חידושי אנשי שם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 536,
+    "line_index_2": 13,
+    "heRef_2": "חידושי אנשי שם על ביצה יז., א",
+    "path_2": "חידושי אנשי שם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 4,
+    "heRef_2": "חידושי אנשי שם על ביצה ד:, א",
+    "path_2": "חידושי אנשי שם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 249,
+    "heRef_2": "מועד קטן ח:,  א",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 2391,
+    "heRef_2": "בבא בתרא קב.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 5,
+    "heRef_2": "משנה דמאי א, ג",
+    "path_2": "משנה דמאי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 22,
+    "heRef_2": "משנה ידים ד, ג",
+    "path_2": "משנה ידים.txt",
+    "Conection Type": ""
   }
 ]

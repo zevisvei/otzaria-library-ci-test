@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 29,
+    "line_index_2": 3351,
+    "heRef_2": "סנהדרין פו., ג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 1082,
+    "heRef_2": "גיטין לז., ט",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 32,
     "line_index_2": 1591,
     "heRef_2": "פסחים נא.,  א",
@@ -11,13 +25,6 @@
     "line_index_2": 1605,
     "heRef_2": "פסחים נא:, ב",
     "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 3351,
-    "heRef_2": "סנהדרין פו., ג",
-    "path_2": "סנהדרין.txt",
     "Conection Type": ""
   },
   {
@@ -159,12 +166,5 @@
     "heRef_2": "משנה שביעית ט, ב",
     "path_2": "משנה שביעית.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 1082,
-    "heRef_2": "גיטין לז., ט",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

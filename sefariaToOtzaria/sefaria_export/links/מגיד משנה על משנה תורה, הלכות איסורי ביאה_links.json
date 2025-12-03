@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 860,
+    "line_index_2": 3111,
+    "heRef_2": "גיטין פט., ה",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 820,
     "line_index_2": 478,
     "heRef_2": "כריתות י:, יח",
@@ -291,6 +298,13 @@
     "line_index_2": 2554,
     "heRef_2": "קידושין פב., ה",
     "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1067,
+    "line_index_2": 663,
+    "heRef_2": "ביצה כב., ח",
+    "path_2": "ביצה.txt",
     "Conection Type": ""
   },
   {
@@ -6993,90 +7007,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 1169,
-    "line_index_2": 1991,
-    "heRef_2": "עירובין נג:, יח",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1185,
-    "line_index_2": 2000,
-    "heRef_2": "עירובין נד.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 232,
-    "line_index_2": 2911,
-    "heRef_2": "בבא בתרא קכז., ג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 737,
-    "line_index_2": 2966,
-    "heRef_2": "בבא בתרא קכט.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1178,
-    "line_index_2": 3810,
-    "heRef_2": "בבא בתרא קסה.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1097,
-    "line_index_2": 1345,
-    "heRef_2": "בבא בתרא נז.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1080,
-    "line_index_2": 2317,
-    "heRef_2": "בבא בתרא צח:, ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 2148,
-    "heRef_2": "בבא קמא נה., טז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1171,
-    "line_index_2": 2281,
-    "heRef_2": "בבא מציעא עא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1095,
-    "line_index_2": 2912,
-    "heRef_2": "בבא מציעא צא.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1067,
-    "line_index_2": 663,
-    "heRef_2": "ביצה כב., ח",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 860,
-    "line_index_2": 3111,
-    "heRef_2": "גיטין פט., ה",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 666,
     "line_index_2": 1059,
     "heRef_2": "ערכין כט., יז",
@@ -7144,6 +7074,76 @@
     "line_index_2": 2119,
     "heRef_2": "עבודה זרה עא., ז",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 2911,
+    "heRef_2": "בבא בתרא קכז., ג",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 737,
+    "line_index_2": 2966,
+    "heRef_2": "בבא בתרא קכט.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1178,
+    "line_index_2": 3810,
+    "heRef_2": "בבא בתרא קסה.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1097,
+    "line_index_2": 1345,
+    "heRef_2": "בבא בתרא נז.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1080,
+    "line_index_2": 2317,
+    "heRef_2": "בבא בתרא צח:, ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 2148,
+    "heRef_2": "בבא קמא נה., טז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1171,
+    "line_index_2": 2281,
+    "heRef_2": "בבא מציעא עא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1095,
+    "line_index_2": 2912,
+    "heRef_2": "בבא מציעא צא.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1169,
+    "line_index_2": 1991,
+    "heRef_2": "עירובין נג:, יח",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1185,
+    "line_index_2": 2000,
+    "heRef_2": "עירובין נד.,  א",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

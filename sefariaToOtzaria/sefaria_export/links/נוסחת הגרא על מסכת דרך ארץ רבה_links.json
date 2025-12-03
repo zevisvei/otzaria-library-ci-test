@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 64,
-    "line_index_2": 477,
-    "heRef_2": "בראשית יח, לג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 1028,
-    "heRef_2": "ברכות כב.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 1974,
-    "heRef_2": "עירובין נג:,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 113,
     "line_index_2": 89,
     "heRef_2": "מסכת דרך ארץ רבה י, א",
@@ -642,5 +621,26 @@
     "heRef_2": "מסכת דרך ארץ רבה ט, ג",
     "path_2": "מסכת דרך ארץ רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 1028,
+    "heRef_2": "ברכות כב.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 1974,
+    "heRef_2": "עירובין נג:,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 477,
+    "heRef_2": "בראשית יח, לג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

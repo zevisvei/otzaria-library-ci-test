@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 547,
-    "line_index_2": 867,
-    "heRef_2": "איוב לד, יח",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 195,
     "line_index_2": 218,
     "heRef_2": "שמואל א י, א",
@@ -2231,5 +2224,12 @@
     "heRef_2": "שמואל א ט, ח",
     "path_2": "שמואל א.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 547,
+    "line_index_2": 867,
+    "heRef_2": "איוב לד, יח",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
   }
 ]

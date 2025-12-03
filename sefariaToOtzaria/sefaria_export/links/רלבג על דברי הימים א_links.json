@@ -1,54 +1,5 @@
 [
   {
-    "line_index_1": 8,
-    "line_index_2": 269,
-    "heRef_2": "בראשית י, כג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 276,
-    "line_index_2": 889,
-    "heRef_2": "בראשית ל, כז",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 1090,
-    "heRef_2": "בראשית לו, יב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 1447,
-    "heRef_2": "בראשית מו, יג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 309,
-    "line_index_2": 322,
-    "heRef_2": "יהושע יג, ה",
-    "path_2": "יהושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 568,
-    "heRef_2": "יהושע כא, טז",
-    "path_2": "יהושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 580,
-    "line_index_2": 533,
-    "heRef_2": "שופטים יח, ל",
-    "path_2": "שופטים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 673,
     "line_index_2": 46,
     "heRef_2": "צפניה ג, ט",
@@ -74,48 +25,6 @@
     "line_index_2": 2759,
     "heRef_2": "סנהדרין סט:, ט",
     "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 260,
-    "line_index_2": 133,
-    "heRef_2": "נחמיה ז,  א",
-    "path_2": "נחמיה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 416,
-    "line_index_2": 229,
-    "heRef_2": "נחמיה ט, ה",
-    "path_2": "נחמיה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 729,
-    "heRef_2": "במדבר כ,  א",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 276,
-    "line_index_2": 2961,
-    "heRef_2": "חולין צה:, יג",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 493,
-    "line_index_2": 167,
-    "heRef_2": "דניאל ה, כד",
-    "path_2": "דניאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 673,
-    "line_index_2": 513,
-    "heRef_2": "דברים יח, ה",
-    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -2559,6 +2468,97 @@
     "line_index_2": 222,
     "heRef_2": "ישעיהו י, טו",
     "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 322,
+    "heRef_2": "יהושע יג, ה",
+    "path_2": "יהושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 568,
+    "heRef_2": "יהושע כא, טז",
+    "path_2": "יהושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 580,
+    "line_index_2": 533,
+    "heRef_2": "שופטים יח, ל",
+    "path_2": "שופטים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 2961,
+    "heRef_2": "חולין צה:, יג",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 493,
+    "line_index_2": 167,
+    "heRef_2": "דניאל ה, כד",
+    "path_2": "דניאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 673,
+    "line_index_2": 513,
+    "heRef_2": "דברים יח, ה",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 133,
+    "heRef_2": "נחמיה ז,  א",
+    "path_2": "נחמיה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 229,
+    "heRef_2": "נחמיה ט, ה",
+    "path_2": "נחמיה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 729,
+    "heRef_2": "במדבר כ,  א",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 269,
+    "heRef_2": "בראשית י, כג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 889,
+    "heRef_2": "בראשית ל, כז",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 1090,
+    "heRef_2": "בראשית לו, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 1447,
+    "heRef_2": "בראשית מו, יג",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   }
 ]

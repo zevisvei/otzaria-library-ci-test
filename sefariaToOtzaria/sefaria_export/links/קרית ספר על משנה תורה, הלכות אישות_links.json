@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 68,
-    "line_index_2": 511,
-    "heRef_2": "בראשית יט, לג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 142,
     "line_index_2": 213,
     "heRef_2": "משנה תורה, הלכות אישות י, יג",
@@ -663,5 +656,12 @@
     "heRef_2": "משנה תורה, הלכות אישות ט, ח",
     "path_2": "משנה תורה, הלכות אישות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 511,
+    "heRef_2": "בראשית יט, לג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

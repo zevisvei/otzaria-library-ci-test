@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 112,
-    "line_index_2": 382,
-    "heRef_2": "בראשית טו, ה",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 687,
-    "line_index_2": 2256,
-    "heRef_2": "כתובות פג:,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 807,
     "line_index_2": 3316,
     "heRef_2": "יבמות ק., יב",
@@ -6685,31 +6671,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 348,
-    "line_index_2": 2970,
-    "heRef_2": "חולין צו.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 816,
-    "line_index_2": 687,
-    "heRef_2": "דברים כה, ט",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 893,
-    "line_index_2": 9,
-    "heRef_2": "משנה אהלות א, ז",
-    "path_2": "משנה אהלות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 15,
-    "heRef_2": "משנה ידים ג, ב",
-    "path_2": "משנה ידים.txt",
+    "line_index_1": 532,
+    "line_index_2": 1194,
+    "heRef_2": "ירמיהו מח, יא",
+    "path_2": "ירמיהו.txt",
     "Conection Type": ""
   },
   {
@@ -6727,6 +6692,27 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 687,
+    "line_index_2": 2256,
+    "heRef_2": "כתובות פג:,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 348,
+    "line_index_2": 2970,
+    "heRef_2": "חולין צו.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 816,
+    "line_index_2": 687,
+    "heRef_2": "דברים כה, ט",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 893,
     "line_index_2": 2017,
     "heRef_2": "עבודה זרה סז:,  א",
@@ -6734,10 +6720,24 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 532,
-    "line_index_2": 1194,
-    "heRef_2": "ירמיהו מח, יא",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 112,
+    "line_index_2": 382,
+    "heRef_2": "בראשית טו, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 893,
+    "line_index_2": 9,
+    "heRef_2": "משנה אהלות א, ז",
+    "path_2": "משנה אהלות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 15,
+    "heRef_2": "משנה ידים ג, ב",
+    "path_2": "משנה ידים.txt",
     "Conection Type": ""
   }
 ]

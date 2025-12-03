@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 267,
-    "line_index_2": 30,
-    "heRef_2": "מיכה ב, יא",
-    "path_2": "מיכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 26,
-    "heRef_2": "מיכה ב, ז",
-    "path_2": "מיכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 498,
-    "heRef_2": "דברים יז, יא",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2709,
-    "line_index_2": 626,
-    "heRef_2": "אהבת דוד יא, א",
-    "path_2": "אהבת דוד.txt",
-    "Conection Type": "quotation"
-  },
-  {
     "line_index_1": 6,
     "line_index_2": 4,
     "heRef_2": "תלמוד ירושלמי ברכות א, א, א",
@@ -14488,5 +14460,33 @@
     "heRef_2": "תלמוד ירושלמי ברכות ט, ה, ט",
     "path_2": "תלמוד ירושלמי ברכות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 498,
+    "heRef_2": "דברים יז, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2709,
+    "line_index_2": 626,
+    "heRef_2": "אהבת דוד יא, א",
+    "path_2": "אהבת דוד.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 30,
+    "heRef_2": "מיכה ב, יא",
+    "path_2": "מיכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 26,
+    "heRef_2": "מיכה ב, ז",
+    "path_2": "מיכה.txt",
+    "Conection Type": ""
   }
 ]

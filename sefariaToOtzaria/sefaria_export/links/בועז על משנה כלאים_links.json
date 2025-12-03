@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 12,
+    "line_index_2": 983,
+    "heRef_2": "ביצה לב:,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 4,
     "line_index_2": 1008,
     "heRef_2": "פסחים לה.,  א",
@@ -574,24 +581,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 21,
-    "line_index_2": 1173,
-    "heRef_2": "בבא מציעא לד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 983,
-    "heRef_2": "ביצה לב:,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 19,
     "line_index_2": 126,
     "heRef_2": "ערכין ה.,  א",
     "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 1173,
+    "heRef_2": "בבא מציעא לד.,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

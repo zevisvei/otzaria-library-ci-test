@@ -1,33 +1,5 @@
 [
   {
-    "line_index_1": 399,
-    "line_index_2": 839,
-    "heRef_2": "שמות כט,  ח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 399,
-    "line_index_2": 840,
-    "heRef_2": "שמות כט,  ט",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 374,
-    "line_index_2": 78,
-    "heRef_2": "עזרא ב, סד",
-    "path_2": "עזרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 399,
-    "line_index_2": 698,
-    "heRef_2": "ויקרא כג, יז",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 113,
     "line_index_2": 140,
     "heRef_2": "תוספות על ערכין י., יג, א",
@@ -1064,6 +1036,27 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 192,
+    "line_index_2": 702,
+    "heRef_2": "ירמיהו כח, א",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 510,
+    "heRef_2": "שמואל א יח, כז",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 698,
+    "heRef_2": "ויקרא כג, יז",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 395,
     "line_index_2": 783,
     "heRef_2": "ויקרא כה, לג",
@@ -1075,20 +1068,6 @@
     "line_index_2": 182,
     "heRef_2": "ויקרא ח,  א",
     "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 34,
-    "heRef_2": "נחמיה ב, כ",
-    "path_2": "נחמיה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 399,
-    "line_index_2": 510,
-    "heRef_2": "שמואל א יח, כז",
-    "path_2": "שמואל א.txt",
     "Conection Type": ""
   },
   {
@@ -2667,10 +2646,31 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 192,
-    "line_index_2": 702,
-    "heRef_2": "ירמיהו כח, א",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 45,
+    "line_index_2": 34,
+    "heRef_2": "נחמיה ב, כ",
+    "path_2": "נחמיה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 839,
+    "heRef_2": "שמות כט,  ח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 840,
+    "heRef_2": "שמות כט,  ט",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 78,
+    "heRef_2": "עזרא ב, סד",
+    "path_2": "עזרא.txt",
     "Conection Type": ""
   }
 ]

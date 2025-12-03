@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 182,
+    "line_index_2": 1769,
+    "heRef_2": "גיטין נו., ט",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 1769,
+    "heRef_2": "גיטין נו., ט",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 56,
     "line_index_2": 3,
     "heRef_2": "כריתות ב.,  א",
@@ -67,13 +81,6 @@
     "line_index_2": 3,
     "heRef_2": "חגיגה ב.,  א",
     "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 3325,
-    "heRef_2": "חולין קח.,  א",
-    "path_2": "חולין.txt",
     "Conection Type": ""
   },
   {
@@ -1421,6 +1428,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 5,
+    "line_index_2": 3325,
+    "heRef_2": "חולין קח.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 168,
     "line_index_2": 303,
     "heRef_2": "חולין יב.,  א",
@@ -1463,17 +1477,31 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 98,
-    "line_index_2": 2950,
-    "heRef_2": "עירובין פא.,  א",
-    "path_2": "עירובין.txt",
+    "line_index_1": 188,
+    "line_index_2": 252,
+    "heRef_2": "ערכין ח.,  א",
+    "path_2": "ערכין.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 188,
-    "line_index_2": 3475,
-    "heRef_2": "עירובין צו.,  א",
-    "path_2": "עירובין.txt",
+    "line_index_1": 182,
+    "line_index_2": 600,
+    "heRef_2": "עבודה זרה כא.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 600,
+    "heRef_2": "עבודה זרה כא.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 870,
+    "heRef_2": "עבודה זרה ל.,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
@@ -1554,45 +1582,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 182,
-    "line_index_2": 1769,
-    "heRef_2": "גיטין נו., ט",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 1769,
-    "heRef_2": "גיטין נו., ט",
-    "path_2": "גיטין.txt",
+    "line_index_1": 98,
+    "line_index_2": 2950,
+    "heRef_2": "עירובין פא.,  א",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 188,
-    "line_index_2": 252,
-    "heRef_2": "ערכין ח.,  א",
-    "path_2": "ערכין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 600,
-    "heRef_2": "עבודה זרה כא.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 600,
-    "heRef_2": "עבודה זרה כא.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 210,
-    "line_index_2": 870,
-    "heRef_2": "עבודה זרה ל.,  א",
-    "path_2": "עבודה זרה.txt",
+    "line_index_2": 3475,
+    "heRef_2": "עירובין צו.,  א",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 18,
-    "line_index_2": 3002,
-    "heRef_2": "חולין צז:,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 25,
     "line_index_2": 21,
     "heRef_2": "ספר הפרנס י, א",
@@ -173,5 +166,12 @@
     "heRef_2": "ספר הפרנס ח, א",
     "path_2": "ספר הפרנס.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 3002,
+    "heRef_2": "חולין צז:,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
   }
 ]

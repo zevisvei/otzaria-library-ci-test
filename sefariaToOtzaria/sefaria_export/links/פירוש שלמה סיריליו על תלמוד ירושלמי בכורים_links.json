@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 393,
-    "line_index_2": 1065,
-    "heRef_2": "פסחים לו:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 6,
     "line_index_2": 4,
     "heRef_2": "תלמוד ירושלמי בכורים א, א, א",
@@ -4723,5 +4716,12 @@
     "heRef_2": "תלמוד ירושלמי בכורים ג, ו, ד",
     "path_2": "תלמוד ירושלמי בכורים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 393,
+    "line_index_2": 1065,
+    "heRef_2": "פסחים לו:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,54 +1,5 @@
 [
   {
-    "line_index_1": 51,
-    "line_index_2": 303,
-    "heRef_2": "שמות יב, ו",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 594,
-    "heRef_2": "שמות כא, ל",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 644,
-    "heRef_2": "שמות כג, יא",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 587,
-    "heRef_2": "יחזקאל כג, כ",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 1195,
-    "heRef_2": "יחזקאל מד, טו",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 94,
-    "heRef_2": "עזרא ג, ט",
-    "path_2": "עזרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 232,
-    "line_index_2": 36,
-    "heRef_2": "יהושע ב, טו",
-    "path_2": "יהושע.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 32,
     "line_index_2": 9,
     "heRef_2": "רש״ש על משנה ערכין ב, א, ב",
@@ -133,10 +84,24 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 226,
+    "line_index_2": 745,
+    "heRef_2": "מלכים א כ, לג",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 43,
-    "line_index_2": 1298,
-    "heRef_2": "סוכה נא., ב",
-    "path_2": "סוכה.txt",
+    "line_index_2": 623,
+    "heRef_2": "ישעיהו ל, כט",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 36,
+    "heRef_2": "יהושע ב, טו",
+    "path_2": "יהושע.txt",
     "Conection Type": ""
   },
   {
@@ -179,6 +144,27 @@
     "line_index_2": 861,
     "heRef_2": "ויקרא כז, ח",
     "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 310,
+    "heRef_2": "דברים י, ח",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 627,
+    "heRef_2": "דברים כב, כט",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 1298,
+    "heRef_2": "סוכה נא., ב",
+    "path_2": "סוכה.txt",
     "Conection Type": ""
   },
   {
@@ -231,17 +217,59 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 47,
-    "line_index_2": 310,
-    "heRef_2": "דברים י, ח",
-    "path_2": "דברים.txt",
+    "line_index_1": 215,
+    "line_index_2": 3490,
+    "heRef_2": "בבא מציעא קו., ח",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 74,
-    "line_index_2": 627,
-    "heRef_2": "דברים כב, כט",
-    "path_2": "דברים.txt",
+    "line_index_1": 173,
+    "line_index_2": 1335,
+    "heRef_2": "בבא מציעא לט., א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 303,
+    "heRef_2": "שמות יב, ו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 594,
+    "heRef_2": "שמות כא, ל",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 644,
+    "heRef_2": "שמות כג, יא",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 587,
+    "heRef_2": "יחזקאל כג, כ",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 1195,
+    "heRef_2": "יחזקאל מד, טו",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 94,
+    "heRef_2": "עזרא ג, ט",
+    "path_2": "עזרא.txt",
     "Conection Type": ""
   },
   {
@@ -1545,33 +1573,5 @@
     "heRef_2": "משנה ערכין ט, ח",
     "path_2": "משנה ערכין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 3490,
-    "heRef_2": "בבא מציעא קו., ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 1335,
-    "heRef_2": "בבא מציעא לט., א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 226,
-    "line_index_2": 745,
-    "heRef_2": "מלכים א כ, לג",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 623,
-    "heRef_2": "ישעיהו ל, כט",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

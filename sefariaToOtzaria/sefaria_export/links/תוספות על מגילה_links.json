@@ -1,23 +1,1689 @@
 [
   {
-    "line_index_1": 96,
+    "line_index_1": 159,
+    "line_index_2": 2548,
+    "heRef_2": "פסחים פא.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 159,
+    "heRef_2": "פתח עינים על מגילה יט:, ב",
+    "path_2": "פתח עינים על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 101,
+    "heRef_2": "פסקי תוספות על מגילה ק, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 102,
+    "heRef_2": "פסקי תוספות על מגילה קא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 103,
+    "heRef_2": "פסקי תוספות על מגילה קב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 104,
+    "heRef_2": "פסקי תוספות על מגילה קג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 105,
+    "heRef_2": "פסקי תוספות על מגילה קד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 106,
+    "heRef_2": "פסקי תוספות על מגילה קה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 107,
+    "heRef_2": "פסקי תוספות על מגילה קו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 108,
+    "heRef_2": "פסקי תוספות על מגילה קז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 109,
+    "heRef_2": "פסקי תוספות על מגילה קח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 110,
+    "heRef_2": "פסקי תוספות על מגילה קט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 11,
+    "heRef_2": "פסקי תוספות על מגילה י, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 111,
+    "heRef_2": "פסקי תוספות על מגילה קי, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 112,
+    "heRef_2": "פסקי תוספות על מגילה קיא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 113,
+    "heRef_2": "פסקי תוספות על מגילה קיב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 114,
+    "heRef_2": "פסקי תוספות על מגילה קיג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 115,
+    "heRef_2": "פסקי תוספות על מגילה קיד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 116,
+    "heRef_2": "פסקי תוספות על מגילה קטו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 117,
+    "heRef_2": "פסקי תוספות על מגילה קטז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 118,
+    "heRef_2": "פסקי תוספות על מגילה קיז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 119,
+    "heRef_2": "פסקי תוספות על מגילה קיח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 120,
+    "heRef_2": "פסקי תוספות על מגילה קיט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 12,
+    "heRef_2": "פסקי תוספות על מגילה יא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 121,
+    "heRef_2": "פסקי תוספות על מגילה קכ, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 13,
+    "heRef_2": "פסקי תוספות על מגילה יב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 14,
+    "heRef_2": "פסקי תוספות על מגילה יג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 15,
+    "heRef_2": "פסקי תוספות על מגילה יד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 16,
+    "heRef_2": "פסקי תוספות על מגילה טו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 17,
+    "heRef_2": "פסקי תוספות על מגילה טז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 18,
+    "heRef_2": "פסקי תוספות על מגילה יז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 19,
+    "heRef_2": "פסקי תוספות על מגילה יח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 20,
+    "heRef_2": "פסקי תוספות על מגילה יט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 21,
+    "heRef_2": "פסקי תוספות על מגילה כ, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 22,
+    "heRef_2": "פסקי תוספות על מגילה כא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 23,
+    "heRef_2": "פסקי תוספות על מגילה כב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 24,
+    "heRef_2": "פסקי תוספות על מגילה כג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 25,
+    "heRef_2": "פסקי תוספות על מגילה כד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
     "line_index_2": 26,
-    "heRef_2": "אסתר ב, א",
-    "path_2": "אסתר.txt",
+    "heRef_2": "פסקי תוספות על מגילה כה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 27,
+    "heRef_2": "פסקי תוספות על מגילה כו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 29,
+    "heRef_2": "פסקי תוספות על מגילה כח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 30,
+    "heRef_2": "פסקי תוספות על מגילה כט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 31,
+    "heRef_2": "פסקי תוספות על מגילה ל, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 33,
+    "heRef_2": "פסקי תוספות על מגילה לב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 34,
+    "heRef_2": "פסקי תוספות על מגילה לג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 35,
+    "heRef_2": "פסקי תוספות על מגילה לד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 36,
+    "heRef_2": "פסקי תוספות על מגילה לה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 37,
+    "heRef_2": "פסקי תוספות על מגילה לו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 38,
+    "heRef_2": "פסקי תוספות על מגילה לז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 39,
+    "heRef_2": "פסקי תוספות על מגילה לח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 40,
+    "heRef_2": "פסקי תוספות על מגילה לט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 41,
+    "heRef_2": "פסקי תוספות על מגילה מ, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 42,
+    "heRef_2": "פסקי תוספות על מגילה מא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 43,
+    "heRef_2": "פסקי תוספות על מגילה מב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 44,
+    "heRef_2": "פסקי תוספות על מגילה מג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 45,
+    "heRef_2": "פסקי תוספות על מגילה מד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 46,
+    "heRef_2": "פסקי תוספות על מגילה מה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 47,
+    "heRef_2": "פסקי תוספות על מגילה מו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 48,
+    "heRef_2": "פסקי תוספות על מגילה מז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 49,
+    "heRef_2": "פסקי תוספות על מגילה מח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 50,
+    "heRef_2": "פסקי תוספות על מגילה מט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 5,
+    "heRef_2": "פסקי תוספות על מגילה ד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 51,
+    "heRef_2": "פסקי תוספות על מגילה נ, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 52,
+    "heRef_2": "פסקי תוספות על מגילה נא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 53,
+    "heRef_2": "פסקי תוספות על מגילה נב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 54,
+    "heRef_2": "פסקי תוספות על מגילה נג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 55,
+    "heRef_2": "פסקי תוספות על מגילה נד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 56,
+    "heRef_2": "פסקי תוספות על מגילה נה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 57,
+    "heRef_2": "פסקי תוספות על מגילה נו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 58,
+    "heRef_2": "פסקי תוספות על מגילה נז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 59,
+    "heRef_2": "פסקי תוספות על מגילה נח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 60,
+    "heRef_2": "פסקי תוספות על מגילה נט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 6,
+    "heRef_2": "פסקי תוספות על מגילה ה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 61,
+    "heRef_2": "פסקי תוספות על מגילה ס, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 62,
+    "heRef_2": "פסקי תוספות על מגילה סא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 63,
+    "heRef_2": "פסקי תוספות על מגילה סב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 64,
+    "heRef_2": "פסקי תוספות על מגילה סג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 65,
+    "heRef_2": "פסקי תוספות על מגילה סד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 66,
+    "heRef_2": "פסקי תוספות על מגילה סה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 67,
+    "heRef_2": "פסקי תוספות על מגילה סו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 68,
+    "heRef_2": "פסקי תוספות על מגילה סז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 69,
+    "heRef_2": "פסקי תוספות על מגילה סח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 70,
+    "heRef_2": "פסקי תוספות על מגילה סט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 7,
+    "heRef_2": "פסקי תוספות על מגילה ו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 71,
+    "heRef_2": "פסקי תוספות על מגילה ע, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 72,
+    "heRef_2": "פסקי תוספות על מגילה עא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 73,
+    "heRef_2": "פסקי תוספות על מגילה עב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 74,
+    "heRef_2": "פסקי תוספות על מגילה עג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 75,
+    "heRef_2": "פסקי תוספות על מגילה עד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 76,
+    "heRef_2": "פסקי תוספות על מגילה עה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 77,
+    "heRef_2": "פסקי תוספות על מגילה עו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 78,
+    "heRef_2": "פסקי תוספות על מגילה עז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 79,
+    "heRef_2": "פסקי תוספות על מגילה עח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 80,
+    "heRef_2": "פסקי תוספות על מגילה עט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 8,
+    "heRef_2": "פסקי תוספות על מגילה ז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 81,
+    "heRef_2": "פסקי תוספות על מגילה פ, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 82,
+    "heRef_2": "פסקי תוספות על מגילה פא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 83,
+    "heRef_2": "פסקי תוספות על מגילה פב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 84,
+    "heRef_2": "פסקי תוספות על מגילה פג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 85,
+    "heRef_2": "פסקי תוספות על מגילה פד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 86,
+    "heRef_2": "פסקי תוספות על מגילה פה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 87,
+    "heRef_2": "פסקי תוספות על מגילה פו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 88,
+    "heRef_2": "פסקי תוספות על מגילה פז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 89,
+    "heRef_2": "פסקי תוספות על מגילה פח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 90,
+    "heRef_2": "פסקי תוספות על מגילה פט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 91,
+    "heRef_2": "פסקי תוספות על מגילה צ, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 92,
+    "heRef_2": "פסקי תוספות על מגילה צא, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 93,
+    "heRef_2": "פסקי תוספות על מגילה צב, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 94,
+    "heRef_2": "פסקי תוספות על מגילה צג, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 95,
+    "heRef_2": "פסקי תוספות על מגילה צד, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 96,
+    "heRef_2": "פסקי תוספות על מגילה צה, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 97,
+    "heRef_2": "פסקי תוספות על מגילה צו, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 98,
+    "heRef_2": "פסקי תוספות על מגילה צז, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 99,
+    "heRef_2": "פסקי תוספות על מגילה צח, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 100,
+    "heRef_2": "פסקי תוספות על מגילה צט, א",
+    "path_2": "פסקי תוספות על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 274,
+    "heRef_2": "משלי י, ז",
+    "path_2": "משלי.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 137,
-    "line_index_2": 484,
-    "heRef_2": "שמות יז, טו",
-    "path_2": "שמות.txt",
+    "line_index_1": 220,
+    "line_index_2": 2643,
+    "heRef_2": "תהילים קמז, יז",
+    "path_2": "תהילים.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 233,
-    "line_index_2": 1551,
-    "heRef_2": "בראשית מט, כז",
-    "path_2": "בראשית.txt",
+    "line_index_1": 27,
+    "line_index_2": 301,
+    "heRef_2": "תהילים כב, א",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 159,
+    "heRef_2": "רש\"ש על מגילה י., ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 160,
+    "heRef_2": "רש\"ש על מגילה י., ו",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 161,
+    "heRef_2": "רש\"ש על מגילה י., ז",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 162,
+    "heRef_2": "רש\"ש על מגילה י., ח",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 163,
+    "heRef_2": "רש\"ש על מגילה י., ט",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 189,
+    "heRef_2": "רש\"ש על מגילה יב:, ב",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 208,
+    "heRef_2": "רש\"ש על מגילה יד., ו",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 209,
+    "heRef_2": "רש\"ש על מגילה יד., ז",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 216,
+    "heRef_2": "רש\"ש על מגילה יד:, ו",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 277,
+    "heRef_2": "רש\"ש על מגילה יח:, ד",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 287,
+    "heRef_2": "רש\"ש על מגילה יט:, ד",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 288,
+    "heRef_2": "רש\"ש על מגילה יט:, ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 294,
+    "heRef_2": "רש\"ש על מגילה כ., ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 295,
+    "heRef_2": "רש\"ש על מגילה כ., ו",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 310,
+    "heRef_2": "רש\"ש על מגילה כא., ב",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 325,
+    "heRef_2": "רש\"ש על מגילה כב., ו",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 326,
+    "heRef_2": "רש\"ש על מגילה כב., ז",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 327,
+    "heRef_2": "רש\"ש על מגילה כב., ח",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 331,
+    "heRef_2": "רש\"ש על מגילה כב:, ג",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 335,
+    "heRef_2": "רש\"ש על מגילה כג., ב",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 336,
+    "heRef_2": "רש\"ש על מגילה כג., ג",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 337,
+    "heRef_2": "רש\"ש על מגילה כג., ד",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 348,
+    "heRef_2": "רש\"ש על מגילה כד., ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 349,
+    "heRef_2": "רש\"ש על מגילה כד., ו",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 350,
+    "heRef_2": "רש\"ש על מגילה כד., ז",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 362,
+    "heRef_2": "רש\"ש על מגילה כה., ז",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 363,
+    "heRef_2": "רש\"ש על מגילה כה., ח",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 380,
+    "heRef_2": "רש\"ש על מגילה כו:, ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 397,
+    "heRef_2": "רש\"ש על מגילה כח:, ג",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 419,
+    "heRef_2": "רש\"ש על מגילה ל:, ב",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 424,
+    "heRef_2": "רש\"ש על מגילה לא., ד",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 429,
+    "heRef_2": "רש\"ש על מגילה לא:, ד",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 430,
+    "heRef_2": "רש\"ש על מגילה לא:, ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 436,
+    "heRef_2": "רש\"ש על מגילה לב., ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 30,
+    "heRef_2": "רש\"ש על מגילה ג., יא",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 31,
+    "heRef_2": "רש\"ש על מגילה ג., יב",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 39,
+    "heRef_2": "רש\"ש על מגילה ג:, ז",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 40,
+    "heRef_2": "רש\"ש על מגילה ג:, ח",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 51,
+    "heRef_2": "רש\"ש על מגילה ד., י",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 49,
+    "heRef_2": "רש\"ש על מגילה ד., ח",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 50,
+    "heRef_2": "רש\"ש על מגילה ד., ט",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 59,
+    "heRef_2": "רש\"ש על מגילה ה., ב",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 86,
+    "heRef_2": "רש\"ש על מגילה ו:, ד",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 98,
+    "heRef_2": "רש\"ש על מגילה ז., י",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 97,
+    "heRef_2": "רש\"ש על מגילה ז., ט",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 104,
+    "heRef_2": "רש\"ש על מגילה ז:, ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 108,
+    "heRef_2": "רש\"ש על מגילה ז:, ט",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 112,
+    "heRef_2": "רש\"ש על מגילה ח., ג",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 113,
+    "heRef_2": "רש\"ש על מגילה ח., ד",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 114,
+    "heRef_2": "רש\"ש על מגילה ח., ה",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 143,
+    "heRef_2": "רש\"ש על מגילה ט., יא",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 144,
+    "heRef_2": "רש\"ש על מגילה ט., יב",
+    "path_2": "רשש על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 880,
+    "heRef_2": "רש\"ש על שבת קטז., א",
+    "path_2": "רשש על שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 492,
+    "heRef_2": "ראש השנה יח:, ב",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 952,
+    "heRef_2": "ראש השנה לא:, ח",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 500,
+    "heRef_2": "סנהדרין יח:, ח",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 1324,
+    "heRef_2": "סנהדרין לו., טו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 3654,
+    "heRef_2": "סנהדרין צג:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 1242,
+    "heRef_2": "ספר הערוך, אות הבי\"ת ריז",
+    "path_2": "ספר הערוך.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 30,
+    "heRef_2": "שערי תורת בבל על מגילה יב:, א",
+    "path_2": "שערי תורת בבל על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 37,
+    "heRef_2": "שערי תורת בבל על מגילה כא., א",
+    "path_2": "שערי תורת בבל על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 2451,
+    "heRef_2": "שבת קד., ה",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 2673,
+    "heRef_2": "שבת קיג:,  ג",
+    "path_2": "שבת.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 2674,
+    "heRef_2": "שבת קיג:,  ד",
+    "path_2": "שבת.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 2718,
+    "heRef_2": "שבת קטו:, ג",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 2727,
+    "heRef_2": "שבת קטז., ד",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 2728,
+    "heRef_2": "שבת קטז., ה",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 2738,
+    "heRef_2": "שבת קטז:, ג",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 2738,
+    "heRef_2": "שבת קטז:, ג",
+    "path_2": "שבת.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 3218,
+    "heRef_2": "שבת קלב., א",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 494,
+    "heRef_2": "שבת כג:, ד",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 506,
+    "heRef_2": "שבת כד., ז",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 506,
+    "heRef_2": "שבת כד., ז",
+    "path_2": "שבת.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 951,
+    "heRef_2": "ישעיהו מד, כז",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 1055,
+    "heRef_2": "ישעיהו מט, כג",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 1103,
+    "heRef_2": "ישעיהו נב, ח",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 1157,
+    "heRef_2": "ישעיהו נו, א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 1157,
+    "heRef_2": "ישעיהו נו, א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 1194,
+    "heRef_2": "ירמיהו מח, יא",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 263,
+    "heRef_2": "ירמיהו ט, כג",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 80,
+    "heRef_2": "גליון הש\"ס על מגילה יט., א",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 84,
+    "heRef_2": "גליון הש\"ס על מגילה יט:, ג",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 85,
+    "heRef_2": "גליון הש\"ס על מגילה יט:, ד",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 86,
+    "heRef_2": "גליון הש\"ס על מגילה יט:, ה",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 88,
+    "heRef_2": "גליון הש\"ס על מגילה כ., א",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 89,
+    "heRef_2": "גליון הש\"ס על מגילה כ., ב",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 92,
+    "heRef_2": "גליון הש\"ס על מגילה כ:, ב",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 101,
+    "heRef_2": "גליון הש\"ס על מגילה כג., ד",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 104,
+    "heRef_2": "גליון הש\"ס על מגילה כג:, ב",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 107,
+    "heRef_2": "גליון הש\"ס על מגילה כד., ב",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 108,
+    "heRef_2": "גליון הש\"ס על מגילה כד., ג",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 115,
+    "heRef_2": "גליון הש\"ס על מגילה כה., ב",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 11,
+    "heRef_2": "גליון הש\"ס על מגילה ג., ה",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 15,
+    "heRef_2": "גליון הש\"ס על מגילה ד., א",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 16,
+    "heRef_2": "גליון הש\"ס על מגילה ד., ב",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 18,
+    "heRef_2": "גליון הש\"ס על מגילה ד:, א",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 19,
+    "heRef_2": "גליון הש\"ס על מגילה ד:, ב",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 23,
+    "heRef_2": "גליון הש\"ס על מגילה ה:, א",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 36,
+    "heRef_2": "גליון הש\"ס על מגילה ט:, ד",
+    "path_2": "גליון השס על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 498,
+    "heRef_2": "גליון הש\"ס על שבת קטז., א",
+    "path_2": "גליון השס על שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 1142,
+    "heRef_2": "גיטין לח:, יב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 1886,
+    "heRef_2": "גיטין נט.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 1932,
+    "heRef_2": "גיטין ס., ב",
+    "path_2": "גיטין.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 2143,
+    "heRef_2": "גיטין סו.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 238,
+    "heRef_2": "הגהות הגרי״ב על מסכת סופרים טז, יא, א",
+    "path_2": "הגהות הגריב על מסכת סופרים.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 38,
+    "heRef_2": "הגהות יעב\"ץ על מגילה י., א",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 68,
+    "heRef_2": "הגהות יעב\"ץ על מגילה יד., ו",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 80,
+    "heRef_2": "הגהות יעב\"ץ על מגילה טז., א",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 90,
+    "heRef_2": "הגהות יעב\"ץ על מגילה כ:, א",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 112,
+    "heRef_2": "הגהות יעב\"ץ על מגילה כז:, ג",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 114,
+    "heRef_2": "הגהות יעב\"ץ על מגילה כח., א",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 285,
+    "line_index_2": 126,
+    "heRef_2": "הגהות יעב\"ץ על מגילה לא:, א",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 13,
+    "heRef_2": "הגהות יעב\"ץ על מגילה ד., א",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 17,
+    "heRef_2": "הגהות יעב\"ץ על מגילה ה:, ג",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 18,
+    "heRef_2": "הגהות יעב\"ץ על מגילה ה:, ד",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 28,
+    "heRef_2": "הגהות יעב\"ץ על מגילה ז., א",
+    "path_2": "הגהות יעבץ על מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "heRef_2": "שמואל א א, א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 689,
+    "heRef_2": "שמואל א כה, יג",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 32,
+    "heRef_2": "שמואל א ב, א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 586,
+    "heRef_2": "דברי הימים ב כו, כא",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 155,
+    "heRef_2": "שמואל ב ו, יג",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 220,
+    "heRef_2": "ישעיהו י, יג",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 30,
+    "heRef_2": "ישעיהו א, כח",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
@@ -77,11 +1743,25 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 163,
-    "line_index_2": 682,
-    "heRef_2": "ויקרא כג,  א",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
+    "line_index_1": 37,
+    "line_index_2": 333,
+    "heRef_2": "ביצה יב., ג",
+    "path_2": "ביצה.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 558,
+    "heRef_2": "ביצה יט.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 1197,
+    "heRef_2": "ביצה לט:,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 85,
@@ -469,556 +2149,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 83,
-    "line_index_2": 159,
-    "heRef_2": "רש\"ש על מגילה י., ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 160,
-    "heRef_2": "רש\"ש על מגילה י., ו",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 161,
-    "heRef_2": "רש\"ש על מגילה י., ז",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 162,
-    "heRef_2": "רש\"ש על מגילה י., ח",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 163,
-    "heRef_2": "רש\"ש על מגילה י., ט",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 189,
-    "heRef_2": "רש\"ש על מגילה יב:, ב",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 208,
-    "heRef_2": "רש\"ש על מגילה יד., ו",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 209,
-    "heRef_2": "רש\"ש על מגילה יד., ז",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 216,
-    "heRef_2": "רש\"ש על מגילה יד:, ו",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 277,
-    "heRef_2": "רש\"ש על מגילה יח:, ד",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 287,
-    "heRef_2": "רש\"ש על מגילה יט:, ד",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 288,
-    "heRef_2": "רש\"ש על מגילה יט:, ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 294,
-    "heRef_2": "רש\"ש על מגילה כ., ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 295,
-    "heRef_2": "רש\"ש על מגילה כ., ו",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 310,
-    "heRef_2": "רש\"ש על מגילה כא., ב",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 325,
-    "heRef_2": "רש\"ש על מגילה כב., ו",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 326,
-    "heRef_2": "רש\"ש על מגילה כב., ז",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 327,
-    "heRef_2": "רש\"ש על מגילה כב., ח",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 331,
-    "heRef_2": "רש\"ש על מגילה כב:, ג",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 192,
-    "line_index_2": 335,
-    "heRef_2": "רש\"ש על מגילה כג., ב",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 194,
-    "line_index_2": 336,
-    "heRef_2": "רש\"ש על מגילה כג., ג",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 195,
-    "line_index_2": 337,
-    "heRef_2": "רש\"ש על מגילה כג., ד",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 348,
-    "heRef_2": "רש\"ש על מגילה כד., ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 349,
-    "heRef_2": "רש\"ש על מגילה כד., ו",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 350,
-    "heRef_2": "רש\"ש על מגילה כד., ז",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 220,
-    "line_index_2": 362,
-    "heRef_2": "רש\"ש על מגילה כה., ז",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 363,
-    "heRef_2": "רש\"ש על מגילה כה., ח",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 236,
-    "line_index_2": 380,
-    "heRef_2": "רש\"ש על מגילה כו:, ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 397,
-    "heRef_2": "רש\"ש על מגילה כח:, ג",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 274,
-    "line_index_2": 419,
-    "heRef_2": "רש\"ש על מגילה ל:, ב",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 277,
-    "line_index_2": 424,
-    "heRef_2": "רש\"ש על מגילה לא., ד",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 282,
-    "line_index_2": 429,
-    "heRef_2": "רש\"ש על מגילה לא:, ד",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 286,
-    "line_index_2": 430,
-    "heRef_2": "רש\"ש על מגילה לא:, ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 288,
-    "line_index_2": 436,
-    "heRef_2": "רש\"ש על מגילה לב., ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 30,
-    "heRef_2": "רש\"ש על מגילה ג., יא",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 31,
-    "heRef_2": "רש\"ש על מגילה ג., יב",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 39,
-    "heRef_2": "רש\"ש על מגילה ג:, ז",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 40,
-    "heRef_2": "רש\"ש על מגילה ג:, ח",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 51,
-    "heRef_2": "רש\"ש על מגילה ד., י",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 49,
-    "heRef_2": "רש\"ש על מגילה ד., ח",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 50,
-    "heRef_2": "רש\"ש על מגילה ד., ט",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 59,
-    "heRef_2": "רש\"ש על מגילה ה., ב",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 86,
-    "heRef_2": "רש\"ש על מגילה ו:, ד",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 98,
-    "heRef_2": "רש\"ש על מגילה ז., י",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 97,
-    "heRef_2": "רש\"ש על מגילה ז., ט",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 104,
-    "heRef_2": "רש\"ש על מגילה ז:, ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 108,
-    "heRef_2": "רש\"ש על מגילה ז:, ט",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 112,
-    "heRef_2": "רש\"ש על מגילה ח., ג",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 113,
-    "heRef_2": "רש\"ש על מגילה ח., ד",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 114,
-    "heRef_2": "רש\"ש על מגילה ח., ה",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 143,
-    "heRef_2": "רש\"ש על מגילה ט., יא",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 144,
-    "heRef_2": "רש\"ש על מגילה ט., יב",
-    "path_2": "רשש על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 492,
-    "heRef_2": "ראש השנה יח:, ב",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 952,
-    "heRef_2": "ראש השנה לא:, ח",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 500,
-    "heRef_2": "סנהדרין יח:, ח",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 1324,
-    "heRef_2": "סנהדרין לו., טו",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 3654,
-    "heRef_2": "סנהדרין צג:,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 30,
-    "heRef_2": "שערי תורת בבל על מגילה יב:, א",
-    "path_2": "שערי תורת בבל על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 37,
-    "heRef_2": "שערי תורת בבל על מגילה כא., א",
-    "path_2": "שערי תורת בבל על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 2451,
-    "heRef_2": "שבת קד., ה",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 2673,
-    "heRef_2": "שבת קיג:,  ג",
-    "path_2": "שבת.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 2674,
-    "heRef_2": "שבת קיג:,  ד",
-    "path_2": "שבת.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 2718,
-    "heRef_2": "שבת קטו:, ג",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 288,
-    "line_index_2": 2727,
-    "heRef_2": "שבת קטז., ד",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 2738,
-    "heRef_2": "שבת קטז:, ג",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 2738,
-    "heRef_2": "שבת קטז:, ג",
-    "path_2": "שבת.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 3218,
-    "heRef_2": "שבת קלב., א",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 494,
-    "heRef_2": "שבת כג:, ד",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 506,
-    "heRef_2": "שבת כד., ז",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 506,
-    "heRef_2": "שבת כד., ז",
-    "path_2": "שבת.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 1021,
-    "heRef_2": "שבת מט., ז",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 1288,
-    "heRef_2": "שבת נו., ז",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 102,
-    "heRef_2": "שבת ה:, ח",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 2098,
-    "heRef_2": "שבת פח., ה",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 2232,
-    "heRef_2": "שבת צה., ב",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 4842,
-    "heRef_2": "שם משמואל, תצוה יב, ב",
-    "path_2": "שם משמואל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 1013,
-    "heRef_2": "סוכה לח:, ג",
-    "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 209,
-    "line_index_2": 1096,
-    "heRef_2": "סוכה מב., יב",
-    "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 104,
-    "heRef_2": "סוכה ה., ד",
-    "path_2": "סוכה.txt",
+    "line_index_1": 163,
+    "line_index_2": 682,
+    "heRef_2": "ויקרא כג,  א",
+    "path_2": "ויקרא.txt",
     "Conection Type": ""
   },
   {
@@ -1146,6 +2280,13 @@
     "heRef_2": "מגילה יג:, ז",
     "path_2": "מגילה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 525,
+    "heRef_2": "מגילה יד., י",
+    "path_2": "מגילה.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 107,
@@ -2765,937 +3906,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 79,
-    "line_index_2": 643,
-    "heRef_2": "מנחות יט., ח",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 1067,
-    "heRef_2": "מנחות ל:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 1205,
-    "heRef_2": "מנחות לה:,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 1249,
-    "heRef_2": "מנחות לז:, ג",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 661,
-    "heRef_2": "נדה כ., ה",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 661,
-    "heRef_2": "נדה כ., ה",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 859,
-    "heRef_2": "נדה כד:,  א",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 259,
-    "line_index_2": 1616,
-    "heRef_2": "נדה מג., יד",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 143,
-    "line_index_2": 195,
-    "heRef_2": "במדבר ה,  א",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 255,
-    "line_index_2": 3220,
-    "heRef_2": "פסחים קא., ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 3624,
-    "heRef_2": "פסחים קיז:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 3735,
-    "heRef_2": "פסחים קכ:, א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 1332,
-    "heRef_2": "פסחים מג:, א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 2011,
-    "heRef_2": "פסחים סה:, י",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 2062,
-    "heRef_2": "פסחים סז:, ב",
-    "path_2": "פסחים.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 2548,
-    "heRef_2": "פסחים פא.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 159,
-    "heRef_2": "פתח עינים על מגילה יט:, ב",
-    "path_2": "פתח עינים על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 101,
-    "heRef_2": "פסקי תוספות על מגילה ק, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 102,
-    "heRef_2": "פסקי תוספות על מגילה קא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 103,
-    "heRef_2": "פסקי תוספות על מגילה קב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 104,
-    "heRef_2": "פסקי תוספות על מגילה קג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 105,
-    "heRef_2": "פסקי תוספות על מגילה קד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 261,
-    "line_index_2": 106,
-    "heRef_2": "פסקי תוספות על מגילה קה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 263,
-    "line_index_2": 107,
-    "heRef_2": "פסקי תוספות על מגילה קו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 108,
-    "heRef_2": "פסקי תוספות על מגילה קז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 109,
-    "heRef_2": "פסקי תוספות על מגילה קח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 110,
-    "heRef_2": "פסקי תוספות על מגילה קט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 11,
-    "heRef_2": "פסקי תוספות על מגילה י, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 111,
-    "heRef_2": "פסקי תוספות על מגילה קי, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 276,
-    "line_index_2": 112,
-    "heRef_2": "פסקי תוספות על מגילה קיא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 113,
-    "heRef_2": "פסקי תוספות על מגילה קיב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 279,
-    "line_index_2": 114,
-    "heRef_2": "פסקי תוספות על מגילה קיג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 280,
-    "line_index_2": 115,
-    "heRef_2": "פסקי תוספות על מגילה קיד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 286,
-    "line_index_2": 116,
-    "heRef_2": "פסקי תוספות על מגילה קטו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 288,
-    "line_index_2": 117,
-    "heRef_2": "פסקי תוספות על מגילה קטז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 289,
-    "line_index_2": 118,
-    "heRef_2": "פסקי תוספות על מגילה קיז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 291,
-    "line_index_2": 119,
-    "heRef_2": "פסקי תוספות על מגילה קיח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 292,
-    "line_index_2": 120,
-    "heRef_2": "פסקי תוספות על מגילה קיט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 12,
-    "heRef_2": "פסקי תוספות על מגילה יא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 293,
-    "line_index_2": 121,
-    "heRef_2": "פסקי תוספות על מגילה קכ, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 13,
-    "heRef_2": "פסקי תוספות על מגילה יב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 14,
-    "heRef_2": "פסקי תוספות על מגילה יג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 15,
-    "heRef_2": "פסקי תוספות על מגילה יד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 16,
-    "heRef_2": "פסקי תוספות על מגילה טו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 17,
-    "heRef_2": "פסקי תוספות על מגילה טז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 18,
-    "heRef_2": "פסקי תוספות על מגילה יז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 19,
-    "heRef_2": "פסקי תוספות על מגילה יח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 20,
-    "heRef_2": "פסקי תוספות על מגילה יט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 21,
-    "heRef_2": "פסקי תוספות על מגילה כ, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 22,
-    "heRef_2": "פסקי תוספות על מגילה כא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 23,
-    "heRef_2": "פסקי תוספות על מגילה כב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 24,
-    "heRef_2": "פסקי תוספות על מגילה כג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 25,
-    "heRef_2": "פסקי תוספות על מגילה כד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 26,
-    "heRef_2": "פסקי תוספות על מגילה כה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 27,
-    "heRef_2": "פסקי תוספות על מגילה כו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 29,
-    "heRef_2": "פסקי תוספות על מגילה כח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 30,
-    "heRef_2": "פסקי תוספות על מגילה כט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 31,
-    "heRef_2": "פסקי תוספות על מגילה ל, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 33,
-    "heRef_2": "פסקי תוספות על מגילה לב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 34,
-    "heRef_2": "פסקי תוספות על מגילה לג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 35,
-    "heRef_2": "פסקי תוספות על מגילה לד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 36,
-    "heRef_2": "פסקי תוספות על מגילה לה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 37,
-    "heRef_2": "פסקי תוספות על מגילה לו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 38,
-    "heRef_2": "פסקי תוספות על מגילה לז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 39,
-    "heRef_2": "פסקי תוספות על מגילה לח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 40,
-    "heRef_2": "פסקי תוספות על מגילה לט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 41,
-    "heRef_2": "פסקי תוספות על מגילה מ, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 42,
-    "heRef_2": "פסקי תוספות על מגילה מא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 43,
-    "heRef_2": "פסקי תוספות על מגילה מב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 44,
-    "heRef_2": "פסקי תוספות על מגילה מג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 144,
-    "line_index_2": 45,
-    "heRef_2": "פסקי תוספות על מגילה מד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 46,
-    "heRef_2": "פסקי תוספות על מגילה מה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 47,
-    "heRef_2": "פסקי תוספות על מגילה מו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 48,
-    "heRef_2": "פסקי תוספות על מגילה מז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 150,
-    "line_index_2": 49,
-    "heRef_2": "פסקי תוספות על מגילה מח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 50,
-    "heRef_2": "פסקי תוספות על מגילה מט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 5,
-    "heRef_2": "פסקי תוספות על מגילה ד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 51,
-    "heRef_2": "פסקי תוספות על מגילה נ, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 52,
-    "heRef_2": "פסקי תוספות על מגילה נא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 53,
-    "heRef_2": "פסקי תוספות על מגילה נב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 54,
-    "heRef_2": "פסקי תוספות על מגילה נג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 55,
-    "heRef_2": "פסקי תוספות על מגילה נד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 56,
-    "heRef_2": "פסקי תוספות על מגילה נה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 57,
-    "heRef_2": "פסקי תוספות על מגילה נו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 58,
-    "heRef_2": "פסקי תוספות על מגילה נז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 59,
-    "heRef_2": "פסקי תוספות על מגילה נח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 60,
-    "heRef_2": "פסקי תוספות על מגילה נט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 6,
-    "heRef_2": "פסקי תוספות על מגילה ה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 61,
-    "heRef_2": "פסקי תוספות על מגילה ס, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 62,
-    "heRef_2": "פסקי תוספות על מגילה סא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 63,
-    "heRef_2": "פסקי תוספות על מגילה סב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 64,
-    "heRef_2": "פסקי תוספות על מגילה סג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 65,
-    "heRef_2": "פסקי תוספות על מגילה סד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 186,
-    "line_index_2": 66,
-    "heRef_2": "פסקי תוספות על מגילה סה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 186,
-    "line_index_2": 67,
-    "heRef_2": "פסקי תוספות על מגילה סו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 194,
-    "line_index_2": 68,
-    "heRef_2": "פסקי תוספות על מגילה סז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 195,
-    "line_index_2": 69,
-    "heRef_2": "פסקי תוספות על מגילה סח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 197,
-    "line_index_2": 70,
-    "heRef_2": "פסקי תוספות על מגילה סט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 7,
-    "heRef_2": "פסקי תוספות על מגילה ו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 71,
-    "heRef_2": "פסקי תוספות על מגילה ע, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 72,
-    "heRef_2": "פסקי תוספות על מגילה עא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 73,
-    "heRef_2": "פסקי תוספות על מגילה עב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 205,
-    "line_index_2": 74,
-    "heRef_2": "פסקי תוספות על מגילה עג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 75,
-    "heRef_2": "פסקי תוספות על מגילה עד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 76,
-    "heRef_2": "פסקי תוספות על מגילה עה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 210,
-    "line_index_2": 77,
-    "heRef_2": "פסקי תוספות על מגילה עו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 78,
-    "heRef_2": "פסקי תוספות על מגילה עז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 79,
-    "heRef_2": "פסקי תוספות על מגילה עח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 80,
-    "heRef_2": "פסקי תוספות על מגילה עט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 8,
-    "heRef_2": "פסקי תוספות על מגילה ז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 213,
-    "line_index_2": 81,
-    "heRef_2": "פסקי תוספות על מגילה פ, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 214,
-    "line_index_2": 82,
-    "heRef_2": "פסקי תוספות על מגילה פא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 216,
-    "line_index_2": 83,
-    "heRef_2": "פסקי תוספות על מגילה פב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 218,
-    "line_index_2": 84,
-    "heRef_2": "פסקי תוספות על מגילה פג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 85,
-    "heRef_2": "פסקי תוספות על מגילה פד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 86,
-    "heRef_2": "פסקי תוספות על מגילה פה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 87,
-    "heRef_2": "פסקי תוספות על מגילה פו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 88,
-    "heRef_2": "פסקי תוספות על מגילה פז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 89,
-    "heRef_2": "פסקי תוספות על מגילה פח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 90,
-    "heRef_2": "פסקי תוספות על מגילה פט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 91,
-    "heRef_2": "פסקי תוספות על מגילה צ, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 92,
-    "heRef_2": "פסקי תוספות על מגילה צא, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 93,
-    "heRef_2": "פסקי תוספות על מגילה צב, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 238,
-    "line_index_2": 94,
-    "heRef_2": "פסקי תוספות על מגילה צג, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 238,
-    "line_index_2": 95,
-    "heRef_2": "פסקי תוספות על מגילה צד, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 240,
-    "line_index_2": 96,
-    "heRef_2": "פסקי תוספות על מגילה צה, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 247,
-    "line_index_2": 97,
-    "heRef_2": "פסקי תוספות על מגילה צו, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 248,
-    "line_index_2": 98,
-    "heRef_2": "פסקי תוספות על מגילה צז, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 99,
-    "heRef_2": "פסקי תוספות על מגילה צח, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 100,
-    "heRef_2": "פסקי תוספות על מגילה צט, א",
-    "path_2": "פסקי תוספות על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 193,
-    "line_index_2": 274,
-    "heRef_2": "משלי י, ז",
-    "path_2": "משלי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 220,
-    "line_index_2": 2643,
-    "heRef_2": "תהילים קמז, יז",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 301,
-    "heRef_2": "תהילים כב, א",
-    "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 43,
     "line_index_2": 150,
     "heRef_2": "חולין ו:,  א",
@@ -3724,487 +3934,67 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 250,
-    "line_index_2": 2049,
-    "heRef_2": "עירובין נד:, כב",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 2342,
-    "heRef_2": "עירובין סג:,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 2347,
-    "heRef_2": "עירובין סג:, ו",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 22,
-    "heRef_2": "משנה ידים ד, ג",
-    "path_2": "משנה ידים.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 263,
-    "line_index_2": 1012,
-    "heRef_2": "מועד קטן כז:, יב",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 262,
-    "line_index_2": 1012,
-    "heRef_2": "מועד קטן כז:, יב",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 664,
-    "heRef_2": "נדרים לב:, יב",
-    "path_2": "נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 980,
-    "heRef_2": "בבא בתרא לח., ד",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 1354,
-    "heRef_2": "בבא בתרא נז:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 1373,
-    "heRef_2": "בבא בתרא נח., ו",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 286,
-    "line_index_2": 2055,
-    "heRef_2": "בבא בתרא פח:, י",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 2405,
-    "heRef_2": "בבא קמא סב:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 3312,
-    "heRef_2": "בבא קמא פז., ג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 3499,
-    "heRef_2": "בבא מציעא קו:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 719,
-    "heRef_2": "בבא מציעא כא:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 248,
-    "line_index_2": 1902,
-    "heRef_2": "בבא מציעא נח:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 243,
-    "line_index_2": 2059,
-    "heRef_2": "בבא מציעא סג., ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 244,
-    "line_index_2": 2059,
-    "heRef_2": "בבא מציעא סג., ח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 213,
-    "line_index_2": 2730,
-    "heRef_2": "בבא מציעא פה:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 333,
-    "heRef_2": "ביצה יב., ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 558,
-    "heRef_2": "ביצה יט.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 1197,
-    "heRef_2": "ביצה לט:,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 80,
-    "heRef_2": "גליון הש\"ס על מגילה יט., א",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 84,
-    "heRef_2": "גליון הש\"ס על מגילה יט:, ג",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 85,
-    "heRef_2": "גליון הש\"ס על מגילה יט:, ד",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 86,
-    "heRef_2": "גליון הש\"ס על מגילה יט:, ה",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 88,
-    "heRef_2": "גליון הש\"ס על מגילה כ., א",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 89,
-    "heRef_2": "גליון הש\"ס על מגילה כ., ב",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 92,
-    "heRef_2": "גליון הש\"ס על מגילה כ:, ב",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 195,
-    "line_index_2": 101,
-    "heRef_2": "גליון הש\"ס על מגילה כג., ד",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 197,
-    "line_index_2": 104,
-    "heRef_2": "גליון הש\"ס על מגילה כג:, ב",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 107,
-    "heRef_2": "גליון הש\"ס על מגילה כד., ב",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 108,
-    "heRef_2": "גליון הש\"ס על מגילה כד., ג",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 115,
-    "heRef_2": "גליון הש\"ס על מגילה כה., ב",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 11,
-    "heRef_2": "גליון הש\"ס על מגילה ג., ה",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 15,
-    "heRef_2": "גליון הש\"ס על מגילה ד., א",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 16,
-    "heRef_2": "גליון הש\"ס על מגילה ד., ב",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 18,
-    "heRef_2": "גליון הש\"ס על מגילה ד:, א",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 19,
-    "heRef_2": "גליון הש\"ס על מגילה ד:, ב",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 23,
-    "heRef_2": "גליון הש\"ס על מגילה ה:, א",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 36,
-    "heRef_2": "גליון הש\"ס על מגילה ט:, ד",
-    "path_2": "גליון השס על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 1142,
-    "heRef_2": "גיטין לח:, יב",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 1886,
-    "heRef_2": "גיטין נט.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 1932,
-    "heRef_2": "גיטין ס., ב",
-    "path_2": "גיטין.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2143,
-    "heRef_2": "גיטין סו.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 238,
-    "heRef_2": "הגהות הגרי״ב על מסכת סופרים טז, יא, א",
-    "path_2": "הגהות הגריב על מסכת סופרים.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 38,
-    "heRef_2": "הגהות יעב\"ץ על מגילה י., א",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 68,
-    "heRef_2": "הגהות יעב\"ץ על מגילה יד., ו",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 80,
-    "heRef_2": "הגהות יעב\"ץ על מגילה טז., א",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 90,
-    "heRef_2": "הגהות יעב\"ץ על מגילה כ:, א",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 248,
-    "line_index_2": 112,
-    "heRef_2": "הגהות יעב\"ץ על מגילה כז:, ג",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 255,
-    "line_index_2": 114,
-    "heRef_2": "הגהות יעב\"ץ על מגילה כח., א",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 285,
-    "line_index_2": 126,
-    "heRef_2": "הגהות יעב\"ץ על מגילה לא:, א",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 13,
-    "heRef_2": "הגהות יעב\"ץ על מגילה ד., א",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 17,
-    "heRef_2": "הגהות יעב\"ץ על מגילה ה:, ג",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 18,
-    "heRef_2": "הגהות יעב\"ץ על מגילה ה:, ד",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 28,
-    "heRef_2": "הגהות יעב\"ץ על מגילה ז., א",
-    "path_2": "הגהות יעבץ על מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 3,
-    "heRef_2": "שמואל א א, א",
-    "path_2": "שמואל א.txt",
+    "line_index_1": 215,
+    "line_index_2": 1021,
+    "heRef_2": "שבת מט., ז",
+    "path_2": "שבת.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 110,
-    "line_index_2": 689,
-    "heRef_2": "שמואל א כה, יג",
-    "path_2": "שמואל א.txt",
+    "line_index_2": 1288,
+    "heRef_2": "שבת נו., ז",
+    "path_2": "שבת.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 108,
-    "line_index_2": 32,
-    "heRef_2": "שמואל א ב, א",
-    "path_2": "שמואל א.txt",
+    "line_index_1": 32,
+    "line_index_2": 102,
+    "heRef_2": "שבת ה:, ח",
+    "path_2": "שבת.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 96,
-    "line_index_2": 586,
-    "heRef_2": "דברי הימים ב כו, כא",
-    "path_2": "דברי הימים ב.txt",
+    "line_index_1": 56,
+    "line_index_2": 2098,
+    "heRef_2": "שבת פח., ה",
+    "path_2": "שבת.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 289,
-    "line_index_2": 155,
-    "heRef_2": "שמואל ב ו, יג",
-    "path_2": "שמואל ב.txt",
+    "line_index_1": 61,
+    "line_index_2": 2232,
+    "heRef_2": "שבת צה., ב",
+    "path_2": "שבת.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 97,
-    "line_index_2": 220,
-    "heRef_2": "ישעיהו י, יג",
-    "path_2": "ישעיהו.txt",
+    "line_index_1": 52,
+    "line_index_2": 4842,
+    "heRef_2": "שם משמואל, תצוה יב, ב",
+    "path_2": "שם משמואל.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 198,
-    "line_index_2": 30,
-    "heRef_2": "ישעיהו א, כח",
-    "path_2": "ישעיהו.txt",
+    "line_index_1": 151,
+    "line_index_2": 1013,
+    "heRef_2": "סוכה לח:, ג",
+    "path_2": "סוכה.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 76,
-    "line_index_2": 951,
-    "heRef_2": "ישעיהו מד, כז",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 1055,
-    "heRef_2": "ישעיהו מט, כג",
-    "path_2": "ישעיהו.txt",
+    "line_index_1": 209,
+    "line_index_2": 1096,
+    "heRef_2": "סוכה מב., יב",
+    "path_2": "סוכה.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 1103,
-    "heRef_2": "ישעיהו נב, ח",
-    "path_2": "ישעיהו.txt",
+    "line_index_1": 120,
+    "line_index_2": 104,
+    "heRef_2": "סוכה ה., ד",
+    "path_2": "סוכה.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 1157,
-    "heRef_2": "ישעיהו נו, א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 1157,
-    "heRef_2": "ישעיהו נו, א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": "quotation"
   },
   {
     "line_index_1": 66,
@@ -4389,17 +4179,262 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 97,
-    "line_index_2": 1194,
-    "heRef_2": "ירמיהו מח, יא",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 263,
+    "line_index_2": 1012,
+    "heRef_2": "מועד קטן כז:, יב",
+    "path_2": "מועד קטן.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 220,
-    "line_index_2": 263,
-    "heRef_2": "ירמיהו ט, כג",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 262,
+    "line_index_2": 1012,
+    "heRef_2": "מועד קטן כז:, יב",
+    "path_2": "מועד קטן.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 664,
+    "heRef_2": "נדרים לב:, יב",
+    "path_2": "נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 661,
+    "heRef_2": "נדה כ., ה",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 661,
+    "heRef_2": "נדה כ., ה",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 859,
+    "heRef_2": "נדה כד:,  א",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 1616,
+    "heRef_2": "נדה מג., יד",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 195,
+    "heRef_2": "במדבר ה,  א",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 3220,
+    "heRef_2": "פסחים קא., ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 3624,
+    "heRef_2": "פסחים קיז:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 3735,
+    "heRef_2": "פסחים קכ:, א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 1332,
+    "heRef_2": "פסחים מג:, א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 2011,
+    "heRef_2": "פסחים סה:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 2062,
+    "heRef_2": "פסחים סז:, ב",
+    "path_2": "פסחים.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 980,
+    "heRef_2": "בבא בתרא לח., ד",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 1354,
+    "heRef_2": "בבא בתרא נז:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 1373,
+    "heRef_2": "בבא בתרא נח., ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 2055,
+    "heRef_2": "בבא בתרא פח:, י",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 2405,
+    "heRef_2": "בבא קמא סב:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 3312,
+    "heRef_2": "בבא קמא פז., ג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 3499,
+    "heRef_2": "בבא מציעא קו:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 719,
+    "heRef_2": "בבא מציעא כא:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 1902,
+    "heRef_2": "בבא מציעא נח:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 2059,
+    "heRef_2": "בבא מציעא סג., ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 2059,
+    "heRef_2": "בבא מציעא סג., ח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 2730,
+    "heRef_2": "בבא מציעא פה:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 2049,
+    "heRef_2": "עירובין נד:, כב",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 2342,
+    "heRef_2": "עירובין סג:,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 2347,
+    "heRef_2": "עירובין סג:, ו",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 26,
+    "heRef_2": "אסתר ב, א",
+    "path_2": "אסתר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 484,
+    "heRef_2": "שמות יז, טו",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 1551,
+    "heRef_2": "בראשית מט, כז",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 643,
+    "heRef_2": "מנחות יט., ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 1067,
+    "heRef_2": "מנחות ל:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 1205,
+    "heRef_2": "מנחות לה:,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 1249,
+    "heRef_2": "מנחות לז:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 22,
+    "heRef_2": "משנה ידים ד, ג",
+    "path_2": "משנה ידים.txt",
+    "Conection Type": "reference"
   }
 ]

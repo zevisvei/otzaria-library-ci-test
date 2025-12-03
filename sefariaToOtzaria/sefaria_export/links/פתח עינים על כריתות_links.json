@@ -1,6 +1,13 @@
 [
   {
     "line_index_1": 4,
+    "line_index_2": 1163,
+    "heRef_2": "ספר החינוך רח, ב",
+    "path_2": "ספר החינוך.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 4,
     "line_index_2": 4,
     "heRef_2": "כריתות ב., ב",
     "path_2": "כריתות.txt",
@@ -264,12 +271,5 @@
     "heRef_2": "נדה טו.,  א",
     "path_2": "נדה.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 1163,
-    "heRef_2": "ספר החינוך רח, ב",
-    "path_2": "ספר החינוך.txt",
-    "Conection Type": "quotation"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 20,
+    "line_index_2": 2075,
+    "heRef_2": "גיטין סד.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1421,
+    "heRef_2": "עבודה זרה מז.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 1351,
+    "heRef_2": "עירובין לז., ד",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "משנה קינים א, א",
@@ -397,26 +418,5 @@
     "heRef_2": "משנה קינים ג, ו",
     "path_2": "משנה קינים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 1351,
-    "heRef_2": "עירובין לז., ד",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 2075,
-    "heRef_2": "גיטין סד.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 1421,
-    "heRef_2": "עבודה זרה מז.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

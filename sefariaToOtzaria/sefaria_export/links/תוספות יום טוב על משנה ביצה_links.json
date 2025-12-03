@@ -1,54 +1,5 @@
 [
   {
-    "line_index_1": 26,
-    "line_index_2": 313,
-    "heRef_2": "שמות יב, טז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 356,
-    "heRef_2": "שמות יג, ז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 455,
-    "heRef_2": "שמות טז, כג",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 635,
-    "heRef_2": "שמות כג, ב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 1230,
-    "heRef_2": "בראשית מ, טז",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 1240,
-    "heRef_2": "בראשית מא, ב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 272,
-    "heRef_2": "ויקרא יא, ח",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 9,
     "line_index_2": 7,
     "heRef_2": "רש״ש על משנה ביצה א, א, ג",
@@ -105,6 +56,34 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 200,
+    "line_index_2": 57,
+    "heRef_2": "מלכים א ב,  א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 272,
+    "heRef_2": "ויקרא יא, ח",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 4488,
+    "heRef_2": "חולין קלז:, ה",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 785,
+    "heRef_2": "דברים כח, מ",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 112,
     "line_index_2": 404,
     "heRef_2": "נחמיה יג, טז",
@@ -126,17 +105,45 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 104,
-    "line_index_2": 4488,
-    "heRef_2": "חולין קלז:, ה",
-    "path_2": "חולין.txt",
+    "line_index_1": 26,
+    "line_index_2": 313,
+    "heRef_2": "שמות יב, טז",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 168,
-    "line_index_2": 785,
-    "heRef_2": "דברים כח, מ",
-    "path_2": "דברים.txt",
+    "line_index_1": 8,
+    "line_index_2": 356,
+    "heRef_2": "שמות יג, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 455,
+    "heRef_2": "שמות טז, כג",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 635,
+    "heRef_2": "שמות כג, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1230,
+    "heRef_2": "בראשית מ, טז",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 1240,
+    "heRef_2": "בראשית מא, ב",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
@@ -1202,12 +1209,5 @@
     "heRef_2": "משנה ביצה ה, ז",
     "path_2": "משנה ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 57,
-    "heRef_2": "מלכים א ב,  א",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
   }
 ]

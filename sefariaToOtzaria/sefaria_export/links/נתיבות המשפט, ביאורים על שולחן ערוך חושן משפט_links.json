@@ -1,5 +1,726 @@
 [
   {
+    "line_index_1": 1097,
+    "line_index_2": 1434,
+    "heRef_2": "גיטין מז.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 211,
+    "heRef_2": "גיטין ט.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1471,
+    "line_index_2": 474,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט קפב, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1559,
+    "line_index_2": 491,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט קצד, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 6,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט א, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1595,
+    "line_index_2": 501,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ר, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1751,
+    "line_index_2": 535,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט רל, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1957,
+    "line_index_2": 561,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט רנה, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1957,
+    "line_index_2": 562,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט רנה, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1957,
+    "line_index_2": 563,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט רנה, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 44,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט כח, ה",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 50,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ל, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 51,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ל, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 52,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ל, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 53,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ל, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 57,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לא, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 64,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לג, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2393,
+    "line_index_2": 630,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שמח, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 78,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לד, יב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 79,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לד, יג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 87,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לד, כא",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 72,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לד, ו",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2395,
+    "line_index_2": 633,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שנ, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2395,
+    "line_index_2": 634,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שנ, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2397,
+    "line_index_2": 636,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שנא, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2400,
+    "line_index_2": 641,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שנג, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2419,
+    "line_index_2": 655,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שסא, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 102,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לו, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 103,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לו, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 104,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לו, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 107,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לז, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 115,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לח, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 123,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לט, ז",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 124,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לט, ח",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 131,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מב, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 135,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מג, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 149,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, י",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 150,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, יא",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 153,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, יד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 156,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, יז",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 141,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 148,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, ט",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 158,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מז, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 160,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מז, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 161,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מז, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 164,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מח, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 166,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מט, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 167,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מט, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 348,
+    "line_index_2": 174,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נד, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 177,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נה, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 181,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נו, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 182,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נו, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 183,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נו, ה",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 187,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נח, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 189,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נח, ה",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 191,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נט, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 195,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ס, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 196,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ס, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 197,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ס, ה",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 198,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ס, ו",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 200,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סא, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 201,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סא, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 202,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סא, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 430,
+    "line_index_2": 203,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סא, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 453,
+    "line_index_2": 210,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סג, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 454,
+    "line_index_2": 212,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סג, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 214,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סד, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 458,
+    "line_index_2": 215,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סד, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 218,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 219,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 220,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 483,
+    "line_index_2": 221,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ה",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 487,
+    "line_index_2": 222,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ו",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 487,
+    "line_index_2": 223,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ז",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 529,
+    "line_index_2": 236,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, יב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 529,
+    "line_index_2": 237,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, יג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 228,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 229,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, ה",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 232,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, ח",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 523,
+    "line_index_2": 233,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, ט",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 254,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סט, ה",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 255,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סט, ו",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 256,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סט, ז",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 267,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עא, א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 278,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עב, י",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 640,
+    "line_index_2": 279,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עב, יא",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 271,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עב, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 618,
+    "line_index_2": 272,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עב, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 649,
+    "line_index_2": 290,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עד, ב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 659,
+    "line_index_2": 304,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עה, יא",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 663,
+    "line_index_2": 310,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עה, יז",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 657,
+    "line_index_2": 299,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עה, ו",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 657,
+    "line_index_2": 300,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עה, ז",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 763,
+    "line_index_2": 355,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט פו, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 763,
+    "line_index_2": 356,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט פו, ד",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 765,
+    "line_index_2": 358,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט פו, ו",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 769,
+    "line_index_2": 363,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט פז, ג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2541,
+    "line_index_2": 726,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו י",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2541,
+    "line_index_2": 727,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו יא",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2541,
+    "line_index_2": 728,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו יב",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2517,
+    "line_index_2": 729,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו יג",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2541,
+    "line_index_2": 725,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו ט",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 2481,
+    "line_index_2": 715,
+    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, כללי תפיסה א",
+    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 2126,
     "line_index_2": 1881,
     "heRef_2": "כתובות ע., א",
@@ -19,6 +740,13 @@
     "heRef_2": "מאירת עיניים על שולחן ערוך חושן משפט רלב, י",
     "path_2": "מאירת עיניים על שולחן ערוך חושן משפט.txt",
     "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 1507,
+    "line_index_2": 614,
+    "heRef_2": "נדרים לא., יא",
+    "path_2": "נדרים.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 873,
@@ -16121,13 +16849,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 1507,
-    "line_index_2": 614,
-    "heRef_2": "נדרים לא., יא",
-    "path_2": "נדרים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 1392,
     "line_index_2": 1951,
     "heRef_2": "בבא בתרא פד.,  א",
@@ -16138,6 +16859,13 @@
     "line_index_1": 665,
     "line_index_2": 4021,
     "heRef_2": "בבא קמא קז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 665,
+    "line_index_2": 4024,
+    "heRef_2": "בבא קמא קז., ד",
     "path_2": "בבא קמא.txt",
     "Conection Type": ""
   },
@@ -16210,733 +16938,5 @@
     "heRef_2": "בבא מציעא מה., יב",
     "path_2": "בבא מציעא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 665,
-    "line_index_2": 65,
-    "heRef_2": "בבא מציעא ד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1097,
-    "line_index_2": 1434,
-    "heRef_2": "גיטין מז.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 211,
-    "heRef_2": "גיטין ט.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1471,
-    "line_index_2": 474,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט קפב, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1559,
-    "line_index_2": 491,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט קצד, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 6,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט א, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1595,
-    "line_index_2": 501,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ר, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1751,
-    "line_index_2": 535,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט רל, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1957,
-    "line_index_2": 561,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט רנה, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1957,
-    "line_index_2": 562,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט רנה, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1957,
-    "line_index_2": 563,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט רנה, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 44,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט כח, ה",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 50,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ל, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 51,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ל, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 52,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ל, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 53,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ל, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 57,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לא, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 64,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לג, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2393,
-    "line_index_2": 630,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שמח, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 78,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לד, יב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 79,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לד, יג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 87,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לד, כא",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 72,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לד, ו",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2395,
-    "line_index_2": 633,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שנ, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2395,
-    "line_index_2": 634,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שנ, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2397,
-    "line_index_2": 636,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שנא, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2400,
-    "line_index_2": 641,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שנג, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2419,
-    "line_index_2": 655,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט שסא, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 102,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לו, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 103,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לו, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 104,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לו, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 107,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לז, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 115,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לח, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 123,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לט, ז",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 201,
-    "line_index_2": 124,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט לט, ח",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 131,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מב, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 235,
-    "line_index_2": 135,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מג, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 274,
-    "line_index_2": 149,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, י",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 275,
-    "line_index_2": 150,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, יא",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 292,
-    "line_index_2": 153,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, יד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 294,
-    "line_index_2": 156,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, יז",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 269,
-    "line_index_2": 141,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 273,
-    "line_index_2": 148,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מו, ט",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 298,
-    "line_index_2": 158,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מז, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 298,
-    "line_index_2": 160,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מז, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 299,
-    "line_index_2": 161,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מז, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 306,
-    "line_index_2": 164,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מח, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 308,
-    "line_index_2": 166,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מט, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 328,
-    "line_index_2": 167,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט מט, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 348,
-    "line_index_2": 174,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נד, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 355,
-    "line_index_2": 177,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נה, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 375,
-    "line_index_2": 181,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נו, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 375,
-    "line_index_2": 182,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נו, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 375,
-    "line_index_2": 183,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נו, ה",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 385,
-    "line_index_2": 187,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נח, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 395,
-    "line_index_2": 189,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נח, ה",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 398,
-    "line_index_2": 191,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט נט, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 410,
-    "line_index_2": 195,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ס, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 413,
-    "line_index_2": 196,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ס, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 418,
-    "line_index_2": 197,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ס, ה",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 418,
-    "line_index_2": 198,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט ס, ו",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 427,
-    "line_index_2": 200,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סא, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 427,
-    "line_index_2": 201,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סא, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 429,
-    "line_index_2": 202,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סא, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 430,
-    "line_index_2": 203,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סא, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 453,
-    "line_index_2": 210,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סג, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 454,
-    "line_index_2": 212,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סג, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 457,
-    "line_index_2": 214,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סד, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 458,
-    "line_index_2": 215,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סד, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 477,
-    "line_index_2": 218,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 477,
-    "line_index_2": 219,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 481,
-    "line_index_2": 220,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 483,
-    "line_index_2": 221,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ה",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 487,
-    "line_index_2": 222,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ו",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 487,
-    "line_index_2": 223,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סה, ז",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 529,
-    "line_index_2": 236,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, יב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 529,
-    "line_index_2": 237,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, יג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 501,
-    "line_index_2": 228,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 511,
-    "line_index_2": 229,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, ה",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 519,
-    "line_index_2": 232,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, ח",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 523,
-    "line_index_2": 233,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סו, ט",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 555,
-    "line_index_2": 254,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סט, ה",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 556,
-    "line_index_2": 255,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סט, ו",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 556,
-    "line_index_2": 256,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט סט, ז",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 578,
-    "line_index_2": 267,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עא, א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 631,
-    "line_index_2": 278,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עב, י",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 640,
-    "line_index_2": 279,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עב, יא",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 613,
-    "line_index_2": 271,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עב, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 618,
-    "line_index_2": 272,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עב, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 649,
-    "line_index_2": 290,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עד, ב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 659,
-    "line_index_2": 304,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עה, יא",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 663,
-    "line_index_2": 310,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עה, יז",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 657,
-    "line_index_2": 299,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עה, ו",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 657,
-    "line_index_2": 300,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט עה, ז",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 763,
-    "line_index_2": 355,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט פו, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 763,
-    "line_index_2": 356,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט פו, ד",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 765,
-    "line_index_2": 358,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט פו, ו",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 769,
-    "line_index_2": 363,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט פז, ג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2541,
-    "line_index_2": 726,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו י",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2541,
-    "line_index_2": 727,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו יא",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2541,
-    "line_index_2": 728,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו יב",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2517,
-    "line_index_2": 729,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו יג",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2541,
-    "line_index_2": 725,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, דיני מיגו ט",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 2481,
-    "line_index_2": 715,
-    "heRef_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט, כללי תפיסה א",
-    "path_2": "הגהות אמרי ברוך על שלחן ערוך חושן משפט.txt",
-    "Conection Type": "commentary"
   }
 ]

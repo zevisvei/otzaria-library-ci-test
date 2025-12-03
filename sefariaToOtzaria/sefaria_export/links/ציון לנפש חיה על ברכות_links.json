@@ -1,5 +1,614 @@
 [
   {
+    "line_index_1": 213,
+    "line_index_2": 456,
+    "heRef_2": "רש\"י על ברכות יא:, יא, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 457,
+    "heRef_2": "רש\"י על ברכות יא:, יג, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 467,
+    "heRef_2": "רש\"י על ברכות יא:, כ, ד",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 487,
+    "heRef_2": "רש\"י על ברכות יב., יג, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 600,
+    "heRef_2": "רש\"י על ברכות יד:, יב, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 629,
+    "heRef_2": "רש\"י על ברכות טו., טו, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 678,
+    "heRef_2": "רש\"י על ברכות טז., ד, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 758,
+    "heRef_2": "רש\"י על ברכות יז., טו, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 733,
+    "heRef_2": "רש\"י על ברכות יז., ב, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 769,
+    "heRef_2": "רש\"י על ברכות יז:, יב, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 775,
+    "heRef_2": "רש\"י על ברכות יז:, יג, ו",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 803,
+    "heRef_2": "רש\"י על ברכות יח., יד, ה",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 867,
+    "heRef_2": "רש\"י על ברכות יט., יט, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 358,
+    "line_index_2": 893,
+    "heRef_2": "רש\"י על ברכות יט:, טז, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 909,
+    "heRef_2": "רש\"י על ברכות כ., י, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 921,
+    "heRef_2": "רש\"י על ברכות כ:, י, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 921,
+    "heRef_2": "רש\"י על ברכות כ:, י, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 923,
+    "heRef_2": "רש\"י על ברכות כ:, יא, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 917,
+    "heRef_2": "רש\"י על ברכות כ:, ה, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 950,
+    "heRef_2": "רש\"י על ברכות כא., יג, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 1124,
+    "heRef_2": "רש\"י על ברכות כד., יג, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 434,
+    "line_index_2": 1132,
+    "heRef_2": "רש\"י על ברכות כד., יז,  א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 434,
+    "line_index_2": 1133,
+    "heRef_2": "רש\"י על ברכות כד., יז,  ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 1204,
+    "heRef_2": "רש\"י על ברכות כה., כב, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 1211,
+    "heRef_2": "רש\"י על ברכות כה:, ד, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 1266,
+    "heRef_2": "רש\"י על ברכות כו:, א, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 1343,
+    "heRef_2": "רש\"י על ברכות כח., טו, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 518,
+    "line_index_2": 1358,
+    "heRef_2": "רש\"י על ברכות כח:, ז, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 5,
+    "heRef_2": "רש\"י על ברכות ב., א, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 8,
+    "heRef_2": "רש\"י על ברכות ב., ה, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 14,
+    "heRef_2": "רש\"י על ברכות ב., ה, ח",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 15,
+    "heRef_2": "רש\"י על ברכות ב., ה, ט",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 31,
+    "heRef_2": "רש\"י על ברכות ב:, ח, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 541,
+    "line_index_2": 1461,
+    "heRef_2": "רש\"י על ברכות ל:, ג, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 542,
+    "line_index_2": 1466,
+    "heRef_2": "רש\"י על ברכות ל:, ז, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 1500,
+    "heRef_2": "רש\"י על ברכות לא., כא, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 1483,
+    "heRef_2": "רש\"י על ברכות לא., ג, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 1489,
+    "heRef_2": "רש\"י על ברכות לא., ט, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 599,
+    "line_index_2": 1634,
+    "heRef_2": "רש\"י על ברכות לד., ז, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 638,
+    "line_index_2": 1701,
+    "heRef_2": "רש\"י על ברכות לה:, יח, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 641,
+    "line_index_2": 1701,
+    "heRef_2": "רש\"י על ברכות לה:, יח, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 662,
+    "line_index_2": 1742,
+    "heRef_2": "רש\"י על ברכות לו., יח, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 710,
+    "line_index_2": 1897,
+    "heRef_2": "רש\"י על ברכות לח:, י, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 1910,
+    "heRef_2": "רש\"י על ברכות לט., ד, ד",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 719,
+    "line_index_2": 1910,
+    "heRef_2": "רש\"י על ברכות לט., ד, ד",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 735,
+    "line_index_2": 1935,
+    "heRef_2": "רש\"י על ברכות לט:, ו, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 755,
+    "line_index_2": 1991,
+    "heRef_2": "רש\"י על ברכות מא., ב, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 756,
+    "line_index_2": 1992,
+    "heRef_2": "רש\"י על ברכות מא., ב, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 761,
+    "line_index_2": 2001,
+    "heRef_2": "רש\"י על ברכות מא., ז, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 771,
+    "line_index_2": 2018,
+    "heRef_2": "רש\"י על ברכות מא:, ו, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 772,
+    "line_index_2": 2022,
+    "heRef_2": "רש\"י על ברכות מא:, ו, ה",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 773,
+    "line_index_2": 2024,
+    "heRef_2": "רש\"י על ברכות מא:, ז, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 785,
+    "line_index_2": 2034,
+    "heRef_2": "רש\"י על ברכות מב., ב, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 786,
+    "line_index_2": 2035,
+    "heRef_2": "רש\"י על ברכות מב., ב, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 787,
+    "line_index_2": 2038,
+    "heRef_2": "רש\"י על ברכות מב., ה, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 797,
+    "line_index_2": 2071,
+    "heRef_2": "רש\"י על ברכות מב:, יג, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 796,
+    "line_index_2": 2066,
+    "heRef_2": "רש\"י על ברכות מב:, ח, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 818,
+    "line_index_2": 2126,
+    "heRef_2": "רש\"י על ברכות מג:, יא, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 819,
+    "line_index_2": 2128,
+    "heRef_2": "רש\"י על ברכות מג:, יא, ה",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 817,
+    "line_index_2": 2120,
+    "heRef_2": "רש\"י על ברכות מג:, ט, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 840,
+    "line_index_2": 2214,
+    "heRef_2": "רש\"י על ברכות מה., ד, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 841,
+    "line_index_2": 2216,
+    "heRef_2": "רש\"י על ברכות מה., ד, ד",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 842,
+    "line_index_2": 2216,
+    "heRef_2": "רש\"י על ברכות מה., ד, ד",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 856,
+    "line_index_2": 2246,
+    "heRef_2": "רש\"י על ברכות מה:, כד, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 863,
+    "line_index_2": 2258,
+    "heRef_2": "רש\"י על ברכות מו., יא, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 859,
+    "line_index_2": 2254,
+    "heRef_2": "רש\"י על ברכות מו., ז, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 869,
+    "line_index_2": 2281,
+    "heRef_2": "רש\"י על ברכות מו:, יב, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 898,
+    "line_index_2": 2348,
+    "heRef_2": "רש\"י על ברכות מח., ז, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 899,
+    "line_index_2": 2348,
+    "heRef_2": "רש\"י על ברכות מח., ז, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 909,
+    "line_index_2": 2366,
+    "heRef_2": "רש\"י על ברכות מח:, יג, ה",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 907,
+    "line_index_2": 2354,
+    "heRef_2": "רש\"י על ברכות מח:, ה, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 908,
+    "line_index_2": 2358,
+    "heRef_2": "רש\"י על ברכות מח:, ח, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 919,
+    "line_index_2": 2383,
+    "heRef_2": "רש\"י על ברכות מט., יט, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 118,
+    "heRef_2": "רש\"י על ברכות ד., יח, ד",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 131,
+    "heRef_2": "רש\"י על ברכות ד:, ו, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 934,
+    "line_index_2": 2417,
+    "heRef_2": "רש\"י על ברכות נ., יג, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 941,
+    "line_index_2": 2449,
+    "heRef_2": "רש\"י על ברכות נ:, יב, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 940,
+    "line_index_2": 2438,
+    "heRef_2": "רש\"י על ברכות נ:, ה, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 949,
+    "line_index_2": 2517,
+    "heRef_2": "רש\"י על ברכות נא:, טו, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 963,
+    "line_index_2": 2575,
+    "heRef_2": "רש\"י על ברכות נג., ב, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 164,
+    "heRef_2": "רש\"י על ברכות ה., י, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1041,
+    "line_index_2": 3250,
+    "heRef_2": "רש\"י על ברכות סג:, כא, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 249,
+    "heRef_2": "רש\"י על ברכות ו:, יח, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 327,
+    "heRef_2": "רש\"י על ברכות ח:, א,  א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 328,
+    "heRef_2": "רש\"י על ברכות ח:, ג,  א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 357,
+    "heRef_2": "רש\"י על ברכות ט., יח, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 377,
+    "heRef_2": "רש\"י על ברכות ט:, טו, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 656,
     "line_index_2": 1196,
     "heRef_2": "קידושין לח:,  א",
@@ -5422,615 +6031,6 @@
     "line_index_2": 408,
     "heRef_2": "ברכות ט:, ה",
     "path_2": "ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 213,
-    "line_index_2": 456,
-    "heRef_2": "רש\"י על ברכות יא:, יא, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 214,
-    "line_index_2": 457,
-    "heRef_2": "רש\"י על ברכות יא:, יג, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 215,
-    "line_index_2": 467,
-    "heRef_2": "רש\"י על ברכות יא:, כ, ד",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 487,
-    "heRef_2": "רש\"י על ברכות יב., יג, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 284,
-    "line_index_2": 600,
-    "heRef_2": "רש\"י על ברכות יד:, יב, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 294,
-    "line_index_2": 629,
-    "heRef_2": "רש\"י על ברכות טו., טו, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 301,
-    "line_index_2": 678,
-    "heRef_2": "רש\"י על ברכות טז., ד, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 323,
-    "line_index_2": 758,
-    "heRef_2": "רש\"י על ברכות יז., טו, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 316,
-    "line_index_2": 733,
-    "heRef_2": "רש\"י על ברכות יז., ב, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 336,
-    "line_index_2": 769,
-    "heRef_2": "רש\"י על ברכות יז:, יב, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 338,
-    "line_index_2": 775,
-    "heRef_2": "רש\"י על ברכות יז:, יג, ו",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 347,
-    "line_index_2": 803,
-    "heRef_2": "רש\"י על ברכות יח., יד, ה",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 354,
-    "line_index_2": 867,
-    "heRef_2": "רש\"י על ברכות יט., יט, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 358,
-    "line_index_2": 893,
-    "heRef_2": "רש\"י על ברכות יט:, טז, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 365,
-    "line_index_2": 909,
-    "heRef_2": "רש\"י על ברכות כ., י, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 385,
-    "line_index_2": 921,
-    "heRef_2": "רש\"י על ברכות כ:, י, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 388,
-    "line_index_2": 921,
-    "heRef_2": "רש\"י על ברכות כ:, י, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 381,
-    "line_index_2": 923,
-    "heRef_2": "רש\"י על ברכות כ:, יא, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 380,
-    "line_index_2": 917,
-    "heRef_2": "רש\"י על ברכות כ:, ה, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 399,
-    "line_index_2": 950,
-    "heRef_2": "רש\"י על ברכות כא., יג, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 433,
-    "line_index_2": 1124,
-    "heRef_2": "רש\"י על ברכות כד., יג, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 434,
-    "line_index_2": 1132,
-    "heRef_2": "רש\"י על ברכות כד., יז,  א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 434,
-    "line_index_2": 1133,
-    "heRef_2": "רש\"י על ברכות כד., יז,  ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 441,
-    "line_index_2": 1204,
-    "heRef_2": "רש\"י על ברכות כה., כב, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 445,
-    "line_index_2": 1211,
-    "heRef_2": "רש\"י על ברכות כה:, ד, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 477,
-    "line_index_2": 1266,
-    "heRef_2": "רש\"י על ברכות כו:, א, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 509,
-    "line_index_2": 1343,
-    "heRef_2": "רש\"י על ברכות כח., טו, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 518,
-    "line_index_2": 1358,
-    "heRef_2": "רש\"י על ברכות כח:, ז, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 5,
-    "heRef_2": "רש\"י על ברכות ב., א, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 8,
-    "heRef_2": "רש\"י על ברכות ב., ה, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 14,
-    "heRef_2": "רש\"י על ברכות ב., ה, ח",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 15,
-    "heRef_2": "רש\"י על ברכות ב., ה, ט",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 31,
-    "heRef_2": "רש\"י על ברכות ב:, ח, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 541,
-    "line_index_2": 1461,
-    "heRef_2": "רש\"י על ברכות ל:, ג, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 542,
-    "line_index_2": 1466,
-    "heRef_2": "רש\"י על ברכות ל:, ז, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 556,
-    "line_index_2": 1500,
-    "heRef_2": "רש\"י על ברכות לא., כא, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 559,
-    "line_index_2": 1483,
-    "heRef_2": "רש\"י על ברכות לא., ג, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 560,
-    "line_index_2": 1489,
-    "heRef_2": "רש\"י על ברכות לא., ט, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 599,
-    "line_index_2": 1634,
-    "heRef_2": "רש\"י על ברכות לד., ז, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 638,
-    "line_index_2": 1701,
-    "heRef_2": "רש\"י על ברכות לה:, יח, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 641,
-    "line_index_2": 1701,
-    "heRef_2": "רש\"י על ברכות לה:, יח, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 662,
-    "line_index_2": 1742,
-    "heRef_2": "רש\"י על ברכות לו., יח, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 710,
-    "line_index_2": 1897,
-    "heRef_2": "רש\"י על ברכות לח:, י, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 718,
-    "line_index_2": 1910,
-    "heRef_2": "רש\"י על ברכות לט., ד, ד",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 719,
-    "line_index_2": 1910,
-    "heRef_2": "רש\"י על ברכות לט., ד, ד",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 735,
-    "line_index_2": 1935,
-    "heRef_2": "רש\"י על ברכות לט:, ו, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 755,
-    "line_index_2": 1991,
-    "heRef_2": "רש\"י על ברכות מא., ב, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 756,
-    "line_index_2": 1992,
-    "heRef_2": "רש\"י על ברכות מא., ב, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 761,
-    "line_index_2": 2001,
-    "heRef_2": "רש\"י על ברכות מא., ז, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 771,
-    "line_index_2": 2018,
-    "heRef_2": "רש\"י על ברכות מא:, ו, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 772,
-    "line_index_2": 2022,
-    "heRef_2": "רש\"י על ברכות מא:, ו, ה",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 773,
-    "line_index_2": 2024,
-    "heRef_2": "רש\"י על ברכות מא:, ז, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 785,
-    "line_index_2": 2034,
-    "heRef_2": "רש\"י על ברכות מב., ב, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 786,
-    "line_index_2": 2035,
-    "heRef_2": "רש\"י על ברכות מב., ב, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 787,
-    "line_index_2": 2038,
-    "heRef_2": "רש\"י על ברכות מב., ה, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 797,
-    "line_index_2": 2071,
-    "heRef_2": "רש\"י על ברכות מב:, יג, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 796,
-    "line_index_2": 2066,
-    "heRef_2": "רש\"י על ברכות מב:, ח, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 818,
-    "line_index_2": 2126,
-    "heRef_2": "רש\"י על ברכות מג:, יא, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 819,
-    "line_index_2": 2128,
-    "heRef_2": "רש\"י על ברכות מג:, יא, ה",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 817,
-    "line_index_2": 2120,
-    "heRef_2": "רש\"י על ברכות מג:, ט, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 840,
-    "line_index_2": 2214,
-    "heRef_2": "רש\"י על ברכות מה., ד, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 841,
-    "line_index_2": 2216,
-    "heRef_2": "רש\"י על ברכות מה., ד, ד",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 842,
-    "line_index_2": 2216,
-    "heRef_2": "רש\"י על ברכות מה., ד, ד",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 856,
-    "line_index_2": 2246,
-    "heRef_2": "רש\"י על ברכות מה:, כד, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 863,
-    "line_index_2": 2258,
-    "heRef_2": "רש\"י על ברכות מו., יא, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 859,
-    "line_index_2": 2254,
-    "heRef_2": "רש\"י על ברכות מו., ז, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 869,
-    "line_index_2": 2281,
-    "heRef_2": "רש\"י על ברכות מו:, יב, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 898,
-    "line_index_2": 2348,
-    "heRef_2": "רש\"י על ברכות מח., ז, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 899,
-    "line_index_2": 2348,
-    "heRef_2": "רש\"י על ברכות מח., ז, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 909,
-    "line_index_2": 2366,
-    "heRef_2": "רש\"י על ברכות מח:, יג, ה",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 907,
-    "line_index_2": 2354,
-    "heRef_2": "רש\"י על ברכות מח:, ה, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 908,
-    "line_index_2": 2358,
-    "heRef_2": "רש\"י על ברכות מח:, ח, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 919,
-    "line_index_2": 2383,
-    "heRef_2": "רש\"י על ברכות מט., יט, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 118,
-    "heRef_2": "רש\"י על ברכות ד., יח, ד",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 131,
-    "heRef_2": "רש\"י על ברכות ד:, ו, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 934,
-    "line_index_2": 2417,
-    "heRef_2": "רש\"י על ברכות נ., יג, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 941,
-    "line_index_2": 2449,
-    "heRef_2": "רש\"י על ברכות נ:, יב, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 940,
-    "line_index_2": 2438,
-    "heRef_2": "רש\"י על ברכות נ:, ה, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 949,
-    "line_index_2": 2517,
-    "heRef_2": "רש\"י על ברכות נא:, טו, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 963,
-    "line_index_2": 2575,
-    "heRef_2": "רש\"י על ברכות נג., ב, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 164,
-    "heRef_2": "רש\"י על ברכות ה., י, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 1041,
-    "line_index_2": 3250,
-    "heRef_2": "רש\"י על ברכות סג:, כא, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 249,
-    "heRef_2": "רש\"י על ברכות ו:, יח, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 327,
-    "heRef_2": "רש\"י על ברכות ח:, א,  א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 328,
-    "heRef_2": "רש\"י על ברכות ח:, ג,  א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 357,
-    "heRef_2": "רש\"י על ברכות ט., יח, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 377,
-    "heRef_2": "רש\"י על ברכות ט:, טו, א",
-    "path_2": "רשי על ברכות.txt",
     "Conection Type": "commentary"
   },
   {

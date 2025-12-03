@@ -1,40 +1,5 @@
 [
   {
-    "line_index_1": 101,
-    "line_index_2": 101,
-    "heRef_2": "ביצה ה., ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 29,
-    "heRef_2": "שבת ג.,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 90,
-    "heRef_2": "שבת ה., טו",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 136,
-    "heRef_2": "עירובין ה., טו",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 136,
-    "heRef_2": "עירובין ה., טו",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 367,
     "line_index_2": 519,
     "heRef_2": "תלמוד ירושלמי עירובין י, יד, ה",
@@ -2000,5 +1965,40 @@
     "heRef_2": "תלמוד ירושלמי עירובין ט, ד, ב",
     "path_2": "תלמוד ירושלמי עירובין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 101,
+    "heRef_2": "ביצה ה., ג",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 29,
+    "heRef_2": "שבת ג.,  א",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 90,
+    "heRef_2": "שבת ה., טו",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 136,
+    "heRef_2": "עירובין ה., טו",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 136,
+    "heRef_2": "עירובין ה., טו",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
   }
 ]

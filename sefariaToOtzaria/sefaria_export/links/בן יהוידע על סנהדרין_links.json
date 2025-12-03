@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 648,
+    "line_index_2": 478,
+    "heRef_2": "ביצה טז., טו",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 637,
     "line_index_2": 208,
     "heRef_2": "מלכים ב ח, ה",
@@ -614,6 +621,13 @@
     "heRef_2": "מגילה יב:, טז",
     "path_2": "מגילה.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 669,
+    "line_index_2": 3953,
+    "heRef_2": "סנהדרין קא:, ו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 670,
@@ -4088,6 +4102,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 821,
+    "line_index_2": 4218,
+    "heRef_2": "סנהדרין קח:, ג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 830,
     "line_index_2": 4234,
     "heRef_2": "סנהדרין קח:, יט",
@@ -5143,6 +5164,20 @@
     "heRef_2": "מלכים א יח, א",
     "path_2": "מלכים א.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 876,
+    "line_index_2": 4391,
+    "heRef_2": "סנהדרין קיג.,  טז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 876,
+    "line_index_2": 4393,
+    "heRef_2": "סנהדרין קיג:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 877,
@@ -13385,8 +13420,8 @@
   },
   {
     "line_index_1": 458,
-    "line_index_2": 3579,
-    "heRef_2": "סנהדרין צא:, ז",
+    "line_index_2": 3578,
+    "heRef_2": "סנהדרין צא:, ו",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
   },
@@ -16248,24 +16283,17 @@
   },
   {
     "line_index_1": 593,
-    "line_index_2": 3814,
-    "heRef_2": "סנהדרין צח.,  ד",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 593,
-    "line_index_2": 3815,
-    "heRef_2": "סנהדרין צח.,  ה",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 593,
     "line_index_2": 2308,
     "heRef_2": "תהילים קיט, קסה",
     "path_2": "תהילים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 593,
+    "line_index_2": 3814,
+    "heRef_2": "סנהדרין צח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 594,
@@ -17073,6 +17101,97 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 611,
+    "line_index_2": 34,
+    "heRef_2": "עמוס ב, טז",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 115,
+    "heRef_2": "עמוס ז, ז",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 152,
+    "heRef_2": "עמוס ט, יא",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 783,
+    "line_index_2": 537,
+    "heRef_2": "ערכין טו:, יח",
+    "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 376,
+    "heRef_2": "עבודה זרה יד., ד",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 461,
+    "heRef_2": "עבודה זרה יז.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 570,
+    "heRef_2": "עבודה זרה כ., ד",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 728,
+    "line_index_2": 633,
+    "heRef_2": "עבודה זרה כב:,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 1041,
+    "heRef_2": "עבודה זרה לו.,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 594,
+    "line_index_2": 45,
+    "heRef_2": "עבודה זרה ג:,  א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 118,
+    "heRef_2": "עבודה זרה ה., טו",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 110,
+    "heRef_2": "אבות דרבי נתן טז, ב",
+    "path_2": "אבות דרבי נתן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 744,
+    "line_index_2": 12,
+    "heRef_2": "אבות דרבי נתן ב,  א",
+    "path_2": "אבות דרבי נתן.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 122,
     "line_index_2": 244,
     "heRef_2": "במדבר רבה יג, טז",
@@ -17252,104 +17371,6 @@
     "line_index_2": 2796,
     "heRef_2": "בבא מציעא פז., יד",
     "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 648,
-    "line_index_2": 478,
-    "heRef_2": "ביצה טז., טו",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 611,
-    "line_index_2": 34,
-    "heRef_2": "עמוס ב, טז",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 115,
-    "heRef_2": "עמוס ז, ז",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 571,
-    "line_index_2": 152,
-    "heRef_2": "עמוס ט, יא",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 783,
-    "line_index_2": 537,
-    "heRef_2": "ערכין טו:, יח",
-    "path_2": "ערכין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 254,
-    "line_index_2": 376,
-    "heRef_2": "עבודה זרה יד., ד",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 193,
-    "line_index_2": 461,
-    "heRef_2": "עבודה זרה יז.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 396,
-    "line_index_2": 570,
-    "heRef_2": "עבודה זרה כ., ד",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 728,
-    "line_index_2": 633,
-    "heRef_2": "עבודה זרה כב:,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 1041,
-    "heRef_2": "עבודה זרה לו.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 594,
-    "line_index_2": 45,
-    "heRef_2": "עבודה זרה ג:,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 118,
-    "heRef_2": "עבודה זרה ה., טו",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 194,
-    "line_index_2": 110,
-    "heRef_2": "אבות דרבי נתן טז, ב",
-    "path_2": "אבות דרבי נתן.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 744,
-    "line_index_2": 12,
-    "heRef_2": "אבות דרבי נתן ב,  א",
-    "path_2": "אבות דרבי נתן.txt",
     "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 478,
-    "line_index_2": 341,
-    "heRef_2": "בבא בתרא יג.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 389,
     "line_index_2": 1182,
     "heRef_2": "שולחן ערוך, חושן משפט קג, י",
@@ -6448,7 +6441,7 @@
   },
   {
     "line_index_1": 378,
-    "line_index_2": 3856,
+    "line_index_2": 3853,
     "heRef_2": "טור, חושן משפט, חושן משפט פח, לח",
     "path_2": "טור.txt",
     "Conection Type": "commentary"
@@ -6641,5 +6634,12 @@
     "heRef_2": "נתיבות המשפט, ביאורים על שולחן ערוך חושן משפט, ביאורים לכללי תפיסה א",
     "path_2": "נתיבות המשפט, ביאורים על שולחן ערוך חושן משפט.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 341,
+    "heRef_2": "בבא בתרא יג.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
   }
 ]

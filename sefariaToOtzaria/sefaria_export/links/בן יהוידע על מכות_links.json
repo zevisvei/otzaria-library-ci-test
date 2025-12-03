@@ -296,14 +296,7 @@
   {
     "line_index_1": 18,
     "line_index_2": 263,
-    "heRef_2": "מכות י.,  א",
-    "path_2": "מכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 264,
-    "heRef_2": "מכות י.,  ב",
+    "heRef_2": "מכות י., א",
     "path_2": "מכות.txt",
     "Conection Type": "commentary"
   },
@@ -1477,41 +1470,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 49,
-    "line_index_2": 2524,
-    "heRef_2": "בבא קמא סה:, יז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 3108,
-    "heRef_2": "בבא קמא פב., ה",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1933,
-    "heRef_2": "בבא מציעא נט:, ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 2746,
-    "heRef_2": "בבא מציעא פו.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 216,
-    "heRef_2": "בבא מציעא ח.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 71,
     "line_index_2": 113,
     "heRef_2": "עמוס ז, ה",
@@ -1544,6 +1502,41 @@
     "line_index_2": 537,
     "heRef_2": "עבודה זרה יט., ח",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 2524,
+    "heRef_2": "בבא קמא סה:, יז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 3108,
+    "heRef_2": "בבא קמא פב., ה",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1933,
+    "heRef_2": "בבא מציעא נט:, ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 2746,
+    "heRef_2": "בבא מציעא פו.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 216,
+    "heRef_2": "בבא מציעא ח.,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

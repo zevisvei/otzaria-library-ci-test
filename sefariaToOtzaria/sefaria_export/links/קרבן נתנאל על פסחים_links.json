@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 229,
+    "line_index_2": 995,
+    "heRef_2": "ברכות כא., ו",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 1038,
+    "heRef_2": "ברכות כב., יא",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 2232,
+    "heRef_2": "ברכות נ., יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 537,
     "line_index_2": 249,
     "heRef_2": "פסקי הרא\"ש על פסחים י, לו, א",
@@ -3409,27 +3430,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 229,
-    "line_index_2": 995,
-    "heRef_2": "ברכות כא., ו",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 1038,
-    "heRef_2": "ברכות כב., יא",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 2232,
-    "heRef_2": "ברכות נ., יז",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 147,
     "line_index_2": 3325,
     "heRef_2": "חולין קח.,  א",
@@ -3441,20 +3441,6 @@
     "line_index_2": 2519,
     "heRef_2": "חולין פג., ו",
     "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 417,
-    "line_index_2": 2950,
-    "heRef_2": "עירובין פא.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 417,
-    "line_index_2": 2985,
-    "heRef_2": "עירובין פא:, יז",
-    "path_2": "עירובין.txt",
     "Conection Type": ""
   },
   {
@@ -3476,6 +3462,20 @@
     "line_index_2": 2698,
     "heRef_2": "בבא קמא ע:,  א",
     "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 2950,
+    "heRef_2": "עירובין פא.,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 2985,
+    "heRef_2": "עירובין פא:, יז",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

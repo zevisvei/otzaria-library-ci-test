@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 13,
-    "line_index_2": 511,
-    "heRef_2": "בראשית יט, לג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 160,
     "line_index_2": 192,
     "heRef_2": "משנה תורה, הלכות נזירות י, י",
@@ -530,5 +523,12 @@
     "heRef_2": "משנה תורה, הלכות נזירות ט, ח",
     "path_2": "משנה תורה, הלכות נזירות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 511,
+    "heRef_2": "בראשית יט, לג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

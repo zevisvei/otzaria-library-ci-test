@@ -1,56 +1,14 @@
 [
   {
-    "line_index_1": 161,
-    "line_index_2": 3209,
-    "heRef_2": "חולין קד., ט",
-    "path_2": "חולין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 3265,
-    "heRef_2": "חולין קו., ב",
-    "path_2": "חולין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 3270,
-    "heRef_2": "חולין קו., ז",
-    "path_2": "חולין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 3283,
-    "heRef_2": "חולין קו:, ב",
-    "path_2": "חולין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 3295,
-    "heRef_2": "חולין קז., ט",
-    "path_2": "חולין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 3374,
-    "heRef_2": "חולין קט:, יב",
-    "path_2": "חולין.txt",
-    "Conection Type": "commentary"
-  },
-  {
     "line_index_1": 182,
-    "line_index_2": 6166,
+    "line_index_2": 6167,
     "heRef_2": "רש\"י על חולין קטז:, א, ב",
     "path_2": "רשי על חולין.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 205,
-    "line_index_2": 7351,
+    "line_index_2": 7352,
     "heRef_2": "רש\"י על חולין קלה:, ג, ג",
     "path_2": "רשי על חולין.txt",
     "Conection Type": "commentary"
@@ -99,7 +57,7 @@
   },
   {
     "line_index_1": 114,
-    "line_index_2": 3534,
+    "line_index_2": 3535,
     "heRef_2": "רש\"י על חולין סד:, ג, א",
     "path_2": "רשי על חולין.txt",
     "Conection Type": "commentary"
@@ -326,6 +284,48 @@
     "line_index_2": 1079,
     "heRef_2": "תוספות על חולין צז., ו, א",
     "path_2": "תוספות על חולין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 3209,
+    "heRef_2": "חולין קד., ט",
+    "path_2": "חולין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 3265,
+    "heRef_2": "חולין קו., ב",
+    "path_2": "חולין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 3270,
+    "heRef_2": "חולין קו., ז",
+    "path_2": "חולין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 3283,
+    "heRef_2": "חולין קו:, ב",
+    "path_2": "חולין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 3295,
+    "heRef_2": "חולין קז., ט",
+    "path_2": "חולין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 3374,
+    "heRef_2": "חולין קט:, יב",
+    "path_2": "חולין.txt",
     "Conection Type": "commentary"
   },
   {

@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 97,
-    "line_index_2": 614,
-    "heRef_2": "שמות כב, יב",
-    "path_2": "שמות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 240,
-    "line_index_2": 587,
-    "heRef_2": "בראשית כב, טז",
-    "path_2": "בראשית.txt",
-    "Conection Type": "quotation"
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "עמוס א, א",
@@ -1594,5 +1580,19 @@
     "heRef_2": "עמוס ט, ט",
     "path_2": "עמוס.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 614,
+    "heRef_2": "שמות כב, יב",
+    "path_2": "שמות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 587,
+    "heRef_2": "בראשית כב, טז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "quotation"
   }
 ]

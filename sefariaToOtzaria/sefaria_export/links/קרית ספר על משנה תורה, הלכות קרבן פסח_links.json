@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 81,
-    "line_index_2": 345,
-    "heRef_2": "שמות יב, מח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 160,
     "line_index_2": 133,
     "heRef_2": "משנה תורה, הלכות קרבן פסח י, יא",
@@ -537,5 +530,12 @@
     "heRef_2": "משנה תורה, הלכות קרבן פסח ט, ט",
     "path_2": "משנה תורה, הלכות קרבן פסח.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 345,
+    "heRef_2": "שמות יב, מח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,86 +1,65 @@
 [
   {
-    "line_index_1": 40,
-    "line_index_2": 664,
-    "heRef_2": "יחזקאל כו,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 309,
-    "heRef_2": "איוב יג, יא",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 339,
-    "heRef_2": "איוב יד, יב",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 902,
-    "heRef_2": "איוב לה, טו",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 1029,
-    "heRef_2": "איוב לט, כד",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 226,
-    "heRef_2": "איוב ט, לד",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 44,
-    "heRef_2": "יואל ב, כא",
-    "path_2": "יואל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 30,
-    "heRef_2": "יהושע ב, ט",
-    "path_2": "יהושע.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 126,
-    "heRef_2": "שופטים ה, ו",
-    "path_2": "שופטים.txt",
+    "line_index_1": 48,
+    "line_index_2": 70,
+    "heRef_2": "ישעיהו ג, יג",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 7,
-    "line_index_2": 857,
-    "heRef_2": "במדבר כג, כא",
-    "path_2": "במדבר.txt",
+    "line_index_2": 103,
+    "heRef_2": "ישעיהו ה, יב",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 60,
-    "line_index_2": 31,
-    "heRef_2": "מיכה ב, יב",
-    "path_2": "מיכה.txt",
+    "line_index_1": 31,
+    "line_index_2": 170,
+    "heRef_2": "ישעיהו ח, ח",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 170,
+    "heRef_2": "ישעיהו ח, ח",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 103,
-    "line_index_2": 113,
-    "heRef_2": "משלי ד, יח",
-    "path_2": "משלי.txt",
+    "line_index_2": 188,
+    "heRef_2": "ישעיהו ט, ב",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 403,
+    "heRef_2": "ירמיהו טו, יח",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 505,
+    "heRef_2": "ירמיהו כ, ח",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 106,
+    "heRef_2": "ירמיהו ד, כ",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 217,
+    "heRef_2": "ירמיהו ח,  א",
+    "path_2": "ירמיהו.txt",
     "Conection Type": ""
   },
   {
@@ -805,38 +784,80 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 48,
-    "line_index_2": 70,
-    "heRef_2": "ישעיהו ג, יג",
-    "path_2": "ישעיהו.txt",
+    "line_index_1": 21,
+    "line_index_2": 309,
+    "heRef_2": "איוב יג, יא",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 339,
+    "heRef_2": "איוב יד, יב",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 902,
+    "heRef_2": "איוב לה, טו",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 1029,
+    "heRef_2": "איוב לט, כד",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 226,
+    "heRef_2": "איוב ט, לד",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 44,
+    "heRef_2": "יואל ב, כא",
+    "path_2": "יואל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 30,
+    "heRef_2": "יהושע ב, ט",
+    "path_2": "יהושע.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 126,
+    "heRef_2": "שופטים ה, ו",
+    "path_2": "שופטים.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 7,
-    "line_index_2": 103,
-    "heRef_2": "ישעיהו ה, יב",
-    "path_2": "ישעיהו.txt",
+    "line_index_2": 857,
+    "heRef_2": "במדבר כג, כא",
+    "path_2": "במדבר.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 31,
-    "line_index_2": 170,
-    "heRef_2": "ישעיהו ח, ח",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 170,
-    "heRef_2": "ישעיהו ח, ח",
-    "path_2": "ישעיהו.txt",
+    "line_index_1": 60,
+    "line_index_2": 31,
+    "heRef_2": "מיכה ב, יב",
+    "path_2": "מיכה.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 103,
-    "line_index_2": 188,
-    "heRef_2": "ישעיהו ט, ב",
-    "path_2": "ישעיהו.txt",
+    "line_index_2": 113,
+    "heRef_2": "משלי ד, יח",
+    "path_2": "משלי.txt",
     "Conection Type": ""
   },
   {
@@ -854,31 +875,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 53,
-    "line_index_2": 403,
-    "heRef_2": "ירמיהו טו, יח",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 505,
-    "heRef_2": "ירמיהו כ, ח",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 106,
-    "heRef_2": "ירמיהו ד, כ",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 217,
-    "heRef_2": "ירמיהו ח,  א",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 40,
+    "line_index_2": 664,
+    "heRef_2": "יחזקאל כו,  א",
+    "path_2": "יחזקאל.txt",
     "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 262,
-    "line_index_2": 2467,
-    "heRef_2": "קידושין עט., יב",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 63,
     "line_index_2": 248,
     "heRef_2": "גיטין י., י",
@@ -3883,5 +3876,12 @@
     "heRef_2": "גיטין ט., ח",
     "path_2": "גיטין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 2467,
+    "heRef_2": "קידושין עט., יב",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
   }
 ]

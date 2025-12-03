@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 36,
+    "line_index_2": 2668,
+    "heRef_2": "גיטין עט.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 2704,
+    "heRef_2": "גיטין עט:, טו",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 3157,
+    "heRef_2": "גיטין צ., יב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 53,
     "line_index_2": 1711,
     "heRef_2": "חולין נז:, יג",
@@ -18,6 +39,27 @@
     "line_index_2": 1736,
     "heRef_2": "חולין נח:, ו",
     "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 228,
+    "heRef_2": "שולחן ערוך, יורה דעה לג,  א",
+    "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 1588,
+    "heRef_2": "יבמות מז:, ב",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 3821,
+    "heRef_2": "בבא בתרא קסה., יב",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   },
   {
@@ -173,47 +215,5 @@
     "heRef_2": "משנה תורה, הלכות גירושין ח, ו",
     "path_2": "משנה תורה, הלכות גירושין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 228,
-    "heRef_2": "שולחן ערוך, יורה דעה לג,  א",
-    "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 1588,
-    "heRef_2": "יבמות מז:, ב",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 3821,
-    "heRef_2": "בבא בתרא קסה., יב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 2668,
-    "heRef_2": "גיטין עט.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 2704,
-    "heRef_2": "גיטין עט:, טו",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 3157,
-    "heRef_2": "גיטין צ., יב",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

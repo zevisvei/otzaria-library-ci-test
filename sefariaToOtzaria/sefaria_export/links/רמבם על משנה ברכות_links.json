@@ -1,23 +1,9 @@
 [
   {
-    "line_index_1": 123,
-    "line_index_2": 1009,
-    "heRef_2": "בראשית לג, יד",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 379,
-    "heRef_2": "איוב טו, כט",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 2127,
-    "heRef_2": "ברכות מז:,  א",
-    "path_2": "ברכות.txt",
+    "line_index_1": 129,
+    "line_index_2": 399,
+    "heRef_2": "משלי יד, יב",
+    "path_2": "משלי.txt",
     "Conection Type": ""
   },
   {
@@ -35,10 +21,38 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 129,
-    "line_index_2": 399,
-    "heRef_2": "משלי יד, יב",
-    "path_2": "משלי.txt",
+    "line_index_1": 131,
+    "line_index_2": 1151,
+    "heRef_2": "ישעיהו נה, ט",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 501,
+    "heRef_2": "מלכים ב יז, לג",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 218,
+    "heRef_2": "מלכים ב ח, טו",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 379,
+    "heRef_2": "איוב טו, כט",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 2127,
+    "heRef_2": "ברכות מז:,  א",
+    "path_2": "ברכות.txt",
     "Conection Type": ""
   },
   {
@@ -46,6 +60,20 @@
     "line_index_2": 135,
     "heRef_2": "חולין ו., ו",
     "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 831,
+    "heRef_2": "ערוך השולחן, אורח חיים נח, יא",
+    "path_2": "ערוך השולחן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1009,
+    "heRef_2": "בראשית לג, יד",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
@@ -488,33 +516,5 @@
     "heRef_2": "משנה ברכות ט, ה",
     "path_2": "משנה ברכות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 501,
-    "heRef_2": "מלכים ב יז, לג",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 218,
-    "heRef_2": "מלכים ב ח, טו",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 1151,
-    "heRef_2": "ישעיהו נה, ט",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 784,
-    "heRef_2": "ערוך השולחן, אורח חיים נח, יא",
-    "path_2": "ערוך השולחן.txt",
-    "Conection Type": ""
   }
 ]

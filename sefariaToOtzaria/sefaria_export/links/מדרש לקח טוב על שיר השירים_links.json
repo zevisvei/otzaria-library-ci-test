@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 68,
+    "line_index_2": 916,
+    "heRef_2": "ישעיהו מג, כא",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 2102,
+    "heRef_2": "העמק דבר על במדבר לג, נה, א",
+    "path_2": "העמק דבר על במדבר.txt",
+    "Conection Type": "midrash"
+  },
+  {
     "line_index_1": 43,
     "line_index_2": 12,
     "heRef_2": "שיר השירים א, י",
@@ -2273,19 +2287,5 @@
     "heRef_2": "שיר השירים ח, ט",
     "path_2": "שיר השירים.txt",
     "Conection Type": "midrash"
-  },
-  {
-    "line_index_1": 245,
-    "line_index_2": 2102,
-    "heRef_2": "העמק דבר על במדבר לג, נה, א",
-    "path_2": "העמק דבר על במדבר.txt",
-    "Conection Type": "midrash"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 916,
-    "heRef_2": "ישעיהו מג, כא",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

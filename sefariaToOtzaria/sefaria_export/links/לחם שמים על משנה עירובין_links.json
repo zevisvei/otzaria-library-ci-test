@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 102,
-    "line_index_2": 885,
-    "heRef_2": "יחזקאל לד,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 152,
     "line_index_2": 105,
     "heRef_2": "משנה עירובין י, יג",
@@ -761,5 +754,12 @@
     "heRef_2": "משנה עירובין ט, ג",
     "path_2": "משנה עירובין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 885,
+    "heRef_2": "יחזקאל לד,  א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

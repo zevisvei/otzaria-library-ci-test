@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 21,
-    "line_index_2": 956,
-    "heRef_2": "ברכות כ.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 54,
     "line_index_2": 925,
     "heRef_2": "ראש השנה לא.,  א",
@@ -42,10 +35,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 58,
-    "line_index_2": 2104,
-    "heRef_2": "פסחים סח:, י",
-    "path_2": "פסחים.txt",
+    "line_index_1": 23,
+    "line_index_2": 1205,
+    "heRef_2": "גיטין מ:,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 956,
+    "heRef_2": "ברכות כ.,  א",
+    "path_2": "ברכות.txt",
     "Conection Type": ""
   },
   {
@@ -315,17 +315,17 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 58,
+    "line_index_2": 2104,
+    "heRef_2": "פסחים סח:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 54,
     "line_index_2": 2624,
     "heRef_2": "בבא בתרא קיד.,  א",
     "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1205,
-    "heRef_2": "גיטין מ:,  א",
-    "path_2": "גיטין.txt",
     "Conection Type": ""
   }
 ]

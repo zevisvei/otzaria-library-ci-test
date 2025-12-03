@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 490,
-    "line_index_2": 158,
-    "heRef_2": "תוספתא תרומות ט, י",
-    "path_2": "תוספתא תרומות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 423,
     "line_index_2": 383,
     "heRef_2": "תלמוד ירושלמי תרומות י, א, א",
@@ -1748,5 +1741,12 @@
     "heRef_2": "תלמוד ירושלמי תרומות ט, ג, ה",
     "path_2": "תלמוד ירושלמי תרומות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 490,
+    "line_index_2": 158,
+    "heRef_2": "תוספתא תרומות ט, י",
+    "path_2": "תוספתא תרומות.txt",
+    "Conection Type": ""
   }
 ]

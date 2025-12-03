@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 243,
+    "line_index_2": 2257,
+    "heRef_2": "ברכות נא.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 2289,
+    "heRef_2": "ברכות נא:, י",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 59,
     "line_index_2": 24,
     "heRef_2": "פסקי הרא\"ש על סוכה א, י, א",
@@ -2639,20 +2653,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 243,
-    "line_index_2": 2257,
-    "heRef_2": "ברכות נא.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 243,
-    "line_index_2": 2289,
-    "heRef_2": "ברכות נא:, י",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 339,
     "line_index_2": 1386,
     "heRef_2": "חולין מח.,  א",
@@ -2667,17 +2667,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 165,
-    "line_index_2": 947,
-    "heRef_2": "עירובין כה., ה",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 273,
     "line_index_2": 3657,
     "heRef_2": "בבא קמא צו.,  א",
     "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 947,
+    "heRef_2": "עירובין כה., ה",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

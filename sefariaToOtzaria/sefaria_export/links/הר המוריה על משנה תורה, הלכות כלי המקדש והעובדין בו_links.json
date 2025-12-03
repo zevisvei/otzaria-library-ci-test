@@ -1,40 +1,5 @@
 [
   {
-    "line_index_1": 181,
-    "line_index_2": 1082,
-    "heRef_2": "בכורות לג.,  א",
-    "path_2": "בכורות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 436,
-    "line_index_2": 3392,
-    "heRef_2": "חולין קי:,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 439,
-    "line_index_2": 3392,
-    "heRef_2": "חולין קי:,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 445,
-    "line_index_2": 2003,
-    "heRef_2": "בבא מציעא סא:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 656,
-    "heRef_2": "ביצה כב.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 531,
     "line_index_2": 165,
     "heRef_2": "משנה תורה, הלכות כלי המקדש והעובדין בו י, י",
@@ -2919,10 +2884,45 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 151,
+    "line_index_2": 656,
+    "heRef_2": "ביצה כב.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 1082,
+    "heRef_2": "בכורות לג.,  א",
+    "path_2": "בכורות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 436,
+    "line_index_2": 3392,
+    "heRef_2": "חולין קי:,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 439,
+    "line_index_2": 3392,
+    "heRef_2": "חולין קי:,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 129,
     "line_index_2": 1421,
     "heRef_2": "עבודה זרה מז.,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 2003,
+    "heRef_2": "בבא מציעא סא:,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

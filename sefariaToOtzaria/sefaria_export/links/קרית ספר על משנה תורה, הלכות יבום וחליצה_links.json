@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 15,
-    "line_index_2": 568,
-    "heRef_2": "שמות כא, ד",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 19,
     "line_index_2": 15,
     "heRef_2": "משנה תורה, הלכות יבום וחליצה א, יב",
@@ -481,5 +474,12 @@
     "heRef_2": "משנה תורה, הלכות יבום וחליצה ח, ו",
     "path_2": "משנה תורה, הלכות יבום וחליצה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 568,
+    "heRef_2": "שמות כא, ד",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

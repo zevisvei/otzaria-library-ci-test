@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 20,
+    "line_index_2": 34,
+    "heRef_2": "מורה נבוכים, פתיחת הרמב\"ם ו",
+    "path_2": "מורה נבוכים.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "משנה חגיגה א, א",
@@ -159,12 +166,5 @@
     "heRef_2": "משנה חגיגה ג, ח",
     "path_2": "משנה חגיגה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 34,
-    "heRef_2": "מורה נבוכים, פתיחת הרמב\"ם ו",
-    "path_2": "מורה נבוכים.txt",
-    "Conection Type": "reference"
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 62,
+    "line_index_2": 123,
+    "heRef_2": "דברי הימים א ג, י",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 372,
     "line_index_2": 190,
     "heRef_2": "קהלת י, א",
@@ -1566,12 +1573,5 @@
     "heRef_2": "קהלת ט, ט",
     "path_2": "קהלת.txt",
     "Conection Type": "midrash"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 123,
-    "heRef_2": "דברי הימים א ג, י",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": ""
   }
 ]

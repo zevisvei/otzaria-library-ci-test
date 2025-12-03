@@ -1,52 +1,759 @@
 [
   {
-    "line_index_1": 127,
-    "line_index_2": 634,
-    "heRef_2": "שמות כג,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_1": 130,
+    "line_index_2": 277,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ח, ד, ב",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
   },
   {
-    "line_index_1": 112,
-    "line_index_2": 1209,
-    "heRef_2": "יחזקאל מד, כט",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
+    "line_index_1": 55,
+    "line_index_2": 316,
+    "heRef_2": "תלמוד ירושלמי בבא קמא ט, ה, ה",
+    "path_2": "תלמוד ירושלמי בבא קמא.txt",
+    "Conection Type": "ein mishpat"
   },
   {
-    "line_index_1": 14,
-    "line_index_2": 102,
-    "heRef_2": "עזרא ד, ג",
-    "path_2": "עזרא.txt",
-    "Conection Type": ""
+    "line_index_1": 148,
+    "line_index_2": 145,
+    "heRef_2": "תלמוד ירושלמי בבא מציעא ד, ה, א",
+    "path_2": "תלמוד ירושלמי בבא מציעא.txt",
+    "Conection Type": "ein mishpat"
   },
   {
-    "line_index_1": 9,
-    "line_index_2": 102,
-    "heRef_2": "עזרא ד, ג",
-    "path_2": "עזרא.txt",
-    "Conection Type": ""
+    "line_index_1": 116,
+    "line_index_2": 175,
+    "heRef_2": "תלמוד ירושלמי חלה ד, ד, א",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": "ein mishpat"
   },
   {
-    "line_index_1": 144,
-    "line_index_2": 825,
-    "heRef_2": "בראשית כח, כב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
+    "line_index_1": 125,
+    "line_index_2": 175,
+    "heRef_2": "תלמוד ירושלמי חלה ד, ד, א",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 189,
+    "heRef_2": "תלמוד ירושלמי חלה ד, ד, טו",
+    "path_2": "תלמוד ירושלמי חלה.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 137,
+    "heRef_2": "תלמוד ירושלמי גיטין ד, ג, ב",
+    "path_2": "תלמוד ירושלמי גיטין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 348,
+    "heRef_2": "תלמוד ירושלמי גיטין ח, ג, ג",
+    "path_2": "תלמוד ירושלמי גיטין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 549,
+    "heRef_2": "תלמוד ירושלמי כתובות יא, ו, ב",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 550,
+    "heRef_2": "תלמוד ירושלמי כתובות יא, ו, ג",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 551,
+    "heRef_2": "תלמוד ירושלמי כתובות יא, ו, ד",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 180,
-    "line_index_2": 825,
-    "heRef_2": "בראשית כח, כב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
+    "line_index_2": 230,
+    "heRef_2": "תלמוד ירושלמי כתובות ד, ח, ז",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 284,
+    "heRef_2": "תלמוד ירושלמי כתובות ה, ה, א",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 286,
+    "heRef_2": "תלמוד ירושלמי כתובות ה, ה, ג",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 287,
+    "heRef_2": "תלמוד ירושלמי כתובות ה, ה, ד",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 287,
+    "heRef_2": "תלמוד ירושלמי כתובות ה, ה, ד",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 429,
+    "heRef_2": "תלמוד ירושלמי כתובות ח, י, ג",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 11,
+    "heRef_2": "תלמוד ירושלמי קידושין א, א, ח",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 49,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ב, יב",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 55,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ב, יח",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 122,
+    "heRef_2": "תלמוד ירושלמי קידושין א, ו, ו",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 227,
+    "heRef_2": "תלמוד ירושלמי קידושין ג, א, ה",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 15,
+    "heRef_2": "תלמוד ירושלמי מעשר שני א, א, יב",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 99,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ב, ה",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 127,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ג, ו, ג",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 153,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ב, ד",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 155,
+    "heRef_2": "תלמוד ירושלמי מעשר שני ד, ב, ו",
+    "path_2": "תלמוד ירושלמי מעשר שני.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 227,
+    "heRef_2": "תלמוד ירושלמי מגילה ד, ד, א",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 233,
+    "heRef_2": "תלמוד ירושלמי מגילה ד, ד, ז",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 43,
+    "heRef_2": "תלמוד ירושלמי נזיר ב, א, ד",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 43,
+    "heRef_2": "תלמוד ירושלמי נזיר ב, א, ד",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 76,
+    "heRef_2": "תלמוד ירושלמי נזיר ב, ט, ד",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 154,
+    "heRef_2": "תלמוד ירושלמי נזיר ה, א, א",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 161,
+    "heRef_2": "תלמוד ירושלמי נזיר ה, א, ח",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 162,
+    "heRef_2": "תלמוד ירושלמי נזיר ה, א, ט",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 162,
+    "heRef_2": "תלמוד ירושלמי נזיר ה, א, ט",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 333,
+    "heRef_2": "תלמוד ירושלמי נזיר ט, א, ג",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 333,
+    "heRef_2": "תלמוד ירושלמי נזיר ט, א, ג",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 333,
+    "heRef_2": "תלמוד ירושלמי נזיר ט, א, ג",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 15,
+    "heRef_2": "תלמוד ירושלמי פאה א, א, יב",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 201,
+    "heRef_2": "תלמוד ירושלמי פאה ד, ב, ד",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 201,
+    "heRef_2": "תלמוד ירושלמי פאה ד, ב, ד",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 400,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ב",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 320,
+    "heRef_2": "גיטין יב., כב",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 325,
+    "heRef_2": "גיטין יב:, ג",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 1141,
+    "heRef_2": "גיטין לח:, יא",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 1142,
+    "heRef_2": "גיטין לח:, יב",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 1149,
+    "heRef_2": "גיטין לט., ב",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 1215,
+    "heRef_2": "גיטין מ:, יא",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 1477,
+    "heRef_2": "גיטין מח., י",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 1475,
+    "heRef_2": "גיטין מח., ח",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 2115,
+    "heRef_2": "גיטין סה., ח",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 3113,
+    "heRef_2": "גיטין פט., ז",
+    "path_2": "גיטין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 7,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין א, כא, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 5,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין א, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 10,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ב, יב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 13,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ג, ו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 15,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ג, ט, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 20,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, יד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 22,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, טו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 24,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, יז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 26,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, כ, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 27,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, כ, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 29,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, כב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 31,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, כה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 18,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 38,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ה, יב, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 40,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ה, יז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 34,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ה, א, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 36,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ה, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 43,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ו, יז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 144,
-    "line_index_2": 919,
-    "heRef_2": "בראשית לא, יג",
-    "path_2": "בראשית.txt",
+    "line_index_2": 45,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ו, לג, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 48,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, יד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 50,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, טו, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 52,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, טז, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 54,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, יט, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 55,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, יט, ב",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 64,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ח, יא, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 58,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ח, ד, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 60,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ח, ה, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 62,
+    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ח, ח, א",
+    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 335,
+    "heRef_2": "מלכים ב יב, ו",
+    "path_2": "מלכים ב.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 37,
+    "heRef_2": "תלמוד ירושלמי סנהדרין א, ב, א",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 14,
+    "heRef_2": "תלמוד ירושלמי שקלים א, א, יא",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי שקלים א, ד, ה",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי שקלים א, ד, ה",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 54,
+    "heRef_2": "תלמוד ירושלמי שקלים ב, ב, ד",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, א",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, א",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, א",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 121,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, ג",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 121,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, ג",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 121,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, ג",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 122,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, ד",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 127,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, ד, ט",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 168,
+    "heRef_2": "תלמוד ירושלמי שקלים ה, ד, א",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 178,
+    "heRef_2": "תלמוד ירושלמי שקלים ה, ד, יא",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 210,
+    "heRef_2": "תלמוד ירושלמי שקלים ו, ד, א",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 215,
+    "heRef_2": "תלמוד ירושלמי שקלים ו, ד, ו",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 215,
+    "heRef_2": "תלמוד ירושלמי שקלים ו, ד, ו",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 267,
+    "heRef_2": "תלמוד ירושלמי שקלים ח, ד, ד",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 267,
+    "heRef_2": "תלמוד ירושלמי שקלים ח, ד, ד",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 267,
+    "heRef_2": "תלמוד ירושלמי שקלים ח, ד, ד",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי סוטה ג, ד, א",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 192,
+    "heRef_2": "תלמוד ירושלמי תרומות ה, א, ה",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 369,
+    "heRef_2": "תלמוד ירושלמי תרומות ט, ב, ג",
+    "path_2": "תלמוד ירושלמי תרומות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 504,
+    "heRef_2": "תלמוד ירושלמי יבמות י, ז, ג",
+    "path_2": "תלמוד ירושלמי יבמות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 226,
+    "heRef_2": "תלמוד ירושלמי יומא ה, א, ג",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 101,
@@ -2450,6 +3157,216 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 6,
+    "line_index_2": 472,
+    "heRef_2": "בכורות יב:, כד",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 483,
+    "heRef_2": "בכורות יג., ז",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 545,
+    "heRef_2": "בכורות יד:, יז",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 531,
+    "heRef_2": "בכורות יד:, ג",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 824,
+    "heRef_2": "בכורות כה., יא",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 1068,
+    "heRef_2": "בכורות לב., כה",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 1260,
+    "heRef_2": "בכורות לז:, ב",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 1443,
+    "heRef_2": "בכורות מב., א",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 1728,
+    "heRef_2": "בכורות נ., ג",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 1731,
+    "heRef_2": "בכורות נ., ו",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 1737,
+    "heRef_2": "בכורות נ:, א",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 1742,
+    "heRef_2": "בכורות נ:, ו",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 1770,
+    "heRef_2": "בכורות נא:, א",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 1819,
+    "heRef_2": "בכורות נג., ט",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1832,
+    "heRef_2": "בכורות נג:, י",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 1832,
+    "heRef_2": "בכורות נג:, י",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 1832,
+    "heRef_2": "בכורות נג:, י",
+    "path_2": "בכורות.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 5,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ד, יט, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 7,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ד, כב, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 9,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ד, כד, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 11,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ד, כו, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 16,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ה, יד, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 14,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ה, ו, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 21,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ז, יט, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 19,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ז, ב, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 24,
+    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ח, ה, א",
+    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 5,
+    "heRef_2": "חשק שלמה על משנה תורה, הלכות ערכים וחרמין ה, יג, א",
+    "path_2": "חשק שלמה על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 5,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין ג, יא, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 10,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין ו, לא, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 8,
+    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין ו, ט, א",
+    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 14,
     "line_index_2": 7,
     "heRef_2": "לחם משנה על משנה תורה, הלכות ערכים וחרמין א, יא, א",
@@ -2917,216 +3834,6 @@
     "heRef_2": "ויקרא כב, כג",
     "path_2": "ויקרא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 472,
-    "heRef_2": "בכורות יב:, כד",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 483,
-    "heRef_2": "בכורות יג., ז",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 545,
-    "heRef_2": "בכורות יד:, יז",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 531,
-    "heRef_2": "בכורות יד:, ג",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 154,
-    "line_index_2": 824,
-    "heRef_2": "בכורות כה., יא",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 1068,
-    "heRef_2": "בכורות לב., כה",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 1260,
-    "heRef_2": "בכורות לז:, ב",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 1443,
-    "heRef_2": "בכורות מב., א",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 1728,
-    "heRef_2": "בכורות נ., ג",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 1731,
-    "heRef_2": "בכורות נ., ו",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 1737,
-    "heRef_2": "בכורות נ:, א",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 154,
-    "line_index_2": 1742,
-    "heRef_2": "בכורות נ:, ו",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 1770,
-    "heRef_2": "בכורות נא:, א",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 1819,
-    "heRef_2": "בכורות נג., ט",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 1832,
-    "heRef_2": "בכורות נג:, י",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 1832,
-    "heRef_2": "בכורות נג:, י",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 1832,
-    "heRef_2": "בכורות נג:, י",
-    "path_2": "בכורות.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 5,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ד, יט, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 7,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ד, כב, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 9,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ד, כד, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 11,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ד, כו, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 16,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ה, יד, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 14,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ה, ו, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 21,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ז, יט, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 19,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ז, ב, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 24,
-    "heRef_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין ח, ה, א",
-    "path_2": "בן אריה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 5,
-    "heRef_2": "חשק שלמה על משנה תורה, הלכות ערכים וחרמין ה, יג, א",
-    "path_2": "חשק שלמה על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 5,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין ג, יא, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 10,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין ו, לא, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 120,
-    "line_index_2": 8,
-    "heRef_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין ו, ט, א",
-    "path_2": "חידושים מהגאון בעל מחנה אפרים על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
   },
   {
     "line_index_1": 83,
@@ -3857,6 +4564,1476 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 133,
+    "line_index_2": 4536,
+    "heRef_2": "חולין קלט., ג",
+    "path_2": "חולין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 857,
+    "heRef_2": "חולין ל., ט",
+    "path_2": "חולין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 857,
+    "heRef_2": "חולין ל., ט",
+    "path_2": "חולין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 2544,
+    "heRef_2": "חולין פד., א",
+    "path_2": "חולין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 481,
+    "heRef_2": "דברים טז, יז",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 650,
+    "heRef_2": "דברים כג, כב",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 650,
+    "heRef_2": "דברים כג, כב",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 651,
+    "heRef_2": "דברים כג, כג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 668,
+    "heRef_2": "דברים כד, יג",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 699,
+    "heRef_2": "דברים כו,  א",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 5,
+    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות ערכים וחרמין ד, כו, א",
+    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות ערכים וחרמין.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 446,
+    "heRef_2": "ערכין יג:, יח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 461,
+    "heRef_2": "ערכין יד., יא",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 463,
+    "heRef_2": "ערכין יד., יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 468,
+    "heRef_2": "ערכין יד., יח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 455,
+    "heRef_2": "ערכין יד., ה",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 455,
+    "heRef_2": "ערכין יד., ה",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 456,
+    "heRef_2": "ערכין יד., ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 456,
+    "heRef_2": "ערכין יד., ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 457,
+    "heRef_2": "ערכין יד., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 489,
+    "heRef_2": "ערכין יד:, יח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 477,
+    "heRef_2": "ערכין יד:, ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 479,
+    "heRef_2": "ערכין יד:, ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 480,
+    "heRef_2": "ערכין יד:, ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 480,
+    "heRef_2": "ערכין יד:, ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 608,
+    "heRef_2": "ערכין יז., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 623,
+    "heRef_2": "ערכין יז:, ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 645,
+    "heRef_2": "ערכין יח., י",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 648,
+    "heRef_2": "ערכין יח., יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 643,
+    "heRef_2": "ערכין יח., ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 644,
+    "heRef_2": "ערכין יח., ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 666,
+    "heRef_2": "ערכין יח:, יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 680,
+    "heRef_2": "ערכין יט., י",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 681,
+    "heRef_2": "ערכין יט., יא",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 674,
+    "heRef_2": "ערכין יט., ד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 677,
+    "heRef_2": "ערכין יט., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 686,
+    "heRef_2": "ערכין יט:, א",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 698,
+    "heRef_2": "ערכין יט:, יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 689,
+    "heRef_2": "ערכין יט:, ד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 715,
+    "heRef_2": "ערכין כ., י",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 712,
+    "heRef_2": "ערכין כ., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 712,
+    "heRef_2": "ערכין כ., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 713,
+    "heRef_2": "ערכין כ., ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 714,
+    "heRef_2": "ערכין כ., ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 714,
+    "heRef_2": "ערכין כ., ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 751,
+    "heRef_2": "ערכין כא., ב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 754,
+    "heRef_2": "ערכין כא., ה",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 778,
+    "heRef_2": "ערכין כא:, יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 779,
+    "heRef_2": "ערכין כא:, יד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 826,
+    "heRef_2": "ערכין כג., א",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 828,
+    "heRef_2": "ערכין כג., ג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 853,
+    "heRef_2": "ערכין כג:, יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 854,
+    "heRef_2": "ערכין כג:, יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 849,
+    "heRef_2": "ערכין כג:, ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 849,
+    "heRef_2": "ערכין כג:, ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 869,
+    "heRef_2": "ערכין כד., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 869,
+    "heRef_2": "ערכין כד., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 869,
+    "heRef_2": "ערכין כד., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 872,
+    "heRef_2": "ערכין כד., טו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 874,
+    "heRef_2": "ערכין כד., יז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 860,
+    "heRef_2": "ערכין כד., ג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 865,
+    "heRef_2": "ערכין כד., ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 866,
+    "heRef_2": "ערכין כד., ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 887,
+    "heRef_2": "ערכין כד:, יא",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 882,
+    "heRef_2": "ערכין כד:, ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 905,
+    "heRef_2": "ערכין כה., טז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 906,
+    "heRef_2": "ערכין כה., יז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 893,
+    "heRef_2": "ערכין כה., ד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 895,
+    "heRef_2": "ערכין כה., ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 895,
+    "heRef_2": "ערכין כה., ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 896,
+    "heRef_2": "ערכין כה., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 896,
+    "heRef_2": "ערכין כה., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 897,
+    "heRef_2": "ערכין כה., ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 917,
+    "heRef_2": "ערכין כה:, י",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 923,
+    "heRef_2": "ערכין כה:, טז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 924,
+    "heRef_2": "ערכין כה:, יז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 916,
+    "heRef_2": "ערכין כה:, ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 940,
+    "heRef_2": "ערכין כו., י",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 941,
+    "heRef_2": "ערכין כו., יא",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 961,
+    "heRef_2": "ערכין כו:, יד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 963,
+    "heRef_2": "ערכין כו:, טז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 963,
+    "heRef_2": "ערכין כו:, טז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 980,
+    "heRef_2": "ערכין כז., יא",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 982,
+    "heRef_2": "ערכין כז., יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 984,
+    "heRef_2": "ערכין כז., טו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 986,
+    "heRef_2": "ערכין כז., יז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 976,
+    "heRef_2": "ערכין כז., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 978,
+    "heRef_2": "ערכין כז., ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1001,
+    "heRef_2": "ערכין כז:, יד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 1002,
+    "heRef_2": "ערכין כז:, טו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 989,
+    "heRef_2": "ערכין כז:, ב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 990,
+    "heRef_2": "ערכין כז:, ג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 996,
+    "heRef_2": "ערכין כז:, ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 1019,
+    "heRef_2": "ערכין כח., י",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 1021,
+    "heRef_2": "ערכין כח., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 1021,
+    "heRef_2": "ערכין כח., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 1023,
+    "heRef_2": "ערכין כח., יד",
+    "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 1026,
+    "heRef_2": "ערכין כח., יז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 1011,
+    "heRef_2": "ערכין כח., ב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 1013,
+    "heRef_2": "ערכין כח., ד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 1037,
+    "heRef_2": "ערכין כח:, י",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 1039,
+    "heRef_2": "ערכין כח:, יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1040,
+    "heRef_2": "ערכין כח:, יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 1041,
+    "heRef_2": "ערכין כח:, יד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 1031,
+    "heRef_2": "ערכין כח:, ד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 1043,
+    "heRef_2": "ערכין כט., א",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 1054,
+    "heRef_2": "ערכין כט., יב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 1055,
+    "heRef_2": "ערכין כט., יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 1056,
+    "heRef_2": "ערכין כט., יד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 1045,
+    "heRef_2": "ערכין כט., ג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 3,
+    "heRef_2": "ערכין ב., א",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 3,
+    "heRef_2": "ערכין ב., א",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 4,
+    "heRef_2": "ערכין ב., ב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 5,
+    "heRef_2": "ערכין ב., ג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 6,
+    "heRef_2": "ערכין ב., ד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 7,
+    "heRef_2": "ערכין ב., ה",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 1090,
+    "heRef_2": "ערכין ל., ט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 1123,
+    "heRef_2": "ערכין ל:, כא",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 1125,
+    "heRef_2": "ערכין ל:, כג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 1214,
+    "heRef_2": "ערכין לג., כא",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 1228,
+    "heRef_2": "ערכין לג:, יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 1242,
+    "heRef_2": "ערכין לד., ב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 1243,
+    "heRef_2": "ערכין לד., ג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 92,
+    "heRef_2": "ערכין ד., יז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 92,
+    "heRef_2": "ערכין ד., יז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 94,
+    "heRef_2": "ערכין ד., יט",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 95,
+    "heRef_2": "ערכין ד., כ",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 120,
+    "heRef_2": "ערכין ד:, כד",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 103,
+    "heRef_2": "ערכין ד:, ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 135,
+    "heRef_2": "ערכין ה., י",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 138,
+    "heRef_2": "ערכין ה., יג",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 140,
+    "heRef_2": "ערכין ה., טו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 141,
+    "heRef_2": "ערכין ה., טז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 146,
+    "heRef_2": "ערכין ה., כא",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 132,
+    "heRef_2": "ערכין ה., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 162,
+    "heRef_2": "ערכין ה:, טו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 164,
+    "heRef_2": "ערכין ה:, יז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 154,
+    "heRef_2": "ערכין ה:, ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 154,
+    "heRef_2": "ערכין ה:, ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 174,
+    "heRef_2": "ערכין ו., ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 174,
+    "heRef_2": "ערכין ו., ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 175,
+    "heRef_2": "ערכין ו., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 175,
+    "heRef_2": "ערכין ו., ז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 193,
+    "heRef_2": "ערכין ו:, ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 193,
+    "heRef_2": "ערכין ו:, ח",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 241,
+    "heRef_2": "ערכין ז:, טו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 248,
+    "heRef_2": "ערכין ז:, כב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 253,
+    "heRef_2": "ערכין ח., ב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 358,
+    "heRef_2": "עבודה זרה יג., טז",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 360,
+    "heRef_2": "עבודה זרה יג:, א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 365,
+    "heRef_2": "עבודה זרה יג:, ו",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 1900,
+    "heRef_2": "עבודה זרה סג., ג",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 2407,
+    "heRef_2": "בבא בתרא קב:, י",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 2407,
+    "heRef_2": "בבא בתרא קב:, י",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 2413,
+    "heRef_2": "בבא בתרא קג., ה",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 2510,
+    "heRef_2": "בבא בתרא קח:, ד",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 2749,
+    "heRef_2": "בבא בתרא קכ:, ז",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 3513,
+    "heRef_2": "בבא בתרא קנא., ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 3513,
+    "heRef_2": "בבא בתרא קנא., ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 3514,
+    "heRef_2": "בבא בתרא קנא., ג",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 4102,
+    "heRef_2": "בבא בתרא קעד:, יט",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 4108,
+    "heRef_2": "בבא בתרא קעה., ד",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 1670,
+    "heRef_2": "בבא בתרא עב., א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 1671,
+    "heRef_2": "בבא בתרא עב., ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 1671,
+    "heRef_2": "בבא בתרא עב., ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 1672,
+    "heRef_2": "בבא בתרא עב., ג",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 1684,
+    "heRef_2": "בבא בתרא עב:, י",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 1679,
+    "heRef_2": "בבא בתרא עב:, ה",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 1681,
+    "heRef_2": "בבא בתרא עב:, ז",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 2039,
+    "heRef_2": "בבא בתרא פח., ח",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 2039,
+    "heRef_2": "בבא בתרא פח., ח",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 3866,
+    "heRef_2": "בבא קמא קב:, יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 3867,
+    "heRef_2": "בבא קמא קב:, יב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 3863,
+    "heRef_2": "בבא קמא קב:, ח",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 4100,
+    "heRef_2": "בבא קמא קט:, יד",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 1409,
+    "heRef_2": "בבא קמא לו:, יב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 1545,
+    "heRef_2": "בבא קמא מ., טז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 2631,
+    "heRef_2": "בבא קמא סח:, י",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 2634,
+    "heRef_2": "בבא קמא סח:, יג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 3410,
+    "heRef_2": "בבא קמא צ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 3494,
+    "heRef_2": "בבא מציעא קו., יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 3727,
+    "heRef_2": "בבא מציעא קיג:, ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 3743,
+    "heRef_2": "בבא מציעא קיד., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 3744,
+    "heRef_2": "בבא מציעא קיד., ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 3744,
+    "heRef_2": "בבא מציעא קיד., ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 3745,
+    "heRef_2": "בבא מציעא קיד., ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 3746,
+    "heRef_2": "בבא מציעא קיד., ז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1766,
+    "heRef_2": "בבא מציעא נג:, יא",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 1779,
+    "heRef_2": "בבא מציעא נד., יב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 1781,
+    "heRef_2": "בבא מציעא נד., יד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 1782,
+    "heRef_2": "בבא מציעא נד., טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 1785,
+    "heRef_2": "בבא מציעא נד., יח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1769,
+    "heRef_2": "בבא מציעא נד., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 1771,
+    "heRef_2": "בבא מציעא נד., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 1791,
+    "heRef_2": "בבא מציעא נד:, ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 1793,
+    "heRef_2": "בבא מציעא נד:, ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 1804,
+    "heRef_2": "בבא מציעא נה., ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 1805,
+    "heRef_2": "בבא מציעא נה., ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 1822,
+    "heRef_2": "בבא מציעא נה:, ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 1859,
+    "heRef_2": "בבא מציעא נז., ג",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 158,
+    "heRef_2": "בבא מציעא ו., יח",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 176,
+    "heRef_2": "בבא מציעא ז., ה",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 177,
+    "heRef_2": "בבא מציעא ז., ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "ein mishpat / ner mitsvah"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 634,
+    "heRef_2": "שמות כג,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 1209,
+    "heRef_2": "יחזקאל מד, כט",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 102,
+    "heRef_2": "עזרא ד, ג",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 102,
+    "heRef_2": "עזרא ד, ג",
+    "path_2": "עזרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 825,
+    "heRef_2": "בראשית כח, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 825,
+    "heRef_2": "בראשית כח, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 919,
+    "heRef_2": "בראשית לא, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 96,
     "line_index_2": 3607,
     "heRef_2": "מנחות קא., יא",
@@ -3972,13 +6149,6 @@
     "line_index_1": 22,
     "line_index_2": 37,
     "heRef_2": "מגדל עוז על משנה תורה, הלכות ערכים וחרמין א, יט, א",
-    "path_2": "מגדל עוז על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 5,
-    "heRef_2": "מגדל עוז על משנה תורה, הלכות ערכים וחרמין א, א, א",
     "path_2": "מגדל עוז על משנה תורה, הלכות ערכים וחרמין.txt",
     "Conection Type": "commentary"
   },
@@ -4767,73 +6937,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 133,
-    "line_index_2": 4536,
-    "heRef_2": "חולין קלט., ג",
-    "path_2": "חולין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 857,
-    "heRef_2": "חולין ל., ט",
-    "path_2": "חולין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 857,
-    "heRef_2": "חולין ל., ט",
-    "path_2": "חולין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 2544,
-    "heRef_2": "חולין פד., א",
-    "path_2": "חולין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 481,
-    "heRef_2": "דברים טז, יז",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 650,
-    "heRef_2": "דברים כג, כב",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 650,
-    "heRef_2": "דברים כג, כב",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 179,
-    "line_index_2": 651,
-    "heRef_2": "דברים כג, כג",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 668,
-    "heRef_2": "דברים כד, יג",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 699,
-    "heRef_2": "דברים כו,  א",
-    "path_2": "דברים.txt",
+    "line_index_1": 39,
+    "line_index_2": 37,
+    "heRef_2": "משנה שקלים ה, ו",
+    "path_2": "משנה שקלים.txt",
     "Conection Type": ""
   },
   {
@@ -5111,13 +7218,6 @@
   },
   {
     "line_index_1": 14,
-    "line_index_2": 1935,
-    "heRef_2": "טור, יורה דעה, יורה דעה רנט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 14,
     "line_index_2": 2683,
     "heRef_2": "שולחן ערוך, יורה דעה רנט, ד",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -5135,13 +7235,6 @@
     "line_index_2": 162,
     "heRef_2": "משנה תורה, הלכות מתנות עניים ח, ח",
     "path_2": "משנה תורה, הלכות מתנות עניים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 1935,
-    "heRef_2": "טור, יורה דעה, יורה דעה רנט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5198,13 +7291,6 @@
     "line_index_2": 192,
     "heRef_2": "משנה תורה, הלכות נדרים יא, א",
     "path_2": "משנה תורה, הלכות נדרים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 1883,
-    "heRef_2": "טור, יורה דעה, יורה דעה רלג, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5328,7 +7414,7 @@
   },
   {
     "line_index_1": 7,
-    "line_index_2": 7627,
+    "line_index_2": 7624,
     "heRef_2": "טור, חושן משפט, חושן משפט תכ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5342,7 +7428,7 @@
   },
   {
     "line_index_1": 7,
-    "line_index_2": 3819,
+    "line_index_2": 3816,
     "heRef_2": "טור, חושן משפט, חושן משפט פח, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -5356,23 +7442,9 @@
   },
   {
     "line_index_1": 7,
-    "line_index_2": 2027,
-    "heRef_2": "טור, יורה דעה, יורה דעה שה, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
     "line_index_2": 3236,
     "heRef_2": "שולחן ערוך, יורה דעה שה, א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -5594,7 +7666,7 @@
   },
   {
     "line_index_1": 57,
-    "line_index_2": 4012,
+    "line_index_2": 4009,
     "heRef_2": "טור, חושן משפט, חושן משפט צז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6595,13 +8667,6 @@
   },
   {
     "line_index_1": 133,
-    "line_index_2": 1933,
-    "heRef_2": "טור, יורה דעה, יורה דעה רנח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 133,
     "line_index_2": 2672,
     "heRef_2": "שולחן ערוך, יורה דעה רנח, ז",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -6636,15 +8701,8 @@
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
-    "line_index_1": 134,
-    "line_index_2": 1933,
-    "heRef_2": "טור, יורה דעה, יורה דעה רנח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
     "line_index_1": 135,
-    "line_index_2": 7169,
+    "line_index_2": 7166,
     "heRef_2": "טור, חושן משפט, חושן משפט שנד, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -6654,13 +8712,6 @@
     "line_index_2": 3564,
     "heRef_2": "שולחן ערוך, חושן משפט שנד, ו",
     "path_2": "שולחן ערוך, חושן משפט.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 1933,
-    "heRef_2": "טור, יורה דעה, יורה דעה רנח, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -6693,7 +8744,7 @@
   },
   {
     "line_index_1": 138,
-    "line_index_2": 5651,
+    "line_index_2": 5648,
     "heRef_2": "טור, חושן משפט, חושן משפט ריב, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7141,7 +9192,7 @@
   },
   {
     "line_index_1": 160,
-    "line_index_2": 4375,
+    "line_index_2": 4372,
     "heRef_2": "טור, חושן משפט, חושן משפט קיז, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7239,7 +9290,7 @@
   },
   {
     "line_index_1": 164,
-    "line_index_2": 5782,
+    "line_index_2": 5779,
     "heRef_2": "טור, חושן משפט, חושן משפט רכה, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7260,7 +9311,7 @@
   },
   {
     "line_index_1": 165,
-    "line_index_2": 6244,
+    "line_index_2": 6241,
     "heRef_2": "טור, חושן משפט, חושן משפט רנה, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7274,7 +9325,7 @@
   },
   {
     "line_index_1": 165,
-    "line_index_2": 6133,
+    "line_index_2": 6130,
     "heRef_2": "טור, חושן משפט, חושן משפט רנ, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7295,7 +9346,7 @@
   },
   {
     "line_index_1": 165,
-    "line_index_2": 5782,
+    "line_index_2": 5779,
     "heRef_2": "טור, חושן משפט, חושן משפט רכה, א",
     "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
@@ -7575,13 +9626,6 @@
   },
   {
     "line_index_1": 177,
-    "line_index_2": 2005,
-    "heRef_2": "טור, יורה דעה, יורה דעה רצד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 177,
     "line_index_2": 3039,
     "heRef_2": "שולחן ערוך, יורה דעה רצד, ו",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -7648,13 +9692,6 @@
     "line_index_2": 143,
     "heRef_2": "משנה תורה, הלכות מתנות עניים ז, ה",
     "path_2": "משנה תורה, הלכות מתנות עניים.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 1915,
-    "heRef_2": "טור, יורה דעה, יורה דעה רמט, א",
-    "path_2": "טור.txt",
     "Conection Type": "ein mishpat / ner mitsvah"
   },
   {
@@ -7820,13 +9857,6 @@
   },
   {
     "line_index_1": 176,
-    "line_index_2": 1715,
-    "heRef_2": "טור, יורה דעה, יורה דעה קמט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 176,
     "line_index_2": 1341,
     "heRef_2": "שולחן ערוך, יורה דעה קמט, ג",
     "path_2": "שולחן ערוך, יורה דעה.txt",
@@ -7838,1629 +9868,5 @@
     "heRef_2": "אור שמח על משנה תורה, הלכות ערכים וחרמין ח, ט, א",
     "path_2": "אור שמח על משנה תורה, הלכות ערכים וחרמין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 2407,
-    "heRef_2": "בבא בתרא קב:, י",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 2407,
-    "heRef_2": "בבא בתרא קב:, י",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 2413,
-    "heRef_2": "בבא בתרא קג., ה",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 2510,
-    "heRef_2": "בבא בתרא קח:, ד",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 2749,
-    "heRef_2": "בבא בתרא קכ:, ז",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 3513,
-    "heRef_2": "בבא בתרא קנא., ב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 3513,
-    "heRef_2": "בבא בתרא קנא., ב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 3514,
-    "heRef_2": "בבא בתרא קנא., ג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 4102,
-    "heRef_2": "בבא בתרא קעד:, יט",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 4108,
-    "heRef_2": "בבא בתרא קעה., ד",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 1670,
-    "heRef_2": "בבא בתרא עב., א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 1671,
-    "heRef_2": "בבא בתרא עב., ב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 1671,
-    "heRef_2": "בבא בתרא עב., ב",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 1672,
-    "heRef_2": "בבא בתרא עב., ג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 1684,
-    "heRef_2": "בבא בתרא עב:, י",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 1679,
-    "heRef_2": "בבא בתרא עב:, ה",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 1681,
-    "heRef_2": "בבא בתרא עב:, ז",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 2039,
-    "heRef_2": "בבא בתרא פח., ח",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 2039,
-    "heRef_2": "בבא בתרא פח., ח",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 114,
-    "line_index_2": 3866,
-    "heRef_2": "בבא קמא קב:, יא",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 3867,
-    "heRef_2": "בבא קמא קב:, יב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 3863,
-    "heRef_2": "בבא קמא קב:, ח",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 4100,
-    "heRef_2": "בבא קמא קט:, יד",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 1409,
-    "heRef_2": "בבא קמא לו:, יב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 1545,
-    "heRef_2": "בבא קמא מ., טז",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 2631,
-    "heRef_2": "בבא קמא סח:, י",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 2634,
-    "heRef_2": "בבא קמא סח:, יג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 3410,
-    "heRef_2": "בבא קמא צ., א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 3494,
-    "heRef_2": "בבא מציעא קו., יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 3727,
-    "heRef_2": "בבא מציעא קיג:, ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 3743,
-    "heRef_2": "בבא מציעא קיד., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 3744,
-    "heRef_2": "בבא מציעא קיד., ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 3744,
-    "heRef_2": "בבא מציעא קיד., ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 3745,
-    "heRef_2": "בבא מציעא קיד., ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 3746,
-    "heRef_2": "בבא מציעא קיד., ז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1766,
-    "heRef_2": "בבא מציעא נג:, יא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 1779,
-    "heRef_2": "בבא מציעא נד., יב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 1781,
-    "heRef_2": "בבא מציעא נד., יד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 1782,
-    "heRef_2": "בבא מציעא נד., טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 1785,
-    "heRef_2": "בבא מציעא נד., יח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1769,
-    "heRef_2": "בבא מציעא נד., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 1771,
-    "heRef_2": "בבא מציעא נד., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 1791,
-    "heRef_2": "בבא מציעא נד:, ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 150,
-    "line_index_2": 1793,
-    "heRef_2": "בבא מציעא נד:, ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 1804,
-    "heRef_2": "בבא מציעא נה., ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 1805,
-    "heRef_2": "בבא מציעא נה., ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 1822,
-    "heRef_2": "בבא מציעא נה:, ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 154,
-    "line_index_2": 1859,
-    "heRef_2": "בבא מציעא נז., ג",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 158,
-    "heRef_2": "בבא מציעא ו., יח",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 176,
-    "heRef_2": "בבא מציעא ז., ה",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 177,
-    "heRef_2": "בבא מציעא ז., ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 320,
-    "heRef_2": "גיטין יב., כב",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 325,
-    "heRef_2": "גיטין יב:, ג",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 1141,
-    "heRef_2": "גיטין לח:, יא",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 1142,
-    "heRef_2": "גיטין לח:, יב",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 1149,
-    "heRef_2": "גיטין לט., ב",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 1215,
-    "heRef_2": "גיטין מ:, יא",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 1477,
-    "heRef_2": "גיטין מח., י",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 1475,
-    "heRef_2": "גיטין מח., ח",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 2115,
-    "heRef_2": "גיטין סה., ח",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 3113,
-    "heRef_2": "גיטין פט., ז",
-    "path_2": "גיטין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 7,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין א, כא, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 5,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין א, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 10,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ב, יב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 13,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ג, ו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 15,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ג, ט, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 20,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, יד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 22,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, טו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 24,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, יז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 26,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, כ, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 27,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, כ, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 29,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, כב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 31,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, כה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 18,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ד, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 38,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ה, יב, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 40,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ה, יז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 34,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ה, א, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 36,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ה, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 43,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ו, יז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 144,
-    "line_index_2": 45,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ו, לג, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 48,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, יד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 50,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, טו, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 52,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, טז, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 54,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, יט, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 55,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ז, יט, ב",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 178,
-    "line_index_2": 64,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ח, יא, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 58,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ח, ד, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 60,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ח, ה, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 62,
-    "heRef_2": "השגות הראב\"ד על משנה תורה, הלכות ערכים וחרמין ח, ח, א",
-    "path_2": "השגות הראבד על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 335,
-    "heRef_2": "מלכים ב יב, ו",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 5,
-    "heRef_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות ערכים וחרמין ד, כו, א",
-    "path_2": "חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות ערכים וחרמין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 446,
-    "heRef_2": "ערכין יג:, יח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 461,
-    "heRef_2": "ערכין יד., יא",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 463,
-    "heRef_2": "ערכין יד., יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 468,
-    "heRef_2": "ערכין יד., יח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 455,
-    "heRef_2": "ערכין יד., ה",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 455,
-    "heRef_2": "ערכין יד., ה",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 456,
-    "heRef_2": "ערכין יד., ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 456,
-    "heRef_2": "ערכין יד., ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 457,
-    "heRef_2": "ערכין יד., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 489,
-    "heRef_2": "ערכין יד:, יח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 477,
-    "heRef_2": "ערכין יד:, ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 479,
-    "heRef_2": "ערכין יד:, ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 480,
-    "heRef_2": "ערכין יד:, ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 480,
-    "heRef_2": "ערכין יד:, ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 608,
-    "heRef_2": "ערכין יז., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 623,
-    "heRef_2": "ערכין יז:, ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 645,
-    "heRef_2": "ערכין יח., י",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 648,
-    "heRef_2": "ערכין יח., יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 643,
-    "heRef_2": "ערכין יח., ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 644,
-    "heRef_2": "ערכין יח., ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 666,
-    "heRef_2": "ערכין יח:, יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 680,
-    "heRef_2": "ערכין יט., י",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 681,
-    "heRef_2": "ערכין יט., יא",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 674,
-    "heRef_2": "ערכין יט., ד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 677,
-    "heRef_2": "ערכין יט., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 686,
-    "heRef_2": "ערכין יט:, א",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 698,
-    "heRef_2": "ערכין יט:, יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 689,
-    "heRef_2": "ערכין יט:, ד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 715,
-    "heRef_2": "ערכין כ., י",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 712,
-    "heRef_2": "ערכין כ., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 712,
-    "heRef_2": "ערכין כ., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 713,
-    "heRef_2": "ערכין כ., ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 714,
-    "heRef_2": "ערכין כ., ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 714,
-    "heRef_2": "ערכין כ., ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 751,
-    "heRef_2": "ערכין כא., ב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 754,
-    "heRef_2": "ערכין כא., ה",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 778,
-    "heRef_2": "ערכין כא:, יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 779,
-    "heRef_2": "ערכין כא:, יד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 826,
-    "heRef_2": "ערכין כג., א",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 828,
-    "heRef_2": "ערכין כג., ג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 853,
-    "heRef_2": "ערכין כג:, יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 854,
-    "heRef_2": "ערכין כג:, יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 160,
-    "line_index_2": 849,
-    "heRef_2": "ערכין כג:, ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 849,
-    "heRef_2": "ערכין כג:, ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 869,
-    "heRef_2": "ערכין כד., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 869,
-    "heRef_2": "ערכין כד., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 869,
-    "heRef_2": "ערכין כד., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 872,
-    "heRef_2": "ערכין כד., טו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 874,
-    "heRef_2": "ערכין כד., יז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 860,
-    "heRef_2": "ערכין כד., ג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 865,
-    "heRef_2": "ערכין כד., ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 866,
-    "heRef_2": "ערכין כד., ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 887,
-    "heRef_2": "ערכין כד:, יא",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 882,
-    "heRef_2": "ערכין כד:, ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 905,
-    "heRef_2": "ערכין כה., טז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 906,
-    "heRef_2": "ערכין כה., יז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 893,
-    "heRef_2": "ערכין כה., ד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 895,
-    "heRef_2": "ערכין כה., ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 895,
-    "heRef_2": "ערכין כה., ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 896,
-    "heRef_2": "ערכין כה., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 896,
-    "heRef_2": "ערכין כה., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 897,
-    "heRef_2": "ערכין כה., ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 917,
-    "heRef_2": "ערכין כה:, י",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 923,
-    "heRef_2": "ערכין כה:, טז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 924,
-    "heRef_2": "ערכין כה:, יז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 916,
-    "heRef_2": "ערכין כה:, ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 940,
-    "heRef_2": "ערכין כו., י",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 941,
-    "heRef_2": "ערכין כו., יא",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 961,
-    "heRef_2": "ערכין כו:, יד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 88,
-    "line_index_2": 963,
-    "heRef_2": "ערכין כו:, טז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 963,
-    "heRef_2": "ערכין כו:, טז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 980,
-    "heRef_2": "ערכין כז., יא",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 982,
-    "heRef_2": "ערכין כז., יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 984,
-    "heRef_2": "ערכין כז., טו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 986,
-    "heRef_2": "ערכין כז., יז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 976,
-    "heRef_2": "ערכין כז., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 978,
-    "heRef_2": "ערכין כז., ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1001,
-    "heRef_2": "ערכין כז:, יד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 1002,
-    "heRef_2": "ערכין כז:, טו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 989,
-    "heRef_2": "ערכין כז:, ב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 990,
-    "heRef_2": "ערכין כז:, ג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 996,
-    "heRef_2": "ערכין כז:, ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 1019,
-    "heRef_2": "ערכין כח., י",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 1021,
-    "heRef_2": "ערכין כח., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 1021,
-    "heRef_2": "ערכין כח., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 1023,
-    "heRef_2": "ערכין כח., יד",
-    "path_2": "ערכין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 116,
-    "line_index_2": 1026,
-    "heRef_2": "ערכין כח., יז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 1011,
-    "heRef_2": "ערכין כח., ב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 180,
-    "line_index_2": 1013,
-    "heRef_2": "ערכין כח., ד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 1037,
-    "heRef_2": "ערכין כח:, י",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 1039,
-    "heRef_2": "ערכין כח:, יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 1040,
-    "heRef_2": "ערכין כח:, יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 1041,
-    "heRef_2": "ערכין כח:, יד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 1031,
-    "heRef_2": "ערכין כח:, ד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 115,
-    "line_index_2": 1043,
-    "heRef_2": "ערכין כט., א",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 154,
-    "line_index_2": 1054,
-    "heRef_2": "ערכין כט., יב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 177,
-    "line_index_2": 1055,
-    "heRef_2": "ערכין כט., יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 1056,
-    "heRef_2": "ערכין כט., יד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 1045,
-    "heRef_2": "ערכין כט., ג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 3,
-    "heRef_2": "ערכין ב., א",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 3,
-    "heRef_2": "ערכין ב., א",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 4,
-    "heRef_2": "ערכין ב., ב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 5,
-    "heRef_2": "ערכין ב., ג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 6,
-    "heRef_2": "ערכין ב., ד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 7,
-    "heRef_2": "ערכין ב., ה",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 1090,
-    "heRef_2": "ערכין ל., ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 1123,
-    "heRef_2": "ערכין ל:, כא",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 1125,
-    "heRef_2": "ערכין ל:, כג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 1214,
-    "heRef_2": "ערכין לג., כא",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 1228,
-    "heRef_2": "ערכין לג:, יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 1242,
-    "heRef_2": "ערכין לד., ב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 1243,
-    "heRef_2": "ערכין לד., ג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 92,
-    "heRef_2": "ערכין ד., יז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 92,
-    "heRef_2": "ערכין ד., יז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 94,
-    "heRef_2": "ערכין ד., יט",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 95,
-    "heRef_2": "ערכין ד., כ",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 120,
-    "heRef_2": "ערכין ד:, כד",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 103,
-    "heRef_2": "ערכין ד:, ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 135,
-    "heRef_2": "ערכין ה., י",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 138,
-    "heRef_2": "ערכין ה., יג",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 140,
-    "heRef_2": "ערכין ה., טו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 141,
-    "heRef_2": "ערכין ה., טז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 146,
-    "heRef_2": "ערכין ה., כא",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 132,
-    "heRef_2": "ערכין ה., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 162,
-    "heRef_2": "ערכין ה:, טו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 164,
-    "heRef_2": "ערכין ה:, יז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 154,
-    "heRef_2": "ערכין ה:, ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 154,
-    "heRef_2": "ערכין ה:, ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 174,
-    "heRef_2": "ערכין ו., ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 174,
-    "heRef_2": "ערכין ו., ו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 175,
-    "heRef_2": "ערכין ו., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 175,
-    "heRef_2": "ערכין ו., ז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 193,
-    "heRef_2": "ערכין ו:, ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 193,
-    "heRef_2": "ערכין ו:, ח",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 241,
-    "heRef_2": "ערכין ז:, טו",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 248,
-    "heRef_2": "ערכין ז:, כב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 253,
-    "heRef_2": "ערכין ח., ב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 358,
-    "heRef_2": "עבודה זרה יג., טז",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 175,
-    "line_index_2": 360,
-    "heRef_2": "עבודה זרה יג:, א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 176,
-    "line_index_2": 365,
-    "heRef_2": "עבודה זרה יג:, ו",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 1900,
-    "heRef_2": "עבודה זרה סג., ג",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "ein mishpat / ner mitsvah"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 40,
-    "line_index_2": 3743,
-    "heRef_2": "בבא מציעא קיד., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 20,
     "line_index_2": 326,
     "heRef_2": "ערכין י:, ג",
@@ -1342,5 +1335,12 @@
     "heRef_2": "ערכין ו:,  יח",
     "path_2": "ערכין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 3743,
+    "heRef_2": "בבא מציעא קיד., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
   }
 ]

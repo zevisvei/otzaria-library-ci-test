@@ -1,6 +1,13 @@
 [
   {
     "line_index_1": 116,
+    "line_index_2": 308,
+    "heRef_2": "תוספות על ברכות לב:, א, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 116,
     "line_index_2": 1529,
     "heRef_2": "ברכות לב:, א",
     "path_2": "ברכות.txt",
@@ -14,11 +21,32 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 116,
-    "line_index_2": 308,
-    "heRef_2": "תוספות על ברכות לב:, א, א",
-    "path_2": "תוספות על ברכות.txt",
+    "line_index_1": 3345,
+    "line_index_2": 644,
+    "heRef_2": "ערכין יח., ט",
+    "path_2": "ערכין.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 2361,
+    "line_index_2": 52,
+    "heRef_2": "משנה תורה, הלכות תלמוד תורה ה, ג",
+    "path_2": "משנה תורה, הלכות תלמוד תורה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 2362,
+    "line_index_2": 52,
+    "heRef_2": "משנה תורה, הלכות תלמוד תורה ה, ג",
+    "path_2": "משנה תורה, הלכות תלמוד תורה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 2363,
+    "line_index_2": 52,
+    "heRef_2": "משנה תורה, הלכות תלמוד תורה ה, ג",
+    "path_2": "משנה תורה, הלכות תלמוד תורה.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 1004,
@@ -68,33 +96,5 @@
     "heRef_2": "משנה תורה, הלכות אישות יב, יד",
     "path_2": "משנה תורה, הלכות אישות.txt",
     "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 2361,
-    "line_index_2": 52,
-    "heRef_2": "משנה תורה, הלכות תלמוד תורה ה, ג",
-    "path_2": "משנה תורה, הלכות תלמוד תורה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 2362,
-    "line_index_2": 52,
-    "heRef_2": "משנה תורה, הלכות תלמוד תורה ה, ג",
-    "path_2": "משנה תורה, הלכות תלמוד תורה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 2363,
-    "line_index_2": 52,
-    "heRef_2": "משנה תורה, הלכות תלמוד תורה ה, ג",
-    "path_2": "משנה תורה, הלכות תלמוד תורה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3345,
-    "line_index_2": 644,
-    "heRef_2": "ערכין יח., ט",
-    "path_2": "ערכין.txt",
-    "Conection Type": ""
   }
 ]

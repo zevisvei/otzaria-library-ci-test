@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 338,
+    "line_index_2": 1157,
+    "heRef_2": "ביצה לח.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 70,
     "line_index_2": 167,
     "heRef_2": "נדרים י., ו",
@@ -1589,24 +1596,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 311,
-    "line_index_2": 1893,
-    "heRef_2": "בבא בתרא פא:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 338,
-    "line_index_2": 1157,
-    "heRef_2": "ביצה לח.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 179,
     "line_index_2": 908,
     "heRef_2": "ערכין כה:,  א",
     "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 1893,
+    "heRef_2": "בבא בתרא פא:,  א",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 48,
-    "line_index_2": 2234,
-    "heRef_2": "עירובין ס:,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 38,
     "line_index_2": 179,
     "heRef_2": "משנה תורה, הלכות שבת י, ד",
@@ -194,5 +187,12 @@
     "heRef_2": "משנה תורה, הלכות שבת ט, יט",
     "path_2": "משנה תורה, הלכות שבת.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 2234,
+    "heRef_2": "עירובין ס:,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
   }
 ]

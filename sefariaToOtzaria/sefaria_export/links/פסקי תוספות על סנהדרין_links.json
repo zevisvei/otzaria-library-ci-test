@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 49,
-    "line_index_2": 1167,
-    "heRef_2": "ברכות כה.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 101,
     "line_index_2": 403,
     "heRef_2": "תוספות על סנהדרין מב:, ג, א",
@@ -1881,5 +1874,12 @@
     "heRef_2": "סנהדרין ה:, ה",
     "path_2": "סנהדרין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 1167,
+    "heRef_2": "ברכות כה.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
   }
 ]

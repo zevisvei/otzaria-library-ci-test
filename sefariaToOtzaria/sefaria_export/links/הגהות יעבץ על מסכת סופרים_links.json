@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 14,
-    "line_index_2": 950,
-    "heRef_2": "דברים לג,  א",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 26,
     "line_index_2": 207,
     "heRef_2": "מסכת סופרים יח, ב",
@@ -82,5 +75,12 @@
     "heRef_2": "מסכת סופרים ה, יח",
     "path_2": "מסכת סופרים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 950,
+    "heRef_2": "דברים לג,  א",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 128,
+    "line_index_2": 190,
+    "heRef_2": "שמואל א ט,  א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 143,
     "line_index_2": 25,
     "heRef_2": "קידושין ג.,  א",
@@ -712,12 +719,5 @@
     "heRef_2": "משנה סוטה ט, ט",
     "path_2": "משנה סוטה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 190,
-    "heRef_2": "שמואל א ט,  א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
   }
 ]

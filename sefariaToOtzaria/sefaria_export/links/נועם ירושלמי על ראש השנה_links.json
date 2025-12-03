@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 31,
-    "line_index_2": 382,
-    "heRef_2": "ויקרא יד,  א",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 227,
-    "heRef_2": "במדבר ו,  א",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 28,
     "line_index_2": 14,
     "heRef_2": "תלמוד ירושלמי ראש השנה א, א, יא",
@@ -754,5 +740,19 @@
     "heRef_2": "תלמוד ירושלמי ראש השנה ד, ז, ג",
     "path_2": "תלמוד ירושלמי ראש השנה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 382,
+    "heRef_2": "ויקרא יד,  א",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 227,
+    "heRef_2": "במדבר ו,  א",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
   }
 ]

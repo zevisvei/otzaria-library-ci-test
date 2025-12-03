@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 13,
+    "line_index_2": 862,
+    "heRef_2": "ירמיהו לב, מד",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 455,
+    "heRef_2": "דברי הימים ב כא, ג",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 7,
     "line_index_2": 458,
     "heRef_2": "דברים טו, יח",
@@ -341,19 +355,5 @@
     "heRef_2": "משנה קידושין ד, ט",
     "path_2": "משנה קידושין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 455,
-    "heRef_2": "דברי הימים ב כא, ג",
-    "path_2": "דברי הימים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 862,
-    "heRef_2": "ירמיהו לב, מד",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
   }
 ]

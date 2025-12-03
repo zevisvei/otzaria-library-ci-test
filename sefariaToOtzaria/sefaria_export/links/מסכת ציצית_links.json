@@ -1,9 +1,100 @@
 [
   {
     "line_index_1": 11,
+    "line_index_2": 496,
+    "heRef_2": "משלי יז, ה",
+    "path_2": "משלי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 18,
+    "heRef_2": "הגהות על מסכת ציצית א, י, א",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 20,
+    "heRef_2": "הגהות על מסכת ציצית א, יא, א",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 4,
+    "heRef_2": "הגהות על מסכת ציצית א, א, א",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 6,
+    "heRef_2": "הגהות על מסכת ציצית א, ב, א",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 7,
+    "heRef_2": "הגהות על מסכת ציצית א, ב, ב",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 8,
+    "heRef_2": "הגהות על מסכת ציצית א, ב, ג",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 10,
+    "heRef_2": "הגהות על מסכת ציצית א, ג, א",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 12,
+    "heRef_2": "הגהות על מסכת ציצית א, ד, א",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 14,
+    "heRef_2": "הגהות על מסכת ציצית א, ו, א",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 16,
+    "heRef_2": "הגהות על מסכת ציצית א, ט, א",
+    "path_2": "הגהות על מסכת ציצית.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
     "line_index_2": 7498,
     "heRef_2": "ביאור הגר\"א על שולחן ערוך יורה דעה שנא, א",
     "path_2": "ביאור הגרא על שולחן ערוך יורה דעה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 1120,
+    "heRef_2": "ביאור על ספר המצוות לרס\"ג, מנין עשה ז, לט",
+    "path_2": "ביאור על ספר המצוות לרסג.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 609,
+    "heRef_2": "דברים כב, יא",
+    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -19,6 +110,27 @@
     "heRef_2": "ספרי במדבר קטו, א",
     "path_2": "ספרי במדבר.txt",
     "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 726,
+    "heRef_2": "תוספות על נדה סא:, ג, ג",
+    "path_2": "תוספות על נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 218,
+    "heRef_2": "מסכת שמחות יב, יא",
+    "path_2": "מסכת שמחות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 3498,
+    "heRef_2": "עירובין צו:, ט",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 7,
@@ -264,117 +376,5 @@
     "heRef_2": "מסורת הש״ס על מסכת ציצית א, ט, ב",
     "path_2": "מסורת השס על מסכת ציצית.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 496,
-    "heRef_2": "משלי יז, ה",
-    "path_2": "משלי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 1120,
-    "heRef_2": "ביאור על ספר המצוות לרס\"ג, מנין עשה ז, לט",
-    "path_2": "ביאור על ספר המצוות לרסג.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 609,
-    "heRef_2": "דברים כב, יא",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 3498,
-    "heRef_2": "עירובין צו:, ט",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 18,
-    "heRef_2": "הגהות על מסכת ציצית א, י, א",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 20,
-    "heRef_2": "הגהות על מסכת ציצית א, יא, א",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 4,
-    "heRef_2": "הגהות על מסכת ציצית א, א, א",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 6,
-    "heRef_2": "הגהות על מסכת ציצית א, ב, א",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 7,
-    "heRef_2": "הגהות על מסכת ציצית א, ב, ב",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 8,
-    "heRef_2": "הגהות על מסכת ציצית א, ב, ג",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 10,
-    "heRef_2": "הגהות על מסכת ציצית א, ג, א",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 12,
-    "heRef_2": "הגהות על מסכת ציצית א, ד, א",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 14,
-    "heRef_2": "הגהות על מסכת ציצית א, ו, א",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 16,
-    "heRef_2": "הגהות על מסכת ציצית א, ט, א",
-    "path_2": "הגהות על מסכת ציצית.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 726,
-    "heRef_2": "תוספות על נדה סא:, ג, ג",
-    "path_2": "תוספות על נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 218,
-    "heRef_2": "מסכת שמחות יב, יא",
-    "path_2": "מסכת שמחות.txt",
-    "Conection Type": ""
   }
 ]

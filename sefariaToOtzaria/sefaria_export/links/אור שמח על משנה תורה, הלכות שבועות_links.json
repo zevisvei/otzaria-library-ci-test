@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 54,
+    "line_index_2": 32,
+    "heRef_2": "שמואל א ב,  א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 2435,
+    "heRef_2": "בבא קמא סג:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 64,
     "line_index_2": 201,
     "heRef_2": "משנה תורה, הלכות שבועות יא, טו",
@@ -201,19 +215,5 @@
     "heRef_2": "משנה תורה, הלכות שבועות ט, יז",
     "path_2": "משנה תורה, הלכות שבועות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 2435,
-    "heRef_2": "בבא קמא סג:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 32,
-    "heRef_2": "שמואל א ב,  א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 37,
+    "line_index_2": 76,
+    "heRef_2": "מלכים ב ד,  א",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 26,
     "line_index_2": 2399,
     "heRef_2": "קידושין עז:, ב",
@@ -11,6 +18,20 @@
     "line_index_2": 1127,
     "heRef_2": "שולחן ערוך, יורה דעה קכז,  א",
     "path_2": "שולחן ערוך, יורה דעה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 1470,
+    "heRef_2": "זבחים מב.,  א",
+    "path_2": "זבחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 2139,
+    "heRef_2": "עבודה זרה עב.,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
@@ -26,6 +47,55 @@
     "heRef_2": "פסחים טז.,  א",
     "path_2": "פסחים.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 64,
+    "heRef_2": "ברטנורא על משנה כריתות ב, א, ב",
+    "path_2": "ברטנורא על משנה כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 65,
+    "heRef_2": "ברטנורא על משנה כריתות ב, א, ג",
+    "path_2": "ברטנורא על משנה כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 178,
+    "heRef_2": "ברטנורא על משנה כריתות ג, י, ט",
+    "path_2": "ברטנורא על משנה כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 168,
+    "heRef_2": "ברטנורא על משנה כריתות ג, ט, ט",
+    "path_2": "ברטנורא על משנה כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 199,
+    "heRef_2": "ברטנורא על משנה כריתות ד, ג, א",
+    "path_2": "ברטנורא על משנה כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 216,
+    "heRef_2": "ברטנורא על משנה כריתות ה, ב, ב",
+    "path_2": "ברטנורא על משנה כריתות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 267,
+    "heRef_2": "ברטנורא על משנה כריתות ו, ג, א",
+    "path_2": "ברטנורא על משנה כריתות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 5,
@@ -173,75 +243,5 @@
     "heRef_2": "משנה כריתות ו, ג",
     "path_2": "משנה כריתות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 64,
-    "heRef_2": "ברטנורא על משנה כריתות ב, א, ב",
-    "path_2": "ברטנורא על משנה כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 65,
-    "heRef_2": "ברטנורא על משנה כריתות ב, א, ג",
-    "path_2": "ברטנורא על משנה כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 178,
-    "heRef_2": "ברטנורא על משנה כריתות ג, י, ט",
-    "path_2": "ברטנורא על משנה כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 168,
-    "heRef_2": "ברטנורא על משנה כריתות ג, ט, ט",
-    "path_2": "ברטנורא על משנה כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 199,
-    "heRef_2": "ברטנורא על משנה כריתות ד, ג, א",
-    "path_2": "ברטנורא על משנה כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 216,
-    "heRef_2": "ברטנורא על משנה כריתות ה, ב, ב",
-    "path_2": "ברטנורא על משנה כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 267,
-    "heRef_2": "ברטנורא על משנה כריתות ו, ג, א",
-    "path_2": "ברטנורא על משנה כריתות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 76,
-    "heRef_2": "מלכים ב ד,  א",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 1470,
-    "heRef_2": "זבחים מב.,  א",
-    "path_2": "זבחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 2139,
-    "heRef_2": "עבודה זרה עב.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

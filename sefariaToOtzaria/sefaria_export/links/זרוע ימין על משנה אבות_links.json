@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 203,
-    "line_index_2": 451,
-    "heRef_2": "חגיגה טו:, ו",
-    "path_2": "חגיגה.txt",
-    "Conection Type": "quotation"
-  },
-  {
     "line_index_1": 8,
     "line_index_2": 3,
     "heRef_2": "משנה אבות א, א",
@@ -1337,17 +1330,24 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 211,
-    "line_index_2": 1133,
-    "heRef_2": "בבא מציעא לב:, טז",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "reference"
-  },
-  {
     "line_index_1": 105,
     "line_index_2": 2215,
     "heRef_2": "גיטין סח.,  א",
     "path_2": "גיטין.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 451,
+    "heRef_2": "חגיגה טו:, ו",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 1133,
+    "heRef_2": "בבא מציעא לב:, טז",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "reference"
   }
 ]

@@ -1,40 +1,5 @@
 [
   {
-    "line_index_1": 313,
-    "line_index_2": 92,
-    "heRef_2": "קידושין ה., יא",
-    "path_2": "קידושין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 318,
-    "line_index_2": 382,
-    "heRef_2": "ויקרא יד,  א",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 389,
-    "line_index_2": 47,
-    "heRef_2": "סוטה ג.,  א",
-    "path_2": "סוטה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 25,
-    "heRef_2": "חולין ג.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 379,
-    "line_index_2": 65,
-    "heRef_2": "בבא מציעא ד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 5,
     "heRef_2": "תלמוד ירושלמי שבועות א, א, ב",
@@ -2378,5 +2343,40 @@
     "heRef_2": "תלמוד ירושלמי שבועות ח, ד, ב",
     "path_2": "תלמוד ירושלמי שבועות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 313,
+    "line_index_2": 92,
+    "heRef_2": "קידושין ה., יא",
+    "path_2": "קידושין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 318,
+    "line_index_2": 382,
+    "heRef_2": "ויקרא יד,  א",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 25,
+    "heRef_2": "חולין ג.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 47,
+    "heRef_2": "סוטה ג.,  א",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 65,
+    "heRef_2": "בבא מציעא ד.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
   }
 ]

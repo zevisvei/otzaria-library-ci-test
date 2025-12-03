@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 19,
+    "line_index_2": 64,
+    "heRef_2": "ביצה ד.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 33,
     "line_index_2": 810,
     "heRef_2": "יכין תרומות י, לו, א",
@@ -390,12 +397,5 @@
     "heRef_2": "משנה תרומות ח, ב",
     "path_2": "משנה תרומות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 64,
-    "heRef_2": "ביצה ד.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
   }
 ]

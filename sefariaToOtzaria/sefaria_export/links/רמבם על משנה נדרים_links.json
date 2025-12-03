@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 119,
-    "line_index_2": 93,
-    "heRef_2": "שמות ד, יט",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 390,
-    "heRef_2": "בראשית טו, יג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 418,
-    "heRef_2": "בראשית יז, ב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 106,
     "line_index_2": 200,
     "heRef_2": "רמב\"ם על משנה פאה ח, א, ג",
@@ -28,10 +7,24 @@
     "Conection Type": "quotation"
   },
   {
-    "line_index_1": 146,
-    "line_index_2": 1089,
-    "heRef_2": "במדבר ל, טו",
-    "path_2": "במדבר.txt",
+    "line_index_1": 110,
+    "line_index_2": 1192,
+    "heRef_2": "ישעיהו נח,  א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1204,
+    "heRef_2": "ישעיהו נח, יג",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 17,
+    "heRef_2": "חבקוק א, טו",
+    "path_2": "חבקוק.txt",
     "Conection Type": ""
   },
   {
@@ -53,6 +46,34 @@
     "line_index_2": 131,
     "heRef_2": "דברים ד, יד",
     "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 1089,
+    "heRef_2": "במדבר ל, טו",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 93,
+    "heRef_2": "שמות ד, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 390,
+    "heRef_2": "בראשית טו, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 418,
+    "heRef_2": "בראשית יז, ב",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
@@ -683,27 +704,6 @@
     "line_index_2": 28,
     "heRef_2": "משנה פאה ד,  א",
     "path_2": "משנה פאה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 17,
-    "heRef_2": "חבקוק א, טו",
-    "path_2": "חבקוק.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 1192,
-    "heRef_2": "ישעיהו נח,  א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 1204,
-    "heRef_2": "ישעיהו נח, יג",
-    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   }
 ]

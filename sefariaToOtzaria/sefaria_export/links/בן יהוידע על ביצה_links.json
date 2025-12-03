@@ -1,5 +1,439 @@
 [
   {
+    "line_index_1": 35,
+    "line_index_2": 306,
+    "heRef_2": "ביצה יא., טו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 293,
+    "heRef_2": "ביצה יא., ב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 314,
+    "heRef_2": "ביצה יא:,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 451,
+    "heRef_2": "ביצה טו:, י",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 452,
+    "heRef_2": "ביצה טו:, יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 452,
+    "heRef_2": "ביצה טו:, יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 452,
+    "heRef_2": "ביצה טו:, יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 453,
+    "heRef_2": "ביצה טו:, יב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 455,
+    "heRef_2": "ביצה טו:, יד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 457,
+    "heRef_2": "ביצה טו:, טז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 459,
+    "heRef_2": "ביצה טו:, יח",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 460,
+    "heRef_2": "ביצה טו:, יט",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 464,
+    "heRef_2": "ביצה טז., א",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 474,
+    "heRef_2": "ביצה טז., יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 474,
+    "heRef_2": "ביצה טז., יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 467,
+    "heRef_2": "ביצה טז., ד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 468,
+    "heRef_2": "ביצה טז., ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 469,
+    "heRef_2": "ביצה טז., ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 486,
+    "heRef_2": "ביצה טז:, ד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 488,
+    "heRef_2": "ביצה טז:, ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 489,
+    "heRef_2": "ביצה טז:, ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 506,
+    "heRef_2": "ביצה יז., י",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 503,
+    "heRef_2": "ביצה יז., ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 513,
+    "heRef_2": "ביצה יז:, ב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 533,
+    "heRef_2": "ביצה יח., ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 613,
+    "heRef_2": "ביצה כ:, ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 634,
+    "heRef_2": "ביצה כא., יג",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 624,
+    "heRef_2": "ביצה כא., ג",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 701,
+    "heRef_2": "ביצה כג., יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 707,
+    "heRef_2": "ביצה כג:, א",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 731,
+    "heRef_2": "ביצה כד., יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 747,
+    "heRef_2": "ביצה כד:, ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 772,
+    "heRef_2": "ביצה כה:, ב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 772,
+    "heRef_2": "ביצה כה:, ב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 774,
+    "heRef_2": "ביצה כה:, ד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 777,
+    "heRef_2": "ביצה כה:, ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 777,
+    "heRef_2": "ביצה כה:, ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 778,
+    "heRef_2": "ביצה כה:, ח",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 789,
+    "heRef_2": "ביצה כו., ב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 896,
+    "heRef_2": "ביצה כט., יב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 897,
+    "heRef_2": "ביצה כט., יג",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "heRef_2": "ביצה ב., א",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "heRef_2": "ביצה ב., א",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 7,
+    "heRef_2": "ביצה ב., ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 11,
+    "heRef_2": "ביצה ב., ט",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 25,
+    "heRef_2": "ביצה ב:, יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 20,
+    "heRef_2": "ביצה ב:,  ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 21,
+    "heRef_2": "ביצה ב:,  ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 985,
+    "heRef_2": "ביצה לב:, ג",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 985,
+    "heRef_2": "ביצה לב:, ג",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 986,
+    "heRef_2": "ביצה לב:, ד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 987,
+    "heRef_2": "ביצה לב:, ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 987,
+    "heRef_2": "ביצה לב:, ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 988,
+    "heRef_2": "ביצה לב:, ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 988,
+    "heRef_2": "ביצה לב:, ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 1081,
+    "heRef_2": "ביצה לו., ט",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 1184,
+    "heRef_2": "ביצה לט., ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 35,
+    "heRef_2": "ביצה ג., ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 37,
+    "heRef_2": "ביצה ג., ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 1222,
+    "heRef_2": "ביצה מ., יד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 1223,
+    "heRef_2": "ביצה מ., טו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 1224,
+    "heRef_2": "ביצה מ., טז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 20,
     "line_index_2": 82,
     "heRef_2": "ביצה ד., יט",
@@ -574,451 +1008,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 46,
-    "line_index_2": 285,
-    "heRef_2": "בבא בתרא יא., ד",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 306,
-    "heRef_2": "ביצה יא., טו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 293,
-    "heRef_2": "ביצה יא., ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 107,
-    "line_index_2": 314,
-    "heRef_2": "ביצה יא:,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 451,
-    "heRef_2": "ביצה טו:, י",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 452,
-    "heRef_2": "ביצה טו:, יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 452,
-    "heRef_2": "ביצה טו:, יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 452,
-    "heRef_2": "ביצה טו:, יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 453,
-    "heRef_2": "ביצה טו:, יב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 455,
-    "heRef_2": "ביצה טו:, יד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 457,
-    "heRef_2": "ביצה טו:, טז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 459,
-    "heRef_2": "ביצה טו:, יח",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 460,
-    "heRef_2": "ביצה טו:, יט",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 464,
-    "heRef_2": "ביצה טז., א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 474,
-    "heRef_2": "ביצה טז., יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 53,
-    "line_index_2": 474,
-    "heRef_2": "ביצה טז., יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 467,
-    "heRef_2": "ביצה טז., ד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 468,
-    "heRef_2": "ביצה טז., ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 469,
-    "heRef_2": "ביצה טז., ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 486,
-    "heRef_2": "ביצה טז:, ד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 488,
-    "heRef_2": "ביצה טז:, ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 489,
-    "heRef_2": "ביצה טז:, ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 506,
-    "heRef_2": "ביצה יז., י",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 503,
-    "heRef_2": "ביצה יז., ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 513,
-    "heRef_2": "ביצה יז:, ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 533,
-    "heRef_2": "ביצה יח., ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 613,
-    "heRef_2": "ביצה כ:, ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 634,
-    "heRef_2": "ביצה כא., יג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 624,
-    "heRef_2": "ביצה כא., ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 69,
-    "line_index_2": 701,
-    "heRef_2": "ביצה כג., יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 707,
-    "heRef_2": "ביצה כג:, א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 731,
-    "heRef_2": "ביצה כד., יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 747,
-    "heRef_2": "ביצה כד:, ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 772,
-    "heRef_2": "ביצה כה:, ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 78,
-    "line_index_2": 772,
-    "heRef_2": "ביצה כה:, ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 774,
-    "heRef_2": "ביצה כה:, ד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 777,
-    "heRef_2": "ביצה כה:, ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 777,
-    "heRef_2": "ביצה כה:, ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 778,
-    "heRef_2": "ביצה כה:, ח",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 789,
-    "heRef_2": "ביצה כו., ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 896,
-    "heRef_2": "ביצה כט., יב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 897,
-    "heRef_2": "ביצה כט., יג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 3,
-    "heRef_2": "ביצה ב., א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 3,
-    "heRef_2": "ביצה ב., א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 7,
-    "heRef_2": "ביצה ב., ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 11,
-    "heRef_2": "ביצה ב., ט",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 25,
-    "heRef_2": "ביצה ב:, יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 20,
-    "heRef_2": "ביצה ב:,  ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 21,
-    "heRef_2": "ביצה ב:,  ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 985,
-    "heRef_2": "ביצה לב:, ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 985,
-    "heRef_2": "ביצה לב:, ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 986,
-    "heRef_2": "ביצה לב:, ד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 987,
-    "heRef_2": "ביצה לב:, ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 93,
-    "line_index_2": 987,
-    "heRef_2": "ביצה לב:, ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 988,
-    "heRef_2": "ביצה לב:, ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 988,
-    "heRef_2": "ביצה לב:, ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 1081,
-    "heRef_2": "ביצה לו., ט",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 99,
-    "line_index_2": 1184,
-    "heRef_2": "ביצה לט., ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 35,
-    "heRef_2": "ביצה ג., ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 37,
-    "heRef_2": "ביצה ג., ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 101,
-    "line_index_2": 1222,
-    "heRef_2": "ביצה מ., יד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 1223,
-    "heRef_2": "ביצה מ., טו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 1224,
-    "heRef_2": "ביצה מ., טז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
     "line_index_1": 80,
     "line_index_2": 24,
     "heRef_2": "עבודה זרה ב:, יג",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 285,
+    "heRef_2": "בבא בתרא יא., ד",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   }
 ]

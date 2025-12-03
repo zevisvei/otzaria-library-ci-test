@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 9,
-    "line_index_2": 1224,
-    "heRef_2": "בראשית מ, י",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 6,
     "line_index_2": 10,
     "heRef_2": "תוספות יום טוב על משנה ברכות א, א, ו",
@@ -77,6 +70,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 48,
+    "line_index_2": 963,
+    "heRef_2": "דברי הימים א כט, כ",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 368,
+    "heRef_2": "שמואל א טו, ד",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 13,
     "line_index_2": 696,
     "heRef_2": "מגילה יח., יג",
@@ -95,6 +102,34 @@
     "line_index_2": 733,
     "heRef_2": "במדבר כ, ה",
     "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 47,
+    "heRef_2": "ברטנורא על משנה ברכות ב, א, ז",
+    "path_2": "ברטנורא על משנה ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 118,
+    "heRef_2": "ברטנורא על משנה ברכות ד, א, ד",
+    "path_2": "ברטנורא על משנה ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 146,
+    "heRef_2": "ברטנורא על משנה ברכות ה, א, ד",
+    "path_2": "ברטנורא על משנה ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 1224,
+    "heRef_2": "בראשית מ, י",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
@@ -271,40 +306,5 @@
     "heRef_2": "משנה ברכות ח, ה",
     "path_2": "משנה ברכות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 47,
-    "heRef_2": "ברטנורא על משנה ברכות ב, א, ז",
-    "path_2": "ברטנורא על משנה ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 118,
-    "heRef_2": "ברטנורא על משנה ברכות ד, א, ד",
-    "path_2": "ברטנורא על משנה ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 146,
-    "heRef_2": "ברטנורא על משנה ברכות ה, א, ד",
-    "path_2": "ברטנורא על משנה ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 963,
-    "heRef_2": "דברי הימים א כט, כ",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 368,
-    "heRef_2": "שמואל א טו, ד",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
   }
 ]

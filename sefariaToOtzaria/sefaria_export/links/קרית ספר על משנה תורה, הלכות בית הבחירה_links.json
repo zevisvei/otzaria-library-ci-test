@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 19,
-    "line_index_2": 1054,
-    "heRef_2": "שמות לה, כב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 17,
     "line_index_2": 13,
     "heRef_2": "משנה תורה, הלכות בית הבחירה א, י",
@@ -411,5 +404,12 @@
     "heRef_2": "משנה תורה, הלכות בית הבחירה ח, ד",
     "path_2": "משנה תורה, הלכות בית הבחירה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 1054,
+    "heRef_2": "שמות לה, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

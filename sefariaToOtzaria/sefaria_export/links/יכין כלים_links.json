@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 167,
+    "line_index_2": 3477,
+    "heRef_2": "שבת קלח:, יג",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2797,
+    "line_index_2": 517,
+    "heRef_2": "מלכים א יד,  א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 93,
     "line_index_2": 526,
     "heRef_2": "כתובות כא., ט",
@@ -1533,10 +1547,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 167,
-    "line_index_2": 3477,
-    "heRef_2": "שבת קלח:, יג",
-    "path_2": "שבת.txt",
+    "line_index_1": 61,
+    "line_index_2": 832,
+    "heRef_2": "חולין כט:,  א",
+    "path_2": "חולין.txt",
     "Conection Type": ""
   },
   {
@@ -1544,13 +1558,6 @@
     "line_index_2": 96,
     "heRef_2": "סוטה ד.,  א",
     "path_2": "סוטה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 3525,
-    "heRef_2": "מנחות צט.,  א",
-    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
@@ -1568,10 +1575,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 61,
-    "line_index_2": 832,
-    "heRef_2": "חולין כט:,  א",
-    "path_2": "חולין.txt",
+    "line_index_1": 108,
+    "line_index_2": 1902,
+    "heRef_2": "בבא בתרא פב.,  א",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   },
   {
@@ -1579,6 +1586,13 @@
     "line_index_2": 3825,
     "heRef_2": "עירובין קד:,  א",
     "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 3525,
+    "heRef_2": "מנחות צט.,  א",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
@@ -18057,20 +18071,6 @@
     "line_index_2": 32,
     "heRef_2": "משנה זבים ה, ו",
     "path_2": "משנה זבים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 1902,
-    "heRef_2": "בבא בתרא פב.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2797,
-    "line_index_2": 517,
-    "heRef_2": "מלכים א יד,  א",
-    "path_2": "מלכים א.txt",
     "Conection Type": ""
   }
 ]

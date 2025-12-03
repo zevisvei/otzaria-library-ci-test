@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 5,
-    "line_index_2": 616,
-    "heRef_2": "שמות כב, יד",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 46,
     "line_index_2": 101,
     "heRef_2": "משנה תורה, הלכות שכירות י, א",
@@ -229,5 +222,12 @@
     "heRef_2": "משנה תורה, הלכות שכירות ט, א",
     "path_2": "משנה תורה, הלכות שכירות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 616,
+    "heRef_2": "שמות כב, יד",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

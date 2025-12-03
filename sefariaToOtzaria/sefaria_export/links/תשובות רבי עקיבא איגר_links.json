@@ -1,9 +1,30 @@
 [
   {
-    "line_index_1": 744,
-    "line_index_2": 631,
-    "heRef_2": "שמות כב, כט",
-    "path_2": "שמות.txt",
+    "line_index_1": 1239,
+    "line_index_2": 2734,
+    "heRef_2": "סנהדרין סט.,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 3887,
+    "heRef_2": "שבת קנ:, ה",
+    "path_2": "שבת.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 855,
+    "line_index_2": 1188,
+    "heRef_2": "גיטין מ.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1546,
+    "line_index_2": 2796,
+    "heRef_2": "גיטין פב.,  א",
+    "path_2": "גיטין.txt",
     "Conection Type": ""
   },
   {
@@ -26,20 +47,6 @@
     "heRef_2": "קידושין לה:,  א",
     "path_2": "קידושין.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 1239,
-    "line_index_2": 2734,
-    "heRef_2": "סנהדרין סט.,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 3887,
-    "heRef_2": "שבת קנ:, ה",
-    "path_2": "שבת.txt",
-    "Conection Type": "quotation"
   },
   {
     "line_index_1": 757,
@@ -238,97 +245,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 837,
-    "line_index_2": 921,
-    "heRef_2": "נדרים מז:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 649,
-    "line_index_2": 970,
-    "heRef_2": "נדה כז., ד",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 887,
-    "line_index_2": 1295,
-    "heRef_2": "נדה לה.,  א",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1210,
-    "line_index_2": 1428,
-    "heRef_2": "נדה לח., ד",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 758,
-    "line_index_2": 89,
-    "heRef_2": "נדה ד:,  א",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 894,
-    "line_index_2": 1845,
-    "heRef_2": "נדה מח:,  א",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 906,
-    "line_index_2": 2206,
-    "heRef_2": "פסחים עב.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2257,
-    "line_index_2": 35,
-    "heRef_2": "משנה תורה, הלכות מלכים ומלחמות ד,  א",
-    "path_2": "משנה תורה, הלכות מלכים ומלחמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 3623,
-    "heRef_2": "בבא בתרא קנו., ד",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1695,
-    "line_index_2": 1244,
-    "heRef_2": "בבא בתרא נא:, ד",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2097,
-    "line_index_2": 31,
-    "heRef_2": "בבא מציעא ג.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 855,
-    "line_index_2": 1188,
-    "heRef_2": "גיטין מ.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1546,
-    "line_index_2": 2796,
-    "heRef_2": "גיטין פב.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 1295,
     "line_index_2": 1553,
     "heRef_2": "יבמות מו:,  א",
@@ -382,6 +298,90 @@
     "line_index_2": 2142,
     "heRef_2": "עבודה זרה עב., ד",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 837,
+    "line_index_2": 921,
+    "heRef_2": "נדרים מז:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 649,
+    "line_index_2": 970,
+    "heRef_2": "נדה כז., ד",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 887,
+    "line_index_2": 1295,
+    "heRef_2": "נדה לה.,  א",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1210,
+    "line_index_2": 1428,
+    "heRef_2": "נדה לח., ד",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 758,
+    "line_index_2": 89,
+    "heRef_2": "נדה ד:,  א",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 894,
+    "line_index_2": 1845,
+    "heRef_2": "נדה מח:,  א",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 906,
+    "line_index_2": 2206,
+    "heRef_2": "פסחים עב.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 3623,
+    "heRef_2": "בבא בתרא קנו., ד",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1695,
+    "line_index_2": 1244,
+    "heRef_2": "בבא בתרא נא:, ד",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2097,
+    "line_index_2": 31,
+    "heRef_2": "בבא מציעא ג.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 744,
+    "line_index_2": 631,
+    "heRef_2": "שמות כב, כט",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2257,
+    "line_index_2": 35,
+    "heRef_2": "משנה תורה, הלכות מלכים ומלחמות ד,  א",
+    "path_2": "משנה תורה, הלכות מלכים ומלחמות.txt",
     "Conection Type": ""
   }
 ]

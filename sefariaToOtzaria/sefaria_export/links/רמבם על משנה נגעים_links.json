@@ -1,9 +1,30 @@
 [
   {
-    "line_index_1": 242,
-    "line_index_2": 740,
-    "heRef_2": "בראשית כו, כ",
-    "path_2": "בראשית.txt",
+    "line_index_1": 33,
+    "line_index_2": 858,
+    "heRef_2": "ישעיהו מא, יט",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 2807,
+    "heRef_2": "גיטין פב., יב",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 67,
+    "heRef_2": "שמואל א ב, לו",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 58,
+    "heRef_2": "ישעיהו ג,  א",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
@@ -294,6 +315,34 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 39,
+    "line_index_2": 266,
+    "heRef_2": "חולין י:, י",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 663,
+    "heRef_2": "דברים כד, ח",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 918,
+    "heRef_2": "דברים לב, כב",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 94,
+    "heRef_2": "עמוס ו,  א",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 87,
     "line_index_2": 609,
     "heRef_2": "נדה יט.,  א",
@@ -315,24 +364,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 39,
-    "line_index_2": 266,
-    "heRef_2": "חולין י:, י",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 134,
-    "line_index_2": 663,
-    "heRef_2": "דברים כד, ח",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 918,
-    "heRef_2": "דברים לב, כב",
-    "path_2": "דברים.txt",
+    "line_index_1": 242,
+    "line_index_2": 740,
+    "heRef_2": "בראשית כו, כ",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
@@ -1587,40 +1622,5 @@
     "heRef_2": "משנה נגעים ט, ג",
     "path_2": "משנה נגעים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 229,
-    "line_index_2": 2807,
-    "heRef_2": "גיטין פב., יב",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 67,
-    "heRef_2": "שמואל א ב, לו",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 222,
-    "line_index_2": 58,
-    "heRef_2": "ישעיהו ג,  א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 858,
-    "heRef_2": "ישעיהו מא, יט",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 280,
-    "line_index_2": 94,
-    "heRef_2": "עמוס ו,  א",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
   }
 ]

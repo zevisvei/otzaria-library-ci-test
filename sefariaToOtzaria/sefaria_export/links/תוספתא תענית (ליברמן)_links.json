@@ -1,31 +1,199 @@
 [
   {
-    "line_index_1": 7,
-    "line_index_2": 81,
-    "heRef_2": "אסתר ד, טז",
-    "path_2": "אסתר.txt",
+    "line_index_1": 42,
+    "line_index_2": 284,
+    "heRef_2": "משלי י, יז",
+    "path_2": "משלי.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 3,
-    "line_index_2": 1275,
-    "heRef_2": "יחזקאל מז, יב",
-    "path_2": "יחזקאל.txt",
+    "line_index_1": 10,
+    "line_index_2": 838,
+    "heRef_2": "משלי כח, יג",
+    "path_2": "משלי.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 39,
-    "line_index_2": 175,
-    "heRef_2": "עזרא ז, י",
-    "path_2": "עזרא.txt",
+    "line_index_1": 43,
+    "line_index_2": 1203,
+    "heRef_2": "תהילים עב, יח",
+    "path_2": "תהילים.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 502,
+    "heRef_2": "ראש השנה יח:, יב",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 511,
+    "heRef_2": "ראש השנה יט., ג",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 517,
+    "heRef_2": "ראש השנה יט:,  א",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 778,
+    "heRef_2": "ראש השנה כז., יג",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 670,
+    "heRef_2": "סנהדרין כב:, יא",
+    "path_2": "סנהדרין.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 29,
-    "line_index_2": 502,
-    "heRef_2": "בראשית יט, כד",
-    "path_2": "בראשית.txt",
+    "line_index_2": 1133,
+    "heRef_2": "ישעיהו נד, ט",
+    "path_2": "ישעיהו.txt",
     "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 1194,
+    "heRef_2": "ישעיהו נח, ג",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 1389,
+    "heRef_2": "ירמיהו נב, ו",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 154,
+    "heRef_2": "ירמיהו ו, ד",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 182,
+    "heRef_2": "תלמוד ירושלמי ברכות ב, ז, ז",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 198,
+    "heRef_2": "תלמוד ירושלמי ברכות ב, ט, ב",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 199,
+    "heRef_2": "תלמוד ירושלמי ברכות ב, ט, ג",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 681,
+    "heRef_2": "תלמוד ירושלמי ברכות ט, ב, כב",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 716,
+    "heRef_2": "תלמוד ירושלמי ברכות ט, ה, טו",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 560,
+    "heRef_2": "תלמוד ירושלמי כתובות יא, ז, ז",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 160,
+    "heRef_2": "תלמוד ירושלמי קידושין ב, א, ב",
+    "path_2": "תלמוד ירושלמי קידושין.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי מגילה א, ד, יא",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 37,
+    "heRef_2": "תלמוד ירושלמי מגילה א, ד, יב",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 30,
+    "heRef_2": "תלמוד ירושלמי מגילה א, ד, ה",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 30,
+    "heRef_2": "תלמוד ירושלמי מגילה א, ד, ה",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 217,
+    "heRef_2": "תלמוד ירושלמי מגילה ד, א, יג",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 289,
+    "heRef_2": "תלמוד ירושלמי נדרים ח, א, ז",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 304,
+    "heRef_2": "תלמוד ירושלמי נדרים ח, ה, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 310,
+    "heRef_2": "תלמוד ירושלמי פסחים ה, ז, ב",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 328,
+    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ג",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
   },
   {
     "line_index_1": 29,
@@ -33,6 +201,377 @@
     "heRef_2": "בראשית ט, יא",
     "path_2": "בראשית.txt",
     "Conection Type": "related"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 3066,
+    "heRef_2": "גיטין פח.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 622,
+    "heRef_2": "דברי הימים א טז, לו",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 622,
+    "heRef_2": "דברי הימים א טז, לו",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 395,
+    "heRef_2": "דברי הימים א ט, כב",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 829,
+    "heRef_2": "דברי הימים ב לה,  כא",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 830,
+    "heRef_2": "דברי הימים ב לה,  כב",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 831,
+    "heRef_2": "דברי הימים ב לה,  כג",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 832,
+    "heRef_2": "דברי הימים ב לה,  כד",
+    "path_2": "דברי הימים ב.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 103,
+    "heRef_2": "תלמוד ירושלמי שקלים ד, א, ב",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 396,
+    "heRef_2": "תלמוד ירושלמי שביעית ט, ה, ה",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 27,
+    "heRef_2": "תלמוד ירושלמי תענית א, ב, ה",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 30,
+    "heRef_2": "תלמוד ירושלמי תענית א, ג, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 33,
+    "heRef_2": "תלמוד ירושלמי תענית א, ג, ה",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 34,
+    "heRef_2": "תלמוד ירושלמי תענית א, ג, ו",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 36,
+    "heRef_2": "תלמוד ירושלמי תענית א, ג, ח",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 45,
+    "heRef_2": "תלמוד ירושלמי תענית א, ד, ח",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 48,
+    "heRef_2": "תלמוד ירושלמי תענית א, ה, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 51,
+    "heRef_2": "תלמוד ירושלמי תענית א, ו, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 54,
+    "heRef_2": "תלמוד ירושלמי תענית א, ו, ה",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 57,
+    "heRef_2": "תלמוד ירושלמי תענית א, ו, ח",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 68,
+    "heRef_2": "תלמוד ירושלמי תענית א, ח, ד",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 130,
+    "heRef_2": "תלמוד ירושלמי תענית ב, י, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 133,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יא, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 133,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יא, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 135,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יא, ד",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 140,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ד",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 140,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ד",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 149,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יד, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 74,
+    "heRef_2": "תלמוד ירושלמי תענית ב, א, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 79,
+    "heRef_2": "תלמוד ירושלמי תענית ב, א, ח",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 127,
+    "heRef_2": "תלמוד ירושלמי תענית ב, ט, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 209,
+    "heRef_2": "תלמוד ירושלמי תענית ג, יא, ה",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 154,
+    "heRef_2": "תלמוד ירושלמי תענית ג, א, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 157,
+    "heRef_2": "תלמוד ירושלמי תענית ג, ב, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 177,
+    "heRef_2": "תלמוד ירושלמי תענית ג, ה, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 181,
+    "heRef_2": "תלמוד ירושלמי תענית ג, ו, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 213,
+    "heRef_2": "תלמוד ירושלמי תענית ד, א, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 232,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ב, ד",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 234,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ב, ו",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 236,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ב, ח",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 236,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ב, ח",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 248,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ג, ד",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ד, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ד, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 253,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ד, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 253,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ד, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 264,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ה, י",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 259,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ה, ה",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 283,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ו, ד",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 284,
+    "heRef_2": "תלמוד ירושלמי תענית ד, ו, ה",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 443,
+    "heRef_2": "תלמוד ירושלמי יבמות ט, ד, ח",
+    "path_2": "תלמוד ירושלמי יבמות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 363,
+    "heRef_2": "תלמוד ירושלמי יומא ח, א, ה",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 367,
+    "heRef_2": "תלמוד ירושלמי יומא ח, א, ט",
+    "path_2": "תלמוד ירושלמי יומא.txt",
+    "Conection Type": "related passage"
   },
   {
     "line_index_1": 3,
@@ -46,27 +585,6 @@
     "line_index_2": 30,
     "heRef_2": "כתובות ג.,  א",
     "path_2": "כתובות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 20,
-    "heRef_2": "איכה א, יח",
-    "path_2": "איכה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 89,
-    "heRef_2": "איכה ג, מא",
-    "path_2": "איכה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 135,
-    "heRef_2": "איכה ד, כ",
-    "path_2": "איכה.txt",
     "Conection Type": "related"
   },
   {
@@ -581,101 +1099,24 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 21,
-    "line_index_2": 502,
-    "heRef_2": "ראש השנה יח:, יב",
-    "path_2": "ראש השנה.txt",
+    "line_index_1": 26,
+    "line_index_2": 20,
+    "heRef_2": "איכה א, יח",
+    "path_2": "איכה.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 22,
-    "line_index_2": 511,
-    "heRef_2": "ראש השנה יט., ג",
-    "path_2": "ראש השנה.txt",
+    "line_index_1": 10,
+    "line_index_2": 89,
+    "heRef_2": "איכה ג, מא",
+    "path_2": "איכה.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 40,
-    "line_index_2": 517,
-    "heRef_2": "ראש השנה יט:,  א",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 778,
-    "heRef_2": "ראש השנה כז., יג",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 670,
-    "heRef_2": "סנהדרין כב:, יא",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 225,
-    "heRef_2": "ספרי במדבר קמב,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 253,
-    "heRef_2": "ספרי במדבר קנג, ו",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 58,
-    "heRef_2": "ספרי במדבר לט, א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 1964,
-    "heRef_2": "ספרי דברים שו, לז",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 294,
-    "heRef_2": "ספרי דברים מב, ה",
-    "path_2": "ספרי דברים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 366,
-    "heRef_2": "סוטה יא.,  א",
-    "path_2": "סוטה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 1282,
-    "heRef_2": "סוטה לח., ו",
-    "path_2": "סוטה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 1353,
-    "heRef_2": "סוטה מ:, א",
-    "path_2": "סוטה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 250,
-    "heRef_2": "סוטה ח.,  א",
-    "path_2": "סוטה.txt",
+    "line_index_1": 26,
+    "line_index_2": 135,
+    "heRef_2": "איכה ד, כ",
+    "path_2": "איכה.txt",
     "Conection Type": "related"
   },
   {
@@ -1631,90 +2072,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 5,
-    "line_index_2": 1212,
-    "heRef_2": "נדרים סג.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 1215,
-    "heRef_2": "נדרים סג., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 297,
-    "heRef_2": "נחמיה י, לה",
-    "path_2": "נחמיה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 229,
-    "heRef_2": "נחמיה ט, ה",
-    "path_2": "נחמיה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 1004,
-    "heRef_2": "במדבר כח, ב",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 3646,
-    "heRef_2": "פסחים קיח.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 21,
-    "heRef_2": "פסחים ב:, ט",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 1701,
-    "heRef_2": "פסחים נה.,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 1738,
-    "heRef_2": "פסחים נו., ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 284,
-    "heRef_2": "משלי י, יז",
-    "path_2": "משלי.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 838,
-    "heRef_2": "משלי כח, יג",
-    "path_2": "משלי.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 1203,
-    "heRef_2": "תהילים עב, יח",
-    "path_2": "תהילים.txt",
-    "Conection Type": "quotation"
-  },
-  {
     "line_index_1": 35,
     "line_index_2": 513,
     "heRef_2": "דברים יח, ה",
@@ -1722,402 +2079,66 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 47,
-    "line_index_2": 1473,
-    "heRef_2": "עירובין מ:,  יג",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1474,
-    "heRef_2": "עירובין מ:,  יד",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1475,
-    "heRef_2": "עירובין מ:,  טו",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1476,
-    "heRef_2": "עירובין מ:,  טז",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1477,
-    "heRef_2": "עירובין מ:,  יז",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1478,
-    "heRef_2": "עירובין מ:,  יח",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1479,
-    "heRef_2": "עירובין מ:,  יט",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 1481,
-    "heRef_2": "עירובין מא.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1481,
-    "heRef_2": "עירובין מא.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 1486,
-    "heRef_2": "עירובין מא., ו",
-    "path_2": "עירובין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 1488,
-    "heRef_2": "עירובין מא., ח",
-    "path_2": "עירובין.txt",
+    "line_index_1": 36,
+    "line_index_2": 225,
+    "heRef_2": "ספרי במדבר קמב,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 36,
-    "line_index_2": 37,
-    "heRef_2": "משנה ברכות ה, ה",
-    "path_2": "משנה ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 67,
-    "heRef_2": "משנה ברכות ט, ה",
-    "path_2": "משנה ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 3,
-    "heRef_2": "משנה כתובות א, א",
-    "path_2": "משנה כתובות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 67,
-    "heRef_2": "משנה נדרים ח, ה",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 33,
-    "heRef_2": "משנה פסחים ד, ה",
-    "path_2": "משנה פסחים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 4,
-    "heRef_2": "משנה תענית א, ב",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 5,
-    "heRef_2": "משנה תענית א, ג",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 5,
-    "heRef_2": "משנה תענית א, ג",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 6,
-    "heRef_2": "משנה תענית א, ד",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 8,
-    "heRef_2": "משנה תענית א, ו",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 8,
-    "heRef_2": "משנה תענית א, ו",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 11,
-    "heRef_2": "משנה תענית ב, א",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 20,
-    "heRef_2": "משנה תענית ב, י",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 12,
-    "heRef_2": "משנה תענית ב, ב",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 12,
-    "heRef_2": "משנה תענית ב, ב",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 14,
-    "heRef_2": "משנה תענית ב, ד",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 15,
-    "heRef_2": "משנה תענית ב, ה",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 17,
-    "heRef_2": "משנה תענית ב, ז",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 19,
-    "heRef_2": "משנה תענית ב, ט",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 25,
-    "heRef_2": "משנה תענית ג, ד",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 26,
-    "heRef_2": "משנה תענית ג, ה",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 29,
-    "heRef_2": "משנה תענית ג, ח",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 32,
-    "heRef_2": "משנה תענית ד, א",
-    "path_2": "משנה תענית.txt",
+    "line_index_2": 253,
+    "heRef_2": "ספרי במדבר קנג, ו",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 35,
-    "line_index_2": 32,
-    "heRef_2": "משנה תענית ד, א",
-    "path_2": "משנה תענית.txt",
+    "line_index_2": 58,
+    "heRef_2": "ספרי במדבר לט, א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 33,
-    "heRef_2": "משנה תענית ד, ב",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 33,
-    "heRef_2": "משנה תענית ד, ב",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 34,
-    "heRef_2": "משנה תענית ד, ג",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 38,
-    "heRef_2": "משנה תענית ד, ז",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 38,
-    "heRef_2": "משנה תענית ד, ז",
-    "path_2": "משנה תענית.txt",
-    "Conection Type": "quotation"
   },
   {
     "line_index_1": 14,
-    "line_index_2": 27,
-    "heRef_2": "משנה יומא ג, ח",
-    "path_2": "משנה יומא.txt",
+    "line_index_2": 1964,
+    "heRef_2": "ספרי דברים שו, לז",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 41,
-    "line_index_2": 1046,
-    "heRef_2": "מועד קטן כח:,  א",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 2763,
-    "heRef_2": "בבא בתרא קכא:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1432,
-    "heRef_2": "בבא בתרא ס:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 3034,
-    "heRef_2": "בבא קמא פ.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 3109,
-    "heRef_2": "בבא קמא פב., ו",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 3499,
-    "heRef_2": "בבא מציעא קו:,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 3066,
-    "heRef_2": "גיטין פח.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 622,
-    "heRef_2": "דברי הימים א טז, לו",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 622,
-    "heRef_2": "דברי הימים א טז, לו",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 395,
-    "heRef_2": "דברי הימים א ט, כב",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 829,
-    "heRef_2": "דברי הימים ב לה,  כא",
-    "path_2": "דברי הימים ב.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 830,
-    "heRef_2": "דברי הימים ב לה,  כב",
-    "path_2": "דברי הימים ב.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 831,
-    "heRef_2": "דברי הימים ב לה,  כג",
-    "path_2": "דברי הימים ב.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 832,
-    "heRef_2": "דברי הימים ב לה,  כד",
-    "path_2": "דברי הימים ב.txt",
+    "line_index_1": 3,
+    "line_index_2": 294,
+    "heRef_2": "ספרי דברים מב, ה",
+    "path_2": "ספרי דברים.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 29,
-    "line_index_2": 1133,
-    "heRef_2": "ישעיהו נד, ט",
-    "path_2": "ישעיהו.txt",
+    "line_index_2": 366,
+    "heRef_2": "סוטה יא.,  א",
+    "path_2": "סוטה.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 10,
-    "line_index_2": 1194,
-    "heRef_2": "ישעיהו נח, ג",
-    "path_2": "ישעיהו.txt",
+    "line_index_1": 35,
+    "line_index_2": 1282,
+    "heRef_2": "סוטה לח., ו",
+    "path_2": "סוטה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 1353,
+    "heRef_2": "סוטה מ:, א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 250,
+    "heRef_2": "סוטה ח.,  א",
+    "path_2": "סוטה.txt",
     "Conection Type": "related"
   },
   {
@@ -3974,6 +3995,13 @@
     "heRef_2": "תוספתא שביעית ז, יד",
     "path_2": "תוספתא שביעית.txt",
     "Conection Type": "related"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 80,
+    "heRef_2": "תוספתא סוטה (ליברמן) ו, ג",
+    "path_2": "תוספתא סוטה (ליברמן).txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 3,
@@ -11753,444 +11781,423 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 44,
-    "line_index_2": 1389,
-    "heRef_2": "ירמיהו נב, ו",
-    "path_2": "ירמיהו.txt",
+    "line_index_1": 41,
+    "line_index_2": 1046,
+    "heRef_2": "מועד קטן כח:,  א",
+    "path_2": "מועד קטן.txt",
     "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 154,
-    "heRef_2": "ירמיהו ו, ד",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 182,
-    "heRef_2": "תלמוד ירושלמי ברכות ב, ז, ז",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 198,
-    "heRef_2": "תלמוד ירושלמי ברכות ב, ט, ב",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 199,
-    "heRef_2": "תלמוד ירושלמי ברכות ב, ט, ג",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 681,
-    "heRef_2": "תלמוד ירושלמי ברכות ט, ב, כב",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 716,
-    "heRef_2": "תלמוד ירושלמי ברכות ט, ה, טו",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 560,
-    "heRef_2": "תלמוד ירושלמי כתובות יא, ז, ז",
-    "path_2": "תלמוד ירושלמי כתובות.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 160,
-    "heRef_2": "תלמוד ירושלמי קידושין ב, א, ב",
-    "path_2": "תלמוד ירושלמי קידושין.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 36,
-    "heRef_2": "תלמוד ירושלמי מגילה א, ד, יא",
-    "path_2": "תלמוד ירושלמי מגילה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 37,
-    "heRef_2": "תלמוד ירושלמי מגילה א, ד, יב",
-    "path_2": "תלמוד ירושלמי מגילה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 30,
-    "heRef_2": "תלמוד ירושלמי מגילה א, ד, ה",
-    "path_2": "תלמוד ירושלמי מגילה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 30,
-    "heRef_2": "תלמוד ירושלמי מגילה א, ד, ה",
-    "path_2": "תלמוד ירושלמי מגילה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 217,
-    "heRef_2": "תלמוד ירושלמי מגילה ד, א, יג",
-    "path_2": "תלמוד ירושלמי מגילה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 289,
-    "heRef_2": "תלמוד ירושלמי נדרים ח, א, ז",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 304,
-    "heRef_2": "תלמוד ירושלמי נדרים ח, ה, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 310,
-    "heRef_2": "תלמוד ירושלמי פסחים ה, ז, ב",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 328,
-    "heRef_2": "תלמוד ירושלמי פסחים ו, א, ג",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 103,
-    "heRef_2": "תלמוד ירושלמי שקלים ד, א, ב",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 396,
-    "heRef_2": "תלמוד ירושלמי שביעית ט, ה, ה",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 27,
-    "heRef_2": "תלמוד ירושלמי תענית א, ב, ה",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
   },
   {
     "line_index_1": 5,
-    "line_index_2": 30,
-    "heRef_2": "תלמוד ירושלמי תענית א, ג, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
+    "line_index_2": 1212,
+    "heRef_2": "נדרים סג.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 6,
-    "line_index_2": 33,
-    "heRef_2": "תלמוד ירושלמי תענית א, ג, ה",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 34,
-    "heRef_2": "תלמוד ירושלמי תענית א, ג, ו",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 36,
-    "heRef_2": "תלמוד ירושלמי תענית א, ג, ח",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 45,
-    "heRef_2": "תלמוד ירושלמי תענית א, ד, ח",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 48,
-    "heRef_2": "תלמוד ירושלמי תענית א, ה, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 51,
-    "heRef_2": "תלמוד ירושלמי תענית א, ו, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 54,
-    "heRef_2": "תלמוד ירושלמי תענית א, ו, ה",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 57,
-    "heRef_2": "תלמוד ירושלמי תענית א, ו, ח",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 68,
-    "heRef_2": "תלמוד ירושלמי תענית א, ח, ד",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 130,
-    "heRef_2": "תלמוד ירושלמי תענית ב, י, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 133,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יא, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 133,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יא, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 135,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יא, ד",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 140,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ד",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 140,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ד",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 149,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יד, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 74,
-    "heRef_2": "תלמוד ירושלמי תענית ב, א, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 79,
-    "heRef_2": "תלמוד ירושלמי תענית ב, א, ח",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 127,
-    "heRef_2": "תלמוד ירושלמי תענית ב, ט, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 209,
-    "heRef_2": "תלמוד ירושלמי תענית ג, יא, ה",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 154,
-    "heRef_2": "תלמוד ירושלמי תענית ג, א, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 157,
-    "heRef_2": "תלמוד ירושלמי תענית ג, ב, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 177,
-    "heRef_2": "תלמוד ירושלמי תענית ג, ה, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 181,
-    "heRef_2": "תלמוד ירושלמי תענית ג, ו, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 213,
-    "heRef_2": "תלמוד ירושלמי תענית ד, א, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 232,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ב, ד",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 234,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ב, ו",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 236,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ב, ח",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 236,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ב, ח",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 248,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ג, ד",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 1215,
+    "heRef_2": "נדרים סג., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 39,
-    "line_index_2": 252,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ד, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 297,
+    "heRef_2": "נחמיה י, לה",
+    "path_2": "נחמיה.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 40,
-    "line_index_2": 252,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ד, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 13,
+    "line_index_2": 229,
+    "heRef_2": "נחמיה ט, ה",
+    "path_2": "נחמיה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 1004,
+    "heRef_2": "במדבר כח, ב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 3646,
+    "heRef_2": "פסחים קיח.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 21,
+    "heRef_2": "פסחים ב:, ט",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 1701,
+    "heRef_2": "פסחים נה.,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 1738,
+    "heRef_2": "פסחים נו., ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 41,
-    "line_index_2": 253,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ד, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 2763,
+    "heRef_2": "בבא בתרא קכא:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 42,
-    "line_index_2": 253,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ד, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
+    "line_index_1": 48,
+    "line_index_2": 1432,
+    "heRef_2": "בבא בתרא ס:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 43,
-    "line_index_2": 264,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ה, י",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 20,
+    "line_index_2": 3034,
+    "heRef_2": "בבא קמא פ.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 44,
-    "line_index_2": 259,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ה, ה",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 20,
+    "line_index_2": 3109,
+    "heRef_2": "בבא קמא פב., ו",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 44,
-    "line_index_2": 283,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ו, ד",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
+    "line_index_1": 9,
+    "line_index_2": 3499,
+    "heRef_2": "בבא מציעא קו:,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 47,
-    "line_index_2": 284,
-    "heRef_2": "תלמוד ירושלמי תענית ד, ו, ה",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 1473,
+    "heRef_2": "עירובין מ:,  יג",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 22,
-    "line_index_2": 443,
-    "heRef_2": "תלמוד ירושלמי יבמות ט, ד, ח",
-    "path_2": "תלמוד ירושלמי יבמות.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 47,
+    "line_index_2": 1474,
+    "heRef_2": "עירובין מ:,  יד",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1475,
+    "heRef_2": "עירובין מ:,  טו",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1476,
+    "heRef_2": "עירובין מ:,  טז",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1477,
+    "heRef_2": "עירובין מ:,  יז",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1478,
+    "heRef_2": "עירובין מ:,  יח",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1479,
+    "heRef_2": "עירובין מ:,  יט",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 1481,
+    "heRef_2": "עירובין מא.,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 1481,
+    "heRef_2": "עירובין מא.,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 1486,
+    "heRef_2": "עירובין מא., ו",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 1488,
+    "heRef_2": "עירובין מא., ח",
+    "path_2": "עירובין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 81,
+    "heRef_2": "אסתר ד, טז",
+    "path_2": "אסתר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 1275,
+    "heRef_2": "יחזקאל מז, יב",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 175,
+    "heRef_2": "עזרא ז, י",
+    "path_2": "עזרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 502,
+    "heRef_2": "בראשית יט, כד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 37,
+    "heRef_2": "משנה ברכות ה, ה",
+    "path_2": "משנה ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 67,
+    "heRef_2": "משנה ברכות ט, ה",
+    "path_2": "משנה ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 3,
+    "heRef_2": "משנה כתובות א, א",
+    "path_2": "משנה כתובות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 67,
+    "heRef_2": "משנה נדרים ח, ה",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 33,
+    "heRef_2": "משנה פסחים ד, ה",
+    "path_2": "משנה פסחים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 4,
+    "heRef_2": "משנה תענית א, ב",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 5,
+    "heRef_2": "משנה תענית א, ג",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 5,
+    "heRef_2": "משנה תענית א, ג",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 8,
-    "line_index_2": 363,
-    "heRef_2": "תלמוד ירושלמי יומא ח, א, ה",
-    "path_2": "תלמוד ירושלמי יומא.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 6,
+    "heRef_2": "משנה תענית א, ד",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 8,
-    "line_index_2": 367,
-    "heRef_2": "תלמוד ירושלמי יומא ח, א, ט",
-    "path_2": "תלמוד ירושלמי יומא.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 7,
+    "line_index_2": 8,
+    "heRef_2": "משנה תענית א, ו",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 8,
+    "heRef_2": "משנה תענית א, ו",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 11,
+    "heRef_2": "משנה תענית ב, א",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 20,
+    "heRef_2": "משנה תענית ב, י",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 12,
+    "heRef_2": "משנה תענית ב, ב",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 12,
+    "heRef_2": "משנה תענית ב, ב",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 14,
+    "heRef_2": "משנה תענית ב, ד",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 15,
+    "heRef_2": "משנה תענית ב, ה",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 17,
+    "heRef_2": "משנה תענית ב, ז",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 19,
+    "heRef_2": "משנה תענית ב, ט",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 25,
+    "heRef_2": "משנה תענית ג, ד",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 26,
+    "heRef_2": "משנה תענית ג, ה",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 29,
+    "heRef_2": "משנה תענית ג, ח",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 32,
+    "heRef_2": "משנה תענית ד, א",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 32,
+    "heRef_2": "משנה תענית ד, א",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 33,
+    "heRef_2": "משנה תענית ד, ב",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 33,
+    "heRef_2": "משנה תענית ד, ב",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 34,
+    "heRef_2": "משנה תענית ד, ג",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 38,
+    "heRef_2": "משנה תענית ד, ז",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 38,
+    "heRef_2": "משנה תענית ד, ז",
+    "path_2": "משנה תענית.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 27,
+    "heRef_2": "משנה יומא ג, ח",
+    "path_2": "משנה יומא.txt",
+    "Conection Type": "related"
   }
 ]

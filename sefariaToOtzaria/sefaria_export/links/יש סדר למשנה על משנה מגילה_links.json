@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 24,
+    "line_index_2": 397,
+    "heRef_2": "ישעיהו כ,  א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 21,
     "line_index_2": 546,
     "heRef_2": "במדבר יד, כז",
@@ -12,6 +19,27 @@
     "heRef_2": "במדבר טז, כא",
     "path_2": "במדבר.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 52,
+    "heRef_2": "ברטנורא על משנה מגילה ב, א, א",
+    "path_2": "ברטנורא על משנה מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 196,
+    "heRef_2": "ברטנורא על משנה מגילה ד, י, ג",
+    "path_2": "ברטנורא על משנה מגילה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 136,
+    "heRef_2": "ברטנורא על משנה מגילה ד, ב, ב",
+    "path_2": "ברטנורא על משנה מגילה.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 5,
@@ -124,33 +152,5 @@
     "heRef_2": "משנה מגילה ד, ט",
     "path_2": "משנה מגילה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 52,
-    "heRef_2": "ברטנורא על משנה מגילה ב, א, א",
-    "path_2": "ברטנורא על משנה מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 196,
-    "heRef_2": "ברטנורא על משנה מגילה ד, י, ג",
-    "path_2": "ברטנורא על משנה מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 136,
-    "heRef_2": "ברטנורא על משנה מגילה ד, ב, ב",
-    "path_2": "ברטנורא על משנה מגילה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 397,
-    "heRef_2": "ישעיהו כ,  א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

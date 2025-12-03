@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 381,
-    "line_index_2": 223,
-    "heRef_2": "כתובות י:,  א",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 1729,
-    "heRef_2": "כתובות סה., ט",
-    "path_2": "כתובות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 110,
     "line_index_2": 266,
     "heRef_2": "תענית י., ב",
@@ -3990,6 +3976,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 381,
+    "line_index_2": 223,
+    "heRef_2": "כתובות י:,  א",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 1729,
+    "heRef_2": "כתובות סה., ט",
+    "path_2": "כתובות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 237,
     "line_index_2": 1916,
     "heRef_2": "פסחים סב:, ט",
@@ -3997,17 +3997,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 234,
-    "line_index_2": 1494,
-    "heRef_2": "עירובין מא:,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 70,
     "line_index_2": 151,
     "heRef_2": "בבא בתרא ז.,  א",
     "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 1494,
+    "heRef_2": "עירובין מא:,  א",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   }
 ]

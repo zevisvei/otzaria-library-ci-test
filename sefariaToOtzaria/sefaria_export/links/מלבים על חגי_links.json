@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 69,
-    "line_index_2": 1021,
-    "heRef_2": "יחזקאל לח, כא",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 38,
-    "heRef_2": "צפניה ג,  א",
-    "path_2": "צפניה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "חגי א, א",
@@ -250,5 +236,19 @@
     "heRef_2": "חגי ב, ט",
     "path_2": "חגי.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 38,
+    "heRef_2": "צפניה ג,  א",
+    "path_2": "צפניה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 1021,
+    "heRef_2": "יחזקאל לח, כא",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

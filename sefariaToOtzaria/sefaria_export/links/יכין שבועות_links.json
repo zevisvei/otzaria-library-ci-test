@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 130,
+    "line_index_2": 23,
+    "heRef_2": "תהילים ג, א",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 449,
     "line_index_2": 976,
     "heRef_2": "כתובות לט:, ב",
@@ -196,10 +203,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 130,
-    "line_index_2": 23,
-    "heRef_2": "תהילים ג, א",
-    "path_2": "תהילים.txt",
+    "line_index_1": 556,
+    "line_index_2": 1104,
+    "heRef_2": "בבא קמא כט:,  א",
+    "path_2": "בבא קמא.txt",
     "Conection Type": ""
   },
   {
@@ -2889,12 +2896,5 @@
     "heRef_2": "משנה שבועות ח, ו",
     "path_2": "משנה שבועות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 556,
-    "line_index_2": 1104,
-    "heRef_2": "בבא קמא כט:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 8,
+    "line_index_2": 309,
+    "heRef_2": "ערכין י.,  א",
+    "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 17,
     "line_index_2": 156,
     "heRef_2": "משנה תורה, הלכות כלי המקדש והעובדין בו י, א",
@@ -40,12 +47,5 @@
     "heRef_2": "משנה תורה, הלכות כלי המקדש והעובדין בו ט, ג",
     "path_2": "משנה תורה, הלכות כלי המקדש והעובדין בו.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 309,
-    "heRef_2": "ערכין י.,  א",
-    "path_2": "ערכין.txt",
-    "Conection Type": ""
   }
 ]

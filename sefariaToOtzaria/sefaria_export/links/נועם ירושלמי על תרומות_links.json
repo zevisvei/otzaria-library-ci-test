@@ -1,117 +1,5 @@
 [
   {
-    "line_index_1": 265,
-    "line_index_2": 70,
-    "heRef_2": "נדרים ה., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 63,
-    "line_index_2": 2308,
-    "heRef_2": "יומא פד., ה",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 88,
-    "heRef_2": "פסחים ה., ו",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 85,
-    "heRef_2": "פסחים ה., ג",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 154,
-    "line_index_2": 81,
-    "heRef_2": "שבת ה., ו",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 91,
-    "heRef_2": "שבת ה., טז",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 83,
-    "heRef_2": "יבמות ה.,  א",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 22,
-    "heRef_2": "משנה חלה ג,  א",
-    "path_2": "משנה חלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 36,
-    "heRef_2": "משנה דמאי ה, ח",
-    "path_2": "משנה דמאי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 119,
-    "line_index_2": 40,
-    "heRef_2": "משנה כלים ה, ה",
-    "path_2": "משנה כלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 294,
-    "line_index_2": 42,
-    "heRef_2": "משנה מכשירין ה,  א",
-    "path_2": "משנה מכשירין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 12,
-    "heRef_2": "משנה שביעית ב,  א",
-    "path_2": "משנה שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 64,
-    "line_index_2": 45,
-    "heRef_2": "משנה שביעית ה,  א",
-    "path_2": "משנה שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 185,
-    "line_index_2": 114,
-    "heRef_2": "בבא קמא ה.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 114,
-    "heRef_2": "בבא קמא ה.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 114,
-    "heRef_2": "בבא קמא ה.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 217,
     "line_index_2": 131,
     "heRef_2": "הוריות ה.,  א",
@@ -2098,5 +1986,117 @@
     "heRef_2": "תלמוד ירושלמי תרומות ט, ג, ד",
     "path_2": "תלמוד ירושלמי תרומות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 70,
+    "heRef_2": "נדרים ה., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 2308,
+    "heRef_2": "יומא פד., ה",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 88,
+    "heRef_2": "פסחים ה., ו",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 85,
+    "heRef_2": "פסחים ה., ג",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 81,
+    "heRef_2": "שבת ה., ו",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 91,
+    "heRef_2": "שבת ה., טז",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 83,
+    "heRef_2": "יבמות ה.,  א",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 114,
+    "heRef_2": "בבא קמא ה.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 114,
+    "heRef_2": "בבא קמא ה.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 114,
+    "heRef_2": "בבא קמא ה.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 22,
+    "heRef_2": "משנה חלה ג,  א",
+    "path_2": "משנה חלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 36,
+    "heRef_2": "משנה דמאי ה, ח",
+    "path_2": "משנה דמאי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 40,
+    "heRef_2": "משנה כלים ה, ה",
+    "path_2": "משנה כלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 42,
+    "heRef_2": "משנה מכשירין ה,  א",
+    "path_2": "משנה מכשירין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 12,
+    "heRef_2": "משנה שביעית ב,  א",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 45,
+    "heRef_2": "משנה שביעית ה,  א",
+    "path_2": "משנה שביעית.txt",
+    "Conection Type": ""
   }
 ]

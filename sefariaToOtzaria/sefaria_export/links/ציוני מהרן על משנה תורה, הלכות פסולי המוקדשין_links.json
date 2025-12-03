@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 8,
-    "line_index_2": 920,
-    "heRef_2": "מנחות כז.,  א",
-    "path_2": "מנחות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 17,
     "line_index_2": 218,
     "heRef_2": "משנה תורה, הלכות פסולי המוקדשין יא, יח",
@@ -47,5 +40,12 @@
     "heRef_2": "משנה תורה, הלכות פסולי המוקדשין ד, ו",
     "path_2": "משנה תורה, הלכות פסולי המוקדשין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 920,
+    "heRef_2": "מנחות כז.,  א",
+    "path_2": "מנחות.txt",
+    "Conection Type": ""
   }
 ]

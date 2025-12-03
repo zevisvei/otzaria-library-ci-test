@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 103,
+    "line_index_2": 243,
+    "heRef_2": "איוב י, טו",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 17,
     "line_index_2": 12,
     "heRef_2": "מיכה א, י",
@@ -474,12 +481,5 @@
     "heRef_2": "מיכה ז, ח",
     "path_2": "מיכה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 243,
-    "heRef_2": "איוב י, טו",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
   }
 ]

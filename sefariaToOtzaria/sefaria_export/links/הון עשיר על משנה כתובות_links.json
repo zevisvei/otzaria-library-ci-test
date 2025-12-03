@@ -1,89 +1,5 @@
 [
   {
-    "line_index_1": 17,
-    "line_index_2": 63,
-    "heRef_2": "בראשית ג,  ג",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 64,
-    "heRef_2": "בראשית ג,  ד",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1538,
-    "heRef_2": "בראשית מט, יד",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1044,
-    "heRef_2": "ברכות כב., יז",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 2869,
-    "heRef_2": "ברכות סד., ט",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 2601,
-    "heRef_2": "חולין פה., יז",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 618,
-    "heRef_2": "דברים כב, כ",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 660,
-    "heRef_2": "דברים כד, ה",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 179,
-    "heRef_2": "קהלת ט, ט",
-    "path_2": "קהלת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 3106,
-    "heRef_2": "בבא קמא פב., ג",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 1632,
-    "heRef_2": "בבא מציעא מט., ו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 2667,
-    "heRef_2": "בבא מציעא פד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 98,
     "line_index_2": 98,
     "heRef_2": "משנה כתובות י, ג",
@@ -754,5 +670,89 @@
     "heRef_2": "משנה כתובות ט, ט",
     "path_2": "משנה כתובות.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1044,
+    "heRef_2": "ברכות כב., יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 2869,
+    "heRef_2": "ברכות סד., ט",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 2601,
+    "heRef_2": "חולין פה., יז",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 618,
+    "heRef_2": "דברים כב, כ",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 660,
+    "heRef_2": "דברים כד, ה",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 179,
+    "heRef_2": "קהלת ט, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 3106,
+    "heRef_2": "בבא קמא פב., ג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 1632,
+    "heRef_2": "בבא מציעא מט., ו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 2667,
+    "heRef_2": "בבא מציעא פד.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 63,
+    "heRef_2": "בראשית ג,  ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 64,
+    "heRef_2": "בראשית ג,  ד",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1538,
+    "heRef_2": "בראשית מט, יד",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

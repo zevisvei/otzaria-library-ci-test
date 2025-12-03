@@ -1,10 +1,353 @@
 [
   {
-    "line_index_1": 125,
-    "line_index_2": 1336,
-    "heRef_2": "בראשית מג,  א",
-    "path_2": "בראשית.txt",
+    "line_index_1": 44,
+    "line_index_2": 388,
+    "heRef_2": "רש\"י על ברכות י., ב, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 91,
+    "heRef_2": "תוספות על ברכות יב., כ, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 114,
+    "heRef_2": "תוספות על ברכות יד., ד, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 114,
+    "heRef_2": "תוספות על ברכות יד., ד, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 139,
+    "heRef_2": "תוספות על ברכות טז., יח, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 800,
+    "heRef_2": "רש\"י על ברכות יח., יד, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 446,
+    "heRef_2": "תענית טז.,  א",
+    "path_2": "תענית.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 2593,
+    "heRef_2": "סנהדרין סה:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 182,
+    "heRef_2": "תוספות על ברכות כ., ד, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 1024,
+    "heRef_2": "רש\"י על ברכות כב:, יא, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 1026,
+    "heRef_2": "רש\"י על ברכות כב:, יב, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 1137,
+    "heRef_2": "רש\"י על ברכות כד., יט, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 243,
+    "heRef_2": "תוספות על ברכות כו:, ו, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 1419,
+    "heRef_2": "רש\"י על ברכות כט:, ט, ד",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 769,
+    "heRef_2": "סוכה כט:,  א",
+    "path_2": "סוכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 1991,
+    "heRef_2": "יומא עג:,  א",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 314,
+    "heRef_2": "שופטים י,  א",
+    "path_2": "שופטים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 324,
+    "heRef_2": "תוספות על ברכות לד:, ג, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 335,
+    "heRef_2": "תוספות על ברכות לה., יג, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 1710,
+    "heRef_2": "רש\"י על ברכות לה:, כג, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 343,
+    "heRef_2": "תוספות על ברכות לה:, ה, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 351,
+    "heRef_2": "תוספות על ברכות לו., טו, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 353,
+    "heRef_2": "תוספות על ברכות לו:, ה, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 382,
+    "heRef_2": "תוספות על ברכות לח:, ה, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 386,
+    "heRef_2": "תוספות על ברכות לט., א, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 386,
+    "heRef_2": "תוספות על ברכות לט., א, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 394,
+    "heRef_2": "תוספות על ברכות לט:, ב, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 62,
+    "heRef_2": "רש\"י על ברכות ג:, א, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 221,
+    "heRef_2": "סנהדרין ט:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 430,
+    "heRef_2": "תוספות על ברכות מב., ה, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 2297,
+    "heRef_2": "רש\"י על ברכות מז., י, א",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 505,
+    "heRef_2": "תוספות על ברכות מח., ג, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 3374,
+    "heRef_2": "פסחים קח:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 538,
+    "heRef_2": "תוספות על ברכות נ:, ח, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 2458,
+    "heRef_2": "רש\"י על ברכות נא., ב, ג",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 3475,
+    "heRef_2": "פסחים קיב:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 150,
+    "heRef_2": "זכריה י,  א",
+    "path_2": "זכריה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 2822,
+    "heRef_2": "רש\"י על ברכות נז., א, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 2929,
+    "heRef_2": "רש\"י על ברכות נח:, ח, ט",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 2988,
+    "heRef_2": "רש\"י על ברכות נט:, א, ה",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 154,
+    "heRef_2": "רש\"י על ברכות ה., ה, ב",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 607,
+    "heRef_2": "תוספות על ברכות ס:, ה, ב",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 3062,
+    "heRef_2": "רש\"י על ברכות סא., כ, ו",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 615,
+    "heRef_2": "תוספות על ברכות סב., ט, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 3227,
+    "heRef_2": "רש\"י על ברכות סג:, א, ד",
+    "path_2": "רשי על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 46,
+    "heRef_2": "תוספות על ברכות ו., יד, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 3,
+    "heRef_2": "משנה פאה א, א",
+    "path_2": "משנה פאה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 320,
+    "heRef_2": "פסחים יא:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 3475,
+    "heRef_2": "פסחים קיב:,  א",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 65,
+    "heRef_2": "תוספות על ברכות ט., א, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 44,
@@ -673,8 +1016,8 @@
   },
   {
     "line_index_1": 205,
-    "line_index_2": 2499,
-    "heRef_2": "ברכות נה:, יא",
+    "line_index_2": 2500,
+    "heRef_2": "ברכות נה:, יב",
     "path_2": "ברכות.txt",
     "Conection Type": "commentary"
   },
@@ -1022,346 +1365,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 44,
-    "line_index_2": 388,
-    "heRef_2": "רש\"י על ברכות י., ב, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 91,
-    "heRef_2": "תוספות על ברכות יב., כ, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 114,
-    "heRef_2": "תוספות על ברכות יד., ד, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 114,
-    "heRef_2": "תוספות על ברכות יד., ד, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 139,
-    "heRef_2": "תוספות על ברכות טז., יח, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 65,
-    "line_index_2": 800,
-    "heRef_2": "רש\"י על ברכות יח., יד, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 446,
-    "heRef_2": "תענית טז.,  א",
-    "path_2": "תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 2593,
-    "heRef_2": "סנהדרין סה:,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 182,
-    "heRef_2": "תוספות על ברכות כ., ד, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 1024,
-    "heRef_2": "רש\"י על ברכות כב:, יא, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 1026,
-    "heRef_2": "רש\"י על ברכות כב:, יב, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 1137,
-    "heRef_2": "רש\"י על ברכות כד., יט, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 243,
-    "heRef_2": "תוספות על ברכות כו:, ו, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 1419,
-    "heRef_2": "רש\"י על ברכות כט:, ט, ד",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 769,
-    "heRef_2": "סוכה כט:,  א",
-    "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 1991,
-    "heRef_2": "יומא עג:,  א",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 314,
-    "heRef_2": "שופטים י,  א",
-    "path_2": "שופטים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 125,
-    "line_index_2": 324,
-    "heRef_2": "תוספות על ברכות לד:, ג, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 127,
-    "line_index_2": 335,
-    "heRef_2": "תוספות על ברכות לה., יג, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 132,
-    "line_index_2": 1710,
-    "heRef_2": "רש\"י על ברכות לה:, כג, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 133,
-    "line_index_2": 343,
-    "heRef_2": "תוספות על ברכות לה:, ה, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 137,
-    "line_index_2": 351,
-    "heRef_2": "תוספות על ברכות לו., טו, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 353,
-    "heRef_2": "תוספות על ברכות לו:, ה, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 146,
-    "line_index_2": 382,
-    "heRef_2": "תוספות על ברכות לח:, ה, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 386,
-    "heRef_2": "תוספות על ברכות לט., א, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 386,
-    "heRef_2": "תוספות על ברכות לט., א, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 394,
-    "heRef_2": "תוספות על ברכות לט:, ב, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 62,
-    "heRef_2": "רש\"י על ברכות ג:, א, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 221,
-    "heRef_2": "סנהדרין ט:,  א",
-    "path_2": "סנהדרין.txt",
+    "line_index_2": 1336,
+    "heRef_2": "בראשית מג,  א",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 430,
-    "heRef_2": "תוספות על ברכות מב., ה, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 2297,
-    "heRef_2": "רש\"י על ברכות מז., י, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 173,
-    "line_index_2": 505,
-    "heRef_2": "תוספות על ברכות מח., ג, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 3374,
-    "heRef_2": "פסחים קח:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 538,
-    "heRef_2": "תוספות על ברכות נ:, ח, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 2458,
-    "heRef_2": "רש\"י על ברכות נא., ב, ג",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 199,
-    "line_index_2": 3475,
-    "heRef_2": "פסחים קיב:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 216,
-    "line_index_2": 150,
-    "heRef_2": "זכריה י,  א",
-    "path_2": "זכריה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 217,
-    "line_index_2": 2822,
-    "heRef_2": "רש\"י על ברכות נז., א, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 227,
-    "line_index_2": 2929,
-    "heRef_2": "רש\"י על ברכות נח:, ח, ט",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 233,
-    "line_index_2": 2988,
-    "heRef_2": "רש\"י על ברכות נט:, א, ה",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 154,
-    "heRef_2": "רש\"י על ברכות ה., ה, ב",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 608,
-    "heRef_2": "תוספות על ברכות ס:, ה, ב",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 240,
-    "line_index_2": 3062,
-    "heRef_2": "רש\"י על ברכות סא., כ, ו",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 244,
-    "line_index_2": 616,
-    "heRef_2": "תוספות על ברכות סב., ט, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 3227,
-    "heRef_2": "רש\"י על ברכות סג:, א, ד",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 46,
-    "heRef_2": "תוספות על ברכות ו., יד, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 320,
-    "heRef_2": "פסחים יא:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 3475,
-    "heRef_2": "פסחים קיב:,  א",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 65,
-    "heRef_2": "תוספות על ברכות ט., א, א",
-    "path_2": "תוספות על ברכות.txt",
-    "Conection Type": "commentary"
   }
 ]

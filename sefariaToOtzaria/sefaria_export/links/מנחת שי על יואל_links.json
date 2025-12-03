@@ -1,9 +1,30 @@
 [
   {
     "line_index_1": 40,
-    "line_index_2": 848,
-    "heRef_2": "יחזקאל לב, לא",
-    "path_2": "יחזקאל.txt",
+    "line_index_2": 222,
+    "heRef_2": "ירמיהו ח, ו",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 662,
+    "heRef_2": "מלכים א יח, יט",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 624,
+    "heRef_2": "שמואל א כג, א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 153,
+    "heRef_2": "שמואל א ז, ה",
+    "path_2": "שמואל א.txt",
     "Conection Type": ""
   },
   {
@@ -315,38 +336,17 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 40,
+    "line_index_2": 848,
+    "heRef_2": "יחזקאל לב, לא",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 68,
     "line_index_2": 1812,
     "heRef_2": "תהילים קד, יב",
     "path_2": "תהילים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 662,
-    "heRef_2": "מלכים א יח, יט",
-    "path_2": "מלכים א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 624,
-    "heRef_2": "שמואל א כג, א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 153,
-    "heRef_2": "שמואל א ז, ה",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 222,
-    "heRef_2": "ירמיהו ח, ו",
-    "path_2": "ירמיהו.txt",
     "Conection Type": ""
   }
 ]

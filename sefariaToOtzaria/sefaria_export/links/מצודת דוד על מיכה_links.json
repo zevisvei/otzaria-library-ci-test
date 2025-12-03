@@ -1,5 +1,33 @@
 [
   {
+    "line_index_1": 210,
+    "line_index_2": 78,
+    "heRef_2": "איכה ג, ל",
+    "path_2": "איכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 24,
+    "heRef_2": "מלאכי ב, ז",
+    "path_2": "מלאכי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 58,
+    "heRef_2": "מלאכי ג, כג",
+    "path_2": "מלאכי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 36,
+    "heRef_2": "עמוס ג,  א",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 364,
     "line_index_2": 885,
     "heRef_2": "יחזקאל לד,  א",
@@ -25,27 +53,6 @@
     "line_index_2": 1508,
     "heRef_2": "בראשית מח, ז",
     "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 210,
-    "line_index_2": 78,
-    "heRef_2": "איכה ג, ל",
-    "path_2": "איכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 149,
-    "line_index_2": 24,
-    "heRef_2": "מלאכי ב, ז",
-    "path_2": "מלאכי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 58,
-    "heRef_2": "מלאכי ג, כג",
-    "path_2": "מלאכי.txt",
     "Conection Type": ""
   },
   {
@@ -1979,12 +1986,5 @@
     "heRef_2": "מיכה ז, ט",
     "path_2": "מיכה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 36,
-    "heRef_2": "עמוס ג,  א",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
   }
 ]

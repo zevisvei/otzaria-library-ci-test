@@ -1,82 +1,5 @@
 [
   {
-    "line_index_1": 2269,
-    "line_index_2": 686,
-    "heRef_2": "יחזקאל כז,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2267,
-    "line_index_2": 545,
-    "heRef_2": "בראשית כא, ט",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2269,
-    "line_index_2": 1191,
-    "heRef_2": "בראשית לט,  א",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1319,
-    "line_index_2": 83,
-    "heRef_2": "חגיגה ה.,  א",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1399,
-    "line_index_2": 83,
-    "heRef_2": "חגיגה ה.,  א",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1343,
-    "line_index_2": 335,
-    "heRef_2": "במדבר רבה יח,  א",
-    "path_2": "במדבר רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1423,
-    "line_index_2": 335,
-    "heRef_2": "במדבר רבה יח,  א",
-    "path_2": "במדבר רבה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 2132,
-    "line_index_2": 1260,
-    "heRef_2": "בבא בתרא נב:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 745,
-    "line_index_2": 169,
-    "heRef_2": "בבא קמא ו:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1275,
-    "line_index_2": 3891,
-    "heRef_2": "בבא מציעא קיט.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1355,
-    "line_index_2": 3891,
-    "heRef_2": "בבא מציעא קיט.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 24,
     "line_index_2": 35,
     "heRef_2": "שם הגדולים, מערכת ספרים, מערכת א טז, א",
@@ -4548,5 +4471,82 @@
     "heRef_2": "שם הגדולים, מערכת ספרים, מערכת ז ח, א",
     "path_2": "שם הגדולים, מערכת ספרים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1319,
+    "line_index_2": 83,
+    "heRef_2": "חגיגה ה.,  א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1399,
+    "line_index_2": 83,
+    "heRef_2": "חגיגה ה.,  א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1343,
+    "line_index_2": 335,
+    "heRef_2": "במדבר רבה יח,  א",
+    "path_2": "במדבר רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1423,
+    "line_index_2": 335,
+    "heRef_2": "במדבר רבה יח,  א",
+    "path_2": "במדבר רבה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2132,
+    "line_index_2": 1260,
+    "heRef_2": "בבא בתרא נב:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 745,
+    "line_index_2": 169,
+    "heRef_2": "בבא קמא ו:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1275,
+    "line_index_2": 3891,
+    "heRef_2": "בבא מציעא קיט.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 1355,
+    "line_index_2": 3891,
+    "heRef_2": "בבא מציעא קיט.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2269,
+    "line_index_2": 686,
+    "heRef_2": "יחזקאל כז,  א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2267,
+    "line_index_2": 545,
+    "heRef_2": "בראשית כא, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2269,
+    "line_index_2": 1191,
+    "heRef_2": "בראשית לט,  א",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
   }
 ]

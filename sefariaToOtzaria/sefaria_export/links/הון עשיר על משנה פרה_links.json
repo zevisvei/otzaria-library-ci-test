@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 58,
-    "line_index_2": 446,
-    "heRef_2": "שמות טז, יד",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 67,
     "line_index_2": 86,
     "heRef_2": "משנה פרה י, ה",
@@ -271,5 +264,12 @@
     "heRef_2": "משנה פרה ט, ח",
     "path_2": "משנה פרה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 446,
+    "heRef_2": "שמות טז, יד",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

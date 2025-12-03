@@ -1,6 +1,13 @@
 [
   {
     "line_index_1": 6,
+    "line_index_2": 276,
+    "heRef_2": "ביצה י:,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
     "line_index_2": 241,
     "heRef_2": "ביצה ט:,  א",
     "path_2": "ביצה.txt",
@@ -40,12 +47,5 @@
     "heRef_2": "תלמוד ירושלמי ביצה א, ח, ג",
     "path_2": "תלמוד ירושלמי ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 276,
-    "heRef_2": "ביצה י:,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
   }
 ]

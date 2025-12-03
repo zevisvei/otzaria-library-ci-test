@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 500,
-    "line_index_2": 814,
-    "heRef_2": "יחזקאל לא, טז",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 426,
-    "line_index_2": 83,
-    "heRef_2": "חולין ד:,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 426,
     "line_index_2": 239,
     "heRef_2": "גיטין י.,  א",
@@ -3246,5 +3232,19 @@
     "heRef_2": "נדה ט:, יב",
     "path_2": "נדה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 426,
+    "line_index_2": 83,
+    "heRef_2": "חולין ד:,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 500,
+    "line_index_2": 814,
+    "heRef_2": "יחזקאל לא, טז",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

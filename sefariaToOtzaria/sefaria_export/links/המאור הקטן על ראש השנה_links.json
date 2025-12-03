@@ -1,26 +1,5 @@
 [
   {
-    "line_index_1": 22,
-    "line_index_2": 1154,
-    "heRef_2": "יחזקאל מג, ב",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 5,
-    "heRef_2": "בועז על משנה ברכות א, ב",
-    "path_2": "בועז על משנה ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 363,
-    "heRef_2": "דברים יב, ה",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 47,
     "line_index_2": 118,
     "heRef_2": "רי\"ף ראש השנה י:, ב",
@@ -425,5 +404,26 @@
     "heRef_2": "ראש השנה לב:, כד",
     "path_2": "ראש השנה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 5,
+    "heRef_2": "בועז על משנה ברכות א, ב",
+    "path_2": "בועז על משנה ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 363,
+    "heRef_2": "דברים יב, ה",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 1154,
+    "heRef_2": "יחזקאל מג, ב",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

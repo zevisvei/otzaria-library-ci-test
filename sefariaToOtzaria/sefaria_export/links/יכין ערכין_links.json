@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 661,
+    "line_index_2": 123,
+    "heRef_2": "ישעיהו ו,  א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 37,
     "line_index_2": 4,
     "heRef_2": "בועז על משנה ערכין א, א",
@@ -46,6 +53,13 @@
     "line_index_2": 1711,
     "heRef_2": "שולחן ערוך, חושן משפט קנה,  א",
     "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 64,
+    "heRef_2": "עבודה זרה ד.,  א",
+    "path_2": "עבודה זרה.txt",
     "Conection Type": ""
   },
   {
@@ -2378,19 +2392,5 @@
     "heRef_2": "משנה ערכין ט, ח",
     "path_2": "משנה ערכין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 661,
-    "line_index_2": 123,
-    "heRef_2": "ישעיהו ו,  א",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 382,
-    "line_index_2": 64,
-    "heRef_2": "עבודה זרה ד.,  א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

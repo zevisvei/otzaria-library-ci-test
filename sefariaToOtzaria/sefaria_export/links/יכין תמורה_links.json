@@ -1,9 +1,30 @@
 [
   {
+    "line_index_1": 157,
+    "line_index_2": 2260,
+    "heRef_2": "פסחים עג., יא",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 284,
-    "line_index_2": 61,
-    "heRef_2": "בראשית ג, א",
-    "path_2": "בראשית.txt",
+    "line_index_2": 405,
+    "heRef_2": "משלי יד, יח",
+    "path_2": "משלי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 428,
+    "heRef_2": "משלי טו, ה",
+    "path_2": "משלי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 641,
+    "heRef_2": "משלי כב, ג",
+    "path_2": "משלי.txt",
     "Conection Type": ""
   },
   {
@@ -105,6 +126,34 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 77,
+    "line_index_2": 4495,
+    "heRef_2": "חולין קלז:, יב",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 1718,
+    "heRef_2": "חולין נח., ד",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 69,
+    "heRef_2": "תמורה ד.,  א",
+    "path_2": "תמורה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 1715,
+    "heRef_2": "עבודה זרה נד:, ה",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 472,
     "line_index_2": 854,
     "heRef_2": "פסחים כח:, יג",
@@ -126,52 +175,17 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 157,
-    "line_index_2": 2260,
-    "heRef_2": "פסחים עג., יא",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 284,
-    "line_index_2": 405,
-    "heRef_2": "משלי יד, יח",
-    "path_2": "משלי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 284,
-    "line_index_2": 428,
-    "heRef_2": "משלי טו, ה",
-    "path_2": "משלי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 284,
-    "line_index_2": 641,
-    "heRef_2": "משלי כב, ג",
-    "path_2": "משלי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 4495,
-    "heRef_2": "חולין קלז:, יב",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 349,
-    "line_index_2": 1718,
-    "heRef_2": "חולין נח., ד",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 341,
     "line_index_2": 1052,
     "heRef_2": "עירובין כז:, יח",
     "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 61,
+    "heRef_2": "בראשית ג, א",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
@@ -1909,19 +1923,5 @@
     "heRef_2": "משנה תמורה ז, ו",
     "path_2": "משנה תמורה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 226,
-    "line_index_2": 69,
-    "heRef_2": "תמורה ד.,  א",
-    "path_2": "תמורה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 341,
-    "line_index_2": 1715,
-    "heRef_2": "עבודה זרה נד:, ה",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

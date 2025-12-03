@@ -1,10 +1,1277 @@
 [
   {
+    "line_index_1": 28,
+    "line_index_2": 259,
+    "heRef_2": "ירמיהו ט, יט",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 10,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, א,  ז",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 11,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, א,  ח",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 12,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, א,  ט",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 12,
+    "heRef_2": "תלמוד ירושלמי עבודה זרה א, א, ט",
+    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 177,
+    "heRef_2": "תלמוד ירושלמי ברכות ב, ז, ב",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 215,
+    "heRef_2": "תלמוד ירושלמי ברכות ג, א, יג",
+    "path_2": "תלמוד ירושלמי ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 168,
+    "heRef_2": "תלמוד ירושלמי חגיגה ג, ז, ב",
+    "path_2": "תלמוד ירושלמי חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 151,
+    "heRef_2": "תלמוד ירושלמי גיטין ד, ה, ג",
+    "path_2": "תלמוד ירושלמי גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 115,
+    "heRef_2": "תלמוד ירושלמי הוריות ג, ג, א",
+    "path_2": "תלמוד ירושלמי הוריות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 127,
+    "heRef_2": "תלמוד ירושלמי הוריות ג, ד, ח",
+    "path_2": "תלמוד ירושלמי הוריות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 138,
+    "heRef_2": "תלמוד ירושלמי מגילה ב, ד, ה",
+    "path_2": "תלמוד ירושלמי מגילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 55,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, י, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 55,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, י, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 4,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, א, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 10,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ב, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 19,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ג, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 23,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ד, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 29,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ה, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 35,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ו, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 40,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ז, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 40,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ז, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 47,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ח, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 52,
+    "heRef_2": "תלמוד ירושלמי מועד קטן א, ט, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 62,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ב, א, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 68,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ב, ב, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 72,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ב, ג, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 78,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ב, ד, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 86,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ב, ה, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 91,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, א, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 108,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ב, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 112,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ג, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 116,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ד, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 122,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ה, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 151,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ו, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 155,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ז, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 175,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ח, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 187,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ט, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 187,
+    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ט, א",
+    "path_2": "תלמוד ירושלמי מועד קטן.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 86,
+    "heRef_2": "תלמוד ירושלמי נזיר ג, א, ג",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 296,
+    "heRef_2": "תלמוד ירושלמי נזיר ז, ג, ו",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 383,
+    "heRef_2": "תלמוד ירושלמי פסחים ז, א, ח",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 43,
+    "heRef_2": "תלמוד ירושלמי ראש השנה א, ה, ד",
+    "path_2": "תלמוד ירושלמי ראש השנה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 583,
+    "heRef_2": "תלמוד ירושלמי סנהדרין י, א, טו",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 1059,
+    "heRef_2": "גיטין לו:,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 19,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, י, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 20,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, י, ב",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 5,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, א, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 7,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, ה, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 9,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, ו, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 10,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, ו, ב",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 11,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, ו, ג",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 13,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, ז, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 14,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, ז, ב",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 16,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, ט, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 17,
+    "heRef_2": "הון עשיר על משנה מועד קטן א, ט, ב",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 23,
+    "heRef_2": "הון עשיר על משנה מועד קטן ב, ב, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 24,
+    "heRef_2": "הון עשיר על משנה מועד קטן ב, ב, ב",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 27,
+    "heRef_2": "הון עשיר על משנה מועד קטן ג, א, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 28,
+    "heRef_2": "הון עשיר על משנה מועד קטן ג, א, ב",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 30,
+    "heRef_2": "הון עשיר על משנה מועד קטן ג, ב, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 31,
+    "heRef_2": "הון עשיר על משנה מועד קטן ג, ב, ב",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 33,
+    "heRef_2": "הון עשיר על משנה מועד קטן ג, ד, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 35,
+    "heRef_2": "הון עשיר על משנה מועד קטן ג, ז, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 37,
+    "heRef_2": "הון עשיר על משנה מועד קטן ג, ח, א",
+    "path_2": "הון עשיר על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 54,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, י, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 55,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, י, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 56,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, י, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 57,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, י, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 5,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 14,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, י",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 15,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, יא",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 16,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, יב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 6,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 7,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 8,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 9,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 10,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ו",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 11,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ז",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 12,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ח",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 13,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ט",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 18,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 19,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 20,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 21,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 22,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 23,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ו",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 24,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ז",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 25,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ח",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 27,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 28,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ג, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 30,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ד, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 31,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ד, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 32,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ד, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 34,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 35,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 36,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 37,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 38,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 40,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ו, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 41,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ו, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 42,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ו, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 43,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ו, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 45,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ז, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 46,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ז, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 48,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ח, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 50,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ט, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 51,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ט, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 52,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ט, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 60,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, א, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 61,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, א, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 63,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ב, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 64,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ב, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 66,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 67,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ג, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 69,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 70,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 71,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 72,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 73,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 75,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ה, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 76,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ה, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 77,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ה, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 80,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, א, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 81,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, א, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 82,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, א, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 83,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, א, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 85,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ב, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 86,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ב, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 88,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 89,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 90,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 91,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 92,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 93,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ו",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 94,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ז",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 95,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ח",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
     "line_index_1": 22,
     "line_index_2": 96,
-    "heRef_2": "אסתר ה, יג",
-    "path_2": "אסתר.txt",
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ט",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 98,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 99,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 100,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 101,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 102,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 104,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 105,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 106,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 107,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 108,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 109,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ו",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 110,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ז",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 112,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 113,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 114,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 115,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ד",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 116,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ה",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 117,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ו",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 119,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ז, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 120,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ז, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 121,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ז, ג",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 123,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ח, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 124,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ח, ב",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 126,
+    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ט, א",
+    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 498,
+    "heRef_2": "ישעיהו כה, ח",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 75,
+    "heRef_2": "תלמוד ירושלמי סנהדרין א, ב, לט",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 110,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ב, א, ג",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 375,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ו, י, ב",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 432,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ז, ח, ח",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 478,
+    "heRef_2": "תלמוד ירושלמי סנהדרין ח, ב, ב",
+    "path_2": "תלמוד ירושלמי סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 270,
+    "heRef_2": "תלמוד ירושלמי שבת ד, ב, ג",
+    "path_2": "תלמוד ירושלמי שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 14,
+    "heRef_2": "תלמוד ירושלמי שקלים א, א, יא",
+    "path_2": "תלמוד ירושלמי שקלים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 90,
+    "heRef_2": "תלמוד ירושלמי שביעית ב, ז, ו",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 104,
+    "heRef_2": "תלמוד ירושלמי שביעית ג, ב, ד",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 105,
+    "heRef_2": "תלמוד ירושלמי שביעית ג, ב, ה",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 261,
+    "heRef_2": "תלמוד ירושלמי שביעית ו, ב, ו",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 246,
+    "heRef_2": "תלמוד ירושלמי סוטה ו, א, ב",
+    "path_2": "תלמוד ירושלמי סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 130,
+    "heRef_2": "תלמוד ירושלמי תענית ב, י, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 201,
+    "heRef_2": "תלמוד ירושלמי תענית ג, י, ב",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 608,
+    "heRef_2": "תלמוד ירושלמי יבמות יב, ו, ה",
+    "path_2": "תלמוד ירושלמי יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 770,
+    "heRef_2": "תלמוד ירושלמי יבמות טז, ג, ד",
+    "path_2": "תלמוד ירושלמי יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 14,
+    "heRef_2": "בניהו על סוכה יד., א",
+    "path_2": "בניהו על סוכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 4,
+    "heRef_2": "בועז על משנה מועד קטן א, א",
+    "path_2": "בועז על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 6,
+    "heRef_2": "בועז על משנה מועד קטן ג, א",
+    "path_2": "בועז על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 12,
@@ -273,27 +1540,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 10,
-    "line_index_2": 14,
-    "heRef_2": "בניהו על סוכה יד., א",
-    "path_2": "בניהו על סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 4,
-    "heRef_2": "בועז על משנה מועד קטן א, א",
-    "path_2": "בועז על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 6,
-    "heRef_2": "בועז על משנה מועד קטן ג, א",
-    "path_2": "בועז על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
     "line_index_1": 28,
     "line_index_2": 77,
     "heRef_2": "מגילה ג:, ג",
@@ -306,6 +1552,958 @@
     "heRef_2": "מגילה ג:, ג",
     "path_2": "מגילה.txt",
     "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 449,
+    "heRef_2": "דברים טו, ט",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 478,
+    "heRef_2": "דברים טז, יד",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 696,
+    "heRef_2": "דברים כה, יח",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 59,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 68,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, י",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 60,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 61,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 62,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 63,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 64,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 65,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ז",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 66,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ח",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 67,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ט",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 5,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, א, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 6,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 7,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 8,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 9,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 10,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 12,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 13,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 14,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 15,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 16,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 17,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 18,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ז",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 19,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ח",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 21,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ג, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 22,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ג, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 23,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ג, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 25,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 26,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 27,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 28,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 29,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 31,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 32,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 33,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 34,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 35,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 36,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 37,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ז",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 38,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ח",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 40,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 41,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 42,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 43,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 44,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 46,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ז, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 47,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ז, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 48,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ז, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 49,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ז, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 51,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ח, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 52,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ח, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 53,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ח, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 54,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ח, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 56,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ט, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 57,
+    "heRef_2": "ברטנורא על משנה מועד קטן א, ט, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 71,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 72,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 73,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 74,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 75,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 76,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 77,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ז",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 79,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ב, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 80,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ב, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 82,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ג, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 83,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ג, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 85,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 86,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 87,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 88,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 89,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 90,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 91,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ז",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 93,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 94,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 95,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 96,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 97,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 98,
+    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 101,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 102,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 103,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 104,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 105,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 106,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 108,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 109,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 110,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 111,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 112,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 114,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 123,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, י",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 124,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, יא",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 125,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, יב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 115,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 116,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 117,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 118,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 119,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 120,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ז",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 121,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ח",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 122,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ט",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 127,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 128,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 129,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 130,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 131,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 132,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 134,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 135,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 136,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 137,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 138,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 139,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 141,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ו, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 143,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 144,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 145,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 146,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 147,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 148,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ו",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 149,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ז",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 150,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ח",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 151,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ט",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 153,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 154,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 155,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, ג",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 156,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, ד",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 157,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, ה",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 159,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ט, א",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 160,
+    "heRef_2": "ברטנורא על משנה מועד קטן ג, ט, ב",
+    "path_2": "ברטנורא על משנה מועד קטן.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 664,
+    "heRef_2": "בבא מציעא כ., ד",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 96,
+    "heRef_2": "אסתר ה, יג",
+    "path_2": "אסתר.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 12,
@@ -1058,27 +3256,6 @@
   },
   {
     "line_index_1": 22,
-    "line_index_2": 449,
-    "heRef_2": "דברים טו, ט",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 478,
-    "heRef_2": "דברים טז, יד",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 696,
-    "heRef_2": "דברים כה, יח",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
     "line_index_2": 9,
     "heRef_2": "משנה בבא מציעא א,  ז",
     "path_2": "משנה בבא מציעא.txt",
@@ -1306,6 +3483,13 @@
     "line_index_2": 4,
     "heRef_2": "תוספתא מועד קטן א, ב",
     "path_2": "תוספתא מועד קטן.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 794,
+    "heRef_2": "רש\"י על יחזקאל יז, ז, ד",
+    "path_2": "רשי על יחזקאל.txt",
     "Conection Type": ""
   },
   {
@@ -2493,7 +4677,7 @@
   },
   {
     "line_index_1": 10,
-    "line_index_2": 2235,
+    "line_index_2": 2233,
     "heRef_2": "רש\"י על איוב מ, יז, ג",
     "path_2": "רשי על איוב.txt",
     "Conection Type": ""
@@ -4488,13 +6672,6 @@
   },
   {
     "line_index_1": 27,
-    "line_index_2": 852,
-    "heRef_2": "טור, אורח חיים, אורח חיים תכ, א",
-    "path_2": "טור.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 27,
     "line_index_2": 1046,
     "heRef_2": "מועד קטן כח:,  א",
     "path_2": "מועד קטן.txt",
@@ -4604,2189 +6781,5 @@
     "heRef_2": "יכין מועד קטן ג, עא, א",
     "path_2": "יכין מועד קטן.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 852,
-    "heRef_2": "טור, אורח חיים, אורח חיים תכ, א",
-    "path_2": "טור.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 59,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 68,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, י",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 60,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 61,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 62,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 63,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 64,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 65,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ז",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 66,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ח",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 67,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, י, ט",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 5,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, א, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 6,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 7,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 8,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 9,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 10,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, א, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 12,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 13,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 14,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 15,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 16,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 17,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 18,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ז",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 19,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ב, ח",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 21,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ג, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 22,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ג, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 23,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ג, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 25,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 26,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 27,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 28,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 29,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ד, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 31,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 32,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 33,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 34,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 35,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 36,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 37,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ז",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 38,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ה, ח",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 40,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 41,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 42,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 43,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 44,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ו, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 46,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ז, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 47,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ז, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 48,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ז, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 49,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ז, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 51,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ח, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 52,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ח, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 53,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ח, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 54,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ח, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 56,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ט, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 57,
-    "heRef_2": "ברטנורא על משנה מועד קטן א, ט, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 71,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 72,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 73,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 74,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 75,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 76,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 77,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, א, ז",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 79,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ב, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 80,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ב, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 82,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ג, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 83,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ג, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 85,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 86,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 87,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 88,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 89,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 90,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 91,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ד, ז",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 93,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 94,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 95,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 96,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 97,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 98,
-    "heRef_2": "ברטנורא על משנה מועד קטן ב, ה, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 101,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 102,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 103,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 104,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 105,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 106,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, א, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 108,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 109,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 110,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 111,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 112,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ב, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 114,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 123,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, י",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 124,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, יא",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 125,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, יב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 115,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 116,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 117,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 118,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 119,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 120,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ז",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 121,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ח",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 122,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ג, ט",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 127,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 128,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 129,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 130,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 131,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 132,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ד, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 134,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 135,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 136,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 137,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 138,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 139,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ה, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 141,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ו, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 143,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 144,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 145,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 146,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 147,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 148,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ו",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 149,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ז",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 150,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ח",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 151,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ז, ט",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 153,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 154,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 155,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, ג",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 156,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, ד",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 157,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ח, ה",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 159,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ט, א",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 160,
-    "heRef_2": "ברטנורא על משנה מועד קטן ג, ט, ב",
-    "path_2": "ברטנורא על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 664,
-    "heRef_2": "בבא מציעא כ., ד",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 1059,
-    "heRef_2": "גיטין לו:,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 19,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, י, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 20,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, י, ב",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 5,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, א, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 7,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, ה, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 9,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, ו, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 10,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, ו, ב",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 11,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, ו, ג",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 13,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, ז, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 14,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, ז, ב",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 16,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, ט, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 17,
-    "heRef_2": "הון עשיר על משנה מועד קטן א, ט, ב",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 23,
-    "heRef_2": "הון עשיר על משנה מועד קטן ב, ב, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 24,
-    "heRef_2": "הון עשיר על משנה מועד קטן ב, ב, ב",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 27,
-    "heRef_2": "הון עשיר על משנה מועד קטן ג, א, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 28,
-    "heRef_2": "הון עשיר על משנה מועד קטן ג, א, ב",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 30,
-    "heRef_2": "הון עשיר על משנה מועד קטן ג, ב, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 31,
-    "heRef_2": "הון עשיר על משנה מועד קטן ג, ב, ב",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 33,
-    "heRef_2": "הון עשיר על משנה מועד קטן ג, ד, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 35,
-    "heRef_2": "הון עשיר על משנה מועד קטן ג, ז, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 37,
-    "heRef_2": "הון עשיר על משנה מועד קטן ג, ח, א",
-    "path_2": "הון עשיר על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 54,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, י, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 55,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, י, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 56,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, י, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 57,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, י, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 5,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 14,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, י",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 15,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, יא",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 16,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, יב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 6,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 7,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 8,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 9,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 10,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ו",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 11,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ז",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 12,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ח",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 13,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, א, ט",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 18,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 19,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 20,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 21,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 22,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 23,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ו",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 24,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ז",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 25,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ב, ח",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 27,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 28,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ג, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 30,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ד, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 31,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ד, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 32,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ד, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 34,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 35,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 36,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 37,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 38,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ה, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 40,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ו, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 41,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ו, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 42,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ו, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 43,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ו, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 45,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ז, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 46,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ז, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 48,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ח, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 50,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ט, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 51,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ט, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 52,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן א, ט, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 60,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, א, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 61,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, א, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 63,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ב, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 64,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ב, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 66,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 67,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ג, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 69,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 70,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 71,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 72,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 73,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ד, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 75,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ה, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 76,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ה, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 77,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ב, ה, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 80,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, א, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 81,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, א, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 82,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, א, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 83,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, א, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 85,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ב, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 86,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ב, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 88,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 89,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 90,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 91,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 92,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 93,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ו",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 94,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ז",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 95,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ח",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 96,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ג, ט",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 98,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 99,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 100,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 101,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 102,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ד, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 104,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 105,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 106,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 107,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 108,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 109,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ו",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 110,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ה, ז",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 112,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 113,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 114,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 115,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ד",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 116,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ה",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 117,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ו, ו",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 119,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ז, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 120,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ז, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 121,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ז, ג",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 123,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ח, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 124,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ח, ב",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 126,
-    "heRef_2": "עיקר תוספות יום טוב על משנה מועד קטן ג, ט, א",
-    "path_2": "עיקר תוספות יום טוב על משנה מועד קטן.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 498,
-    "heRef_2": "ישעיהו כה, ח",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 259,
-    "heRef_2": "ירמיהו ט, יט",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 10,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, א,  ז",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 11,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, א,  ח",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 12,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, א,  ט",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 12,
-    "heRef_2": "תלמוד ירושלמי עבודה זרה א, א, ט",
-    "path_2": "תלמוד ירושלמי עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 177,
-    "heRef_2": "תלמוד ירושלמי ברכות ב, ז, ב",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 215,
-    "heRef_2": "תלמוד ירושלמי ברכות ג, א, יג",
-    "path_2": "תלמוד ירושלמי ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 168,
-    "heRef_2": "תלמוד ירושלמי חגיגה ג, ז, ב",
-    "path_2": "תלמוד ירושלמי חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 151,
-    "heRef_2": "תלמוד ירושלמי גיטין ד, ה, ג",
-    "path_2": "תלמוד ירושלמי גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 115,
-    "heRef_2": "תלמוד ירושלמי הוריות ג, ג, א",
-    "path_2": "תלמוד ירושלמי הוריות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 127,
-    "heRef_2": "תלמוד ירושלמי הוריות ג, ד, ח",
-    "path_2": "תלמוד ירושלמי הוריות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 138,
-    "heRef_2": "תלמוד ירושלמי מגילה ב, ד, ה",
-    "path_2": "תלמוד ירושלמי מגילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 55,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, י, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 55,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, י, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 4,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, א, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 10,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ב, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 19,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ג, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 23,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ד, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 29,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ה, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 35,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ו, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 40,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ז, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 40,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ז, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 47,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ח, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 52,
-    "heRef_2": "תלמוד ירושלמי מועד קטן א, ט, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 62,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ב, א, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 68,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ב, ב, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 72,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ב, ג, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 78,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ב, ד, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 86,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ב, ה, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 91,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, א, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 108,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ב, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 112,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ג, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 116,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ד, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 122,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ה, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 151,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ו, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 155,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ז, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 175,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ח, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 187,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ט, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 187,
-    "heRef_2": "תלמוד ירושלמי מועד קטן ג, ט, א",
-    "path_2": "תלמוד ירושלמי מועד קטן.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 86,
-    "heRef_2": "תלמוד ירושלמי נזיר ג, א, ג",
-    "path_2": "תלמוד ירושלמי נזיר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 296,
-    "heRef_2": "תלמוד ירושלמי נזיר ז, ג, ו",
-    "path_2": "תלמוד ירושלמי נזיר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 383,
-    "heRef_2": "תלמוד ירושלמי פסחים ז, א, ח",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 43,
-    "heRef_2": "תלמוד ירושלמי ראש השנה א, ה, ד",
-    "path_2": "תלמוד ירושלמי ראש השנה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 583,
-    "heRef_2": "תלמוד ירושלמי סנהדרין י, א, טו",
-    "path_2": "תלמוד ירושלמי סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 75,
-    "heRef_2": "תלמוד ירושלמי סנהדרין א, ב, לט",
-    "path_2": "תלמוד ירושלמי סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 110,
-    "heRef_2": "תלמוד ירושלמי סנהדרין ב, א, ג",
-    "path_2": "תלמוד ירושלמי סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 375,
-    "heRef_2": "תלמוד ירושלמי סנהדרין ו, י, ב",
-    "path_2": "תלמוד ירושלמי סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 432,
-    "heRef_2": "תלמוד ירושלמי סנהדרין ז, ח, ח",
-    "path_2": "תלמוד ירושלמי סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 478,
-    "heRef_2": "תלמוד ירושלמי סנהדרין ח, ב, ב",
-    "path_2": "תלמוד ירושלמי סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 270,
-    "heRef_2": "תלמוד ירושלמי שבת ד, ב, ג",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 14,
-    "heRef_2": "תלמוד ירושלמי שקלים א, א, יא",
-    "path_2": "תלמוד ירושלמי שקלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 90,
-    "heRef_2": "תלמוד ירושלמי שביעית ב, ז, ו",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 104,
-    "heRef_2": "תלמוד ירושלמי שביעית ג, ב, ד",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 105,
-    "heRef_2": "תלמוד ירושלמי שביעית ג, ב, ה",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 261,
-    "heRef_2": "תלמוד ירושלמי שביעית ו, ב, ו",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 246,
-    "heRef_2": "תלמוד ירושלמי סוטה ו, א, ב",
-    "path_2": "תלמוד ירושלמי סוטה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 130,
-    "heRef_2": "תלמוד ירושלמי תענית ב, י, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 201,
-    "heRef_2": "תלמוד ירושלמי תענית ג, י, ב",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 608,
-    "heRef_2": "תלמוד ירושלמי יבמות יב, ו, ה",
-    "path_2": "תלמוד ירושלמי יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 770,
-    "heRef_2": "תלמוד ירושלמי יבמות טז, ג, ד",
-    "path_2": "תלמוד ירושלמי יבמות.txt",
-    "Conection Type": ""
   }
 ]

@@ -1,6 +1,48 @@
 [
   {
     "line_index_1": 3,
+    "line_index_2": 2642,
+    "heRef_2": "סנהדרין סו:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 3370,
+    "heRef_2": "סנהדרין פו:,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 1949,
+    "heRef_2": "גיטין ס:,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 24,
+    "heRef_2": "הוריות ב:,  א",
+    "path_2": "הוריות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 42,
+    "heRef_2": "הוריות ג.,  א",
+    "path_2": "הוריות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 214,
+    "heRef_2": "הוריות ז:,  א",
+    "path_2": "הוריות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
     "line_index_2": 590,
     "heRef_2": "כריתות יג:,  א",
     "path_2": "כריתות.txt",
@@ -35,20 +77,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 3,
-    "line_index_2": 2642,
-    "heRef_2": "סנהדרין סו:,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 3370,
-    "heRef_2": "סנהדרין פו:,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 7,
     "line_index_2": 624,
     "heRef_2": "מגילה טז:,  א",
@@ -67,6 +95,20 @@
     "line_index_2": 757,
     "heRef_2": "מגילה יט:,  א",
     "path_2": "מגילה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 500,
+    "heRef_2": "תמורה טז.,  א",
+    "path_2": "תמורה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 2236,
+    "heRef_2": "יומא פא:,  א",
+    "path_2": "יומא.txt",
     "Conection Type": ""
   },
   {
@@ -123,48 +165,6 @@
     "line_index_2": 1158,
     "heRef_2": "בבא מציעא לג:,  א",
     "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 1949,
-    "heRef_2": "גיטין ס:,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 24,
-    "heRef_2": "הוריות ב:,  א",
-    "path_2": "הוריות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 42,
-    "heRef_2": "הוריות ג.,  א",
-    "path_2": "הוריות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 214,
-    "heRef_2": "הוריות ז:,  א",
-    "path_2": "הוריות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 500,
-    "heRef_2": "תמורה טז.,  א",
-    "path_2": "תמורה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 2236,
-    "heRef_2": "יומא פא:,  א",
-    "path_2": "יומא.txt",
     "Conection Type": ""
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 249,
+    "line_index_2": 464,
+    "heRef_2": "ביצה טז.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 771,
+    "heRef_2": "ביצה כה:,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 82,
     "line_index_2": 124,
     "heRef_2": "ביצה ו.,  א",
@@ -3689,6 +3703,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 4,
+    "line_index_2": 619,
+    "heRef_2": "מלכים א יז, א",
+    "path_2": "מלכים א.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 676,
     "heRef_2": "איוב כח, יב",
@@ -6748,83 +6769,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 503,
-    "line_index_2": 267,
-    "heRef_2": "בבא בתרא י:,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 427,
-    "heRef_2": "בבא בתרא טז.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 588,
-    "heRef_2": "בבא בתרא כא.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 700,
-    "heRef_2": "בבא בתרא כה.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 2761,
-    "heRef_2": "בבא קמא עב.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 2761,
-    "heRef_2": "בבא קמא עב.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 2667,
-    "heRef_2": "בבא מציעא פד.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 2746,
-    "heRef_2": "בבא מציעא פו.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 179,
-    "line_index_2": 2746,
-    "heRef_2": "בבא מציעא פו.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 464,
-    "heRef_2": "ביצה טז.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 771,
-    "heRef_2": "ביצה כה:,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 242,
     "line_index_2": 277,
     "heRef_2": "עבודה זרה י:,  א",
@@ -6899,6 +6843,69 @@
     "line_index_2": 45,
     "heRef_2": "עבודה זרה ג:,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 503,
+    "line_index_2": 267,
+    "heRef_2": "בבא בתרא י:,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 427,
+    "heRef_2": "בבא בתרא טז.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 588,
+    "heRef_2": "בבא בתרא כא.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 700,
+    "heRef_2": "בבא בתרא כה.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 2761,
+    "heRef_2": "בבא קמא עב.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 2761,
+    "heRef_2": "בבא קמא עב.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 2667,
+    "heRef_2": "בבא מציעא פד.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 2746,
+    "heRef_2": "בבא מציעא פו.,  א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 2746,
+    "heRef_2": "בבא מציעא פו.,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 42,
-    "line_index_2": 453,
-    "heRef_2": "יחזקאל כ,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 46,
     "line_index_2": 462,
     "heRef_2": "נימוקי יוסף על מנחות יא., א",
@@ -82,5 +75,12 @@
     "heRef_2": "הלכות קטנות לרי\"ף (מנחות) ח:, ו",
     "path_2": "הלכות קטנות לריף (מנחות).txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 453,
+    "heRef_2": "יחזקאל כ,  א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

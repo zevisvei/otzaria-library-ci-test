@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 112,
+    "line_index_2": 102,
+    "heRef_2": "מלכים ב ד, כז",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 5,
     "line_index_2": 3,
     "heRef_2": "איכה א, א",
@@ -684,12 +691,5 @@
     "heRef_2": "מנחת שי על ישעיהו ז, טז, א",
     "path_2": "מנחת שי על ישעיהו.txt",
     "Conection Type": "related"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 102,
-    "heRef_2": "מלכים ב ד, כז",
-    "path_2": "מלכים ב.txt",
-    "Conection Type": ""
   }
 ]

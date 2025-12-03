@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 73,
+    "line_index_2": 1607,
+    "heRef_2": "תהילים צ, טז",
+    "path_2": "תהילים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 368,
+    "heRef_2": "ישעיהו יח, ו",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 564,
+    "heRef_2": "ישעיהו כח, כה",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 78,
     "line_index_2": 150,
     "heRef_2": "איוב ז, ג",
@@ -8,9 +29,9 @@
   },
   {
     "line_index_1": 73,
-    "line_index_2": 1607,
-    "heRef_2": "תהילים צ, טז",
-    "path_2": "תהילים.txt",
+    "line_index_2": 346,
+    "heRef_2": "דברים יא, כא",
+    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -25,13 +46,6 @@
     "line_index_2": 1502,
     "heRef_2": "פסחים מח:, ח",
     "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 346,
-    "heRef_2": "דברים יא, כא",
-    "path_2": "דברים.txt",
     "Conection Type": ""
   },
   {
@@ -1230,19 +1244,5 @@
     "heRef_2": "משנה עדיות ח, ז",
     "path_2": "משנה עדיות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 80,
-    "line_index_2": 368,
-    "heRef_2": "ישעיהו יח, ו",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 564,
-    "heRef_2": "ישעיהו כח, כה",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
   }
 ]

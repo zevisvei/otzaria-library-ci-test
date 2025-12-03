@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 113,
-    "line_index_2": 3226,
-    "heRef_2": "חולין קה.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 456,
     "heRef_2": "מכות טו., ט",
@@ -40,5 +33,12 @@
     "heRef_2": "פסחים עו:, י",
     "path_2": "פסחים.txt",
     "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 3226,
+    "heRef_2": "חולין קה.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
   }
 ]

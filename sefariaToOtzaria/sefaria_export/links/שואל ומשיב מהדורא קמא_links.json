@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 625,
+    "line_index_2": 786,
+    "heRef_2": "משלי כו, יח",
+    "path_2": "משלי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 2597,
+    "line_index_2": 340,
+    "heRef_2": "גיטין יג.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 1861,
     "line_index_2": 1307,
     "heRef_2": "בכורות לח:, ה",
@@ -77,20 +91,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 625,
-    "line_index_2": 786,
-    "heRef_2": "משלי כו, יח",
-    "path_2": "משלי.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 1204,
-    "line_index_2": 31,
-    "heRef_2": "משנה פרה ה,  א",
-    "path_2": "משנה פרה.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 1169,
     "line_index_2": 885,
     "heRef_2": "בבא בתרא לב.,  א",
@@ -112,10 +112,10 @@
     "Conection Type": "reference"
   },
   {
-    "line_index_1": 2597,
-    "line_index_2": 340,
-    "heRef_2": "גיטין יג.,  א",
-    "path_2": "גיטין.txt",
+    "line_index_1": 1204,
+    "line_index_2": 31,
+    "heRef_2": "משנה פרה ה,  א",
+    "path_2": "משנה פרה.txt",
     "Conection Type": ""
   }
 ]

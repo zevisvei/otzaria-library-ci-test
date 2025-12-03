@@ -1,40 +1,5 @@
 [
   {
-    "line_index_1": 279,
-    "line_index_2": 563,
-    "heRef_2": "ברכות יב.,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 596,
-    "line_index_2": 1277,
-    "heRef_2": "ברכות כז:,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 3594,
-    "heRef_2": "חולין קיז.,  א",
-    "path_2": "חולין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 2731,
-    "heRef_2": "בבא בתרא קכ.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 268,
-    "line_index_2": 1601,
-    "heRef_2": "בבא מציעא מח.,  א",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 630,
     "line_index_2": 170,
     "heRef_2": "משנה תורה, הלכות תמידים ומוספין י, י",
@@ -3696,10 +3661,45 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 279,
+    "line_index_2": 563,
+    "heRef_2": "ברכות יב.,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 596,
+    "line_index_2": 1277,
+    "heRef_2": "ברכות כז:,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 3594,
+    "heRef_2": "חולין קיז.,  א",
+    "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 27,
     "line_index_2": 292,
     "heRef_2": "ערכין ט:,  א",
     "path_2": "ערכין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 2731,
+    "heRef_2": "בבא בתרא קכ.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 1601,
+    "heRef_2": "בבא מציעא מח.,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

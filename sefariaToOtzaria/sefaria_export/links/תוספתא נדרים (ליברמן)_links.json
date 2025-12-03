@@ -1,38 +1,507 @@
 [
   {
+    "line_index_1": 19,
+    "line_index_2": 4341,
+    "heRef_2": "סנהדרין קיב.,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 4075,
+    "heRef_2": "שבת קנז.,  א",
+    "path_2": "שבת.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 888,
+    "heRef_2": "ירמיהו לג, כה",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 613,
+    "heRef_2": "תלמוד ירושלמי כתובות יג, ב, ו",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 286,
+    "heRef_2": "תלמוד ירושלמי כתובות ה, ה, ג",
+    "path_2": "תלמוד ירושלמי כתובות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 106,
+    "heRef_2": "תלמוד ירושלמי כלאים ב, ח, ז",
+    "path_2": "תלמוד ירושלמי כלאים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 37,
+    "heRef_2": "תלמוד ירושלמי נזיר א, ה, ד",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 118,
+    "heRef_2": "תלמוד ירושלמי נזיר ד, א, ו",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 168,
+    "heRef_2": "תלמוד ירושלמי נזיר ה, ב, ב",
+    "path_2": "תלמוד ירושלמי נזיר.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 362,
+    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 363,
+    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ד",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 364,
+    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ה",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 362,
+    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 363,
+    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ד",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 364,
+    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ה",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 382,
+    "heRef_2": "תלמוד ירושלמי נדרים י, ו, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 385,
+    "heRef_2": "תלמוד ירושלמי נדרים י, ז, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 385,
+    "heRef_2": "תלמוד ירושלמי נדרים י, ז, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 385,
+    "heRef_2": "תלמוד ירושלמי נדרים י, ז,  ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 387,
+    "heRef_2": "תלמוד ירושלמי נדרים י, ח,  א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 388,
+    "heRef_2": "תלמוד ירושלמי נדרים י, ח,  ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 445,
+    "heRef_2": "תלמוד ירושלמי נדרים יא, יא, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 412,
+    "heRef_2": "תלמוד ירושלמי נדרים יא, ב, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 415,
+    "heRef_2": "תלמוד ירושלמי נדרים יא, ג, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 427,
+    "heRef_2": "תלמוד ירושלמי נדרים יא, ה, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 16,
+    "heRef_2": "תלמוד ירושלמי נדרים א, א, יג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 17,
+    "heRef_2": "תלמוד ירושלמי נדרים א, א, יד",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 17,
+    "heRef_2": "תלמוד ירושלמי נדרים א, א, יד",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 6,
+    "heRef_2": "תלמוד ירושלמי נדרים א, א, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 9,
+    "heRef_2": "תלמוד ירושלמי נדרים א, א, ו",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 20,
+    "heRef_2": "תלמוד ירושלמי נדרים א, ב, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 34,
+    "heRef_2": "תלמוד ירושלמי נדרים א, ג, יא",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 38,
+    "heRef_2": "תלמוד ירושלמי נדרים א, ד, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 45,
+    "heRef_2": "תלמוד ירושלמי נדרים ב, א, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 77,
+    "heRef_2": "תלמוד ירושלמי נדרים ג, ב, ז",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 86,
+    "heRef_2": "תלמוד ירושלמי נדרים ג, ד, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
     "line_index_1": 15,
-    "line_index_2": 675,
-    "heRef_2": "שמות כד, ח",
-    "path_2": "שמות.txt",
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי נדרים ד, ב, ו",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 119,
+    "heRef_2": "תלמוד ירושלמי נדרים ד, ב, ו",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 129,
+    "heRef_2": "תלמוד ירושלמי נדרים ד, ד, ד",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 137,
+    "heRef_2": "תלמוד ירושלמי נדרים ד, ו, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 168,
+    "heRef_2": "תלמוד ירושלמי נדרים ה, ד, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 169,
+    "heRef_2": "תלמוד ירושלמי נדרים ה, ד, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 169,
+    "heRef_2": "תלמוד ירושלמי נדרים ה, ד, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 173,
+    "heRef_2": "תלמוד ירושלמי נדרים ה, ה, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 173,
+    "heRef_2": "תלמוד ירושלמי נדרים ה, ה, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 237,
+    "heRef_2": "תלמוד ירושלמי נדרים ו, יא, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 187,
+    "heRef_2": "תלמוד ירושלמי נדרים ו, א, ה",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 188,
+    "heRef_2": "תלמוד ירושלמי נדרים ו, א, ו",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 192,
+    "heRef_2": "תלמוד ירושלמי נדרים ו, ב, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי נדרים ו, ב, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 193,
+    "heRef_2": "תלמוד ירושלמי נדרים ו, ב, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 197,
+    "heRef_2": "תלמוד ירושלמי נדרים ו, ג, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 208,
+    "heRef_2": "תלמוד ירושלמי נדרים ו, ו, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 243,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 244,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ד",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 246,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ו",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 246,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ו",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 246,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ו",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 250,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, ב,  ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 252,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, ג,  א",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 253,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, ג,  ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 253,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, ג, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 254,
+    "heRef_2": "תלמוד ירושלמי נדרים ז, ג, ג",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 298,
+    "heRef_2": "תלמוד ירושלמי נדרים ח, ד, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 300,
+    "heRef_2": "תלמוד ירושלמי נדרים ח, ד, ד",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 348,
+    "heRef_2": "תלמוד ירושלמי נדרים ט, ו, ב",
+    "path_2": "תלמוד ירושלמי נדרים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 401,
+    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ג",
+    "path_2": "תלמוד ירושלמי פאה.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 249,
+    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ה",
+    "path_2": "תלמוד ירושלמי פסחים.txt",
+    "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 26,
+    "heRef_2": "שמואל ב א, כד",
+    "path_2": "שמואל ב.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 13,
-    "line_index_2": 840,
-    "heRef_2": "יחזקאל לב,  כג",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": "related"
+    "line_index_1": 26,
+    "line_index_2": 272,
+    "heRef_2": "תלמוד ירושלמי שביעית ו, ד, ד",
+    "path_2": "תלמוד ירושלמי שביעית.txt",
+    "Conection Type": "related passage"
   },
   {
-    "line_index_1": 13,
-    "line_index_2": 841,
-    "heRef_2": "יחזקאל לב,  כד",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": "related"
+    "line_index_1": 34,
+    "line_index_2": 109,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ו, ג",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": "related passage"
   },
   {
-    "line_index_1": 13,
-    "line_index_2": 842,
-    "heRef_2": "יחזקאל לב,  כה",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 417,
-    "heRef_2": "בראשית יז, א",
-    "path_2": "בראשית.txt",
-    "Conection Type": "related"
+    "line_index_1": 10,
+    "line_index_2": 126,
+    "heRef_2": "תלמוד ירושלמי שבועות ג, ח, ח",
+    "path_2": "תלמוד ירושלמי שבועות.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 13,
@@ -880,118 +1349,6 @@
     "heRef_2": "פירוש קצר על נדרים ז, ח, א",
     "path_2": "פירוש קצר על נדרים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 4341,
-    "heRef_2": "סנהדרין קיב.,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 4075,
-    "heRef_2": "שבת קנז.,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 545,
-    "heRef_2": "שבועות כ., יג",
-    "path_2": "שבועות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 609,
-    "heRef_2": "שבועות כב., טו",
-    "path_2": "שבועות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 964,
-    "heRef_2": "שבועות לב.,  א",
-    "path_2": "שבועות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 176,
-    "heRef_2": "שבועות ח.,  א",
-    "path_2": "שבועות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 248,
-    "heRef_2": "ספרי במדבר קנג,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 248,
-    "heRef_2": "ספרי במדבר קנג,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 257,
-    "heRef_2": "ספרי במדבר קנג, י",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 250,
-    "heRef_2": "ספרי במדבר קנג, ג",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 255,
-    "heRef_2": "ספרי במדבר קנג, ח",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 261,
-    "heRef_2": "ספרי במדבר קנה,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 261,
-    "heRef_2": "ספרי במדבר קנה, א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 262,
-    "heRef_2": "ספרי במדבר קנו,  א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 47,
-    "heRef_2": "ספרי במדבר ל, א",
-    "path_2": "ספרי במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 547,
-    "heRef_2": "סוטה טו.,  א",
-    "path_2": "סוטה.txt",
-    "Conection Type": "related"
   },
   {
     "line_index_1": 39,
@@ -2142,1207 +2499,101 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 16,
-    "line_index_2": 789,
-    "heRef_2": "נדרים לט., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 846,
-    "heRef_2": "נדרים מא:, ז",
-    "path_2": "נדרים.txt",
+    "line_index_1": 6,
+    "line_index_2": 545,
+    "heRef_2": "שבועות כ., יג",
+    "path_2": "שבועות.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 18,
-    "line_index_2": 871,
-    "heRef_2": "נדרים מג.,  ו",
-    "path_2": "נדרים.txt",
+    "line_index_2": 609,
+    "heRef_2": "שבועות כב., טו",
+    "path_2": "שבועות.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 18,
-    "line_index_2": 872,
-    "heRef_2": "נדרים מג.,  ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 873,
-    "heRef_2": "נדרים מג.,  ח",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 953,
-    "heRef_2": "נדרים מט.,  ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 954,
-    "heRef_2": "נדרים מט.,  ח",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 1003,
-    "heRef_2": "נדרים נא., יא",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 1003,
-    "heRef_2": "נדרים נא., יא",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 1004,
-    "heRef_2": "נדרים נא., יב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 1010,
-    "heRef_2": "נדרים נא:, ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 1022,
-    "heRef_2": "נדרים נב:, ג",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1037,
-    "heRef_2": "נדרים נג., ג",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1038,
-    "heRef_2": "נדרים נג., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 1040,
-    "heRef_2": "נדרים נג., ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 1041,
-    "heRef_2": "נדרים נג., ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 1050,
-    "heRef_2": "נדרים נג:, ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 1064,
-    "heRef_2": "נדרים נד:,  ב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 1065,
-    "heRef_2": "נדרים נד:,  ג",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 1080,
-    "heRef_2": "נדרים נה:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 1081,
-    "heRef_2": "נדרים נה:, ב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 1081,
-    "heRef_2": "נדרים נה:, ב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 1085,
-    "heRef_2": "נדרים נה:,  ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 1086,
-    "heRef_2": "נדרים נה:,  ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 1183,
-    "heRef_2": "נדרים סא:,  ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 1184,
-    "heRef_2": "נדרים סא:,  ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 1186,
-    "heRef_2": "נדרים סא:, ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 1209,
-    "heRef_2": "נדרים סב:, ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 1222,
-    "heRef_2": "נדרים סג:, א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 1245,
-    "heRef_2": "נדרים סה., א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 1276,
-    "heRef_2": "נדרים סו:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1310,
-    "heRef_2": "נדרים סח:, ב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1310,
-    "heRef_2": "נדרים סח:, ב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1311,
-    "heRef_2": "נדרים סח:, ג",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1313,
-    "heRef_2": "נדרים סט., א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 86,
-    "heRef_2": "נדרים ו.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1347,
-    "heRef_2": "נדרים עא., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 1347,
-    "heRef_2": "נדרים עא., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 1348,
-    "heRef_2": "נדרים עא., ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 1348,
-    "heRef_2": "נדרים עא., ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 1354,
-    "heRef_2": "נדרים עב., א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 1374,
-    "heRef_2": "נדרים עג.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1401,
-    "heRef_2": "נדרים עד:, ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1402,
-    "heRef_2": "נדרים עד:, ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1403,
-    "heRef_2": "נדרים עד:,  ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1404,
-    "heRef_2": "נדרים עד:,  ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1405,
-    "heRef_2": "נדרים עד:,  ח",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1406,
-    "heRef_2": "נדרים עד:,  ט",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1421,
-    "heRef_2": "נדרים עה:, ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 1429,
-    "heRef_2": "נדרים עו:, א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 1432,
-    "heRef_2": "נדרים עו:, ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 1475,
-    "heRef_2": "נדרים עח:, ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 1475,
-    "heRef_2": "נדרים עח:,  ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 1476,
-    "heRef_2": "נדרים עח:,  ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 1477,
-    "heRef_2": "נדרים עח:,  ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 1523,
-    "heRef_2": "נדרים פא:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 1524,
-    "heRef_2": "נדרים פא:, ב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 1531,
-    "heRef_2": "נדרים פא:, ט",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1567,
-    "heRef_2": "נדרים פד., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1598,
-    "heRef_2": "נדרים פו.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1618,
-    "heRef_2": "נדרים פז., ט",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1621,
-    "heRef_2": "נדרים פז:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 1641,
-    "heRef_2": "נדרים פט., ב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 1649,
-    "heRef_2": "נדרים פט:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 1653,
-    "heRef_2": "נדרים פט:, ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 1659,
-    "heRef_2": "נדרים צ., ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 1084,
-    "heRef_2": "במדבר ל, י",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 1088,
-    "heRef_2": "במדבר ל, יד",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 1088,
-    "heRef_2": "במדבר ל, יד",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 1077,
-    "heRef_2": "במדבר ל, ג",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 1077,
-    "heRef_2": "במדבר ל, ג",
-    "path_2": "במדבר.txt",
+    "line_index_1": 39,
+    "line_index_2": 964,
+    "heRef_2": "שבועות לב.,  א",
+    "path_2": "שבועות.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 3,
-    "line_index_2": 237,
-    "heRef_2": "במדבר ו, יא",
-    "path_2": "במדבר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 4,
-    "heRef_2": "משנה חלה א, ב",
-    "path_2": "משנה חלה.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 59,
-    "heRef_2": "משנה חולין ח, א",
-    "path_2": "משנה חולין.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 82,
-    "heRef_2": "משנה נדרים י, א",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 84,
-    "heRef_2": "משנה נדרים י, ג",
-    "path_2": "משנה נדרים.txt",
+    "line_index_2": 176,
+    "heRef_2": "שבועות ח.,  א",
+    "path_2": "שבועות.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 50,
-    "line_index_2": 87,
-    "heRef_2": "משנה נדרים י, ו",
-    "path_2": "משנה נדרים.txt",
+    "line_index_2": 248,
+    "heRef_2": "ספרי במדבר קנג,  א",
+    "path_2": "ספרי במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 248,
+    "heRef_2": "ספרי במדבר קנג,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 51,
-    "line_index_2": 88,
-    "heRef_2": "משנה נדרים י, ז",
-    "path_2": "משנה נדרים.txt",
+    "line_index_2": 257,
+    "heRef_2": "ספרי במדבר קנג, י",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 60,
-    "line_index_2": 101,
-    "heRef_2": "משנה נדרים יא, יא",
-    "path_2": "משנה נדרים.txt",
+    "line_index_1": 34,
+    "line_index_2": 250,
+    "heRef_2": "ספרי במדבר קנג, ג",
+    "path_2": "ספרי במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 255,
+    "heRef_2": "ספרי במדבר קנג, ח",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 56,
-    "line_index_2": 92,
-    "heRef_2": "משנה נדרים יא, ב",
-    "path_2": "משנה נדרים.txt",
+    "line_index_2": 261,
+    "heRef_2": "ספרי במדבר קנה,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 57,
-    "line_index_2": 93,
-    "heRef_2": "משנה נדרים יא, ג",
-    "path_2": "משנה נדרים.txt",
+    "line_index_2": 261,
+    "heRef_2": "ספרי במדבר קנה, א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
-    "line_index_1": 57,
-    "line_index_2": 95,
-    "heRef_2": "משנה נדרים יא, ה",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 96,
-    "heRef_2": "משנה נדרים יא, ו",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 99,
-    "heRef_2": "משנה נדרים יא, ט",
-    "path_2": "משנה נדרים.txt",
+    "line_index_1": 46,
+    "line_index_2": 262,
+    "heRef_2": "ספרי במדבר קנו,  א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 3,
-    "line_index_2": 3,
-    "heRef_2": "משנה נדרים א, א",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 4,
-    "heRef_2": "משנה נדרים א, ב",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 5,
-    "heRef_2": "משנה נדרים א, ג",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 6,
-    "heRef_2": "משנה נדרים א, ד",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 6,
-    "heRef_2": "משנה נדרים א, ד",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 6,
-    "heRef_2": "משנה נדרים א, ד",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 8,
-    "heRef_2": "משנה נדרים ב, א",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 8,
-    "heRef_2": "משנה נדרים ב, א",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 9,
-    "heRef_2": "משנה נדרים ב, ב",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 11,
-    "heRef_2": "משנה נדרים ב, ד",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 14,
-    "heRef_2": "משנה נדרים ג, א",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 23,
-    "heRef_2": "משנה נדרים ג, י",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 24,
-    "heRef_2": "משנה נדרים ג, יא",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 24,
-    "heRef_2": "משנה נדרים ג, יא",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 24,
-    "heRef_2": "משנה נדרים ג, יא",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 15,
-    "heRef_2": "משנה נדרים ג, ב",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 17,
-    "heRef_2": "משנה נדרים ג, ד",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 18,
-    "heRef_2": "משנה נדרים ג, ה",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 26,
-    "heRef_2": "משנה נדרים ד, א",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 29,
-    "heRef_2": "משנה נדרים ד, ד",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 30,
-    "heRef_2": "משנה נדרים ד, ה",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 33,
-    "heRef_2": "משנה נדרים ד, ח",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 35,
-    "heRef_2": "משנה נדרים ה, א",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 42,
-    "heRef_2": "משנה נדרים ו, א",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 51,
-    "heRef_2": "משנה נדרים ו, י",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 51,
-    "heRef_2": "משנה נדרים ו, י",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 46,
-    "heRef_2": "משנה נדרים ו, ה",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 22,
     "line_index_2": 47,
-    "heRef_2": "משנה נדרים ו, ו",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 49,
-    "heRef_2": "משנה נדרים ו, ח",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 50,
-    "heRef_2": "משנה נדרים ו, ט",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 55,
-    "heRef_2": "משנה נדרים ז, ג",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 55,
-    "heRef_2": "משנה נדרים ז, ג",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 64,
-    "heRef_2": "משנה נדרים ח, ב",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 65,
-    "heRef_2": "משנה נדרים ח, ג",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 67,
-    "heRef_2": "משנה נדרים ח, ה",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 69,
-    "heRef_2": "משנה נדרים ח, ז",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 80,
-    "heRef_2": "משנה נדרים ט, י",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 76,
-    "heRef_2": "משנה נדרים ט, ו",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 77,
-    "heRef_2": "משנה נדרים ט, ז",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 78,
-    "heRef_2": "משנה נדרים ט, ח",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 79,
-    "heRef_2": "משנה נדרים ט, ט",
-    "path_2": "משנה נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 14,
-    "heRef_2": "משנה נגעים ב, ה",
-    "path_2": "משנה נגעים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 24,
-    "heRef_2": "משנה שבועות ג, ח",
-    "path_2": "משנה שבועות.txt",
+    "heRef_2": "ספרי במדבר ל, א",
+    "path_2": "ספרי במדבר.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 3,
-    "line_index_2": 385,
-    "heRef_2": "נזיר יט., ה",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 417,
-    "heRef_2": "נזיר כא.,  א",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 418,
-    "heRef_2": "נזיר כא.,  ב",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 419,
-    "heRef_2": "נזיר כא.,  ג",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 420,
-    "heRef_2": "נזיר כא.,  ד",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 421,
-    "heRef_2": "נזיר כא.,  ה",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 666,
-    "heRef_2": "נזיר לב., ג",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 29,
-    "heRef_2": "נזיר ג.,  א",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 48,
-    "heRef_2": "נזיר ג:, ז",
-    "path_2": "נזיר.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 162,
-    "heRef_2": "נדרים י.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 168,
-    "heRef_2": "נדרים י., ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 187,
-    "heRef_2": "נדרים י:, יא",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 195,
-    "heRef_2": "נדרים יא., ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 198,
-    "heRef_2": "נדרים יא:, א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 212,
-    "heRef_2": "נדרים יב., ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 227,
-    "heRef_2": "נדרים יג.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 241,
-    "heRef_2": "נדרים יג., טו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 260,
-    "heRef_2": "נדרים יד., ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 264,
-    "heRef_2": "נדרים יד:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 285,
-    "heRef_2": "נדרים טו:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 378,
-    "heRef_2": "נדרים יט:, יא",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 387,
-    "heRef_2": "נדרים כ., ח",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 418,
-    "heRef_2": "נדרים כא:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 459,
-    "heRef_2": "נדרים כג., ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 469,
-    "heRef_2": "נדרים כד.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 474,
-    "heRef_2": "נדרים כד.,  ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 475,
-    "heRef_2": "נדרים כד.,  ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 476,
-    "heRef_2": "נדרים כד.,  ח",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 477,
-    "heRef_2": "נדרים כד.,  ט",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 482,
-    "heRef_2": "נדרים כד:,  ד",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 483,
-    "heRef_2": "נדרים כד:,  ה",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 525,
-    "heRef_2": "נדרים כו:, ח",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 527,
-    "heRef_2": "נדרים כז., א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 562,
-    "heRef_2": "נדרים כח:,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 633,
-    "heRef_2": "נדרים לב.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 638,
-    "heRef_2": "נדרים לב., ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 639,
-    "heRef_2": "נדרים לב., ז",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 703,
-    "heRef_2": "נדרים לה., ו",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 716,
-    "heRef_2": "נדרים לו.,  א",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 717,
-    "heRef_2": "נדרים לו.,  ב",
-    "path_2": "נדרים.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 183,
-    "heRef_2": "בבא בתרא ח.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 2804,
-    "heRef_2": "בבא קמא עג:,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 3486,
-    "heRef_2": "בבא קמא צא:, יב",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 524,
-    "heRef_2": "בבא מציעא טז., טו",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 26,
-    "heRef_2": "שמואל ב א, כד",
-    "path_2": "שמואל ב.txt",
+    "line_index_2": 547,
+    "heRef_2": "סוטה טו.,  א",
+    "path_2": "סוטה.txt",
     "Conection Type": "related"
   },
   {
@@ -13189,492 +12440,1241 @@
   },
   {
     "line_index_1": 3,
+    "line_index_2": 385,
+    "heRef_2": "נזיר יט., ה",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 417,
+    "heRef_2": "נזיר כא.,  א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 418,
+    "heRef_2": "נזיר כא.,  ב",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 419,
+    "heRef_2": "נזיר כא.,  ג",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 420,
+    "heRef_2": "נזיר כא.,  ד",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 421,
+    "heRef_2": "נזיר כא.,  ה",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 666,
+    "heRef_2": "נזיר לב., ג",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 29,
+    "heRef_2": "נזיר ג.,  א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 48,
+    "heRef_2": "נזיר ג:, ז",
+    "path_2": "נזיר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 162,
+    "heRef_2": "נדרים י.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 168,
+    "heRef_2": "נדרים י., ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 187,
+    "heRef_2": "נדרים י:, יא",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 195,
+    "heRef_2": "נדרים יא., ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 198,
+    "heRef_2": "נדרים יא:, א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 212,
+    "heRef_2": "נדרים יב., ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 227,
+    "heRef_2": "נדרים יג.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 241,
+    "heRef_2": "נדרים יג., טו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 260,
+    "heRef_2": "נדרים יד., ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 264,
+    "heRef_2": "נדרים יד:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 285,
+    "heRef_2": "נדרים טו:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 378,
+    "heRef_2": "נדרים יט:, יא",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 387,
+    "heRef_2": "נדרים כ., ח",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 418,
+    "heRef_2": "נדרים כא:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 459,
+    "heRef_2": "נדרים כג., ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 469,
+    "heRef_2": "נדרים כד.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 474,
+    "heRef_2": "נדרים כד.,  ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 475,
+    "heRef_2": "נדרים כד.,  ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 476,
+    "heRef_2": "נדרים כד.,  ח",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 477,
+    "heRef_2": "נדרים כד.,  ט",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 482,
+    "heRef_2": "נדרים כד:,  ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 483,
+    "heRef_2": "נדרים כד:,  ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 525,
+    "heRef_2": "נדרים כו:, ח",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 527,
+    "heRef_2": "נדרים כז., א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 562,
+    "heRef_2": "נדרים כח:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 633,
+    "heRef_2": "נדרים לב.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 638,
+    "heRef_2": "נדרים לב., ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 639,
+    "heRef_2": "נדרים לב., ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 703,
+    "heRef_2": "נדרים לה., ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 716,
+    "heRef_2": "נדרים לו.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 717,
+    "heRef_2": "נדרים לו.,  ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 789,
+    "heRef_2": "נדרים לט., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 846,
+    "heRef_2": "נדרים מא:, ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 871,
+    "heRef_2": "נדרים מג.,  ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 872,
+    "heRef_2": "נדרים מג.,  ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 873,
+    "heRef_2": "נדרים מג.,  ח",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 953,
+    "heRef_2": "נדרים מט.,  ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 954,
+    "heRef_2": "נדרים מט.,  ח",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 1003,
+    "heRef_2": "נדרים נא., יא",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 1003,
+    "heRef_2": "נדרים נא., יא",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 1004,
+    "heRef_2": "נדרים נא., יב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 1010,
+    "heRef_2": "נדרים נא:, ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 1022,
+    "heRef_2": "נדרים נב:, ג",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 1037,
+    "heRef_2": "נדרים נג., ג",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 1038,
+    "heRef_2": "נדרים נג., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 1040,
+    "heRef_2": "נדרים נג., ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 1041,
+    "heRef_2": "נדרים נג., ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 1050,
+    "heRef_2": "נדרים נג:, ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 1064,
+    "heRef_2": "נדרים נד:,  ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 1065,
+    "heRef_2": "נדרים נד:,  ג",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 1080,
+    "heRef_2": "נדרים נה:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 1081,
+    "heRef_2": "נדרים נה:, ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 1081,
+    "heRef_2": "נדרים נה:, ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 1085,
+    "heRef_2": "נדרים נה:,  ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 1086,
+    "heRef_2": "נדרים נה:,  ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 1183,
+    "heRef_2": "נדרים סא:,  ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 1184,
+    "heRef_2": "נדרים סא:,  ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 1186,
+    "heRef_2": "נדרים סא:, ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 1209,
+    "heRef_2": "נדרים סב:, ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 1222,
+    "heRef_2": "נדרים סג:, א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 1245,
+    "heRef_2": "נדרים סה., א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 1276,
+    "heRef_2": "נדרים סו:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1310,
+    "heRef_2": "נדרים סח:, ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 1310,
+    "heRef_2": "נדרים סח:, ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 1311,
+    "heRef_2": "נדרים סח:, ג",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 1313,
+    "heRef_2": "נדרים סט., א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 86,
+    "heRef_2": "נדרים ו.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 1347,
+    "heRef_2": "נדרים עא., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 1347,
+    "heRef_2": "נדרים עא., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 1348,
+    "heRef_2": "נדרים עא., ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 1348,
+    "heRef_2": "נדרים עא., ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 1354,
+    "heRef_2": "נדרים עב., א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 1374,
+    "heRef_2": "נדרים עג.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1401,
+    "heRef_2": "נדרים עד:, ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1402,
+    "heRef_2": "נדרים עד:, ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1403,
+    "heRef_2": "נדרים עד:,  ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1404,
+    "heRef_2": "נדרים עד:,  ז",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1405,
+    "heRef_2": "נדרים עד:,  ח",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1406,
+    "heRef_2": "נדרים עד:,  ט",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 1421,
+    "heRef_2": "נדרים עה:, ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 1429,
+    "heRef_2": "נדרים עו:, א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 1432,
+    "heRef_2": "נדרים עו:, ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 1475,
+    "heRef_2": "נדרים עח:, ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 1475,
+    "heRef_2": "נדרים עח:,  ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 1476,
+    "heRef_2": "נדרים עח:,  ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 1477,
+    "heRef_2": "נדרים עח:,  ו",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 1523,
+    "heRef_2": "נדרים פא:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 1524,
+    "heRef_2": "נדרים פא:, ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 1531,
+    "heRef_2": "נדרים פא:, ט",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1567,
+    "heRef_2": "נדרים פד., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 1598,
+    "heRef_2": "נדרים פו.,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1618,
+    "heRef_2": "נדרים פז., ט",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1621,
+    "heRef_2": "נדרים פז:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 1641,
+    "heRef_2": "נדרים פט., ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1649,
+    "heRef_2": "נדרים פט:,  א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 1653,
+    "heRef_2": "נדרים פט:, ה",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 1659,
+    "heRef_2": "נדרים צ., ד",
+    "path_2": "נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 1084,
+    "heRef_2": "במדבר ל, י",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 1088,
+    "heRef_2": "במדבר ל, יד",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 1088,
+    "heRef_2": "במדבר ל, יד",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 1077,
+    "heRef_2": "במדבר ל, ג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 1077,
+    "heRef_2": "במדבר ל, ג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 237,
+    "heRef_2": "במדבר ו, יא",
+    "path_2": "במדבר.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
     "line_index_2": 186,
     "heRef_2": "במדבר רבה י, טו",
     "path_2": "במדבר רבה.txt",
     "Conection Type": "related"
   },
   {
+    "line_index_1": 19,
+    "line_index_2": 183,
+    "heRef_2": "בבא בתרא ח.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 2804,
+    "heRef_2": "בבא קמא עג:,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 3486,
+    "heRef_2": "בבא קמא צא:, יב",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 524,
+    "heRef_2": "בבא מציעא טז., טו",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 675,
+    "heRef_2": "שמות כד, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 840,
+    "heRef_2": "יחזקאל לב,  כג",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 841,
+    "heRef_2": "יחזקאל לב,  כד",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 842,
+    "heRef_2": "יחזקאל לב,  כה",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 417,
+    "heRef_2": "בראשית יז, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 4,
+    "heRef_2": "משנה חלה א, ב",
+    "path_2": "משנה חלה.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 59,
+    "heRef_2": "משנה חולין ח, א",
+    "path_2": "משנה חולין.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 82,
+    "heRef_2": "משנה נדרים י, א",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 84,
+    "heRef_2": "משנה נדרים י, ג",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 87,
+    "heRef_2": "משנה נדרים י, ו",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 88,
+    "heRef_2": "משנה נדרים י, ז",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 101,
+    "heRef_2": "משנה נדרים יא, יא",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 92,
+    "heRef_2": "משנה נדרים יא, ב",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 93,
+    "heRef_2": "משנה נדרים יא, ג",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 95,
+    "heRef_2": "משנה נדרים יא, ה",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 96,
+    "heRef_2": "משנה נדרים יא, ו",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 99,
+    "heRef_2": "משנה נדרים יא, ט",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "משנה נדרים א, א",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 4,
+    "heRef_2": "משנה נדרים א, ב",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 5,
+    "heRef_2": "משנה נדרים א, ג",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 6,
+    "heRef_2": "משנה נדרים א, ד",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 6,
+    "heRef_2": "משנה נדרים א, ד",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 6,
+    "heRef_2": "משנה נדרים א, ד",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 8,
+    "heRef_2": "משנה נדרים ב, א",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 8,
+    "heRef_2": "משנה נדרים ב, א",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 9,
+    "heRef_2": "משנה נדרים ב, ב",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 11,
+    "heRef_2": "משנה נדרים ב, ד",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 14,
+    "heRef_2": "משנה נדרים ג, א",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 23,
+    "heRef_2": "משנה נדרים ג, י",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 24,
+    "heRef_2": "משנה נדרים ג, יא",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 24,
+    "heRef_2": "משנה נדרים ג, יא",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
     "line_index_1": 16,
-    "line_index_2": 888,
-    "heRef_2": "ירמיהו לג, כה",
-    "path_2": "ירמיהו.txt",
+    "line_index_2": 24,
+    "heRef_2": "משנה נדרים ג, יא",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 15,
+    "heRef_2": "משנה נדרים ג, ב",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 17,
+    "heRef_2": "משנה נדרים ג, ד",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 18,
+    "heRef_2": "משנה נדרים ג, ה",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 26,
+    "heRef_2": "משנה נדרים ד, א",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 29,
+    "heRef_2": "משנה נדרים ד, ד",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 30,
+    "heRef_2": "משנה נדרים ד, ה",
+    "path_2": "משנה נדרים.txt",
     "Conection Type": "related"
   },
   {
     "line_index_1": 18,
-    "line_index_2": 613,
-    "heRef_2": "תלמוד ירושלמי כתובות יג, ב, ו",
-    "path_2": "תלמוד ירושלמי כתובות.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 33,
+    "heRef_2": "משנה נדרים ד, ח",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 52,
-    "line_index_2": 286,
-    "heRef_2": "תלמוד ירושלמי כתובות ה, ה, ג",
-    "path_2": "תלמוד ירושלמי כתובות.txt",
-    "Conection Type": ""
+    "line_index_1": 18,
+    "line_index_2": 35,
+    "heRef_2": "משנה נדרים ה, א",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 42,
+    "heRef_2": "משנה נדרים ו, א",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 26,
-    "line_index_2": 106,
-    "heRef_2": "תלמוד ירושלמי כלאים ב, ח, ז",
-    "path_2": "תלמוד ירושלמי כלאים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 37,
-    "heRef_2": "תלמוד ירושלמי נזיר א, ה, ד",
-    "path_2": "תלמוד ירושלמי נזיר.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 118,
-    "heRef_2": "תלמוד ירושלמי נזיר ד, א, ו",
-    "path_2": "תלמוד ירושלמי נזיר.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 168,
-    "heRef_2": "תלמוד ירושלמי נזיר ה, ב, ב",
-    "path_2": "תלמוד ירושלמי נזיר.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 362,
-    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 363,
-    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ד",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 48,
-    "line_index_2": 364,
-    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ה",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 362,
-    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 363,
-    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ד",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 364,
-    "heRef_2": "תלמוד ירושלמי נדרים י, א,  ה",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 382,
-    "heRef_2": "תלמוד ירושלמי נדרים י, ו, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 385,
-    "heRef_2": "תלמוד ירושלמי נדרים י, ז, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 385,
-    "heRef_2": "תלמוד ירושלמי נדרים י, ז, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 385,
-    "heRef_2": "תלמוד ירושלמי נדרים י, ז,  ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 387,
-    "heRef_2": "תלמוד ירושלמי נדרים י, ח,  א",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 46,
-    "line_index_2": 388,
-    "heRef_2": "תלמוד ירושלמי נדרים י, ח,  ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 445,
-    "heRef_2": "תלמוד ירושלמי נדרים יא, יא, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 412,
-    "heRef_2": "תלמוד ירושלמי נדרים יא, ב, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 415,
-    "heRef_2": "תלמוד ירושלמי נדרים יא, ג, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 427,
-    "heRef_2": "תלמוד ירושלמי נדרים יא, ה, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 16,
-    "heRef_2": "תלמוד ירושלמי נדרים א, א, יג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 17,
-    "heRef_2": "תלמוד ירושלמי נדרים א, א, יד",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 17,
-    "heRef_2": "תלמוד ירושלמי נדרים א, א, יד",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 39,
-    "line_index_2": 6,
-    "heRef_2": "תלמוד ירושלמי נדרים א, א, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 9,
-    "heRef_2": "תלמוד ירושלמי נדרים א, א, ו",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 20,
-    "heRef_2": "תלמוד ירושלמי נדרים א, ב, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 34,
-    "heRef_2": "תלמוד ירושלמי נדרים א, ג, יא",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 38,
-    "heRef_2": "תלמוד ירושלמי נדרים א, ד, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 45,
-    "heRef_2": "תלמוד ירושלמי נדרים ב, א, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 77,
-    "heRef_2": "תלמוד ירושלמי נדרים ג, ב, ז",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 86,
-    "heRef_2": "תלמוד ירושלמי נדרים ג, ד, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 119,
-    "heRef_2": "תלמוד ירושלמי נדרים ד, ב, ו",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 119,
-    "heRef_2": "תלמוד ירושלמי נדרים ד, ב, ו",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 129,
-    "heRef_2": "תלמוד ירושלמי נדרים ד, ד, ד",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 137,
-    "heRef_2": "תלמוד ירושלמי נדרים ד, ו, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 40,
-    "line_index_2": 168,
-    "heRef_2": "תלמוד ירושלמי נדרים ה, ד, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 43,
-    "line_index_2": 169,
-    "heRef_2": "תלמוד ירושלמי נדרים ה, ד, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 169,
-    "heRef_2": "תלמוד ירושלמי נדרים ה, ד, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 173,
-    "heRef_2": "תלמוד ירושלמי נדרים ה, ה, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 173,
-    "heRef_2": "תלמוד ירושלמי נדרים ה, ה, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
+    "line_index_2": 51,
+    "heRef_2": "משנה נדרים ו, י",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 27,
-    "line_index_2": 237,
-    "heRef_2": "תלמוד ירושלמי נדרים ו, יא, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 187,
-    "heRef_2": "תלמוד ירושלמי נדרים ו, א, ה",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 188,
-    "heRef_2": "תלמוד ירושלמי נדרים ו, א, ו",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 192,
-    "heRef_2": "תלמוד ירושלמי נדרים ו, ב, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 193,
-    "heRef_2": "תלמוד ירושלמי נדרים ו, ב, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 51,
+    "heRef_2": "משנה נדרים ו, י",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 22,
-    "line_index_2": 193,
-    "heRef_2": "תלמוד ירושלמי נדרים ו, ב, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
+    "line_index_2": 46,
+    "heRef_2": "משנה נדרים ו, ה",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 25,
-    "line_index_2": 197,
-    "heRef_2": "תלמוד ירושלמי נדרים ו, ג, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 22,
+    "line_index_2": 47,
+    "heRef_2": "משנה נדרים ו, ו",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 23,
-    "line_index_2": 208,
-    "heRef_2": "תלמוד ירושלמי נדרים ו, ו, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
+    "line_index_2": 49,
+    "heRef_2": "משנה נדרים ו, ח",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 25,
-    "line_index_2": 243,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 244,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ד",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 30,
-    "line_index_2": 246,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ו",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 246,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ו",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 23,
+    "line_index_2": 50,
+    "heRef_2": "משנה נדרים ו, ט",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 31,
-    "line_index_2": 246,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, א, ו",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 250,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, ב,  ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 252,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, ג,  א",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 253,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, ג,  ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 253,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, ג, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 55,
+    "heRef_2": "משנה נדרים ז, ג",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 32,
-    "line_index_2": 254,
-    "heRef_2": "תלמוד ירושלמי נדרים ז, ג, ג",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 298,
-    "heRef_2": "תלמוד ירושלמי נדרים ח, ד, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 55,
+    "heRef_2": "משנה נדרים ז, ג",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 35,
-    "line_index_2": 300,
-    "heRef_2": "תלמוד ירושלמי נדרים ח, ד, ד",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
+    "line_index_2": 64,
+    "heRef_2": "משנה נדרים ח, ב",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 65,
+    "heRef_2": "משנה נדרים ח, ג",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 67,
+    "heRef_2": "משנה נדרים ח, ה",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 69,
+    "heRef_2": "משנה נדרים ח, ז",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 80,
+    "heRef_2": "משנה נדרים ט, י",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 39,
-    "line_index_2": 348,
-    "heRef_2": "תלמוד ירושלמי נדרים ט, ו, ב",
-    "path_2": "תלמוד ירושלמי נדרים.txt",
-    "Conection Type": ""
+    "line_index_2": 76,
+    "heRef_2": "משנה נדרים ט, ו",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 18,
-    "line_index_2": 401,
-    "heRef_2": "תלמוד ירושלמי פאה ז, ז, ג",
-    "path_2": "תלמוד ירושלמי פאה.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 39,
+    "line_index_2": 77,
+    "heRef_2": "משנה נדרים ט, ז",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 18,
-    "line_index_2": 249,
-    "heRef_2": "תלמוד ירושלמי פסחים ד, ט, ה",
-    "path_2": "תלמוד ירושלמי פסחים.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 39,
+    "line_index_2": 78,
+    "heRef_2": "משנה נדרים ט, ח",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
-    "line_index_1": 26,
-    "line_index_2": 272,
-    "heRef_2": "תלמוד ירושלמי שביעית ו, ד, ד",
-    "path_2": "תלמוד ירושלמי שביעית.txt",
-    "Conection Type": "related passage"
+    "line_index_1": 44,
+    "line_index_2": 79,
+    "heRef_2": "משנה נדרים ט, ט",
+    "path_2": "משנה נדרים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 34,
-    "line_index_2": 109,
-    "heRef_2": "תלמוד ירושלמי שבועות ג, ו, ג",
-    "path_2": "תלמוד ירושלמי שבועות.txt",
-    "Conection Type": "related passage"
+    "line_index_2": 14,
+    "heRef_2": "משנה נגעים ב, ה",
+    "path_2": "משנה נגעים.txt",
+    "Conection Type": "related"
   },
   {
     "line_index_1": 10,
-    "line_index_2": 126,
-    "heRef_2": "תלמוד ירושלמי שבועות ג, ח, ח",
-    "path_2": "תלמוד ירושלמי שבועות.txt",
-    "Conection Type": ""
+    "line_index_2": 24,
+    "heRef_2": "משנה שבועות ג, ח",
+    "path_2": "משנה שבועות.txt",
+    "Conection Type": "related"
   }
 ]

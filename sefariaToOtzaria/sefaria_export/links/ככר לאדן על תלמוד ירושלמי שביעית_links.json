@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 34,
-    "line_index_2": 527,
-    "heRef_2": "מכות יז:,  א",
-    "path_2": "מכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 21,
     "heRef_2": "תלמוד ירושלמי שביעית א, ג, ה",
@@ -82,5 +75,12 @@
     "heRef_2": "תלמוד ירושלמי שביעית ט, ו, ה",
     "path_2": "תלמוד ירושלמי שביעית.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 527,
+    "heRef_2": "מכות יז:,  א",
+    "path_2": "מכות.txt",
+    "Conection Type": ""
   }
 ]

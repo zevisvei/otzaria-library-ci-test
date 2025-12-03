@@ -1,16 +1,793 @@
 [
   {
-    "line_index_1": 280,
-    "line_index_2": 373,
-    "heRef_2": "שמות יד,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
+    "line_index_1": 334,
+    "line_index_2": 1299,
+    "heRef_2": "תוספות על בבא קמא ק., ט, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 243,
-    "line_index_2": 486,
-    "heRef_2": "בראשית יט, ח",
-    "path_2": "בראשית.txt",
+    "line_index_1": 336,
+    "line_index_2": 1303,
+    "heRef_2": "תוספות על בבא קמא ק:, א, ג",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 4087,
+    "heRef_2": "רש\"י על בבא קמא קא., טו, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 1309,
+    "heRef_2": "תוספות על בבא קמא קא., יא, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 4302,
+    "heRef_2": "רש\"י על בבא קמא קו:, טו, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 353,
+    "line_index_2": 1410,
+    "heRef_2": "תוספות על בבא קמא קט., י, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 1410,
+    "heRef_2": "תוספות על בבא קמא קט., י, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 138,
+    "heRef_2": "תוספות על בבא קמא י., י, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 138,
+    "heRef_2": "תוספות על בבא קמא י., י, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 1452,
+    "heRef_2": "תוספות על בבא קמא קיב:, ה, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 4643,
+    "heRef_2": "רש\"י על בבא קמא קיד., ה, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 4652,
+    "heRef_2": "רש\"י על בבא קמא קיד., י, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 1469,
+    "heRef_2": "תוספות על בבא קמא קיד., ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 4760,
+    "heRef_2": "רש\"י על בבא קמא קטז:, א, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 171,
+    "heRef_2": "תוספות על בבא קמא יב., ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 171,
+    "heRef_2": "תוספות על בבא קמא יב., ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 632,
+    "heRef_2": "רש\"י על בבא קמא יד:, ט, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 218,
+    "heRef_2": "תוספות על בבא קמא טו., כד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 223,
+    "heRef_2": "תוספות על בבא קמא טו:, טו, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 273,
+    "heRef_2": "תוספות על בבא קמא יט:, י, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 1006,
+    "heRef_2": "רש\"י על בבא קמא כא:, ד, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 1084,
+    "heRef_2": "רש\"י על בבא קמא כג., ט, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 330,
+    "heRef_2": "תוספות על בבא קמא כג., ח, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 335,
+    "heRef_2": "תוספות על בבא קמא כג., יא, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 343,
+    "heRef_2": "תוספות על בבא קמא כג:, יח, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 353,
+    "heRef_2": "תוספות על בבא קמא כד., יב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 353,
+    "heRef_2": "תוספות על בבא קמא כד., יב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 361,
+    "heRef_2": "תוספות על בבא קמא כה., א, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 371,
+    "heRef_2": "תוספות על בבא קמא כה:, ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 376,
+    "heRef_2": "תוספות על בבא קמא כו., ג, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 377,
+    "heRef_2": "תוספות על בבא קמא כו., ז, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 406,
+    "heRef_2": "תוספות על בבא קמא כז:, טז, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 419,
+    "heRef_2": "תוספות על בבא קמא כח:, ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 420,
+    "heRef_2": "תוספות על בבא קמא כח:, יג, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 437,
+    "heRef_2": "תוספות על בבא קמא כט:, כא, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 7,
+    "heRef_2": "תוספות על בבא קמא ב., ב, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 7,
+    "heRef_2": "תוספות על בבא קמא ב., ב, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 7,
+    "heRef_2": "תוספות על בבא קמא ב., ב, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 7,
+    "heRef_2": "תוספות על בבא קמא ב., ב, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 43,
+    "heRef_2": "רש\"י על בבא קמא ב:, יב, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 44,
+    "heRef_2": "רש\"י על בבא קמא ב:, יג, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1435,
+    "heRef_2": "רש\"י על בבא קמא לא:, א, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 483,
+    "heRef_2": "תוספות על בבא קמא לג., כב, ג",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 487,
+    "heRef_2": "תוספות על בבא קמא לג:, יט, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 487,
+    "heRef_2": "תוספות על בבא קמא לג:, יט, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 487,
+    "heRef_2": "תוספות על בבא קמא לג:, יט, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 537,
+    "heRef_2": "תוספות על בבא קמא לח., א, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 554,
+    "heRef_2": "תוספות על בבא קמא לט., ז, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 52,
+    "heRef_2": "רש\"י על בבא קמא ג., ד, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 62,
+    "heRef_2": "רש\"י על בבא קמא ג., יד, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 17,
+    "heRef_2": "תוספות על בבא קמא ג., ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 26,
+    "heRef_2": "תוספות על בבא קמא ג:, ב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 32,
+    "heRef_2": "תוספות על בבא קמא ג:, טו, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 566,
+    "heRef_2": "תוספות על בבא קמא מ., טו, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 568,
+    "heRef_2": "תוספות על בבא קמא מ., כב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 576,
+    "heRef_2": "תוספות על בבא קמא מ:, יח, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 584,
+    "heRef_2": "תוספות על בבא קמא מא., ו, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 592,
+    "heRef_2": "תוספות על בבא קמא מא:, ה, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 602,
+    "heRef_2": "תוספות על בבא קמא מב., ח, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 1908,
+    "heRef_2": "רש\"י על בבא קמא מד., א, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 1915,
+    "heRef_2": "רש\"י על בבא קמא מד., ה, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 628,
+    "heRef_2": "תוספות על בבא קמא מד., יא, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 636,
+    "heRef_2": "תוספות על בבא קמא מה., א, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 645,
+    "heRef_2": "תוספות על בבא קמא מה:, יז, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 650,
+    "heRef_2": "תוספות על בבא קמא מו., י, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 661,
+    "heRef_2": "תוספות על בבא קמא מז., ג, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 677,
+    "heRef_2": "תוספות על בבא קמא מח., יב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 697,
+    "heRef_2": "תוספות על בבא קמא מט:, טו, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 37,
+    "heRef_2": "תוספות על בבא קמא ד., ה, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 39,
+    "heRef_2": "תוספות על בבא קמא ד., יד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 39,
+    "heRef_2": "תוספות על בבא קמא ד., יד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 709,
+    "heRef_2": "תוספות על בבא קמא נ:, ז, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 716,
+    "heRef_2": "תוספות על בבא קמא נא., יט, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 2310,
+    "heRef_2": "רש\"י על בבא קמא נג., יז, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 738,
+    "heRef_2": "תוספות על בבא קמא נג:, ו, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 749,
+    "heRef_2": "תוספות על בבא קמא נד., יב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 2425,
+    "heRef_2": "רש\"י על בבא קמא נו., ה, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 2429,
+    "heRef_2": "רש\"י על בבא קמא נו., ז, ג",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 2474,
+    "heRef_2": "רש\"י על בבא קמא נז:, א, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 830,
+    "heRef_2": "תוספות על בבא קמא ס:, ט, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 870,
+    "heRef_2": "תוספות על בבא קמא סג., יא, ג",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 870,
+    "heRef_2": "תוספות על בבא קמא סג., יא, ג",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 883,
+    "heRef_2": "תוספות על בבא קמא סד:, ז, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 886,
+    "heRef_2": "תוספות על בבא קמא סה., ב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 2779,
+    "heRef_2": "רש\"י על בבא קמא סו., ו, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 2811,
+    "heRef_2": "רש\"י על בבא קמא סז., ב, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 927,
+    "heRef_2": "תוספות על בבא קמא סז:, ז, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 73,
+    "heRef_2": "תוספות על בבא קמא ו., כד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 958,
+    "heRef_2": "תוספות על בבא קמא ע., ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 2940,
+    "heRef_2": "רש\"י על בבא קמא ע:, יב, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 989,
+    "heRef_2": "תוספות על בבא קמא עב:, א, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 3045,
+    "heRef_2": "רש\"י על בבא קמא עד., ו, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 598,
+    "heRef_2": "תוספות על בבא קמא מא:, יב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 102,
+    "heRef_2": "תוספות רבי עקיבא איגר על משנה בבא קמא ז, ד, א",
+    "path_2": "תוספות רבי עקיבא איגר על משנה בבא קמא.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 1011,
+    "heRef_2": "תוספות על בבא קמא עד:, ט, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 1023,
+    "heRef_2": "תוספות על בבא קמא עו., יז, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 1033,
+    "heRef_2": "תוספות על בבא קמא עז., א, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 3204,
+    "heRef_2": "רש\"י על בבא קמא עח:, כא, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 1052,
+    "heRef_2": "תוספות על בבא קמא עט., ט, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 3272,
+    "heRef_2": "רש\"י על בבא קמא פ., טו, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 3276,
+    "heRef_2": "רש\"י על בבא קמא פ:, א, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 1069,
+    "heRef_2": "תוספות על בבא קמא פ:, ה, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 3295,
+    "heRef_2": "רש\"י על בבא קמא פא., א, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 1080,
+    "heRef_2": "תוספות על בבא קמא פא., ז, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 1098,
+    "heRef_2": "תוספות על בבא קמא פג., א, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 3431,
+    "heRef_2": "רש\"י על בבא קמא פד., ג, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 296,
+    "line_index_2": 1110,
+    "heRef_2": "תוספות על בבא קמא פד., כ, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 3555,
+    "heRef_2": "רש\"י על בבא קמא פו:, טז, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 305,
+    "line_index_2": 1137,
+    "heRef_2": "תוספות על בבא קמא פו:, ו, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 3591,
+    "heRef_2": "רש\"י על בבא קמא פח., ז, ב",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 314,
+    "line_index_2": 1170,
+    "heRef_2": "תוספות על בבא קמא פט., יג, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 3833,
+    "heRef_2": "רש\"י על בבא קמא צד:, ו, א",
+    "path_2": "רשי על בבא קמא.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 246,
+    "heRef_2": "שמואל א יא,  א",
+    "path_2": "שמואל א.txt",
     "Conection Type": ""
   },
   {
@@ -1701,794 +2478,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 334,
-    "line_index_2": 1299,
-    "heRef_2": "תוספות על בבא קמא ק., ט, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 336,
-    "line_index_2": 1303,
-    "heRef_2": "תוספות על בבא קמא ק:, א, ג",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 338,
-    "line_index_2": 4086,
-    "heRef_2": "רש\"י על בבא קמא קא., טו, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 339,
-    "line_index_2": 1309,
-    "heRef_2": "תוספות על בבא קמא קא., יא, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 351,
-    "line_index_2": 4301,
-    "heRef_2": "רש\"י על בבא קמא קו:, טו, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 353,
-    "line_index_2": 1410,
-    "heRef_2": "תוספות על בבא קמא קט., י, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 354,
-    "line_index_2": 1410,
-    "heRef_2": "תוספות על בבא קמא קט., י, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 138,
-    "heRef_2": "תוספות על בבא קמא י., י, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 138,
-    "heRef_2": "תוספות על בבא קמא י., י, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 363,
-    "line_index_2": 1452,
-    "heRef_2": "תוספות על בבא קמא קיב:, ה, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 375,
-    "line_index_2": 4642,
-    "heRef_2": "רש\"י על בבא קמא קיד., ה, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 376,
-    "line_index_2": 4651,
-    "heRef_2": "רש\"י על בבא קמא קיד., י, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 377,
-    "line_index_2": 1469,
-    "heRef_2": "תוספות על בבא קמא קיד., ד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 385,
-    "line_index_2": 4759,
-    "heRef_2": "רש\"י על בבא קמא קטז:, א, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 171,
-    "heRef_2": "תוספות על בבא קמא יב., ד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 171,
-    "heRef_2": "תוספות על בבא קמא יב., ד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 51,
-    "line_index_2": 632,
-    "heRef_2": "רש\"י על בבא קמא יד:, ט, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 218,
-    "heRef_2": "תוספות על בבא קמא טו., כד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 223,
-    "heRef_2": "תוספות על בבא קמא טו:, טו, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 73,
-    "line_index_2": 273,
-    "heRef_2": "תוספות על בבא קמא יט:, י, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 81,
-    "line_index_2": 1006,
-    "heRef_2": "רש\"י על בבא קמא כא:, ד, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 1084,
-    "heRef_2": "רש\"י על בבא קמא כג., ט, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 330,
-    "heRef_2": "תוספות על בבא קמא כג., ח, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 335,
-    "heRef_2": "תוספות על בבא קמא כג., יא, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 343,
-    "heRef_2": "תוספות על בבא קמא כג:, יח, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 353,
-    "heRef_2": "תוספות על בבא קמא כד., יב, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 353,
-    "heRef_2": "תוספות על בבא קמא כד., יב, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 361,
-    "heRef_2": "תוספות על בבא קמא כה., א, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 371,
-    "heRef_2": "תוספות על בבא קמא כה:, ד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 103,
-    "line_index_2": 376,
-    "heRef_2": "תוספות על בבא קמא כו., ג, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 377,
-    "heRef_2": "תוספות על בבא קמא כו., ז, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 406,
-    "heRef_2": "תוספות על בבא קמא כז:, טז, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 419,
-    "heRef_2": "תוספות על בבא קמא כח:, ד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 420,
-    "heRef_2": "תוספות על בבא קמא כח:, יג, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 437,
-    "heRef_2": "תוספות על בבא קמא כט:, כא, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 7,
-    "heRef_2": "תוספות על בבא קמא ב., ב, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 7,
-    "heRef_2": "תוספות על בבא קמא ב., ב, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 7,
-    "heRef_2": "תוספות על בבא קמא ב., ב, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 7,
-    "heRef_2": "תוספות על בבא קמא ב., ב, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 43,
-    "heRef_2": "רש\"י על בבא קמא ב:, יב, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 44,
-    "heRef_2": "רש\"י על בבא קמא ב:, יג, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 1435,
-    "heRef_2": "רש\"י על בבא קמא לא:, א, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 125,
-    "line_index_2": 483,
-    "heRef_2": "תוספות על בבא קמא לג., כב, ג",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 129,
-    "line_index_2": 487,
-    "heRef_2": "תוספות על בבא קמא לג:, יט, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 487,
-    "heRef_2": "תוספות על בבא קמא לג:, יט, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 131,
-    "line_index_2": 487,
-    "heRef_2": "תוספות על בבא קמא לג:, יט, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 537,
-    "heRef_2": "תוספות על בבא קמא לח., א, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 554,
-    "heRef_2": "תוספות על בבא קמא לט., ז, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 52,
-    "heRef_2": "רש\"י על בבא קמא ג., ד, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 62,
-    "heRef_2": "רש\"י על בבא קמא ג., יד, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 17,
-    "heRef_2": "תוספות על בבא קמא ג., ד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 26,
-    "heRef_2": "תוספות על בבא קמא ג:, ב, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 32,
-    "heRef_2": "תוספות על בבא קמא ג:, טו, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 151,
-    "line_index_2": 566,
-    "heRef_2": "תוספות על בבא קמא מ., טו, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 152,
-    "line_index_2": 568,
-    "heRef_2": "תוספות על בבא קמא מ., כב, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 576,
-    "heRef_2": "תוספות על בבא קמא מ:, יח, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 584,
-    "heRef_2": "תוספות על בבא קמא מא., ו, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 592,
-    "heRef_2": "תוספות על בבא קמא מא:, ה, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 602,
-    "heRef_2": "תוספות על בבא קמא מב., ח, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 170,
-    "line_index_2": 1908,
-    "heRef_2": "רש\"י על בבא קמא מד., א, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 1915,
-    "heRef_2": "רש\"י על בבא קמא מד., ה, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 628,
-    "heRef_2": "תוספות על בבא קמא מד., יא, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 177,
-    "line_index_2": 636,
-    "heRef_2": "תוספות על בבא קמא מה., א, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 179,
-    "line_index_2": 645,
-    "heRef_2": "תוספות על בבא קמא מה:, יז, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 650,
-    "heRef_2": "תוספות על בבא קמא מו., י, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 186,
-    "line_index_2": 661,
-    "heRef_2": "תוספות על בבא קמא מז., ג, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 188,
-    "line_index_2": 677,
-    "heRef_2": "תוספות על בבא קמא מח., יב, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 194,
-    "line_index_2": 697,
-    "heRef_2": "תוספות על בבא קמא מט:, טו, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 37,
-    "heRef_2": "תוספות על בבא קמא ד., ה, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 39,
-    "heRef_2": "תוספות על בבא קמא ד., יד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 39,
-    "heRef_2": "תוספות על בבא קמא ד., יד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 196,
-    "line_index_2": 709,
-    "heRef_2": "תוספות על בבא קמא נ:, ז, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 716,
-    "heRef_2": "תוספות על בבא קמא נא., יט, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 202,
-    "line_index_2": 2310,
-    "heRef_2": "רש\"י על בבא קמא נג., יז, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 204,
-    "line_index_2": 738,
-    "heRef_2": "תוספות על בבא קמא נג:, ו, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 749,
-    "heRef_2": "תוספות על בבא קמא נד., יב, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 211,
-    "line_index_2": 2425,
-    "heRef_2": "רש\"י על בבא קמא נו., ה, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 212,
-    "line_index_2": 2429,
-    "heRef_2": "רש\"י על בבא קמא נו., ז, ג",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 214,
-    "line_index_2": 2474,
-    "heRef_2": "רש\"י על בבא קמא נז:, א, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 224,
-    "line_index_2": 830,
-    "heRef_2": "תוספות על בבא קמא ס:, ט, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 230,
-    "line_index_2": 870,
-    "heRef_2": "תוספות על בבא קמא סג., יא, ג",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 231,
-    "line_index_2": 870,
-    "heRef_2": "תוספות על בבא קמא סג., יא, ג",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 233,
-    "line_index_2": 883,
-    "heRef_2": "תוספות על בבא קמא סד:, ז, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 236,
-    "line_index_2": 886,
-    "heRef_2": "תוספות על בבא קמא סה., ב, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 241,
-    "line_index_2": 2779,
-    "heRef_2": "רש\"י על בבא קמא סו., ו, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 246,
-    "line_index_2": 2811,
-    "heRef_2": "רש\"י על בבא קמא סז., ב, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 248,
-    "line_index_2": 927,
-    "heRef_2": "תוספות על בבא קמא סז:, ז, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 73,
-    "heRef_2": "תוספות על בבא קמא ו., כד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 958,
-    "heRef_2": "תוספות על בבא קמא ע., ד, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 2940,
-    "heRef_2": "רש\"י על בבא קמא ע:, יב, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 260,
-    "line_index_2": 989,
-    "heRef_2": "תוספות על בבא קמא עב:, א, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 3045,
-    "heRef_2": "רש\"י על בבא קמא עד., ו, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 598,
-    "heRef_2": "תוספות על בבא קמא מא:, יב, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 267,
-    "line_index_2": 102,
-    "heRef_2": "תוספות רבי עקיבא איגר על משנה בבא קמא ז, ד, א",
-    "path_2": "תוספות רבי עקיבא איגר על משנה בבא קמא.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 268,
-    "line_index_2": 1011,
-    "heRef_2": "תוספות על בבא קמא עד:, ט, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 270,
-    "line_index_2": 1023,
-    "heRef_2": "תוספות על בבא קמא עו., יז, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 272,
-    "line_index_2": 1033,
-    "heRef_2": "תוספות על בבא קמא עז., א, ב",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 276,
-    "line_index_2": 3204,
-    "heRef_2": "רש\"י על בבא קמא עח:, כא, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 1052,
-    "heRef_2": "תוספות על בבא קמא עט., ט, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
     "line_index_1": 280,
-    "line_index_2": 3272,
-    "heRef_2": "רש\"י על בבא קמא פ., טו, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
+    "line_index_2": 373,
+    "heRef_2": "שמות יד,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   },
   {
-    "line_index_1": 283,
-    "line_index_2": 3276,
-    "heRef_2": "רש\"י על בבא קמא פ:, א, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 284,
-    "line_index_2": 1069,
-    "heRef_2": "תוספות על בבא קמא פ:, ה, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 287,
-    "line_index_2": 3295,
-    "heRef_2": "רש\"י על בבא קמא פא., א, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 288,
-    "line_index_2": 1080,
-    "heRef_2": "תוספות על בבא קמא פא., ז, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 293,
-    "line_index_2": 1098,
-    "heRef_2": "תוספות על בבא קמא פג., א, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 295,
-    "line_index_2": 3431,
-    "heRef_2": "רש\"י על בבא קמא פד., ג, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 296,
-    "line_index_2": 1110,
-    "heRef_2": "תוספות על בבא קמא פד., כ, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 304,
-    "line_index_2": 3555,
-    "heRef_2": "רש\"י על בבא קמא פו:, טז, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 305,
-    "line_index_2": 1137,
-    "heRef_2": "תוספות על בבא קמא פו:, ו, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 311,
-    "line_index_2": 3590,
-    "heRef_2": "רש\"י על בבא קמא פח., ז, ב",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 314,
-    "line_index_2": 1170,
-    "heRef_2": "תוספות על בבא קמא פט., יג, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 327,
-    "line_index_2": 3832,
-    "heRef_2": "רש\"י על בבא קמא צד:, ו, א",
-    "path_2": "רשי על בבא קמא.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 330,
-    "line_index_2": 246,
-    "heRef_2": "שמואל א יא,  א",
-    "path_2": "שמואל א.txt",
+    "line_index_1": 243,
+    "line_index_2": 486,
+    "heRef_2": "בראשית יט, ח",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   }
 ]

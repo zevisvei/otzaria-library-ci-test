@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 16,
-    "line_index_2": 533,
-    "heRef_2": "שמות יט, יט",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 13,
     "line_index_2": 1534,
     "heRef_2": "סנהדרין מב.,  א",
@@ -15,9 +8,51 @@
   },
   {
     "line_index_1": 13,
+    "line_index_2": 42,
+    "heRef_2": "חבקוק ג,  א",
+    "path_2": "חבקוק.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 664,
+    "heRef_2": "שמואל א כד, יב",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 13,
     "line_index_2": 4484,
     "heRef_2": "חולין קלז:,  א",
     "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 49,
+    "heRef_2": "ברטנורא על משנה ראש השנה א, ט, א",
+    "path_2": "ברטנורא על משנה ראש השנה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 135,
+    "heRef_2": "ברטנורא על משנה ראש השנה ד, א, ה",
+    "path_2": "ברטנורא על משנה ראש השנה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 168,
+    "heRef_2": "ברטנורא על משנה ראש השנה ד, ח, ב",
+    "path_2": "ברטנורא על משנה ראש השנה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 533,
+    "heRef_2": "שמות יט, יט",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -103,40 +138,5 @@
     "heRef_2": "משנה ראש השנה ד, ח",
     "path_2": "משנה ראש השנה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 49,
-    "heRef_2": "ברטנורא על משנה ראש השנה א, ט, א",
-    "path_2": "ברטנורא על משנה ראש השנה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 135,
-    "heRef_2": "ברטנורא על משנה ראש השנה ד, א, ה",
-    "path_2": "ברטנורא על משנה ראש השנה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 168,
-    "heRef_2": "ברטנורא על משנה ראש השנה ד, ח, ב",
-    "path_2": "ברטנורא על משנה ראש השנה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 42,
-    "heRef_2": "חבקוק ג,  א",
-    "path_2": "חבקוק.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 664,
-    "heRef_2": "שמואל א כד, יב",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
   }
 ]

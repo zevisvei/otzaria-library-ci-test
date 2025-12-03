@@ -1,20 +1,6 @@
 [
   {
     "line_index_1": 75,
-    "line_index_2": 29,
-    "heRef_2": "שבת ג.,  א",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 32,
-    "heRef_2": "משנה שקלים ה,  א",
-    "path_2": "משנה שקלים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 75,
     "line_index_2": 53,
     "heRef_2": "תלמוד ירושלמי ביצה א, י, ב",
     "path_2": "תלמוד ירושלמי ביצה.txt",
@@ -663,5 +649,19 @@
     "heRef_2": "תלמוד ירושלמי ביצה ה, ח, ב",
     "path_2": "תלמוד ירושלמי ביצה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 29,
+    "heRef_2": "שבת ג.,  א",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 32,
+    "heRef_2": "משנה שקלים ה,  א",
+    "path_2": "משנה שקלים.txt",
+    "Conection Type": ""
   }
 ]

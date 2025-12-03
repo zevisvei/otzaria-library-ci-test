@@ -1,23 +1,114 @@
 [
   {
     "line_index_1": 91,
-    "line_index_2": 110,
-    "heRef_2": "אסתר רבה ז, יא",
-    "path_2": "אסתר רבה.txt",
-    "Conection Type": "mesorat hashas"
+    "line_index_2": 1137,
+    "heRef_2": "ישעיהו נד, יג",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 789,
+    "heRef_2": "ירמיהו לא, יב",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 120,
+    "heRef_2": "שמואל א ה, ז",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 120,
+    "heRef_2": "שמואל א ה, ז",
+    "path_2": "שמואל א.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 59,
-    "line_index_2": 96,
-    "heRef_2": "עזרא ג, יא",
-    "path_2": "עזרא.txt",
+    "line_index_2": 147,
+    "heRef_2": "דברי הימים ב ז, ט",
+    "path_2": "דברי הימים ב.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 139,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 139,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 139,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 139,
+    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ג",
+    "path_2": "תלמוד ירושלמי תענית.txt",
+    "Conection Type": "quotation"
   },
   {
     "line_index_1": 91,
     "line_index_2": 1265,
     "heRef_2": "כריתות כח:, ח",
     "path_2": "כריתות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 924,
+    "heRef_2": "ברכות יט., יא",
+    "path_2": "ברכות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 2873,
+    "heRef_2": "ברכות סד., יג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 679,
+    "heRef_2": "בראשית רבה סא, ז",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 688,
+    "heRef_2": "בראשית רבה סג, ג",
+    "path_2": "בראשית רבה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 373,
+    "heRef_2": "חגיגה יג., ב",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 519,
+    "heRef_2": "חגיגה יז:, ז",
+    "path_2": "חגיגה.txt",
     "Conection Type": "mesorat hashas"
   },
   {
@@ -124,48 +215,6 @@
     "heRef_2": "כל בו סג, יד",
     "path_2": "כל בו.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 924,
-    "heRef_2": "ברכות יט., יא",
-    "path_2": "ברכות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 2873,
-    "heRef_2": "ברכות סד., יג",
-    "path_2": "ברכות.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 679,
-    "heRef_2": "בראשית רבה סא, ז",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 688,
-    "heRef_2": "בראשית רבה סג, ג",
-    "path_2": "בראשית רבה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 373,
-    "heRef_2": "חגיגה יג., ב",
-    "path_2": "חגיגה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 7,
-    "line_index_2": 519,
-    "heRef_2": "חגיגה יז:, ז",
-    "path_2": "חגיגה.txt",
-    "Conection Type": "mesorat hashas"
   },
   {
     "line_index_1": 53,
@@ -354,6 +403,13 @@
     "line_index_2": 4111,
     "heRef_2": "יבמות קכב:, יא",
     "path_2": "יבמות.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 5,
+    "heRef_2": "תנא דבי אליהו זוטא ב,  א",
+    "path_2": "תנא דבי אליהו זוטא.txt",
     "Conection Type": "mesorat hashas"
   },
   {
@@ -1092,10 +1148,24 @@
     "Conection Type": "mesorat hashas"
   },
   {
+    "line_index_1": 5,
+    "line_index_2": 430,
+    "heRef_2": "ערכין יג:, ב",
+    "path_2": "ערכין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
     "line_index_1": 31,
-    "line_index_2": 1488,
-    "heRef_2": "עירובין מא., ח",
-    "path_2": "עירובין.txt",
+    "line_index_2": 93,
+    "heRef_2": "אבות דרבי נתן יג, ב",
+    "path_2": "אבות דרבי נתן.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 157,
+    "heRef_2": "אבות דרבי נתן כה, ג",
+    "path_2": "אבות דרבי נתן.txt",
     "Conection Type": "mesorat hashas"
   },
   {
@@ -1134,87 +1204,24 @@
     "Conection Type": "mesorat hashas"
   },
   {
-    "line_index_1": 10,
-    "line_index_2": 120,
-    "heRef_2": "שמואל א ה, ז",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
+    "line_index_1": 31,
+    "line_index_2": 1488,
+    "heRef_2": "עירובין מא., ח",
+    "path_2": "עירובין.txt",
+    "Conection Type": "mesorat hashas"
   },
   {
-    "line_index_1": 14,
-    "line_index_2": 120,
-    "heRef_2": "שמואל א ה, ז",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
+    "line_index_1": 91,
+    "line_index_2": 110,
+    "heRef_2": "אסתר רבה ז, יא",
+    "path_2": "אסתר רבה.txt",
+    "Conection Type": "mesorat hashas"
   },
   {
     "line_index_1": 59,
-    "line_index_2": 147,
-    "heRef_2": "דברי הימים ב ז, ט",
-    "path_2": "דברי הימים ב.txt",
+    "line_index_2": 96,
+    "heRef_2": "עזרא ג, יא",
+    "path_2": "עזרא.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 1137,
-    "heRef_2": "ישעיהו נד, יג",
-    "path_2": "ישעיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 430,
-    "heRef_2": "ערכין יג:, ב",
-    "path_2": "ערכין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 93,
-    "heRef_2": "אבות דרבי נתן יג, ב",
-    "path_2": "אבות דרבי נתן.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 157,
-    "heRef_2": "אבות דרבי נתן כה, ג",
-    "path_2": "אבות דרבי נתן.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 789,
-    "heRef_2": "ירמיהו לא, יב",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 139,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 139,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 139,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 139,
-    "heRef_2": "תלמוד ירושלמי תענית ב, יב, ג",
-    "path_2": "תלמוד ירושלמי תענית.txt",
-    "Conection Type": "quotation"
   }
 ]

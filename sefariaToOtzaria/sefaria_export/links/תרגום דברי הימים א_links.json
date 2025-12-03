@@ -1,110 +1,5 @@
 [
   {
-    "line_index_1": 455,
-    "line_index_2": 894,
-    "heRef_2": "ברכות יח.,  יד",
-    "path_2": "ברכות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 455,
-    "line_index_2": 896,
-    "heRef_2": "ברכות יח:,  א",
-    "path_2": "ברכות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 455,
-    "line_index_2": 897,
-    "heRef_2": "ברכות יח:,  ב",
-    "path_2": "ברכות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 455,
-    "line_index_2": 898,
-    "heRef_2": "ברכות יח:,  ג",
-    "path_2": "ברכות.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 954,
-    "line_index_2": 2612,
-    "heRef_2": "ברכות נח.,  יד",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 954,
-    "line_index_2": 2613,
-    "heRef_2": "ברכות נח.,  טו",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 954,
-    "line_index_2": 2614,
-    "heRef_2": "ברכות נח.,  טז",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 954,
-    "line_index_2": 2615,
-    "heRef_2": "ברכות נח.,  יז",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 720,
-    "line_index_2": 2794,
-    "heRef_2": "ברכות סב:,  יג",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 720,
-    "line_index_2": 2795,
-    "heRef_2": "ברכות סב:,  יד",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 720,
-    "line_index_2": 2796,
-    "heRef_2": "ברכות סב:,  טו",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 720,
-    "line_index_2": 2797,
-    "heRef_2": "ברכות סב:,  טז",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 720,
-    "line_index_2": 2798,
-    "heRef_2": "ברכות סב:,  יז",
-    "path_2": "ברכות.txt",
-    "Conection Type": "related"
-  },
-  {
-    "line_index_1": 589,
-    "line_index_2": 1078,
-    "heRef_2": "פסחים לו:,  יד",
-    "path_2": "פסחים.txt",
-    "Conection Type": "reference"
-  },
-  {
-    "line_index_1": 589,
-    "line_index_2": 1079,
-    "heRef_2": "פסחים לו:,  טו",
-    "path_2": "פסחים.txt",
-    "Conection Type": "reference"
-  },
-  {
     "line_index_1": 419,
     "line_index_2": 419,
     "heRef_2": "דברי הימים א י, א",
@@ -6706,6 +6601,97 @@
     "Conection Type": "targum"
   },
   {
+    "line_index_1": 455,
+    "line_index_2": 894,
+    "heRef_2": "ברכות יח.,  יד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 896,
+    "heRef_2": "ברכות יח:,  א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 897,
+    "heRef_2": "ברכות יח:,  ב",
+    "path_2": "ברכות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 898,
+    "heRef_2": "ברכות יח:,  ג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 954,
+    "line_index_2": 2612,
+    "heRef_2": "ברכות נח.,  יד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 954,
+    "line_index_2": 2613,
+    "heRef_2": "ברכות נח.,  טו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 954,
+    "line_index_2": 2614,
+    "heRef_2": "ברכות נח.,  טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 954,
+    "line_index_2": 2615,
+    "heRef_2": "ברכות נח.,  יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 720,
+    "line_index_2": 2794,
+    "heRef_2": "ברכות סב:,  יג",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 720,
+    "line_index_2": 2795,
+    "heRef_2": "ברכות סב:,  יד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 720,
+    "line_index_2": 2796,
+    "heRef_2": "ברכות סב:,  טו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 720,
+    "line_index_2": 2797,
+    "heRef_2": "ברכות סב:,  טז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
+    "line_index_1": 720,
+    "line_index_2": 2798,
+    "heRef_2": "ברכות סב:,  יז",
+    "path_2": "ברכות.txt",
+    "Conection Type": "related"
+  },
+  {
     "line_index_1": 148,
     "line_index_2": 513,
     "heRef_2": "תמורה טז.,  יד",
@@ -6745,6 +6731,20 @@
     "line_index_2": 518,
     "heRef_2": "תמורה טז.,  יט",
     "path_2": "תמורה.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 1078,
+    "heRef_2": "פסחים לו:,  יד",
+    "path_2": "פסחים.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 1079,
+    "heRef_2": "פסחים לו:,  טו",
+    "path_2": "פסחים.txt",
     "Conection Type": "reference"
   }
 ]

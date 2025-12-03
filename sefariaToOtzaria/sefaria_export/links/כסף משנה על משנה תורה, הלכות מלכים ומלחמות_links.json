@@ -1,16 +1,23 @@
 [
   {
-    "line_index_1": 279,
-    "line_index_2": 37,
-    "heRef_2": "שמות ב, יב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 287,
     "line_index_2": 215,
     "heRef_2": "בראשית ח, כב",
     "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1406,
+    "heRef_2": "גיטין מו., ז",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 296,
+    "line_index_2": 1995,
+    "heRef_2": "גיטין סב.,  א",
+    "path_2": "גיטין.txt",
     "Conection Type": ""
   },
   {
@@ -1778,20 +1785,6 @@
     "Conection Type": "related"
   },
   {
-    "line_index_1": 146,
-    "line_index_2": 1627,
-    "heRef_2": "עירובין מד:, ט",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 3024,
-    "heRef_2": "עירובין פב:, יד",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 100,
     "line_index_2": 2115,
     "heRef_2": "בבא בתרא צא., ז",
@@ -1813,17 +1806,24 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 123,
-    "line_index_2": 1406,
-    "heRef_2": "גיטין מו., ז",
-    "path_2": "גיטין.txt",
+    "line_index_1": 146,
+    "line_index_2": 1627,
+    "heRef_2": "עירובין מד:, ט",
+    "path_2": "עירובין.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 296,
-    "line_index_2": 1995,
-    "heRef_2": "גיטין סב.,  א",
-    "path_2": "גיטין.txt",
+    "line_index_1": 100,
+    "line_index_2": 3024,
+    "heRef_2": "עירובין פב:, יד",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 37,
+    "heRef_2": "שמות ב, יב",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   }
 ]

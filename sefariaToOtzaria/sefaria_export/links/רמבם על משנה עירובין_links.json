@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 177,
-    "line_index_2": 41,
-    "heRef_2": "רות ב, טז",
-    "path_2": "רות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 257,
-    "heRef_2": "במדבר ז, ג",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 191,
     "line_index_2": 442,
     "heRef_2": "משלי טו, יט",
@@ -28,10 +14,31 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 177,
+    "line_index_2": 41,
+    "heRef_2": "רות ב, טז",
+    "path_2": "רות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 1167,
+    "heRef_2": "ירמיהו מו, כא",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 187,
     "line_index_2": 920,
     "heRef_2": "דברים לב, כד",
     "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 257,
+    "heRef_2": "במדבר ז, ג",
+    "path_2": "במדבר.txt",
     "Conection Type": ""
   },
   {
@@ -705,12 +712,5 @@
     "heRef_2": "משנה עירובין ט, ד",
     "path_2": "משנה עירובין.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 1167,
-    "heRef_2": "ירמיהו מו, כא",
-    "path_2": "ירמיהו.txt",
-    "Conection Type": ""
   }
 ]

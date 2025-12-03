@@ -1,16 +1,9 @@
 [
   {
-    "line_index_1": 71,
-    "line_index_2": 420,
-    "heRef_2": "יחזקאל יח, טז",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 90,
-    "heRef_2": "יהושע ה,  א",
-    "path_2": "יהושע.txt",
+    "line_index_1": 19,
+    "line_index_2": 760,
+    "heRef_2": "תהילים מז,  א",
+    "path_2": "תהילים.txt",
     "Conection Type": ""
   },
   {
@@ -140,10 +133,17 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 19,
-    "line_index_2": 760,
-    "heRef_2": "תהילים מז,  א",
-    "path_2": "תהילים.txt",
+    "line_index_1": 82,
+    "line_index_2": 2374,
+    "heRef_2": "גיטין עב.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 90,
+    "heRef_2": "יהושע ה,  א",
+    "path_2": "יהושע.txt",
     "Conection Type": ""
   },
   {
@@ -151,6 +151,34 @@
     "line_index_2": 4244,
     "heRef_2": "חולין קלב., ג",
     "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 39,
+    "heRef_2": "ברטנורא על משנה נדרים ב, א, ד",
+    "path_2": "ברטנורא על משנה נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 222,
+    "heRef_2": "ברטנורא על משנה נדרים ו, ו, א",
+    "path_2": "ברטנורא על משנה נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 247,
+    "heRef_2": "ברטנורא על משנה נדרים ז, ב, א",
+    "path_2": "ברטנורא על משנה נדרים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 420,
+    "heRef_2": "יחזקאל יח, טז",
+    "path_2": "יחזקאל.txt",
     "Conection Type": ""
   },
   {
@@ -614,33 +642,5 @@
     "heRef_2": "משנה נדרים ט, ח",
     "path_2": "משנה נדרים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 39,
-    "heRef_2": "ברטנורא על משנה נדרים ב, א, ד",
-    "path_2": "ברטנורא על משנה נדרים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 57,
-    "line_index_2": 222,
-    "heRef_2": "ברטנורא על משנה נדרים ו, ו, א",
-    "path_2": "ברטנורא על משנה נדרים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 247,
-    "heRef_2": "ברטנורא על משנה נדרים ז, ב, א",
-    "path_2": "ברטנורא על משנה נדרים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 2374,
-    "heRef_2": "גיטין עב.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

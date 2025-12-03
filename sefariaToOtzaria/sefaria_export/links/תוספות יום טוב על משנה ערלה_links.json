@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 8,
-    "line_index_2": 581,
-    "heRef_2": "ויקרא יט, כה",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 25,
     "line_index_2": 13,
     "heRef_2": "רש״ש על משנה ערלה א, ה, א",
@@ -28,24 +21,10 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 25,
-    "line_index_2": 986,
-    "heRef_2": "סוכה לז., ח",
-    "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 230,
-    "heRef_2": "במדבר ו, ד",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 96,
-    "line_index_2": 812,
-    "heRef_2": "פסחים כז., ט",
-    "path_2": "פסחים.txt",
+    "line_index_1": 8,
+    "line_index_2": 581,
+    "heRef_2": "ויקרא יט, כה",
+    "path_2": "ויקרא.txt",
     "Conection Type": ""
   },
   {
@@ -74,6 +53,34 @@
     "line_index_2": 607,
     "heRef_2": "דברים כב, ט",
     "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 986,
+    "heRef_2": "סוכה לז., ח",
+    "path_2": "סוכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 1500,
+    "heRef_2": "עבודה זרה מט., א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 230,
+    "heRef_2": "במדבר ו, ד",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 812,
+    "heRef_2": "פסחים כז., ט",
+    "path_2": "פסחים.txt",
     "Conection Type": ""
   },
   {
@@ -621,12 +628,5 @@
     "heRef_2": "משנה ערלה ג, ט",
     "path_2": "משנה ערלה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 1500,
-    "heRef_2": "עבודה זרה מט., א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
   }
 ]

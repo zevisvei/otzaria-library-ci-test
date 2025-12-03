@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 8,
-    "line_index_2": 542,
-    "heRef_2": "שמות כ,  ב",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 543,
-    "heRef_2": "שמות כ,  ג",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 75,
     "line_index_2": 42,
     "heRef_2": "סנהדרין ג:,  א",
@@ -29,7 +15,7 @@
   },
   {
     "line_index_1": 8,
-    "line_index_2": 1667,
+    "line_index_2": 1664,
     "heRef_2": "ילקוט שמעוני על התורה רפה, ד",
     "path_2": "ילקוט שמעוני על התורה.txt",
     "Conection Type": ""
@@ -37,7 +23,7 @@
   {
     "line_index_1": 8,
     "line_index_2": 694,
-    "heRef_2": "זוהר הרקיע, מצוות עשה יב, א",
+    "heRef_2": "זוהר הרקיע, מצוות עשה יב,  א",
     "path_2": "זוהר הרקיע.txt",
     "Conection Type": ""
   },
@@ -53,6 +39,27 @@
     "line_index_2": 500,
     "heRef_2": "תמורה טז.,  א",
     "path_2": "תמורה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 257,
+    "heRef_2": "הוריות ח.,  כב",
+    "path_2": "הוריות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 259,
+    "heRef_2": "הוריות ח:,  א",
+    "path_2": "הוריות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 149,
+    "heRef_2": "שמואל א ז,  א",
+    "path_2": "שמואל א.txt",
     "Conection Type": ""
   },
   {
@@ -81,6 +88,20 @@
     "line_index_2": 1708,
     "heRef_2": "עירובין מו:,  א",
     "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 542,
+    "heRef_2": "שמות כ,  ב",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 543,
+    "heRef_2": "שמות כ,  ג",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -502,26 +523,5 @@
     "heRef_2": "משנה תורה, הלכות יסודי התורה ט, ה",
     "path_2": "משנה תורה, הלכות יסודי התורה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 257,
-    "heRef_2": "הוריות ח.,  כב",
-    "path_2": "הוריות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 259,
-    "heRef_2": "הוריות ח:,  א",
-    "path_2": "הוריות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 58,
-    "line_index_2": 149,
-    "heRef_2": "שמואל א ז,  א",
-    "path_2": "שמואל א.txt",
-    "Conection Type": ""
   }
 ]

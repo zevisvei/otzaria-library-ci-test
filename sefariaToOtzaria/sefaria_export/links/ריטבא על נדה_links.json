@@ -1,6 +1,13 @@
 [
   {
     "line_index_1": 778,
+    "line_index_2": 496,
+    "heRef_2": "משלי יז, ה",
+    "path_2": "משלי.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 778,
     "line_index_2": 3224,
     "heRef_2": "כתובות קיא:, י",
     "path_2": "כתובות.txt",
@@ -7495,12 +7502,5 @@
     "heRef_2": "נדה ט:, ז",
     "path_2": "נדה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 778,
-    "line_index_2": 496,
-    "heRef_2": "משלי יז, ה",
-    "path_2": "משלי.txt",
-    "Conection Type": "quotation"
   }
 ]

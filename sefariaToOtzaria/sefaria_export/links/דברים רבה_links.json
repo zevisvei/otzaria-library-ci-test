@@ -1,6 +1,13 @@
 [
   {
     "line_index_1": 89,
+    "line_index_2": 4,
+    "heRef_2": "ביצה ב., ב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 89,
     "line_index_2": 249,
     "heRef_2": "ביצה ט:, ט",
     "path_2": "ביצה.txt",
@@ -3738,13 +3745,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 22,
-    "line_index_2": 557,
-    "heRef_2": "דברים כ, ד",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 115,
     "line_index_2": 584,
     "heRef_2": "דברים כא, י",
@@ -5817,6 +5817,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 3,
+    "line_index_2": 1696,
+    "heRef_2": "אור החיים על שמות לב, טו, ג",
+    "path_2": "אור החיים על שמות.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 158,
     "line_index_2": 1892,
     "heRef_2": "סוד ישרים, שביעי של פסח כג, ג",
@@ -5983,6 +5990,27 @@
     "heRef_2": "מתנות כהונה על דברים רבה י, א, ד",
     "path_2": "מתנות כהונה על דברים רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 10482,
+    "heRef_2": "שם משמואל, האזינו ב, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 10532,
+    "heRef_2": "שם משמואל, האזינו ז, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 10535,
+    "heRef_2": "שם משמואל, האזינו ז, ה",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 158,
@@ -6945,6 +6973,13 @@
   },
   {
     "line_index_1": 163,
+    "line_index_2": 505,
+    "heRef_2": "אור ישראל ל, יג",
+    "path_2": "אור ישראל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 163,
     "line_index_2": 690,
     "heRef_2": "בראשית כה, ה",
     "path_2": "בראשית.txt",
@@ -6987,7 +7022,7 @@
   },
   {
     "line_index_1": 163,
-    "line_index_2": 7905,
+    "line_index_2": 7906,
     "heRef_2": "רבנו בחיי, דברים לג, א, ד",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -7425,6 +7460,13 @@
     "heRef_2": "ישמח משה, ראה ד, ב",
     "path_2": "ישמח משה.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 11,
+    "heRef_2": "תנא דבי אליהו זוטא ה, א",
+    "path_2": "תנא דבי אליהו זוטא.txt",
+    "Conection Type": "mesorat hashas"
   },
   {
     "line_index_1": 172,
@@ -8359,7 +8401,7 @@
   },
   {
     "line_index_1": 167,
-    "line_index_2": 7913,
+    "line_index_2": 7914,
     "heRef_2": "רבנו בחיי, דברים לג, א, יב",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -8683,6 +8725,27 @@
     "line_index_1": 169,
     "line_index_2": 461,
     "heRef_2": "סוטה יג.,  א",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 474,
+    "heRef_2": "סוטה יג., יד",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 79,
+    "heRef_2": "מכילתא דרבי שמעון בן יוחאי יג, יח",
+    "path_2": "מכילתא דרבי שמעון בן יוחאי.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 473,
+    "heRef_2": "סוטה יג., יג",
     "path_2": "סוטה.txt",
     "Conection Type": ""
   },
@@ -9436,6 +9499,27 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 3,
+    "line_index_2": 9221,
+    "heRef_2": "שם משמואל, דברים א, ה",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 9261,
+    "heRef_2": "שם משמואל, דברים ד, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 9315,
+    "heRef_2": "שם משמואל, דברים ז, ז",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 12,
     "line_index_2": 507,
     "heRef_2": "שמות יח, כא",
@@ -9961,6 +10045,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 12,
+    "line_index_2": 9244,
+    "heRef_2": "שם משמואל, דברים ג, ט",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 13,
     "line_index_2": 647,
     "heRef_2": "שמואל ב כב, מד",
@@ -10346,6 +10437,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 13,
+    "line_index_2": 9323,
+    "heRef_2": "שם משמואל, דברים ז, טו",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 14,
     "line_index_2": 2079,
     "heRef_2": "תהילים קטו, ח",
@@ -10715,6 +10813,13 @@
     "heRef_2": "בראשית כה, ב",
     "path_2": "בראשית.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 9306,
+    "heRef_2": "שם משמואל, דברים ו, ג",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 16,
@@ -11684,14 +11789,14 @@
   },
   {
     "line_index_1": 21,
-    "line_index_2": 3165,
+    "line_index_2": 3166,
     "heRef_2": "רבנו בחיי, שמות יז, יד, א",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
   },
   {
     "line_index_1": 21,
-    "line_index_2": 6562,
+    "line_index_2": 6563,
     "heRef_2": "רבנו בחיי, דברים ב, ג, ב",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -11821,6 +11926,13 @@
     "heRef_2": "במדבר כד,  א",
     "path_2": "במדבר.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 9287,
+    "heRef_2": "שם משמואל, דברים ד, כח",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 4,
@@ -11964,7 +12076,7 @@
   },
   {
     "line_index_1": 4,
-    "line_index_2": 2652,
+    "line_index_2": 2650,
     "heRef_2": "מדרש תנחומא, בלק יד, א",
     "path_2": "מדרש תנחומא.txt",
     "Conection Type": ""
@@ -12101,6 +12213,13 @@
     "heRef_2": "במדבר כה,  ג",
     "path_2": "במדבר.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 9326,
+    "heRef_2": "שם משמואל, דברים ח, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 22,
@@ -12699,6 +12818,13 @@
   },
   {
     "line_index_1": 27,
+    "line_index_2": 7,
+    "heRef_2": "תנא דבי אליהו זוטא ג, א",
+    "path_2": "תנא דבי אליהו זוטא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 27,
     "line_index_2": 165,
     "heRef_2": "עץ יוסף על דברים רבה א, כה, א",
     "path_2": "עץ יוסף על דברים רבה.txt",
@@ -12999,6 +13125,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 5,
+    "line_index_2": 9218,
+    "heRef_2": "שם משמואל, דברים א, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 6,
     "line_index_2": 31,
     "heRef_2": "עץ יוסף על דברים רבה א, ד, א",
@@ -13018,6 +13151,13 @@
     "heRef_2": "מתנות כהונה על דברים רבה א, ד, א",
     "path_2": "מתנות כהונה על דברים רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 9301,
+    "heRef_2": "שם משמואל, דברים ה, יב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 7,
@@ -13630,7 +13770,7 @@
   },
   {
     "line_index_1": 29,
-    "line_index_2": 6485,
+    "line_index_2": 6486,
     "heRef_2": "רבנו בחיי, דברים א, א, ג",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -13668,6 +13808,13 @@
     "line_index_2": 55,
     "heRef_2": "מחוקקי יהודה קרני אור, בראשית א, נא, א",
     "path_2": "מחוקקי יהודה קרני אור.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 710,
+    "heRef_2": "אור החיים על ויקרא יט, ב, יג",
+    "path_2": "אור החיים על ויקרא.txt",
     "Conection Type": ""
   },
   {
@@ -13756,7 +13903,7 @@
   },
   {
     "line_index_1": 29,
-    "line_index_2": 6339,
+    "line_index_2": 8171,
     "heRef_2": "אוצר מדרשים, אגדה על תפלת שמונה עשרה ז",
     "path_2": "אוצר מדרשים.txt",
     "Conection Type": "mesorat hashas"
@@ -14133,6 +14280,27 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 29,
+    "line_index_2": 9333,
+    "heRef_2": "שם משמואל, ואתחנן א, ג",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 9357,
+    "heRef_2": "שם משמואל, ואתחנן ג, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 9476,
+    "heRef_2": "שם משמואל, ואתחנן ז, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 38,
     "line_index_2": 1477,
     "heRef_2": "תהילים פה,  א",
@@ -14392,6 +14560,34 @@
     "Conection Type": "related passage"
   },
   {
+    "line_index_1": 38,
+    "line_index_2": 9367,
+    "heRef_2": "שם משמואל, ואתחנן ג, יב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 9440,
+    "heRef_2": "שם משמואל, ואתחנן ה, יז",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 9456,
+    "heRef_2": "שם משמואל, ואתחנן ו, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 9478,
+    "heRef_2": "שם משמואל, ואתחנן ז, ד",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 39,
     "line_index_2": 276,
     "heRef_2": "תהילים כ, ב",
@@ -14623,6 +14819,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 40,
+    "line_index_2": 9332,
+    "heRef_2": "שם משמואל, ואתחנן א, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 9426,
+    "heRef_2": "שם משמואל, ואתחנן ה, ג",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 41,
     "line_index_2": 61,
     "heRef_2": "בראשית ג,  א",
@@ -14666,7 +14876,7 @@
   },
   {
     "line_index_1": 41,
-    "line_index_2": 6339,
+    "line_index_2": 8171,
     "heRef_2": "אוצר מדרשים, אגדה על תפלת שמונה עשרה ז",
     "path_2": "אוצר מדרשים.txt",
     "Conection Type": "mesorat hashas"
@@ -15957,6 +16167,13 @@
     "line_index_2": 12,
     "heRef_2": "יחזקאל א,  י",
     "path_2": "יחזקאל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 533,
+    "heRef_2": "רש\"י על משלי י, טז, א",
+    "path_2": "רשי על משלי.txt",
     "Conection Type": ""
   },
   {
@@ -18172,6 +18389,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 58,
+    "line_index_2": 9414,
+    "heRef_2": "שם משמואל, ואתחנן ד, כד",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 59,
     "line_index_2": 1231,
     "heRef_2": "תהילים עג, כה",
@@ -18880,7 +19104,7 @@
   },
   {
     "line_index_1": 64,
-    "line_index_2": 8,
+    "line_index_2": 16,
     "heRef_2": "פלא יועץ א, ד",
     "path_2": "פלא יועץ.txt",
     "Conection Type": ""
@@ -19902,7 +20126,7 @@
   },
   {
     "line_index_1": 36,
-    "line_index_2": 6618,
+    "line_index_2": 6619,
     "heRef_2": "רבנו בחיי, דברים ג, כד, ד",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -20078,8 +20302,8 @@
   {
     "line_index_1": 37,
     "line_index_2": 93,
-    "heRef_2": "יערות דבש ו, ה",
-    "path_2": "יערות דבש.txt",
+    "heRef_2": "יערות דבש חלק א ו, ה",
+    "path_2": "יערות דבש חלק א.txt",
     "Conection Type": ""
   },
   {
@@ -20347,6 +20571,34 @@
     "heRef_2": "תלמוד ירושלמי ביצה ב, א, ב",
     "path_2": "תלמוד ירושלמי ביצה.txt",
     "Conection Type": "related passage"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 9509,
+    "heRef_2": "שם משמואל, עקב א, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 9552,
+    "heRef_2": "שם משמואל, עקב ד, יא",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 9592,
+    "heRef_2": "שם משמואל, עקב ה, ז",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 9620,
+    "heRef_2": "שם משמואל, עקב ו, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 75,
@@ -20921,6 +21173,27 @@
     "heRef_2": "יפה תואר על דברים רבה ג, יא, א",
     "path_2": "יפה תואר על דברים רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 9562,
+    "heRef_2": "שם משמואל, עקב ד, כא",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 9639,
+    "heRef_2": "שם משמואל, עקב ז, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 9642,
+    "heRef_2": "שם משמואל, עקב ז, ה",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 77,
@@ -23282,6 +23555,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 72,
+    "line_index_2": 9553,
+    "heRef_2": "שם משמואל, עקב ד, יב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 73,
     "line_index_2": 429,
     "heRef_2": "שמות טו, כה",
@@ -23455,6 +23735,13 @@
     "heRef_2": "תוספתא ברכות ד, יד",
     "path_2": "תוספתא ברכות.txt",
     "Conection Type": "related"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 9633,
+    "heRef_2": "שם משמואל, עקב ו, טו",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 74,
@@ -23770,6 +24057,34 @@
     "heRef_2": "ויקרא כו,  א",
     "path_2": "ויקרא.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 9664,
+    "heRef_2": "שם משמואל, ראה א, ה",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 9688,
+    "heRef_2": "שם משמואל, ראה ד, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 9734,
+    "heRef_2": "שם משמואל, ראה ו, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 9770,
+    "heRef_2": "שם משמואל, ראה ז, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 84,
@@ -24269,6 +24584,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 85,
+    "line_index_2": 9743,
+    "heRef_2": "שם משמואל, ראה ו, יא",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 9819,
+    "heRef_2": "שם משמואל, ראה י, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 86,
     "line_index_2": 86,
     "heRef_2": "איכה ג, לח",
@@ -24316,6 +24645,13 @@
     "heRef_2": "מתנות כהונה על דברים רבה ד, ג, ב",
     "path_2": "מתנות כהונה על דברים רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 9697,
+    "heRef_2": "שם משמואל, ראה ה, ג",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 87,
@@ -24605,6 +24941,69 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 87,
+    "line_index_2": 9661,
+    "heRef_2": "שם משמואל, ראה א, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 9663,
+    "heRef_2": "שם משמואל, ראה א, ד",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 9674,
+    "heRef_2": "שם משמואל, ראה ב, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 9691,
+    "heRef_2": "שם משמואל, ראה ד, ה",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 9692,
+    "heRef_2": "שם משמואל, ראה ד, ו",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 9748,
+    "heRef_2": "שם משמואל, ראה ו, טז",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 9753,
+    "heRef_2": "שם משמואל, ראה ו, כא",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 9786,
+    "heRef_2": "שם משמואל, ראה ז, יח",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 9813,
+    "heRef_2": "שם משמואל, ראה ט, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 88,
     "line_index_2": 72,
     "heRef_2": "בראשית ג, יב",
@@ -24848,6 +25247,13 @@
     "heRef_2": "יפה תואר על דברים רבה ד, ה, א",
     "path_2": "יפה תואר על דברים רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 9677,
+    "heRef_2": "שם משמואל, ראה ב, ה",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 89,
@@ -25417,6 +25823,20 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 91,
+    "line_index_2": 9716,
+    "heRef_2": "שם משמואל, ראה ה, כב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 9761,
+    "heRef_2": "שם משמואל, ראה ו, כט",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 92,
     "line_index_2": 2622,
     "heRef_2": "תהילים קמו, ז",
@@ -25690,6 +26110,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 96,
+    "line_index_2": 9835,
+    "heRef_2": "שם משמואל, שופטים ב, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 105,
     "line_index_2": 656,
     "heRef_2": "מלכים א יח, יג",
@@ -25845,7 +26272,7 @@
   },
   {
     "line_index_1": 105,
-    "line_index_2": 2581,
+    "line_index_2": 2579,
     "heRef_2": "מדרש תנחומא, חקת ד, א",
     "path_2": "מדרש תנחומא.txt",
     "Conection Type": ""
@@ -26012,6 +26439,20 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 105,
+    "line_index_2": 9828,
+    "heRef_2": "שם משמואל, שופטים א, ו",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 9878,
+    "heRef_2": "שם משמואל, שופטים ד, ו",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 106,
     "line_index_2": 107,
     "heRef_2": "שמואל א ד, יז",
@@ -26048,7 +26489,7 @@
   },
   {
     "line_index_1": 106,
-    "line_index_2": 7230,
+    "line_index_2": 7231,
     "heRef_2": "רבנו בחיי, דברים יז, טו, א",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -27616,7 +28057,7 @@
   },
   {
     "line_index_1": 100,
-    "line_index_2": 7196,
+    "line_index_2": 7197,
     "heRef_2": "רבנו בחיי, דברים טז, יט, א",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -27899,7 +28340,7 @@
     "line_index_2": 9851,
     "heRef_2": "שם משמואל, שופטים ג, ב",
     "path_2": "שם משמואל.txt",
-    "Conection Type": "quotation"
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 102,
@@ -28411,6 +28852,13 @@
     "heRef_2": "מתנות כהונה על דברים רבה ו, א, ד",
     "path_2": "מתנות כהונה על דברים רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 381,
+    "heRef_2": "אור החיים על ויקרא יב, ג, ד",
+    "path_2": "אור החיים על ויקרא.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 121,
@@ -29261,7 +29709,7 @@
   },
   {
     "line_index_1": 125,
-    "line_index_2": 2516,
+    "line_index_2": 2514,
     "heRef_2": "מדרש תנחומא, בהעלותך טז, א",
     "path_2": "מדרש תנחומא.txt",
     "Conection Type": ""
@@ -29436,7 +29884,7 @@
   },
   {
     "line_index_1": 114,
-    "line_index_2": 7408,
+    "line_index_2": 7409,
     "heRef_2": "רבנו בחיי, דברים כב, ז, ח",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -29800,7 +30248,7 @@
   },
   {
     "line_index_1": 119,
-    "line_index_2": 1325,
+    "line_index_2": 1333,
     "heRef_2": "פלא יועץ רלט, ה",
     "path_2": "פלא יועץ.txt",
     "Conection Type": ""
@@ -30171,7 +30619,7 @@
   },
   {
     "line_index_1": 127,
-    "line_index_2": 165,
+    "line_index_2": 173,
     "heRef_2": "פלא יועץ כד, ג",
     "path_2": "פלא יועץ.txt",
     "Conection Type": ""
@@ -30483,6 +30931,27 @@
     "heRef_2": "מתנות כהונה על דברים רבה ז, י, ו",
     "path_2": "מתנות כהונה על דברים רבה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 45,
+    "heRef_2": "משנה תורה, הלכות תשובה ה, ג",
+    "path_2": "משנה תורה, הלכות תשובה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 961,
+    "heRef_2": "דברי הימים א כט,  יח",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 962,
+    "heRef_2": "דברי הימים א כט,  יט",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": ""
   },
   {
     "line_index_1": 137,
@@ -32543,6 +33012,20 @@
     "Conection Type": "related passage"
   },
   {
+    "line_index_1": 140,
+    "line_index_2": 10311,
+    "heRef_2": "שם משמואל, נצבים ג, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 10392,
+    "heRef_2": "שם משמואל, נצבים ז, ו",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 141,
     "line_index_2": 561,
     "heRef_2": "שמות כ, כא",
@@ -32709,6 +33192,20 @@
     "heRef_2": "יחזקאל א, ה",
     "path_2": "יחזקאל.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 10321,
+    "heRef_2": "שם משמואל, נצבים ג, יב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 10404,
+    "heRef_2": "שם משמואל, נצבים ח, ב",
+    "path_2": "שם משמואל.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 142,
@@ -33279,7 +33776,7 @@
   },
   {
     "line_index_1": 145,
-    "line_index_2": 7713,
+    "line_index_2": 7714,
     "heRef_2": "רבנו בחיי, דברים ל, יב, ג",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -34238,7 +34735,7 @@
   },
   {
     "line_index_1": 151,
-    "line_index_2": 7744,
+    "line_index_2": 7745,
     "heRef_2": "רבנו בחיי, דברים לא, יד, ב",
     "path_2": "רבנו בחיי.txt",
     "Conection Type": ""
@@ -34669,6 +35166,258 @@
     "heRef_2": "תולדות יעקב יוסף, בא קצא",
     "path_2": "תולדות יעקב יוסף.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 1395,
+    "heRef_2": "אור החיים על שמות כה, כא, ב",
+    "path_2": "אור החיים על שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 598,
+    "heRef_2": "אגרא דכלה, בראשית ת",
+    "path_2": "אגרא דכלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 2802,
+    "heRef_2": "אגרא דכלה, דברים ט",
+    "path_2": "אגרא דכלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 2802,
+    "heRef_2": "אגרא דכלה, דברים ט",
+    "path_2": "אגרא דכלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 3046,
+    "heRef_2": "אגרא דכלה, כי תבוא טז",
+    "path_2": "אגרא דכלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 3017,
+    "heRef_2": "אגרא דכלה, כי תצא ו",
+    "path_2": "אגרא דכלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 3066,
+    "heRef_2": "אגרא דכלה, וילך א",
+    "path_2": "אגרא דכלה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 17,
+    "heRef_2": "אַקְדָּמוּת מִלִּין א, יד",
+    "path_2": "אקדמות מלין.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 538,
+    "heRef_2": "עקידת יצחק יז, א, ד",
+    "path_2": "עקידת יצחק.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 725,
+    "heRef_2": "עקידת יצחק כה, ב, ה",
+    "path_2": "עקידת יצחק.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 1548,
+    "heRef_2": "עקידת יצחק עז, א, ו",
+    "path_2": "עקידת יצחק.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 1701,
+    "heRef_2": "עקידת יצחק פח, א, י",
+    "path_2": "עקידת יצחק.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 1730,
+    "heRef_2": "עקידת יצחק צא, א, ג",
+    "path_2": "עקידת יצחק.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 1818,
+    "heRef_2": "עקידת יצחק צז, א, יג",
+    "path_2": "עקידת יצחק.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 2724,
+    "heRef_2": "תורת משה - אלשיך, ויקרא טז, ג, ה",
+    "path_2": "תורת משה - אלשיך.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 25,
+    "heRef_2": "עמוס ב, ז",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 40,
+    "heRef_2": "עמוס ג, ה",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 63,
+    "heRef_2": "עמוס ד, יב",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 73,
+    "heRef_2": "עמוס ה, ח",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 105,
+    "heRef_2": "עמוס ו, יב",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 136,
+    "heRef_2": "עמוס ח, י",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 156,
+    "heRef_2": "עמוס ט, טו",
+    "path_2": "עמוס.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 535,
+    "heRef_2": "ערכין טו:, טז",
+    "path_2": "ערכין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 2624,
+    "heRef_2": "ערבי נחל, בלק א, יב",
+    "path_2": "ערבי נחל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 1949,
+    "heRef_2": "ערבי נחל, בהר א, יז",
+    "path_2": "ערבי נחל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 2979,
+    "heRef_2": "ערבי נחל, עקב א, יב",
+    "path_2": "ערבי נחל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 634,
+    "heRef_2": "ערבי נחל, תולדות ב, ז",
+    "path_2": "ערבי נחל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 3412,
+    "heRef_2": "ערבי נחל, וילך א, ד",
+    "path_2": "ערבי נחל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 3413,
+    "heRef_2": "ערבי נחל, וילך א, ה",
+    "path_2": "ערבי נחל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 3414,
+    "heRef_2": "ערבי נחל, וילך א, ו",
+    "path_2": "ערבי נחל.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 244,
+    "heRef_2": "אבות דרבי נתן לז, ח",
+    "path_2": "אבות דרבי נתן.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 27,
+    "heRef_2": "אבות דרבי נתן ג, ו",
+    "path_2": "אבות דרבי נתן.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 61,
+    "heRef_2": "אבות דרבי נתן ט, ב",
+    "path_2": "אבות דרבי נתן.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 172,
+    "heRef_2": "במדבר רבה י, א",
+    "path_2": "במדבר רבה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 185,
+    "heRef_2": "במדבר רבה י, יד",
+    "path_2": "במדבר רבה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 173,
+    "heRef_2": "במדבר רבה י, ב",
+    "path_2": "במדבר רבה.txt",
+    "Conection Type": "mesorat hashas"
   },
   {
     "line_index_1": 131,
@@ -35105,6 +35854,13 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 172,
+    "line_index_2": 470,
+    "heRef_2": "בבא בתרא יז., ג",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 113,
     "line_index_2": 748,
     "heRef_2": "בבא קמא יט:,  א",
@@ -35243,257 +35999,5 @@
     "heRef_2": "בית יעקב על התורה, נח יג, א",
     "path_2": "בית יעקב על התורה.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 4,
-    "heRef_2": "ביצה ב., ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 598,
-    "heRef_2": "אגרא דכלה, בראשית ת",
-    "path_2": "אגרא דכלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 2802,
-    "heRef_2": "אגרא דכלה, דברים ט",
-    "path_2": "אגרא דכלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 2802,
-    "heRef_2": "אגרא דכלה, דברים ט",
-    "path_2": "אגרא דכלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 3046,
-    "heRef_2": "אגרא דכלה, כי תבוא טז",
-    "path_2": "אגרא דכלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 118,
-    "line_index_2": 3017,
-    "heRef_2": "אגרא דכלה, כי תצא ו",
-    "path_2": "אגרא דכלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 3066,
-    "heRef_2": "אגרא דכלה, וילך א",
-    "path_2": "אגרא דכלה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 17,
-    "heRef_2": "אַקְדָּמוּת מִלִּין א, יד",
-    "path_2": "אקדמות מלין.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 538,
-    "heRef_2": "עקידת יצחק יז, א, ד",
-    "path_2": "עקידת יצחק.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 725,
-    "heRef_2": "עקידת יצחק כה, ב, ה",
-    "path_2": "עקידת יצחק.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 66,
-    "line_index_2": 1548,
-    "heRef_2": "עקידת יצחק עז, א, ו",
-    "path_2": "עקידת יצחק.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 29,
-    "line_index_2": 1701,
-    "heRef_2": "עקידת יצחק פח, א, י",
-    "path_2": "עקידת יצחק.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 1730,
-    "heRef_2": "עקידת יצחק צא, א, ג",
-    "path_2": "עקידת יצחק.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 112,
-    "line_index_2": 1818,
-    "heRef_2": "עקידת יצחק צז, א, יג",
-    "path_2": "עקידת יצחק.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 158,
-    "line_index_2": 2724,
-    "heRef_2": "תורת משה - אלשיך, ויקרא טז, ג, ה",
-    "path_2": "תורת משה - אלשיך.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 25,
-    "heRef_2": "עמוס ב, ז",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 40,
-    "heRef_2": "עמוס ג, ה",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 67,
-    "line_index_2": 63,
-    "heRef_2": "עמוס ד, יב",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 159,
-    "line_index_2": 73,
-    "heRef_2": "עמוס ה, ח",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 105,
-    "heRef_2": "עמוס ו, יב",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 136,
-    "heRef_2": "עמוס ח, י",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 76,
-    "line_index_2": 156,
-    "heRef_2": "עמוס ט, טו",
-    "path_2": "עמוס.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 535,
-    "heRef_2": "ערכין טו:, טז",
-    "path_2": "ערכין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 42,
-    "line_index_2": 2624,
-    "heRef_2": "ערבי נחל, בלק א, יב",
-    "path_2": "ערבי נחל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1949,
-    "heRef_2": "ערבי נחל, בהר א, יז",
-    "path_2": "ערבי נחל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 71,
-    "line_index_2": 2979,
-    "heRef_2": "ערבי נחל, עקב א, יב",
-    "path_2": "ערבי נחל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 634,
-    "heRef_2": "ערבי נחל, תולדות ב, ז",
-    "path_2": "ערבי נחל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 3412,
-    "heRef_2": "ערבי נחל, וילך א, ד",
-    "path_2": "ערבי נחל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 3413,
-    "heRef_2": "ערבי נחל, וילך א, ה",
-    "path_2": "ערבי נחל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 3414,
-    "heRef_2": "ערבי נחל, וילך א, ו",
-    "path_2": "ערבי נחל.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 244,
-    "heRef_2": "אבות דרבי נתן לז, ח",
-    "path_2": "אבות דרבי נתן.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 27,
-    "heRef_2": "אבות דרבי נתן ג, ו",
-    "path_2": "אבות דרבי נתן.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 61,
-    "heRef_2": "אבות דרבי נתן ט, ב",
-    "path_2": "אבות דרבי נתן.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 172,
-    "heRef_2": "במדבר רבה י, א",
-    "path_2": "במדבר רבה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 185,
-    "heRef_2": "במדבר רבה י, יד",
-    "path_2": "במדבר רבה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 173,
-    "heRef_2": "במדבר רבה י, ב",
-    "path_2": "במדבר רבה.txt",
-    "Conection Type": "mesorat hashas"
   }
 ]

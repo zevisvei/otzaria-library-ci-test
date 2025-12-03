@@ -1,5 +1,19 @@
 [
   {
+    "line_index_1": 8,
+    "line_index_2": 2750,
+    "heRef_2": "גיטין פא.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 2769,
+    "heRef_2": "גיטין פא:, א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 14,
     "line_index_2": 111,
     "heRef_2": "משנה תורה, הלכות נחלות י, ג",
@@ -40,19 +54,5 @@
     "heRef_2": "משנה תורה, הלכות נחלות ט, ב",
     "path_2": "משנה תורה, הלכות נחלות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 2750,
-    "heRef_2": "גיטין פא.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 2769,
-    "heRef_2": "גיטין פא:, א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
   }
 ]

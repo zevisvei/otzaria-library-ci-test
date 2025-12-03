@@ -1,6 +1,69 @@
 [
   {
     "line_index_1": 3,
+    "line_index_2": 2554,
+    "heRef_2": "שבת קח., יא",
+    "path_2": "שבת.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 4,
+    "heRef_2": "הגהות על מסכת מזוזה א, ח, א",
+    "path_2": "הגהות על מסכת מזוזה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 5,
+    "heRef_2": "הגהות על מסכת מזוזה א, ח, ב",
+    "path_2": "הגהות על מסכת מזוזה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 10,
+    "heRef_2": "הגהות על מסכת מזוזה ב, י, א",
+    "path_2": "הגהות על מסכת מזוזה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 12,
+    "heRef_2": "הגהות על מסכת מזוזה ב, יא, א",
+    "path_2": "הגהות על מסכת מזוזה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 14,
+    "heRef_2": "הגהות על מסכת מזוזה ב, יב, א",
+    "path_2": "הגהות על מסכת מזוזה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 16,
+    "heRef_2": "הגהות על מסכת מזוזה ב, יג, א",
+    "path_2": "הגהות על מסכת מזוזה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 18,
+    "heRef_2": "הגהות על מסכת מזוזה ב, יד, א",
+    "path_2": "הגהות על מסכת מזוזה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 8,
+    "heRef_2": "הגהות על מסכת מזוזה ב, ט, א",
+    "path_2": "הגהות על מסכת מזוזה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 3,
     "line_index_2": 11,
     "heRef_2": "קסת הסופר ב, א",
     "path_2": "קסת הסופר.txt",
@@ -29,9 +92,93 @@
   },
   {
     "line_index_1": 3,
-    "line_index_2": 2554,
-    "heRef_2": "שבת קח., יא",
-    "path_2": "שבת.txt",
+    "line_index_2": 3,
+    "heRef_2": "מסכת סופרים א, א",
+    "path_2": "מסכת סופרים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "מסכת תפילין א, א",
+    "path_2": "מסכת תפילין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 4,
+    "heRef_2": "מסכת סופרים א, ב",
+    "path_2": "מסכת סופרים.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 3,
+    "line_index_2": 3,
+    "heRef_2": "מסכת ספר תורה א, א",
+    "path_2": "מסכת ספר תורה.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 4,
+    "heRef_2": "מסכת תפילין א, ב",
+    "path_2": "מסכת תפילין.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 229,
+    "heRef_2": "יומא יא., ז",
+    "path_2": "יומא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 227,
+    "heRef_2": "יומא יא., ה",
+    "path_2": "יומא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 197,
+    "heRef_2": "יומא י.,  א",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 93,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ה, י",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 93,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ה, י",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 93,
+    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ה, י",
+    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 3343,
+    "heRef_2": "בבא מציעא קב., ב",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "mesorat hashas"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 349,
+    "heRef_2": "עירובין יא:, יד",
+    "path_2": "עירובין.txt",
     "Conection Type": "mesorat hashas"
   },
   {
@@ -229,152 +376,5 @@
     "heRef_2": "מסורת הש״ס על מסכת מזוזה ב, ט, א",
     "path_2": "מסורת השס על מסכת מזוזה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 349,
-    "heRef_2": "עירובין יא:, יד",
-    "path_2": "עירובין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 93,
-    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ה, י",
-    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 93,
-    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ה, י",
-    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 93,
-    "heRef_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה ה, י",
-    "path_2": "משנה תורה, הלכות תפילין ומזוזה וספר תורה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 3343,
-    "heRef_2": "בבא מציעא קב., ב",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 4,
-    "heRef_2": "הגהות על מסכת מזוזה א, ח, א",
-    "path_2": "הגהות על מסכת מזוזה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 5,
-    "heRef_2": "הגהות על מסכת מזוזה א, ח, ב",
-    "path_2": "הגהות על מסכת מזוזה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 10,
-    "heRef_2": "הגהות על מסכת מזוזה ב, י, א",
-    "path_2": "הגהות על מסכת מזוזה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 12,
-    "heRef_2": "הגהות על מסכת מזוזה ב, יא, א",
-    "path_2": "הגהות על מסכת מזוזה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 23,
-    "line_index_2": 14,
-    "heRef_2": "הגהות על מסכת מזוזה ב, יב, א",
-    "path_2": "הגהות על מסכת מזוזה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 16,
-    "heRef_2": "הגהות על מסכת מזוזה ב, יג, א",
-    "path_2": "הגהות על מסכת מזוזה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 18,
-    "heRef_2": "הגהות על מסכת מזוזה ב, יד, א",
-    "path_2": "הגהות על מסכת מזוזה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 20,
-    "line_index_2": 8,
-    "heRef_2": "הגהות על מסכת מזוזה ב, ט, א",
-    "path_2": "הגהות על מסכת מזוזה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 3,
-    "heRef_2": "מסכת סופרים א, א",
-    "path_2": "מסכת סופרים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 3,
-    "heRef_2": "מסכת תפילין א, א",
-    "path_2": "מסכת תפילין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 4,
-    "heRef_2": "מסכת סופרים א, ב",
-    "path_2": "מסכת סופרים.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 3,
-    "line_index_2": 3,
-    "heRef_2": "מסכת ספר תורה א, א",
-    "path_2": "מסכת ספר תורה.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 4,
-    "heRef_2": "מסכת תפילין א, ב",
-    "path_2": "מסכת תפילין.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 229,
-    "heRef_2": "יומא יא., ז",
-    "path_2": "יומא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 227,
-    "heRef_2": "יומא יא., ה",
-    "path_2": "יומא.txt",
-    "Conection Type": "mesorat hashas"
-  },
-  {
-    "line_index_1": 10,
-    "line_index_2": 197,
-    "heRef_2": "יומא י.,  א",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 120,
-    "line_index_2": 71,
-    "heRef_2": "יחזקאל ד,  א",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 175,
     "line_index_2": 82,
     "heRef_2": "משנה נגעים י, י",
@@ -1174,5 +1167,12 @@
     "heRef_2": "משנה נגעים ח, ח",
     "path_2": "משנה נגעים.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 71,
+    "heRef_2": "יחזקאל ד,  א",
+    "path_2": "יחזקאל.txt",
+    "Conection Type": ""
   }
 ]

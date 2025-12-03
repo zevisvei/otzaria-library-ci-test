@@ -1,6 +1,13 @@
 [
   {
     "line_index_1": 17,
+    "line_index_2": 64,
+    "heRef_2": "ביצה ד.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
     "line_index_2": 75,
     "heRef_2": "בכורות ד.,  א",
     "path_2": "בכורות.txt",
@@ -278,12 +285,5 @@
     "heRef_2": "משנה שביעית ח, ג",
     "path_2": "משנה שביעית.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 64,
-    "heRef_2": "ביצה ד.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": ""
   }
 ]

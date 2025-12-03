@@ -1,5 +1,103 @@
 [
   {
+    "line_index_1": 84,
+    "line_index_2": 4153,
+    "heRef_2": "סנהדרין קז.,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 729,
+    "heRef_2": "סוכה כח., ב",
+    "path_2": "סוכה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 3694,
+    "heRef_2": "סנהדרין צד:, ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 3778,
+    "heRef_2": "סנהדרין צז.,  א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 1531,
+    "heRef_2": "יומא נט.,  א",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 1553,
+    "heRef_2": "יומא נט:, ג",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 488,
+    "heRef_2": "ראש דוד, וארא כז",
+    "path_2": "ראש דוד.txt",
+    "Conection Type": "quotation"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 1541,
+    "heRef_2": "שולחן ערוך, אורח חיים רטז,  א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 68,
+    "heRef_2": "שולחן ערוך, חושן משפט יב,  א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 1527,
+    "heRef_2": "שולחן ערוך, אורח חיים ריב,  א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 1364,
+    "heRef_2": "סוטה מא.,  א",
+    "path_2": "סוטה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 2656,
+    "heRef_2": "יבמות עט.,  א",
+    "path_2": "יבמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 3751,
+    "heRef_2": "סנהדרין צו., ו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 2293,
+    "heRef_2": "ספר חסידים קמד, א",
+    "path_2": "ספר חסידים.txt",
+    "Conection Type": "quotation"
+  },
+  {
     "line_index_1": 80,
     "line_index_2": 453,
     "heRef_2": "ברכות י., יח",
@@ -5327,81 +5425,18 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 220,
+    "line_index_2": 1329,
+    "heRef_2": "עבודה זרה מד., ד",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 71,
     "line_index_2": 3475,
     "heRef_2": "פסחים קיב:,  א",
     "path_2": "פסחים.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 4153,
-    "heRef_2": "סנהדרין קז.,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 729,
-    "heRef_2": "סוכה כח., ב",
-    "path_2": "סוכה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 186,
-    "line_index_2": 3694,
-    "heRef_2": "סנהדרין צד:, ד",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 3778,
-    "heRef_2": "סנהדרין צז.,  א",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 220,
-    "line_index_2": 1531,
-    "heRef_2": "יומא נט.,  א",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 220,
-    "line_index_2": 1553,
-    "heRef_2": "יומא נט:, ג",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 235,
-    "line_index_2": 488,
-    "heRef_2": "ראש דוד, וארא כז",
-    "path_2": "ראש דוד.txt",
-    "Conection Type": "quotation"
-  },
-  {
-    "line_index_1": 17,
-    "line_index_2": 2656,
-    "heRef_2": "יבמות עט.,  א",
-    "path_2": "יבמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 3751,
-    "heRef_2": "סנהדרין צו., ו",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 2293,
-    "heRef_2": "ספר חסידים קמד, א",
-    "path_2": "ספר חסידים.txt",
-    "Conection Type": "quotation"
   },
   {
     "line_index_1": 351,
@@ -5411,10 +5446,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 220,
-    "line_index_2": 1329,
-    "heRef_2": "עבודה זרה מד., ד",
-    "path_2": "עבודה זרה.txt",
+    "line_index_1": 16,
+    "line_index_2": 1033,
+    "heRef_2": "בבא מציעא ל:,  א",
+    "path_2": "בבא מציעא.txt",
     "Conection Type": ""
   }
 ]

@@ -267,13 +267,6 @@
   },
   {
     "line_index_1": 507,
-    "line_index_2": 958,
-    "heRef_2": "טור, אורח חיים, אורח חיים תעג, א",
-    "path_2": "טור.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 507,
     "line_index_2": 357,
     "heRef_2": "שמות יג, ח",
     "path_2": "שמות.txt",
@@ -337,7 +330,7 @@
   },
   {
     "line_index_1": 265,
-    "line_index_2": 1338,
+    "line_index_2": 1337,
     "heRef_2": "ספר העקרים, מאמר ד, מאמר ד יח, א",
     "path_2": "ספר העקרים.txt",
     "Conection Type": "reference"
@@ -427,13 +420,6 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 3117,
-    "line_index_2": 258,
-    "heRef_2": "בבא בתרא י., ט",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 617,
     "line_index_2": 31,
     "heRef_2": "עבודה זרה ג.,  א",
@@ -445,6 +431,13 @@
     "line_index_2": 206,
     "heRef_2": "עבודה זרה ח.,  א",
     "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 3117,
+    "line_index_2": 258,
+    "heRef_2": "בבא בתרא י., ט",
+    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   }
 ]

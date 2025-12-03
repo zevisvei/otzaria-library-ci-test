@@ -1,40 +1,5 @@
 [
   {
-    "line_index_1": 69,
-    "line_index_2": 28,
-    "heRef_2": "בראשית א, כו",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 357,
-    "line_index_2": 544,
-    "heRef_2": "בראשית כא, ח",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 157,
-    "heRef_2": "בראשית ו, יב",
-    "path_2": "בראשית.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 672,
-    "heRef_2": "ויקרא כב, כה",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 167,
-    "line_index_2": 651,
-    "heRef_2": "ויקרא כב, ד",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 301,
     "line_index_2": 110,
     "heRef_2": "רש״ש על משנה פרה י, ב, ב",
@@ -168,6 +133,48 @@
     "Conection Type": ""
   },
   {
+    "line_index_1": 32,
+    "line_index_2": 157,
+    "heRef_2": "בראשית ו, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 239,
+    "heRef_2": "איוב י, יא",
+    "path_2": "איוב.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 672,
+    "heRef_2": "ויקרא כב, כה",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 651,
+    "heRef_2": "ויקרא כב, ד",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 902,
+    "heRef_2": "דברים לב, ו",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 200,
+    "heRef_2": "קהלת י, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 96,
     "line_index_2": 1589,
     "heRef_2": "שבת סד., ג",
@@ -182,10 +189,38 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 19,
-    "line_index_2": 3227,
-    "heRef_2": "מנחות צא., יד",
-    "path_2": "מנחות.txt",
+    "line_index_1": 90,
+    "line_index_2": 1073,
+    "heRef_2": "יומא מג., ד",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 1082,
+    "heRef_2": "יומא מג., יג",
+    "path_2": "יומא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 655,
+    "heRef_2": "עבודה זרה כג., י",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 342,
+    "line_index_2": 949,
+    "heRef_2": "נזיר מה., ה",
+    "path_2": "נזיר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 1161,
+    "heRef_2": "נזיר נה., ב",
+    "path_2": "נזיר.txt",
     "Conection Type": ""
   },
   {
@@ -224,17 +259,24 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 218,
-    "line_index_2": 902,
-    "heRef_2": "דברים לב, ו",
-    "path_2": "דברים.txt",
+    "line_index_1": 69,
+    "line_index_2": 28,
+    "heRef_2": "בראשית א, כו",
+    "path_2": "בראשית.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 273,
-    "line_index_2": 200,
-    "heRef_2": "קהלת י, יא",
-    "path_2": "קהלת.txt",
+    "line_index_1": 357,
+    "line_index_2": 544,
+    "heRef_2": "בראשית כא, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 3227,
+    "heRef_2": "מנחות צא., יד",
+    "path_2": "מנחות.txt",
     "Conection Type": ""
   },
   {
@@ -2462,47 +2504,5 @@
     "heRef_2": "משנה פרה ט, ט",
     "path_2": "משנה פרה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 342,
-    "line_index_2": 949,
-    "heRef_2": "נזיר מה., ה",
-    "path_2": "נזיר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 1161,
-    "heRef_2": "נזיר נה., ב",
-    "path_2": "נזיר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 90,
-    "line_index_2": 1073,
-    "heRef_2": "יומא מג., ד",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 162,
-    "line_index_2": 1082,
-    "heRef_2": "יומא מג., יג",
-    "path_2": "יומא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 655,
-    "heRef_2": "עבודה זרה כג., י",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 60,
-    "line_index_2": 239,
-    "heRef_2": "איוב י, יא",
-    "path_2": "איוב.txt",
-    "Conection Type": ""
   }
 ]

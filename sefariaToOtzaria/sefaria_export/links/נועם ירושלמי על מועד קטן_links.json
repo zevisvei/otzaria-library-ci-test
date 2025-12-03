@@ -1,19 +1,5 @@
 [
   {
-    "line_index_1": 14,
-    "line_index_2": 83,
-    "heRef_2": "חגיגה ה.,  א",
-    "path_2": "חגיגה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 35,
-    "line_index_2": 32,
-    "heRef_2": "משנה שקלים ה,  א",
-    "path_2": "משנה שקלים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 5,
     "line_index_2": 30,
     "heRef_2": "תלמוד ירושלמי מועד קטן א, ה, ב",
@@ -614,5 +600,19 @@
     "heRef_2": "תלמוד ירושלמי מועד קטן ג, ה, ד",
     "path_2": "תלמוד ירושלמי מועד קטן.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 83,
+    "heRef_2": "חגיגה ה.,  א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 32,
+    "heRef_2": "משנה שקלים ה,  א",
+    "path_2": "משנה שקלים.txt",
+    "Conection Type": ""
   }
 ]

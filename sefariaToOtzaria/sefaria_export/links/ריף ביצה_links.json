@@ -1,430 +1,10 @@
 [
   {
-    "line_index_1": 88,
-    "line_index_2": 164,
-    "heRef_2": "אסתר ט, כב",
-    "path_2": "אסתר.txt",
+    "line_index_1": 91,
+    "line_index_2": 1079,
+    "heRef_2": "תהילים סח,  א",
+    "path_2": "תהילים.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 313,
-    "heRef_2": "שמות יב, טז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 313,
-    "heRef_2": "שמות יב, טז",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 437,
-    "heRef_2": "שמות טז, ה",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 548,
-    "heRef_2": "שמות כ, ח",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 575,
-    "heRef_2": "ויקרא יט, יט",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 668,
-    "heRef_2": "ויקרא כב, כא",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 75,
-    "heRef_2": "ביצה ד., יב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 77,
-    "heRef_2": "ביצה ד., יד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 78,
-    "heRef_2": "ביצה ד.,  טו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 79,
-    "heRef_2": "ביצה ד.,  טז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 80,
-    "heRef_2": "ביצה ד.,  יז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 81,
-    "heRef_2": "ביצה ד.,  יח",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 14,
-    "line_index_2": 82,
-    "heRef_2": "ביצה ד.,  יט",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 82,
-    "heRef_2": "ביצה ד.,  יט",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 83,
-    "heRef_2": "ביצה ד.,  כ",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 302,
-    "line_index_2": 70,
-    "heRef_2": "ביצה ד., ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 85,
-    "heRef_2": "ביצה ד:, א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 15,
-    "line_index_2": 85,
-    "heRef_2": "ביצה ד:, א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 97,
-    "heRef_2": "ביצה ד:, יג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 86,
-    "heRef_2": "ביצה ד:,  ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 87,
-    "heRef_2": "ביצה ד:,  ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 89,
-    "heRef_2": "ביצה ד:, ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 9,
-    "line_index_2": 90,
-    "heRef_2": "ביצה ד:, ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 101,
-    "heRef_2": "ביצה ה.,  ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 102,
-    "heRef_2": "ביצה ה.,  ד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 104,
-    "heRef_2": "ביצה ה., ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 21,
-    "line_index_2": 121,
-    "heRef_2": "ביצה ה:, יב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 124,
-    "heRef_2": "ביצה ו.,  א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 125,
-    "heRef_2": "ביצה ו.,  ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 126,
-    "heRef_2": "ביצה ו.,  ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 127,
-    "heRef_2": "ביצה ו.,  ד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 128,
-    "heRef_2": "ביצה ו.,  ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 129,
-    "heRef_2": "ביצה ו.,  ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 133,
-    "heRef_2": "ביצה ו., י",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 26,
-    "line_index_2": 134,
-    "heRef_2": "ביצה ו., יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 129,
-    "heRef_2": "ביצה ו.,  ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 130,
-    "heRef_2": "ביצה ו.,  ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 131,
-    "heRef_2": "ביצה ו.,  ח",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 24,
-    "line_index_2": 132,
-    "heRef_2": "ביצה ו.,  ט",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 149,
-    "heRef_2": "ביצה ו:, יא",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 146,
-    "heRef_2": "ביצה ו:,  ח",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 147,
-    "heRef_2": "ביצה ו:,  ט",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 167,
-    "heRef_2": "ביצה ז.,  טז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 168,
-    "heRef_2": "ביצה ז.,  יז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 169,
-    "heRef_2": "ביצה ז.,  יח",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 156,
-    "heRef_2": "ביצה ז., ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 31,
-    "line_index_2": 196,
-    "heRef_2": "ביצה ז:, כד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 200,
-    "heRef_2": "ביצה ח.,  ג",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 201,
-    "heRef_2": "ביצה ח.,  ד",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 202,
-    "heRef_2": "ביצה ח.,  ה",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 203,
-    "heRef_2": "ביצה ח., ו",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 204,
-    "heRef_2": "ביצה ח.,  ז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 205,
-    "heRef_2": "ביצה ח.,  ח",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 226,
-    "heRef_2": "ביצה ח:,  יז",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 36,
-    "line_index_2": 227,
-    "heRef_2": "ביצה ח:,  יח",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 229,
-    "heRef_2": "ביצה ח:, כ",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 231,
-    "heRef_2": "ביצה ט., א",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 41,
-    "line_index_2": 242,
-    "heRef_2": "ביצה ט:, ב",
-    "path_2": "ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 6,
-    "heRef_2": "חידושי אנשי שם על ביצה ט., א",
-    "path_2": "חידושי אנשי שם על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 7,
-    "heRef_2": "חידושי אנשי שם על ביצה ט., ב",
-    "path_2": "חידושי אנשי שם על ביצה.txt",
-    "Conection Type": "commentary"
   },
   {
     "line_index_1": 114,
@@ -4515,39 +4095,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 117,
-    "line_index_2": 1034,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 118,
     "line_index_2": 69,
     "heRef_2": "שלטי הגיבורים על ביצה י., ב",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 1024,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 1036,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 122,
@@ -4620,46 +4172,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 134,
-    "line_index_2": 1004,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 136,
-    "line_index_2": 1002,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצה, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 139,
     "line_index_2": 84,
     "heRef_2": "שלטי הגיבורים על ביצה יב., א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 686,
-    "heRef_2": "טור, אורח חיים, אורח חיים שלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 964,
-    "heRef_2": "טור, אורח חיים, אורח חיים תעו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 140,
-    "line_index_2": 1034,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 141,
@@ -4697,13 +4214,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 141,
-    "line_index_2": 1032,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקי, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 142,
     "line_index_2": 3310,
     "heRef_2": "שבת קלד.,  י",
@@ -4718,32 +4228,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 143,
-    "line_index_2": 1050,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 145,
-    "line_index_2": 1060,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 146,
     "line_index_2": 88,
     "heRef_2": "שלטי הגיבורים על ביצה יב:, א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 684,
-    "heRef_2": "טור, אורח חיים, אורח חיים שלו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 150,
@@ -4753,25 +4242,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 150,
-    "line_index_2": 1006,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 157,
     "line_index_2": 91,
     "heRef_2": "שלטי הגיבורים על ביצה יג., א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 1042,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקטו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 159,
@@ -4788,20 +4263,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 165,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 1056,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 167,
     "line_index_2": 96,
     "heRef_2": "שלטי הגיבורים על ביצה יד., ב",
@@ -4809,39 +4270,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 167,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 2043,
-    "heRef_2": "טור, יורה דעה, יורה דעה שיג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 1048,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 173,
     "line_index_2": 98,
     "heRef_2": "שלטי הגיבורים על ביצה יד:, א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 174,
-    "line_index_2": 1012,
-    "heRef_2": "טור, אורח חיים, אורח חיים תק, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 178,
@@ -4856,13 +4289,6 @@
     "heRef_2": "שלטי הגיבורים על ביצה טו., ב",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 181,
-    "line_index_2": 1030,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 183,
@@ -4893,55 +4319,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 189,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 1048,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 1012,
-    "heRef_2": "טור, אורח חיים, אורח חיים תק, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 1020,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 190,
-    "line_index_2": 1024,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 1018,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 203,
-    "line_index_2": 1032,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקי, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 195,
     "line_index_2": 108,
     "heRef_2": "שלטי הגיבורים על ביצה טז., א",
@@ -4970,13 +4347,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 197,
-    "line_index_2": 1024,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 199,
     "line_index_2": 112,
     "heRef_2": "שלטי הגיבורים על ביצה טז., ה",
@@ -4998,46 +4368,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 200,
-    "line_index_2": 658,
-    "heRef_2": "טור, אורח חיים, אורח חיים שכג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 1046,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 207,
     "line_index_2": 116,
     "heRef_2": "שלטי הגיבורים על ביצה טז:, א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 1048,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 1048,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 1288,
-    "heRef_2": "טור, אורח חיים, אורח חיים תרלח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 210,
@@ -5061,13 +4396,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 214,
-    "line_index_2": 1014,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 227,
     "line_index_2": 127,
     "heRef_2": "שלטי הגיבורים על ביצה יז:, ו",
@@ -5080,13 +4408,6 @@
     "heRef_2": "שלטי הגיבורים על ביצה יז:, א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 1014,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 222,
@@ -5103,32 +4424,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 223,
-    "line_index_2": 640,
-    "heRef_2": "טור, אורח חיים, אורח חיים שיד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 223,
-    "line_index_2": 1048,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 224,
     "line_index_2": 125,
     "heRef_2": "שלטי הגיבורים על ביצה יז:, ד",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 225,
-    "line_index_2": 1040,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 226,
@@ -5166,20 +4466,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 232,
-    "line_index_2": 1026,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 232,
-    "line_index_2": 1028,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 235,
     "line_index_2": 130,
     "heRef_2": "שלטי הגיבורים על ביצה יח., ב",
@@ -5192,34 +4478,6 @@
     "heRef_2": "שלטי הגיבורים על ביצה יח., ג",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 642,
-    "heRef_2": "טור, אורח חיים, אורח חיים שטו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 237,
-    "line_index_2": 1016,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 243,
-    "line_index_2": 1014,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 243,
-    "line_index_2": 1028,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 244,
@@ -5236,20 +4494,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 245,
-    "line_index_2": 656,
-    "heRef_2": "טור, אורח חיים, אורח חיים שכב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 245,
-    "line_index_2": 1014,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 246,
     "line_index_2": 138,
     "heRef_2": "שלטי הגיבורים על ביצה יח:, ג",
@@ -5262,20 +4506,6 @@
     "heRef_2": "שבת קמו., ג",
     "path_2": "שבת.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 1016,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 249,
-    "line_index_2": 1026,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 250,
@@ -5292,60 +4522,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 252,
-    "line_index_2": 1024,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 252,
-    "line_index_2": 1026,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 253,
     "line_index_2": 143,
     "heRef_2": "שלטי הגיבורים על ביצה יט:, ב",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 253,
-    "line_index_2": 1016,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 254,
-    "line_index_2": 1028,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 688,
-    "heRef_2": "טור, אורח חיים, אורח חיים שלח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 686,
-    "heRef_2": "טור, אורח חיים, אורח חיים שלז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 1048,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 258,
@@ -5362,20 +4543,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 4,
-    "line_index_2": 656,
-    "heRef_2": "טור, אורח חיים, אורח חיים שכב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 1038,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 7,
     "line_index_2": 6,
     "heRef_2": "שלטי הגיבורים על ביצה א:, א",
@@ -5388,20 +4555,6 @@
     "heRef_2": "שלטי הגיבורים על ביצה א:, ב",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 656,
-    "heRef_2": "טור, אורח חיים, אורח חיים שכב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 1038,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 9,
@@ -5437,20 +4590,6 @@
     "heRef_2": "שבת קכא:,  א",
     "path_2": "שבת.txt",
     "Conection Type": ""
-  },
-  {
-    "line_index_1": 265,
-    "line_index_2": 690,
-    "heRef_2": "טור, אורח חיים, אורח חיים שלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 265,
-    "line_index_2": 1060,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 267,
@@ -5495,27 +4634,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 276,
-    "line_index_2": 690,
-    "heRef_2": "טור, אורח חיים, אורח חיים שלט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 276,
-    "line_index_2": 1060,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 278,
-    "line_index_2": 804,
-    "heRef_2": "טור, אורח חיים, אורח חיים שצו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 287,
     "line_index_2": 157,
     "heRef_2": "שלטי הגיבורים על ביצה כא., א",
@@ -5537,20 +4655,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 296,
-    "line_index_2": 1006,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 296,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 300,
     "line_index_2": 162,
     "heRef_2": "שלטי הגיבורים על ביצה כב., א",
@@ -5563,13 +4667,6 @@
     "heRef_2": "שבת יט:, ד",
     "path_2": "שבת.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 300,
-    "line_index_2": 1002,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצה, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 11,
@@ -5586,34 +4683,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 12,
-    "line_index_2": 656,
-    "heRef_2": "טור, אורח חיים, אורח חיים שכב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 656,
-    "heRef_2": "טור, אורח חיים, אורח חיים שכב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 1018,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 1212,
-    "heRef_2": "טור, אורח חיים, אורח חיים תר, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 16,
     "line_index_2": 12,
     "heRef_2": "שלטי הגיבורים על ביצה ב., ג",
@@ -5621,53 +4690,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 16,
-    "line_index_2": 656,
-    "heRef_2": "טור, אורח חיים, אורח חיים שכב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 1026,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 1026,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 1621,
-    "heRef_2": "טור, יורה דעה, יורה דעה קב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 1637,
-    "heRef_2": "טור, יורה דעה, יורה דעה קי, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 19,
     "line_index_2": 14,
     "heRef_2": "שלטי הגיבורים על ביצה ב:, א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 1004,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 22,
@@ -5684,13 +4711,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 22,
-    "line_index_2": 1066,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 25,
     "line_index_2": 19,
     "heRef_2": "שלטי הגיבורים על ביצה ג:, א",
@@ -5698,53 +4718,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 25,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 1038,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 27,
     "line_index_2": 20,
     "heRef_2": "שלטי הגיבורים על ביצה ג:, ב",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 838,
-    "heRef_2": "טור, אורח חיים, אורח חיים תיג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 1591,
-    "heRef_2": "טור, יורה דעה, יורה דעה פז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 1038,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 28,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 30,
@@ -5775,13 +4753,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 34,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 36,
     "line_index_2": 27,
     "heRef_2": "שלטי הגיבורים על ביצה ד:, א",
@@ -5794,27 +4765,6 @@
     "heRef_2": "שלטי הגיבורים על ביצה ד:, ב",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 1020,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקד, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 1024,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 1048,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 40,
@@ -5831,25 +4781,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 42,
-    "line_index_2": 1006,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 43,
     "line_index_2": 32,
     "heRef_2": "שלטי הגיבורים על ביצה ה., ג",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 44,
-    "line_index_2": 1010,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 46,
@@ -5859,13 +4795,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 47,
-    "line_index_2": 1010,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 49,
     "line_index_2": 35,
     "heRef_2": "שלטי הגיבורים על ביצה ה:, ב",
@@ -5873,39 +4802,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 49,
-    "line_index_2": 1008,
-    "heRef_2": "טור, אורח חיים, אורח חיים תצח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 1012,
-    "heRef_2": "טור, אורח חיים, אורח חיים תק, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 50,
-    "line_index_2": 1050,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 51,
     "line_index_2": 36,
     "heRef_2": "שלטי הגיבורים על ביצה ה:, ג",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 1048,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקיח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 53,
@@ -5922,27 +4823,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 55,
-    "line_index_2": 1068,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 1024,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 16,
-    "heRef_2": "טור, אורח חיים, אורח חיים ב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 59,
     "line_index_2": 40,
     "heRef_2": "שלטי הגיבורים על ביצה ו., א",
@@ -5950,25 +4830,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 59,
-    "line_index_2": 1032,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקי, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 62,
     "line_index_2": 42,
     "heRef_2": "שלטי הגיבורים על ביצה ו:, א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 1032,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקי, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 64,
@@ -5983,27 +4849,6 @@
     "heRef_2": "שלטי הגיבורים על ביצה ז., ד",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 75,
-    "line_index_2": 2019,
-    "heRef_2": "טור, יורה דעה, יורה דעה שא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 1032,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקי, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 70,
-    "line_index_2": 1044,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקטז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 72,
@@ -6048,34 +4893,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 79,
-    "line_index_2": 2019,
-    "heRef_2": "טור, יורה דעה, יורה דעה שא, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 2021,
-    "heRef_2": "טור, יורה דעה, יורה דעה שב, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 82,
-    "line_index_2": 1044,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקטז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 84,
-    "line_index_2": 1066,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 87,
     "line_index_2": 53,
     "heRef_2": "שלטי הגיבורים על ביצה ח., א",
@@ -6083,39 +4900,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 87,
-    "line_index_2": 1070,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכט, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 1204,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקצו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 92,
     "line_index_2": 55,
     "heRef_2": "שלטי הגיבורים על ביצה ח:, א",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 1066,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 92,
-    "line_index_2": 1164,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקעו, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 94,
@@ -6132,20 +4921,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 94,
-    "line_index_2": 1643,
-    "heRef_2": "טור, יורה דעה, יורה דעה קיג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 95,
-    "line_index_2": 1066,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 97,
     "line_index_2": 58,
     "heRef_2": "שלטי הגיבורים על ביצה ח:, ד",
@@ -6158,27 +4933,6 @@
     "heRef_2": "שלטי הגיבורים על ביצה ח:, ה",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 104,
-    "line_index_2": 986,
-    "heRef_2": "טור, אורח חיים, אורח חיים תפז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 1066,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 1068,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 108,
@@ -6209,39 +4963,11 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 110,
-    "line_index_2": 1018,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקג, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 1026,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
     "line_index_1": 111,
     "line_index_2": 65,
     "heRef_2": "שלטי הגיבורים על ביצה ט:, ה",
     "path_2": "שלטי הגיבורים על ביצה.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 1066,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכז, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 111,
-    "line_index_2": 1068,
-    "heRef_2": "טור, אורח חיים, אורח חיים תקכח, א",
-    "path_2": "טור.txt",
-    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 112,
@@ -6251,921 +4977,564 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 89,
-    "line_index_2": 713,
-    "heRef_2": "ויקרא כג, לב",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 212,
-    "line_index_2": 722,
-    "heRef_2": "ויקרא כג, מא",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 744,
-    "heRef_2": "ויקרא כד, יח",
-    "path_2": "ויקרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 206,
-    "heRef_2": "נחמיה ח,  א",
-    "path_2": "נחמיה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 215,
-    "heRef_2": "נחמיה ח, י",
-    "path_2": "נחמיה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 2382,
-    "heRef_2": "נדה סא:, ג",
-    "path_2": "נדה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 2385,
-    "heRef_2": "נדה סא:,  ו",
-    "path_2": "נדה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 2386,
-    "heRef_2": "נדה סא:,  ז",
-    "path_2": "נדה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 2387,
-    "heRef_2": "נדה סא:,  ח",
-    "path_2": "נדה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 2388,
-    "heRef_2": "נדה סא:,  ט",
-    "path_2": "נדה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 2389,
-    "heRef_2": "נדה סא:,  י",
-    "path_2": "נדה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 270,
-    "line_index_2": 877,
-    "heRef_2": "במדבר כד, י",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 1069,
-    "heRef_2": "במדבר כט, לה",
-    "path_2": "במדבר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 1443,
-    "heRef_2": "פסחים מו:,  ד",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 1444,
-    "heRef_2": "פסחים מו:,  ה",
-    "path_2": "פסחים.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 88,
-    "line_index_2": 2104,
-    "heRef_2": "פסחים סח:, י",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 89,
-    "line_index_2": 2105,
-    "heRef_2": "פסחים סח:, יא",
-    "path_2": "פסחים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 1079,
-    "heRef_2": "תהילים סח,  א",
-    "path_2": "תהילים.txt",
+    "line_index_2": 1204,
+    "heRef_2": "ישעיהו נח, יג",
+    "path_2": "ישעיהו.txt",
     "Conection Type": ""
   },
   {
-    "line_index_1": 87,
-    "line_index_2": 465,
-    "heRef_2": "דברים טז,  א",
-    "path_2": "דברים.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 1153,
-    "heRef_2": "עירובין ל:, ב",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 1449,
-    "heRef_2": "עירובין מ., ז",
-    "path_2": "עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2917,
-    "heRef_2": "עירובין פ.,  יד",
-    "path_2": "עירובין.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 97,
-    "line_index_2": 2918,
-    "heRef_2": "עירובין פ.,  טו",
-    "path_2": "עירובין.txt",
+    "line_index_1": 121,
+    "line_index_2": 47,
+    "heRef_2": "המאור הקטן על ביצה י:, א",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 124,
-    "line_index_2": 26,
-    "heRef_2": "מלחמת השם על ביצה י:, א",
-    "path_2": "מלחמת השם על ביצה.txt",
+    "line_index_2": 48,
+    "heRef_2": "המאור הקטן על ביצה י:, ב",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 130,
-    "line_index_2": 28,
-    "heRef_2": "מלחמת השם על ביצה יא., א",
-    "path_2": "מלחמת השם על ביצה.txt",
+    "line_index_2": 51,
+    "heRef_2": "המאור הקטן על ביצה יא., א",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 141,
-    "line_index_2": 31,
-    "heRef_2": "מלחמת השם על ביצה יב., ב",
-    "path_2": "מלחמת השם על ביצה.txt",
+    "line_index_2": 54,
+    "heRef_2": "המאור הקטן על ביצה יב., ב",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 55,
+    "heRef_2": "המאור הקטן על ביצה יב., ג",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 59,
+    "heRef_2": "המאור הקטן על ביצה יג., ג",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 65,
+    "heRef_2": "המאור הקטן על ביצה יד:, א",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 69,
+    "heRef_2": "המאור הקטן על ביצה טז:, א",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 210,
-    "line_index_2": 38,
-    "heRef_2": "מלחמת השם על ביצה טז:, א",
-    "path_2": "מלחמת השם על ביצה.txt",
+    "line_index_2": 70,
+    "heRef_2": "המאור הקטן על ביצה טז:, ב",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 242,
-    "line_index_2": 40,
-    "heRef_2": "מלחמת השם על ביצה יח:, א",
-    "path_2": "מלחמת השם על ביצה.txt",
+    "line_index_2": 72,
+    "heRef_2": "המאור הקטן על ביצה יח:, א",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 4,
+    "heRef_2": "המאור הקטן על ביצה א., א",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 10,
+    "heRef_2": "המאור הקטן על ביצה ב., א",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 14,
+    "heRef_2": "המאור הקטן על ביצה ב:, ב",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 18,
+    "heRef_2": "המאור הקטן על ביצה ג:, ב",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 38,
-    "line_index_2": 14,
-    "heRef_2": "מלחמת השם על ביצה ד:, ב",
-    "path_2": "מלחמת השם על ביצה.txt",
+    "line_index_2": 23,
+    "heRef_2": "המאור הקטן על ביצה ד:, ב",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 30,
+    "heRef_2": "המאור הקטן על ביצה ו., ב",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 36,
+    "heRef_2": "המאור הקטן על ביצה ז., א",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 77,
-    "line_index_2": 20,
-    "heRef_2": "מלחמת השם על ביצה ז:, א",
-    "path_2": "מלחמת השם על ביצה.txt",
+    "line_index_2": 38,
+    "heRef_2": "המאור הקטן על ביצה ז:, א",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 85,
-    "line_index_2": 22,
-    "heRef_2": "מלחמת השם על ביצה ח., א",
-    "path_2": "מלחמת השם על ביצה.txt",
+    "line_index_2": 40,
+    "heRef_2": "המאור הקטן על ביצה ח., א",
+    "path_2": "המאור הקטן על ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 75,
-    "line_index_2": 175,
-    "heRef_2": "משנה תורה, הלכות כלאים י, יג",
-    "path_2": "משנה תורה, הלכות כלאים.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 181,
-    "heRef_2": "משנה תורה, הלכות כלאים י, יט",
-    "path_2": "משנה תורה, הלכות כלאים.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 187,
-    "heRef_2": "משנה תורה, הלכות כלאים י, כה",
-    "path_2": "משנה תורה, הלכות כלאים.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 79,
-    "line_index_2": 189,
-    "heRef_2": "משנה תורה, הלכות כלאים י, כז",
-    "path_2": "משנה תורה, הלכות כלאים.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 365,
-    "heRef_2": "משנה תורה, הלכות מאכלות אסורות טו, כה",
-    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 18,
-    "line_index_2": 366,
-    "heRef_2": "משנה תורה, הלכות מאכלות אסורות טו, כו",
-    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 94,
-    "line_index_2": 427,
-    "heRef_2": "משנה תורה, הלכות מאכלות אסורות יז, טז",
-    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 49,
-    "line_index_2": 13,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, י",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 15,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יב",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 17,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 121,
-    "line_index_2": 18,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, טו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 265,
-    "line_index_2": 20,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יז",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 4,
-    "line_index_2": 22,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יט",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 22,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יט",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 23,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כ",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 13,
-    "line_index_2": 23,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כ",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 27,
-    "line_index_2": 23,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כ",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 8,
-    "line_index_2": 27,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 27,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 52,
-    "line_index_2": 7,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, ד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 7,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, ד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 189,
-    "line_index_2": 8,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, ה",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 157,
-    "line_index_2": 38,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, י",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 16,
-    "line_index_2": 39,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יא",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 39,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יא",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 40,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יב",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 243,
-    "line_index_2": 41,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 207,
-    "line_index_2": 42,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 42,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 214,
-    "line_index_2": 42,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 219,
-    "line_index_2": 42,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 214,
+    "line_index_1": 105,
     "line_index_2": 43,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, טו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "המאור הקטן על ביצה ט., ב",
+    "path_2": "המאור הקטן על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 219,
-    "line_index_2": 43,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, טו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 122,
+    "line_index_2": 31,
+    "heRef_2": "הגהות חוות יאיר על ביצה י:, א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 296,
-    "line_index_2": 30,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ב",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 124,
+    "line_index_2": 32,
+    "heRef_2": "הגהות חוות יאיר על ביצה י:, ב",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 42,
+    "line_index_1": 128,
     "line_index_2": 34,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות חוות יאיר על ביצה יא., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 167,
-    "line_index_2": 34,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 165,
+    "line_index_1": 135,
     "line_index_2": 36,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ח",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות חוות יאיר על ביצה יא:, א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 223,
+    "line_index_1": 135,
     "line_index_2": 37,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ט",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות חוות יאיר על ביצה יא:, ב",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 34,
-    "line_index_2": 48,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, א",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 143,
+    "line_index_2": 40,
+    "heRef_2": "הגהות חוות יאיר על ביצה יב., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 232,
-    "line_index_2": 57,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, י",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 164,
+    "line_index_2": 44,
+    "heRef_2": "הגהות חוות יאיר על ביצה יד., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 252,
-    "line_index_2": 57,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, י",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 168,
+    "line_index_2": 45,
+    "heRef_2": "הגהות חוות יאיר על ביצה יד., ב",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 252,
-    "line_index_2": 58,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, יא",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 184,
+    "line_index_2": 47,
+    "heRef_2": "הגהות חוות יאיר על ביצה טו., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 62,
-    "line_index_2": 59,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, יב",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 187,
+    "line_index_2": 49,
+    "heRef_2": "הגהות חוות יאיר על ביצה טו:, א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 197,
-    "line_index_2": 61,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, יד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_2": 52,
+    "heRef_2": "הגהות חוות יאיר על ביצה טז., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 59,
-    "line_index_2": 62,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, טו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 62,
-    "line_index_2": 62,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, טו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 64,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, יז",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 34,
-    "line_index_2": 49,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ב",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 37,
-    "line_index_2": 49,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ב",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 47,
-    "line_index_2": 51,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 252,
+    "line_index_1": 201,
     "line_index_2": 53,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות חוות יאיר על ביצה טז., ב",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 37,
-    "line_index_2": 55,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ח",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 213,
+    "line_index_2": 58,
+    "heRef_2": "הגהות חוות יאיר על ביצה יז., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 50,
-    "line_index_2": 77,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, יב",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 224,
+    "line_index_2": 60,
+    "heRef_2": "הגהות חוות יאיר על ביצה יז:, א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 237,
-    "line_index_2": 78,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, יג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 260,
+    "line_index_2": 64,
+    "heRef_2": "הגהות חוות יאיר על ביצה כ., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 145,
-    "line_index_2": 81,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, טז",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 264,
+    "line_index_2": 65,
+    "heRef_2": "הגהות חוות יאיר על ביצה כ., ב",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 189,
-    "line_index_2": 86,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כא",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 270,
+    "line_index_2": 66,
+    "heRef_2": "הגהות חוות יאיר על ביצה כ., ג",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 190,
-    "line_index_2": 86,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כא",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 88,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 200,
-    "line_index_2": 89,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 56,
-    "line_index_2": 91,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 134,
+    "line_index_1": 280,
     "line_index_2": 68,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות חוות יאיר על ביצה כ:, א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 225,
-    "line_index_2": 68,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 300,
+    "line_index_2": 70,
+    "heRef_2": "הגהות חוות יאיר על ביצה כב., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 136,
-    "line_index_2": 71,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 14,
+    "line_index_2": 4,
+    "heRef_2": "הגהות חוות יאיר על ביצה ב., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 140,
-    "line_index_2": 71,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 26,
+    "line_index_2": 12,
+    "heRef_2": "הגהות חוות יאיר על ביצה ג:, ב",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 225,
-    "line_index_2": 72,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ז",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 46,
+    "line_index_2": 16,
+    "heRef_2": "הגהות חוות יאיר על ביצה ה:, א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 253,
-    "line_index_2": 72,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ז",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 79,
+    "line_index_2": 18,
+    "heRef_2": "הגהות חוות יאיר על ביצה ז:, א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 254,
-    "line_index_2": 72,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ז",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 79,
+    "line_index_2": 19,
+    "heRef_2": "הגהות חוות יאיר על ביצה ז:, ב",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 189,
-    "line_index_2": 73,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 97,
+    "line_index_2": 21,
+    "heRef_2": "הגהות חוות יאיר על ביצה ח:, א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 190,
-    "line_index_2": 73,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 98,
+    "line_index_2": 23,
+    "heRef_2": "הגהות חוות יאיר על ביצה ח:, ג",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 225,
-    "line_index_2": 73,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 98,
+    "line_index_2": 24,
+    "heRef_2": "הגהות חוות יאיר על ביצה ח:, ד",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 253,
-    "line_index_2": 73,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 100,
+    "line_index_2": 26,
+    "heRef_2": "הגהות חוות יאיר על ביצה ט., א",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 254,
-    "line_index_2": 73,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 100,
+    "line_index_2": 27,
+    "heRef_2": "הגהות חוות יאיר על ביצה ט., ב",
+    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 181,
-    "line_index_2": 74,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ט",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 128,
+    "line_index_2": 137,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יא., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 189,
-    "line_index_2": 74,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ט",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 132,
+    "line_index_2": 144,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יא:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 190,
-    "line_index_2": 74,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ט",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 135,
+    "line_index_2": 145,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יא:, ב",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 203,
-    "line_index_2": 93,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, א",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 143,
+    "line_index_2": 149,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יב., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 278,
-    "line_index_2": 103,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, יא",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 171,
+    "line_index_2": 175,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יד:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 165,
-    "line_index_2": 95,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 182,
+    "line_index_2": 178,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה טו., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 166,
-    "line_index_2": 95,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 165,
-    "line_index_2": 97,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ה",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 166,
-    "line_index_2": 97,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ה",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 256,
-    "line_index_2": 97,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ה",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 201,
+    "line_index_2": 182,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה טז., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 257,
-    "line_index_2": 97,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ה",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_2": 187,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יט:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 82,
-    "line_index_2": 98,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ו",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 5,
+    "line_index_2": 4,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה א., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 87,
+    "line_index_1": 273,
+    "line_index_2": 189,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה כ:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 190,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה כ:, ב",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 192,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה כא:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 194,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה כב., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 27,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ב:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 32,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ג., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 50,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ג:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 56,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ד., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 71,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ה:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 83,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ו:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 84,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ו:, ב",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 105,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ח:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 106,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ח:, ב",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 113,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
     "line_index_2": 114,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, א",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ב",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 111,
-    "line_index_2": 123,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, י",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 100,
+    "line_index_2": 115,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ג",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 22,
-    "line_index_2": 124,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, יא",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 124,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, יא",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 22,
-    "line_index_2": 126,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, יג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 87,
-    "line_index_2": 132,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, יט",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 92,
+    "line_index_1": 100,
     "line_index_2": 116,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, ג",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ד",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 92,
+    "line_index_1": 100,
     "line_index_2": 117,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, ד",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ה",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 111,
+    "line_index_1": 102,
     "line_index_2": 118,
-    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, ה",
-    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
-    "Conection Type": "ein mishpat"
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ו",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 245,
-    "line_index_2": 208,
-    "heRef_2": "משנה תורה, הלכות שבת יא, ז",
-    "path_2": "משנה תורה, הלכות שבת.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 109,
+    "line_index_2": 125,
+    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט:, א",
+    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
-    "line_index_1": 147,
-    "line_index_2": 8,
-    "heRef_2": "משנה תורה, הלכות שבת א, ה",
-    "path_2": "משנה תורה, הלכות שבת.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 139,
-    "line_index_2": 446,
-    "heRef_2": "משנה תורה, הלכות שבת כא, ג",
-    "path_2": "משנה תורה, הלכות שבת.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 232,
-    "line_index_2": 520,
-    "heRef_2": "משנה תורה, הלכות שבת כג, ו",
-    "path_2": "משנה תורה, הלכות שבת.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 117,
-    "line_index_2": 522,
-    "heRef_2": "משנה תורה, הלכות שבת כג, ח",
-    "path_2": "משנה תורה, הלכות שבת.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 208,
-    "line_index_2": 95,
-    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ו, טו",
-    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
-    "Conection Type": "ein mishpat"
-  },
-  {
-    "line_index_1": 147,
-    "line_index_2": 392,
-    "heRef_2": "משנה תורה, הלכות כלים כה, טז",
-    "path_2": "משנה תורה, הלכות כלים.txt",
-    "Conection Type": "ein mishpat"
+    "line_index_1": 98,
+    "line_index_2": 5,
+    "heRef_2": "הגהות מאלפס ישן על ביצה ח:, א",
+    "path_2": "הגהות מאלפס ישן על ביצה.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 42,
@@ -9604,564 +7973,1341 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 121,
-    "line_index_2": 47,
-    "heRef_2": "המאור הקטן על ביצה י:, א",
-    "path_2": "המאור הקטן על ביצה.txt",
+    "line_index_1": 8,
+    "line_index_2": 75,
+    "heRef_2": "ביצה ד., יב",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 124,
-    "line_index_2": 48,
-    "heRef_2": "המאור הקטן על ביצה י:, ב",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 130,
-    "line_index_2": 51,
-    "heRef_2": "המאור הקטן על ביצה יא., א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 141,
-    "line_index_2": 54,
-    "heRef_2": "המאור הקטן על ביצה יב., ב",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 142,
-    "line_index_2": 55,
-    "heRef_2": "המאור הקטן על ביצה יב., ג",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 153,
-    "line_index_2": 59,
-    "heRef_2": "המאור הקטן על ביצה יג., ג",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 172,
-    "line_index_2": 65,
-    "heRef_2": "המאור הקטן על ביצה יד:, א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 69,
-    "heRef_2": "המאור הקטן על ביצה טז:, א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 210,
-    "line_index_2": 70,
-    "heRef_2": "המאור הקטן על ביצה טז:, ב",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 242,
-    "line_index_2": 72,
-    "heRef_2": "המאור הקטן על ביצה יח:, א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 4,
-    "heRef_2": "המאור הקטן על ביצה א., א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 12,
-    "line_index_2": 10,
-    "heRef_2": "המאור הקטן על ביצה ב., א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 19,
-    "line_index_2": 14,
-    "heRef_2": "המאור הקטן על ביצה ב:, ב",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 25,
-    "line_index_2": 18,
-    "heRef_2": "המאור הקטן על ביצה ג:, ב",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 38,
-    "line_index_2": 23,
-    "heRef_2": "המאור הקטן על ביצה ד:, ב",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 30,
-    "heRef_2": "המאור הקטן על ביצה ו., ב",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 74,
-    "line_index_2": 36,
-    "heRef_2": "המאור הקטן על ביצה ז., א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 38,
-    "heRef_2": "המאור הקטן על ביצה ז:, א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 85,
-    "line_index_2": 40,
-    "heRef_2": "המאור הקטן על ביצה ח., א",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 105,
-    "line_index_2": 43,
-    "heRef_2": "המאור הקטן על ביצה ט., ב",
-    "path_2": "המאור הקטן על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 122,
-    "line_index_2": 31,
-    "heRef_2": "הגהות חוות יאיר על ביצה י:, א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 124,
-    "line_index_2": 32,
-    "heRef_2": "הגהות חוות יאיר על ביצה י:, ב",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 128,
-    "line_index_2": 34,
-    "heRef_2": "הגהות חוות יאיר על ביצה יא., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 36,
-    "heRef_2": "הגהות חוות יאיר על ביצה יא:, א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 135,
-    "line_index_2": 37,
-    "heRef_2": "הגהות חוות יאיר על ביצה יא:, ב",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 143,
-    "line_index_2": 40,
-    "heRef_2": "הגהות חוות יאיר על ביצה יב., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 164,
-    "line_index_2": 44,
-    "heRef_2": "הגהות חוות יאיר על ביצה יד., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 45,
-    "heRef_2": "הגהות חוות יאיר על ביצה יד., ב",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 184,
-    "line_index_2": 47,
-    "heRef_2": "הגהות חוות יאיר על ביצה טו., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 49,
-    "heRef_2": "הגהות חוות יאיר על ביצה טו:, א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 197,
-    "line_index_2": 52,
-    "heRef_2": "הגהות חוות יאיר על ביצה טז., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 201,
-    "line_index_2": 53,
-    "heRef_2": "הגהות חוות יאיר על ביצה טז., ב",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 213,
-    "line_index_2": 58,
-    "heRef_2": "הגהות חוות יאיר על ביצה יז., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 224,
-    "line_index_2": 60,
-    "heRef_2": "הגהות חוות יאיר על ביצה יז:, א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 260,
-    "line_index_2": 64,
-    "heRef_2": "הגהות חוות יאיר על ביצה כ., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 264,
-    "line_index_2": 65,
-    "heRef_2": "הגהות חוות יאיר על ביצה כ., ב",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 270,
-    "line_index_2": 66,
-    "heRef_2": "הגהות חוות יאיר על ביצה כ., ג",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 280,
-    "line_index_2": 68,
-    "heRef_2": "הגהות חוות יאיר על ביצה כ:, א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 300,
-    "line_index_2": 70,
-    "heRef_2": "הגהות חוות יאיר על ביצה כב., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 8,
+    "line_index_2": 77,
+    "heRef_2": "ביצה ד., יד",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 14,
-    "line_index_2": 4,
-    "heRef_2": "הגהות חוות יאיר על ביצה ב., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_2": 78,
+    "heRef_2": "ביצה ד.,  טו",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 26,
-    "line_index_2": 12,
-    "heRef_2": "הגהות חוות יאיר על ביצה ג:, ב",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 14,
+    "line_index_2": 79,
+    "heRef_2": "ביצה ד.,  טז",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 46,
-    "line_index_2": 16,
-    "heRef_2": "הגהות חוות יאיר על ביצה ה:, א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 14,
+    "line_index_2": 80,
+    "heRef_2": "ביצה ד.,  יז",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 79,
-    "line_index_2": 18,
-    "heRef_2": "הגהות חוות יאיר על ביצה ז:, א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 14,
+    "line_index_2": 81,
+    "heRef_2": "ביצה ד.,  יח",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 79,
-    "line_index_2": 19,
-    "heRef_2": "הגהות חוות יאיר על ביצה ז:, ב",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 14,
+    "line_index_2": 82,
+    "heRef_2": "ביצה ד.,  יט",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 97,
-    "line_index_2": 21,
-    "heRef_2": "הגהות חוות יאיר על ביצה ח:, א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 15,
+    "line_index_2": 82,
+    "heRef_2": "ביצה ד.,  יט",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 98,
-    "line_index_2": 23,
-    "heRef_2": "הגהות חוות יאיר על ביצה ח:, ג",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 15,
+    "line_index_2": 83,
+    "heRef_2": "ביצה ד.,  כ",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 98,
-    "line_index_2": 24,
-    "heRef_2": "הגהות חוות יאיר על ביצה ח:, ד",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 302,
+    "line_index_2": 70,
+    "heRef_2": "ביצה ד., ז",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 100,
-    "line_index_2": 26,
-    "heRef_2": "הגהות חוות יאיר על ביצה ט., א",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 9,
+    "line_index_2": 85,
+    "heRef_2": "ביצה ד:, א",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 100,
-    "line_index_2": 27,
-    "heRef_2": "הגהות חוות יאיר על ביצה ט., ב",
-    "path_2": "הגהות חוות יאיר על ביצה.txt",
+    "line_index_1": 15,
+    "line_index_2": 85,
+    "heRef_2": "ביצה ד:, א",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 128,
-    "line_index_2": 137,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יא., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_1": 9,
+    "line_index_2": 97,
+    "heRef_2": "ביצה ד:, יג",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 132,
-    "line_index_2": 144,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יא:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_1": 16,
+    "line_index_2": 86,
+    "heRef_2": "ביצה ד:,  ב",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 135,
-    "line_index_2": 145,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יא:, ב",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 143,
-    "line_index_2": 149,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יב., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 171,
-    "line_index_2": 175,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יד:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 182,
-    "line_index_2": 178,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה טו., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 201,
-    "line_index_2": 182,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה טז., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 257,
-    "line_index_2": 187,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה יט:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 5,
-    "line_index_2": 4,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה א., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 273,
-    "line_index_2": 189,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה כ:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 281,
-    "line_index_2": 190,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה כ:, ב",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 297,
-    "line_index_2": 192,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה כא:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 300,
-    "line_index_2": 194,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה כב., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_1": 16,
+    "line_index_2": 87,
+    "heRef_2": "ביצה ד:,  ג",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 18,
-    "line_index_2": 27,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ב:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_2": 89,
+    "heRef_2": "ביצה ד:, ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 90,
+    "heRef_2": "ביצה ד:, ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 101,
+    "heRef_2": "ביצה ה.,  ג",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 102,
+    "heRef_2": "ביצה ה.,  ד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 104,
+    "heRef_2": "ביצה ה., ו",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 21,
-    "line_index_2": 32,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ג., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_2": 121,
+    "heRef_2": "ביצה ה:, יב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 124,
+    "heRef_2": "ביצה ו.,  א",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 125,
+    "heRef_2": "ביצה ו.,  ב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 126,
+    "heRef_2": "ביצה ו.,  ג",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 127,
+    "heRef_2": "ביצה ו.,  ד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 128,
+    "heRef_2": "ביצה ו.,  ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 129,
+    "heRef_2": "ביצה ו.,  ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 133,
+    "heRef_2": "ביצה ו., י",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 134,
+    "heRef_2": "ביצה ו., יא",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 24,
-    "line_index_2": 50,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ג:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_2": 129,
+    "heRef_2": "ביצה ו.,  ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 130,
+    "heRef_2": "ביצה ו.,  ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 131,
+    "heRef_2": "ביצה ו.,  ח",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 132,
+    "heRef_2": "ביצה ו.,  ט",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 149,
+    "heRef_2": "ביצה ו:, יא",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 146,
+    "heRef_2": "ביצה ו:,  ח",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 147,
+    "heRef_2": "ביצה ו:,  ט",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 167,
+    "heRef_2": "ביצה ז.,  טז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 168,
+    "heRef_2": "ביצה ז.,  יז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 169,
+    "heRef_2": "ביצה ז.,  יח",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 156,
+    "heRef_2": "ביצה ז., ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 196,
+    "heRef_2": "ביצה ז:, כד",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 32,
-    "line_index_2": 56,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ד., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_2": 200,
+    "heRef_2": "ביצה ח.,  ג",
+    "path_2": "ביצה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 51,
+    "line_index_1": 32,
+    "line_index_2": 201,
+    "heRef_2": "ביצה ח.,  ד",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 202,
+    "heRef_2": "ביצה ח.,  ה",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 203,
+    "heRef_2": "ביצה ח., ו",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 204,
+    "heRef_2": "ביצה ח.,  ז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 205,
+    "heRef_2": "ביצה ח.,  ח",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 226,
+    "heRef_2": "ביצה ח:,  יז",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 227,
+    "heRef_2": "ביצה ח:,  יח",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 229,
+    "heRef_2": "ביצה ח:, כ",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 231,
+    "heRef_2": "ביצה ט., א",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 242,
+    "heRef_2": "ביצה ט:, ב",
+    "path_2": "ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 6,
+    "heRef_2": "חידושי אנשי שם על ביצה ט., א",
+    "path_2": "חידושי אנשי שם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 7,
+    "heRef_2": "חידושי אנשי שם על ביצה ט., ב",
+    "path_2": "חידושי אנשי שם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 575,
+    "heRef_2": "ויקרא יט, יט",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 668,
+    "heRef_2": "ויקרא כב, כא",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 713,
+    "heRef_2": "ויקרא כג, לב",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 722,
+    "heRef_2": "ויקרא כג, מא",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 744,
+    "heRef_2": "ויקרא כד, יח",
+    "path_2": "ויקרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 465,
+    "heRef_2": "דברים טז,  א",
+    "path_2": "דברים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 13,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, י",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 15,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יב",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 17,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 18,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, טו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 20,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יז",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 22,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יט",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 22,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, יט",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 23,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כ",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 23,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כ",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 23,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כ",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 27,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 27,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, כד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 7,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, ד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 7,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, ד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 8,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב א, ה",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 38,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, י",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 39,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יא",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 39,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יא",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 40,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יב",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 41,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 42,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 42,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 42,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 42,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, יד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 43,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, טו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 43,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, טו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 296,
+    "line_index_2": 30,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ב",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 34,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 34,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 36,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ח",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 37,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ב, ט",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 48,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, א",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 57,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, י",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 57,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, י",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 58,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, יא",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 59,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, יב",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 61,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, יד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 62,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, טו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 62,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, טו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 64,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, יז",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 49,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ב",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 49,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ב",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 51,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 53,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 55,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ג, ח",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 77,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, יב",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 78,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, יג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 81,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, טז",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 86,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כא",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 86,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כא",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 88,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 89,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 91,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, כו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 68,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 68,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 136,
     "line_index_2": 71,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ה:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 71,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 72,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ז",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 72,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ז",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 72,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ז",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 73,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 73,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 73,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 73,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 73,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ח",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 74,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ט",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 74,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ט",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 74,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ד, ט",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 93,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, א",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 103,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, יא",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 95,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 95,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 97,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ה",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 97,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ה",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 97,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ה",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 97,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ה",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 98,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ה, ו",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 114,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, א",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 123,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, י",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 124,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, יא",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 124,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, יא",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 126,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, יג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 132,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, יט",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 116,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, ג",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 117,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, ד",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 118,
+    "heRef_2": "משנה תורה, הלכות שביתת יום טוב ו, ה",
+    "path_2": "משנה תורה, הלכות שביתת יום טוב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 208,
+    "heRef_2": "משנה תורה, הלכות שבת יא, ז",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 8,
+    "heRef_2": "משנה תורה, הלכות שבת א, ה",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 446,
+    "heRef_2": "משנה תורה, הלכות שבת כא, ג",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 520,
+    "heRef_2": "משנה תורה, הלכות שבת כג, ו",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 522,
+    "heRef_2": "משנה תורה, הלכות שבת כג, ח",
+    "path_2": "משנה תורה, הלכות שבת.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 95,
+    "heRef_2": "משנה תורה, הלכות שופר וסוכה ולולב ו, טו",
+    "path_2": "משנה תורה, הלכות שופר וסוכה ולולב.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 392,
+    "heRef_2": "משנה תורה, הלכות כלים כה, טז",
+    "path_2": "משנה תורה, הלכות כלים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 206,
+    "heRef_2": "נחמיה ח,  א",
+    "path_2": "נחמיה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 215,
+    "heRef_2": "נחמיה ח, י",
+    "path_2": "נחמיה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 2382,
+    "heRef_2": "נדה סא:, ג",
+    "path_2": "נדה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 63,
-    "line_index_2": 83,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ו:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_1": 79,
+    "line_index_2": 2385,
+    "heRef_2": "נדה סא:,  ו",
+    "path_2": "נדה.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 63,
-    "line_index_2": 84,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ו:, ב",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_1": 79,
+    "line_index_2": 2386,
+    "heRef_2": "נדה סא:,  ז",
+    "path_2": "נדה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 2387,
+    "heRef_2": "נדה סא:,  ח",
+    "path_2": "נדה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 2388,
+    "heRef_2": "נדה סא:,  ט",
+    "path_2": "נדה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 2389,
+    "heRef_2": "נדה סא:,  י",
+    "path_2": "נדה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 877,
+    "heRef_2": "במדבר כד, י",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 1069,
+    "heRef_2": "במדבר כט, לה",
+    "path_2": "במדבר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1443,
+    "heRef_2": "פסחים מו:,  ד",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 1444,
+    "heRef_2": "פסחים מו:,  ה",
+    "path_2": "פסחים.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 2104,
+    "heRef_2": "פסחים סח:, י",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 2105,
+    "heRef_2": "פסחים סח:, יא",
+    "path_2": "פסחים.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 1153,
+    "heRef_2": "עירובין ל:, ב",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 1449,
+    "heRef_2": "עירובין מ., ז",
+    "path_2": "עירובין.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 97,
-    "line_index_2": 105,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ח:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
+    "line_index_2": 2917,
+    "heRef_2": "עירובין פ.,  יד",
+    "path_2": "עירובין.txt",
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 98,
-    "line_index_2": 106,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ח:, ב",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 113,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 114,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ב",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 115,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ג",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 116,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ד",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 100,
-    "line_index_2": 117,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ה",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 102,
-    "line_index_2": 118,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט., ו",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 109,
-    "line_index_2": 125,
-    "heRef_2": "הגהות הב\"ח על רי\"ף ביצה ט:, א",
-    "path_2": "הגהות הבח על ריף ביצה.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 98,
-    "line_index_2": 5,
-    "heRef_2": "הגהות מאלפס ישן על ביצה ח:, א",
-    "path_2": "הגהות מאלפס ישן על ביצה.txt",
+    "line_index_1": 97,
+    "line_index_2": 2918,
+    "heRef_2": "עירובין פ.,  טו",
+    "path_2": "עירובין.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 88,
-    "line_index_2": 1204,
-    "heRef_2": "ישעיהו נח, יג",
-    "path_2": "ישעיהו.txt",
+    "line_index_2": 164,
+    "heRef_2": "אסתר ט, כב",
+    "path_2": "אסתר.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 313,
+    "heRef_2": "שמות יב, טז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 313,
+    "heRef_2": "שמות יב, טז",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 437,
+    "heRef_2": "שמות טז, ה",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 548,
+    "heRef_2": "שמות כ, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 26,
+    "heRef_2": "מלחמת השם על ביצה י:, א",
+    "path_2": "מלחמת השם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 28,
+    "heRef_2": "מלחמת השם על ביצה יא., א",
+    "path_2": "מלחמת השם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 31,
+    "heRef_2": "מלחמת השם על ביצה יב., ב",
+    "path_2": "מלחמת השם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 38,
+    "heRef_2": "מלחמת השם על ביצה טז:, א",
+    "path_2": "מלחמת השם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 40,
+    "heRef_2": "מלחמת השם על ביצה יח:, א",
+    "path_2": "מלחמת השם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 14,
+    "heRef_2": "מלחמת השם על ביצה ד:, ב",
+    "path_2": "מלחמת השם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 20,
+    "heRef_2": "מלחמת השם על ביצה ז:, א",
+    "path_2": "מלחמת השם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 22,
+    "heRef_2": "מלחמת השם על ביצה ח., א",
+    "path_2": "מלחמת השם על ביצה.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 175,
+    "heRef_2": "משנה תורה, הלכות כלאים י, יג",
+    "path_2": "משנה תורה, הלכות כלאים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 181,
+    "heRef_2": "משנה תורה, הלכות כלאים י, יט",
+    "path_2": "משנה תורה, הלכות כלאים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 187,
+    "heRef_2": "משנה תורה, הלכות כלאים י, כה",
+    "path_2": "משנה תורה, הלכות כלאים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 189,
+    "heRef_2": "משנה תורה, הלכות כלאים י, כז",
+    "path_2": "משנה תורה, הלכות כלאים.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 365,
+    "heRef_2": "משנה תורה, הלכות מאכלות אסורות טו, כה",
+    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 366,
+    "heRef_2": "משנה תורה, הלכות מאכלות אסורות טו, כו",
+    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
+    "Conection Type": "ein mishpat"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 427,
+    "heRef_2": "משנה תורה, הלכות מאכלות אסורות יז, טז",
+    "path_2": "משנה תורה, הלכות מאכלות אסורות.txt",
+    "Conection Type": "ein mishpat"
   },
   {
     "line_index_1": 16,

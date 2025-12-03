@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 9,
+    "line_index_2": 689,
+    "heRef_2": "משלי כג, כא",
+    "path_2": "משלי.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 6,
     "line_index_2": 17,
     "heRef_2": "תוספות יום טוב על משנה מדות א, א, ב",
@@ -119,11 +126,32 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 9,
-    "line_index_2": 689,
-    "heRef_2": "משלי כג, כא",
-    "path_2": "משלי.txt",
+    "line_index_1": 6,
+    "line_index_2": 870,
+    "heRef_2": "דברי הימים א כו, יז",
+    "path_2": "דברי הימים א.txt",
     "Conection Type": ""
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 162,
+    "heRef_2": "ברטנורא על משנה מדות ג, ז, ב",
+    "path_2": "ברטנורא על משנה מדות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 178,
+    "heRef_2": "ברטנורא על משנה מדות ד, ב, א",
+    "path_2": "ברטנורא על משנה מדות.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 205,
+    "heRef_2": "ברטנורא על משנה מדות ד, ז, ה",
+    "path_2": "ברטנורא על משנה מדות.txt",
+    "Conection Type": "commentary"
   },
   {
     "line_index_1": 5,
@@ -530,33 +558,5 @@
     "heRef_2": "משנה מדות ה, ד",
     "path_2": "משנה מדות.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 54,
-    "line_index_2": 162,
-    "heRef_2": "ברטנורא על משנה מדות ג, ז, ב",
-    "path_2": "ברטנורא על משנה מדות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 61,
-    "line_index_2": 178,
-    "heRef_2": "ברטנורא על משנה מדות ד, ב, א",
-    "path_2": "ברטנורא על משנה מדות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 205,
-    "heRef_2": "ברטנורא על משנה מדות ד, ז, ה",
-    "path_2": "ברטנורא על משנה מדות.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 870,
-    "heRef_2": "דברי הימים א כו, יז",
-    "path_2": "דברי הימים א.txt",
-    "Conection Type": ""
   }
 ]

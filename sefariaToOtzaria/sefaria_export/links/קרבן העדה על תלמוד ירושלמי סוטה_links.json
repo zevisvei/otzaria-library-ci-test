@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 1541,
-    "line_index_2": 635,
-    "heRef_2": "אהבת דוד יא, י",
-    "path_2": "אהבת דוד.txt",
-    "Conection Type": "quotation"
-  },
-  {
     "line_index_1": 434,
     "line_index_2": 69,
     "heRef_2": "תלמוד ירושלמי סוטה א, י, א",
@@ -16392,5 +16385,12 @@
     "heRef_2": "תלמוד ירושלמי סוטה ט, ט, ב",
     "path_2": "תלמוד ירושלמי סוטה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 1541,
+    "line_index_2": 635,
+    "heRef_2": "אהבת דוד יא, י",
+    "path_2": "אהבת דוד.txt",
+    "Conection Type": "quotation"
   }
 ]

@@ -1,9 +1,16 @@
 [
   {
-    "line_index_1": 23,
-    "line_index_2": 585,
-    "heRef_2": "שמות כא, כא",
-    "path_2": "שמות.txt",
+    "line_index_1": 70,
+    "line_index_2": 2199,
+    "heRef_2": "שבת צג., ה",
+    "path_2": "שבת.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 307,
+    "heRef_2": "שבת יד:, ג",
+    "path_2": "שבת.txt",
     "Conection Type": ""
   },
   {
@@ -84,31 +91,10 @@
     "Conection Type": ""
   },
   {
-    "line_index_1": 70,
-    "line_index_2": 2199,
-    "heRef_2": "שבת צג., ה",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 110,
-    "line_index_2": 307,
-    "heRef_2": "שבת יד:, ג",
-    "path_2": "שבת.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 15,
     "line_index_2": 264,
     "heRef_2": "מגילה ח.,  א",
     "path_2": "מגילה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 68,
-    "line_index_2": 92,
-    "heRef_2": "נדה ד:, ד",
-    "path_2": "נדה.txt",
     "Conection Type": ""
   },
   {
@@ -123,6 +109,27 @@
     "line_index_2": 3944,
     "heRef_2": "חולין קכד:,  א",
     "path_2": "חולין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 92,
+    "heRef_2": "נדה ד:, ד",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 1533,
+    "heRef_2": "בבא בתרא סה.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 585,
+    "heRef_2": "שמות כא, כא",
+    "path_2": "שמות.txt",
     "Conection Type": ""
   },
   {
@@ -628,12 +635,5 @@
     "heRef_2": "משנה זבים ה, ט",
     "path_2": "משנה זבים.txt",
     "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 59,
-    "line_index_2": 1533,
-    "heRef_2": "בבא בתרא סה.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
   }
 ]

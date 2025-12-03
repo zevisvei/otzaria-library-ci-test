@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 80,
-    "line_index_2": 634,
-    "heRef_2": "שמות כג,  א",
-    "path_2": "שמות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 146,
     "line_index_2": 77,
     "heRef_2": "משנה חולין י, ג",
@@ -747,5 +740,12 @@
     "heRef_2": "משנה חולין ט, ב",
     "path_2": "משנה חולין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 634,
+    "heRef_2": "שמות כג,  א",
+    "path_2": "שמות.txt",
+    "Conection Type": ""
   }
 ]

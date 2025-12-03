@@ -1,5 +1,12 @@
 [
   {
+    "line_index_1": 123,
+    "line_index_2": 1908,
+    "heRef_2": "גיטין נט:, א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 344,
     "line_index_2": 119,
     "heRef_2": "משנה תורה, הלכות שכנים י, א",
@@ -1604,22 +1611,15 @@
   },
   {
     "line_index_1": 185,
-    "line_index_2": 60,
-    "heRef_2": "משנה תורה, הלכות שכנים ה, ט",
+    "line_index_2": 59,
+    "heRef_2": "משנה תורה, הלכות שכנים ה, ח",
     "path_2": "משנה תורה, הלכות שכנים.txt",
     "Conection Type": "commentary"
   },
   {
     "line_index_1": 186,
-    "line_index_2": 60,
-    "heRef_2": "משנה תורה, הלכות שכנים ה, ט",
-    "path_2": "משנה תורה, הלכות שכנים.txt",
-    "Conection Type": "commentary"
-  },
-  {
-    "line_index_1": 187,
-    "line_index_2": 60,
-    "heRef_2": "משנה תורה, הלכות שכנים ה, ט",
+    "line_index_2": 59,
+    "heRef_2": "משנה תורה, הלכות שכנים ה, ח",
     "path_2": "משנה תורה, הלכות שכנים.txt",
     "Conection Type": "commentary"
   },
@@ -2363,13 +2363,6 @@
     "line_index_2": 3833,
     "heRef_2": "בבא מציעא קיז., יד",
     "path_2": "בבא מציעא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 123,
-    "line_index_2": 1908,
-    "heRef_2": "גיטין נט:, א",
-    "path_2": "גיטין.txt",
     "Conection Type": ""
   }
 ]

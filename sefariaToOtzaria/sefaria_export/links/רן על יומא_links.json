@@ -1085,34 +1085,6 @@
     "Conection Type": "commentary"
   },
   {
-    "line_index_1": 75,
-    "line_index_2": 1670,
-    "heRef_2": "נדה מד., יח",
-    "path_2": "נדה.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 882,
-    "heRef_2": "נזיר מב., יד",
-    "path_2": "נזיר.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 91,
-    "line_index_2": 2105,
-    "heRef_2": "בבא בתרא צ:, ח",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 108,
-    "line_index_2": 2717,
-    "heRef_2": "בבא קמא עא.,  א",
-    "path_2": "בבא קמא.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 107,
     "line_index_2": 15,
     "heRef_2": "הגהות חוות יאיר על יומא ד:, ב",
@@ -1258,5 +1230,33 @@
     "heRef_2": "הגהות הב\"ח על רי\"ף יומא ו:, ו",
     "path_2": "הגהות הבח על ריף יומא.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 882,
+    "heRef_2": "נזיר מב., יד",
+    "path_2": "נזיר.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 1670,
+    "heRef_2": "נדה מד., יח",
+    "path_2": "נדה.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 2105,
+    "heRef_2": "בבא בתרא צ:, ח",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 2717,
+    "heRef_2": "בבא קמא עא.,  א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": ""
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "line_index_1": 45,
+    "line_index_2": 1906,
+    "heRef_2": "גיטין נט., כא",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 2075,
+    "heRef_2": "גיטין סד.,  א",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 2101,
+    "heRef_2": "גיטין סד:, ט",
+    "path_2": "גיטין.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 24,
     "line_index_2": 13,
     "heRef_2": "משנה תורה, הלכות עירובין א, י",
@@ -1680,6 +1701,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 32,
+    "line_index_2": 2088,
+    "heRef_2": "בבא בתרא צ.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
     "line_index_1": 7,
     "line_index_2": 3696,
     "heRef_2": "עירובין קא., יג",
@@ -2265,34 +2293,6 @@
     "line_index_2": 3334,
     "heRef_2": "עירובין צב., ח",
     "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 32,
-    "line_index_2": 2088,
-    "heRef_2": "בבא בתרא צ.,  א",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 45,
-    "line_index_2": 1906,
-    "heRef_2": "גיטין נט., כא",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 2075,
-    "heRef_2": "גיטין סד.,  א",
-    "path_2": "גיטין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 55,
-    "line_index_2": 2101,
-    "heRef_2": "גיטין סד:, ט",
-    "path_2": "גיטין.txt",
     "Conection Type": ""
   }
 ]

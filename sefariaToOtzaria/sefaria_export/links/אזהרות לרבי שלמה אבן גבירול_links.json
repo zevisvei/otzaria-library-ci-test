@@ -2298,7 +2298,7 @@
   {
     "line_index_1": 36,
     "line_index_2": 694,
-    "heRef_2": "זוהר הרקיע, מצוות עשה יב, א",
+    "heRef_2": "זוהר הרקיע, מצוות עשה יב,  א",
     "path_2": "זוהר הרקיע.txt",
     "Conection Type": "commentary"
   },
@@ -2317,6 +2317,13 @@
     "Conection Type": "commentary"
   },
   {
+    "line_index_1": 36,
+    "line_index_2": 542,
+    "heRef_2": "שמות כ, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": "reference"
+  },
+  {
     "line_index_1": 37,
     "line_index_2": 698,
     "heRef_2": "זוהר הרקיע, מצוות עשה יג, א",
@@ -2329,6 +2336,13 @@
     "heRef_2": "זוהר הרקיע, מצוות עשה יג, ב",
     "path_2": "זוהר הרקיע.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 202,
+    "heRef_2": "דברים ו, ד",
+    "path_2": "דברים.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 38,
@@ -2350,6 +2364,20 @@
     "heRef_2": "זוהר הרקיע, מצוות עשה יד, ג",
     "path_2": "זוהר הרקיע.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 203,
+    "heRef_2": "דברים ו, ה",
+    "path_2": "דברים.txt",
+    "Conection Type": "reference"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 338,
+    "heRef_2": "דברים יא, יג",
+    "path_2": "דברים.txt",
+    "Conection Type": "reference"
   },
   {
     "line_index_1": 39,

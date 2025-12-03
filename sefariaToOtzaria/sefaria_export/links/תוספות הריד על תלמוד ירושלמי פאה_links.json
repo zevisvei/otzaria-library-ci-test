@@ -1,12 +1,5 @@
 [
   {
-    "line_index_1": 18,
-    "line_index_2": 45,
-    "heRef_2": "משנה תרומות ה,  א",
-    "path_2": "משנה תרומות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 6,
     "line_index_2": 7,
     "heRef_2": "תלמוד ירושלמי פאה א, א, ד",
@@ -355,5 +348,12 @@
     "heRef_2": "תלמוד ירושלמי פאה ח, ב, ה",
     "path_2": "תלמוד ירושלמי פאה.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 45,
+    "heRef_2": "משנה תרומות ה,  א",
+    "path_2": "משנה תרומות.txt",
+    "Conection Type": ""
   }
 ]

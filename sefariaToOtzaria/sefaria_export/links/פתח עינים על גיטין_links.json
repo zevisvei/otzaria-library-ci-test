@@ -1,37 +1,9 @@
 [
   {
-    "line_index_1": 23,
-    "line_index_2": 1744,
-    "heRef_2": "ברכות לו., יט",
-    "path_2": "ברכות.txt",
-    "Conection Type": ""
-  },
-  {
     "line_index_1": 50,
     "line_index_2": 3750,
     "heRef_2": "סנהדרין צו., ה",
     "path_2": "סנהדרין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 1687,
-    "heRef_2": "עירובין מו.,  א",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 1721,
-    "heRef_2": "עירובין מו:, יד",
-    "path_2": "עירובין.txt",
-    "Conection Type": ""
-  },
-  {
-    "line_index_1": 33,
-    "line_index_2": 3147,
-    "heRef_2": "בבא בתרא קלו.,  א",
-    "path_2": "בבא בתרא.txt",
     "Conection Type": ""
   },
   {
@@ -1692,5 +1664,33 @@
     "heRef_2": "גיטין צ.,  יז",
     "path_2": "גיטין.txt",
     "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 1744,
+    "heRef_2": "ברכות לו., יט",
+    "path_2": "ברכות.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 3147,
+    "heRef_2": "בבא בתרא קלו.,  א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 1687,
+    "heRef_2": "עירובין מו.,  א",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 1721,
+    "heRef_2": "עירובין מו:, יד",
+    "path_2": "עירובין.txt",
+    "Conection Type": ""
   }
 ]
